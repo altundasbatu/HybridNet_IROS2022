@@ -1,0 +1,921 @@
+/home/baltundas3/HybridNet_IROS2022/benchmark
+/home/baltundas3/HybridNet_IROS2022/benchmark
+Baseline: earlist deadline first
+data/large_test_set
+Evaluation on 1/200
+data/large_test_set/problem_0001.txt
+Time: -33.8317 s
+Num feasible: 0
+Evaluation on 2/200
+data/large_test_set/problem_0002.txt
+Time: -31.4656 s
+Num feasible: 0
+Evaluation on 3/200
+data/large_test_set/problem_0003.txt
+Time: -30.7675 s
+Num feasible: 0
+Evaluation on 4/200
+data/large_test_set/problem_0004.txt
+Time: -23.6423 s
+Num feasible: 0
+Evaluation on 5/200
+data/large_test_set/problem_0005.txt
+Infeasible after 2 insertions
+Time: -0.2854 s
+Num feasible: 0
+Evaluation on 6/200
+data/large_test_set/problem_0006.txt
+Infeasible after 2 insertions
+Time: -0.4947 s
+Num feasible: 0
+Evaluation on 7/200
+data/large_test_set/problem_0007.txt
+Infeasible after 2 insertions
+Time: -0.2828 s
+Num feasible: 0
+Evaluation on 8/200
+data/large_test_set/problem_0008.txt
+Time: -32.3658 s
+Num feasible: 0
+Evaluation on 9/200
+data/large_test_set/problem_0009.txt
+Infeasible after 4 insertions
+Time: -0.5882 s
+Num feasible: 0
+Evaluation on 10/200
+data/large_test_set/problem_0010.txt
+Infeasible after 11 insertions
+Time: -1.5705 s
+Num feasible: 0
+Evaluation on 11/200
+data/large_test_set/problem_0011.txt
+Time: -30.1733 s
+Num feasible: 0
+Evaluation on 12/200
+data/large_test_set/problem_0012.txt
+Infeasible after 10 insertions
+Time: -1.2150 s
+Num feasible: 0
+Evaluation on 13/200
+data/large_test_set/problem_0013.txt
+Time: -33.7533 s
+Num feasible: 0
+Evaluation on 14/200
+data/large_test_set/problem_0014.txt
+Infeasible after 11 insertions
+Time: -1.5046 s
+Num feasible: 0
+Evaluation on 15/200
+data/large_test_set/problem_0015.txt
+Time: -21.5873 s
+Num feasible: 0
+Evaluation on 16/200
+data/large_test_set/problem_0016.txt
+Infeasible after 7 insertions
+Time: -0.6667 s
+Num feasible: 0
+Evaluation on 17/200
+data/large_test_set/problem_0017.txt
+Infeasible after 10 insertions
+Time: -1.2869 s
+Num feasible: 0
+Evaluation on 18/200
+data/large_test_set/problem_0018.txt
+Infeasible after 2 insertions
+Time: -0.3062 s
+Num feasible: 0
+Evaluation on 19/200
+data/large_test_set/problem_0019.txt
+Infeasible after 4 insertions
+Time: -0.3707 s
+Num feasible: 0
+Evaluation on 20/200
+data/large_test_set/problem_0020.txt
+Time: -34.9574 s
+Num feasible: 0
+Evaluation on 21/200
+data/large_test_set/problem_0021.txt
+Infeasible after 3 insertions
+Time: -0.4077 s
+Num feasible: 0
+Evaluation on 22/200
+data/large_test_set/problem_0022.txt
+Time: -22.4533 s
+Num feasible: 0
+Evaluation on 23/200
+data/large_test_set/problem_0023.txt
+Infeasible after 2 insertions
+Time: -0.3531 s
+Num feasible: 0
+Evaluation on 24/200
+data/large_test_set/problem_0024.txt
+Infeasible after 9 insertions
+Time: -0.8817 s
+Num feasible: 0
+Evaluation on 25/200
+data/large_test_set/problem_0025.txt
+Time: -27.8879 s
+Num feasible: 0
+Evaluation on 26/200
+data/large_test_set/problem_0026.txt
+Infeasible after 4 insertions
+Time: -0.9231 s
+Num feasible: 0
+Evaluation on 27/200
+data/large_test_set/problem_0027.txt
+Infeasible after 7 insertions
+Time: -1.0152 s
+Num feasible: 0
+Evaluation on 28/200
+data/large_test_set/problem_0028.txt
+Infeasible after 13 insertions
+Time: -1.5536 s
+Num feasible: 0
+Evaluation on 29/200
+data/large_test_set/problem_0029.txt
+Infeasible after 14 insertions
+Time: -2.0481 s
+Num feasible: 0
+Evaluation on 30/200
+data/large_test_set/problem_0030.txt
+Infeasible after 11 insertions
+Time: -1.5803 s
+Num feasible: 0
+Evaluation on 31/200
+data/large_test_set/problem_0031.txt
+Time: -30.2455 s
+Num feasible: 0
+Evaluation on 32/200
+data/large_test_set/problem_0032.txt
+Infeasible after 5 insertions
+Time: -0.7150 s
+Num feasible: 0
+Evaluation on 33/200
+data/large_test_set/problem_0033.txt
+Time: -25.4851 s
+Num feasible: 0
+Evaluation on 34/200
+data/large_test_set/problem_0034.txt
+Time: -34.2324 s
+Num feasible: 0
+Evaluation on 35/200
+data/large_test_set/problem_0035.txt
+Time: -28.8506 s
+Num feasible: 0
+Evaluation on 36/200
+data/large_test_set/problem_0036.txt
+Infeasible after 2 insertions
+Time: -0.4013 s
+Num feasible: 0
+Evaluation on 37/200
+data/large_test_set/problem_0037.txt
+Infeasible after 9 insertions
+Time: -1.5659 s
+Num feasible: 0
+Evaluation on 38/200
+data/large_test_set/problem_0038.txt
+Time: -41.1044 s
+Num feasible: 0
+Evaluation on 39/200
+data/large_test_set/problem_0039.txt
+Infeasible after 5 insertions
+Time: -0.8764 s
+Num feasible: 0
+Evaluation on 40/200
+data/large_test_set/problem_0040.txt
+Infeasible after 5 insertions
+Time: -0.9923 s
+Num feasible: 0
+Evaluation on 41/200
+data/large_test_set/problem_0041.txt
+Infeasible after 4 insertions
+Time: -0.6440 s
+Num feasible: 0
+Evaluation on 42/200
+data/large_test_set/problem_0042.txt
+Time: -29.5614 s
+Num feasible: 0
+Evaluation on 43/200
+data/large_test_set/problem_0043.txt
+Infeasible after 3 insertions
+Time: -0.4898 s
+Num feasible: 0
+Evaluation on 44/200
+data/large_test_set/problem_0044.txt
+Infeasible after 2 insertions
+Time: -0.5592 s
+Num feasible: 0
+Evaluation on 45/200
+data/large_test_set/problem_0045.txt
+Time: -30.3238 s
+Num feasible: 0
+Evaluation on 46/200
+data/large_test_set/problem_0046.txt
+Time: -37.4223 s
+Num feasible: 0
+Evaluation on 47/200
+data/large_test_set/problem_0047.txt
+Infeasible after 2 insertions
+Time: -0.4024 s
+Num feasible: 0
+Evaluation on 48/200
+data/large_test_set/problem_0048.txt
+Infeasible after 3 insertions
+Time: -0.2837 s
+Num feasible: 0
+Evaluation on 49/200
+data/large_test_set/problem_0049.txt
+Time: -35.8841 s
+Num feasible: 0
+Evaluation on 50/200
+data/large_test_set/problem_0050.txt
+Infeasible after 3 insertions
+Time: -0.7692 s
+Num feasible: 0
+Evaluation on 51/200
+data/large_test_set/problem_0051.txt
+Infeasible after 6 insertions
+Time: -0.8376 s
+Num feasible: 0
+Evaluation on 52/200
+data/large_test_set/problem_0052.txt
+Time: -26.2366 s
+Num feasible: 0
+Evaluation on 53/200
+data/large_test_set/problem_0053.txt
+Time: -30.7743 s
+Num feasible: 0
+Evaluation on 54/200
+data/large_test_set/problem_0054.txt
+Infeasible after 9 insertions
+Time: -0.8408 s
+Num feasible: 0
+Evaluation on 55/200
+data/large_test_set/problem_0055.txt
+Time: -30.2766 s
+Num feasible: 0
+Evaluation on 56/200
+data/large_test_set/problem_0056.txt
+Time: -28.1540 s
+Num feasible: 0
+Evaluation on 57/200
+data/large_test_set/problem_0057.txt
+Time: -26.9990 s
+Num feasible: 0
+Evaluation on 58/200
+data/large_test_set/problem_0058.txt
+Infeasible after 2 insertions
+Time: -0.4971 s
+Num feasible: 0
+Evaluation on 59/200
+data/large_test_set/problem_0059.txt
+Infeasible after 3 insertions
+Time: -0.4722 s
+Num feasible: 0
+Evaluation on 60/200
+data/large_test_set/problem_0060.txt
+Time: -29.6808 s
+Num feasible: 0
+Evaluation on 61/200
+data/large_test_set/problem_0061.txt
+Infeasible after 2 insertions
+Time: -0.5174 s
+Num feasible: 0
+Evaluation on 62/200
+data/large_test_set/problem_0062.txt
+Infeasible after 2 insertions
+Time: -0.4349 s
+Num feasible: 0
+Evaluation on 63/200
+data/large_test_set/problem_0063.txt
+Infeasible after 7 insertions
+Time: -0.6435 s
+Num feasible: 0
+Evaluation on 64/200
+data/large_test_set/problem_0064.txt
+Infeasible after 3 insertions
+Time: -0.3844 s
+Num feasible: 0
+Evaluation on 65/200
+data/large_test_set/problem_0065.txt
+Time: -28.1582 s
+Num feasible: 0
+Evaluation on 66/200
+data/large_test_set/problem_0066.txt
+Infeasible after 5 insertions
+Time: -0.9868 s
+Num feasible: 0
+Evaluation on 67/200
+data/large_test_set/problem_0067.txt
+Infeasible after 7 insertions
+Time: -0.8552 s
+Num feasible: 0
+Evaluation on 68/200
+data/large_test_set/problem_0068.txt
+Time: -28.7536 s
+Num feasible: 0
+Evaluation on 69/200
+data/large_test_set/problem_0069.txt
+Infeasible after 2 insertions
+Time: -0.3922 s
+Num feasible: 0
+Evaluation on 70/200
+data/large_test_set/problem_0070.txt
+Time: -36.6755 s
+Num feasible: 0
+Evaluation on 71/200
+data/large_test_set/problem_0071.txt
+Infeasible after 5 insertions
+Time: -0.7373 s
+Num feasible: 0
+Evaluation on 72/200
+data/large_test_set/problem_0072.txt
+Infeasible after 3 insertions
+Time: -0.3936 s
+Num feasible: 0
+Evaluation on 73/200
+data/large_test_set/problem_0073.txt
+Infeasible after 16 insertions
+Time: -2.0273 s
+Num feasible: 0
+Evaluation on 74/200
+data/large_test_set/problem_0074.txt
+Time: -35.8548 s
+Num feasible: 0
+Evaluation on 75/200
+data/large_test_set/problem_0075.txt
+Time: -33.5979 s
+Num feasible: 0
+Evaluation on 76/200
+data/large_test_set/problem_0076.txt
+Infeasible after 2 insertions
+Time: -0.3247 s
+Num feasible: 0
+Evaluation on 77/200
+data/large_test_set/problem_0077.txt
+Time: -33.2415 s
+Num feasible: 0
+Evaluation on 78/200
+data/large_test_set/problem_0078.txt
+Time: -40.3289 s
+Num feasible: 0
+Evaluation on 79/200
+data/large_test_set/problem_0079.txt
+Infeasible after 3 insertions
+Time: -0.5400 s
+Num feasible: 0
+Evaluation on 80/200
+data/large_test_set/problem_0080.txt
+Time: -36.7993 s
+Num feasible: 0
+Evaluation on 81/200
+data/large_test_set/problem_0081.txt
+Infeasible after 2 insertions
+Time: -0.4285 s
+Num feasible: 0
+Evaluation on 82/200
+data/large_test_set/problem_0082.txt
+Time: -32.0600 s
+Num feasible: 0
+Evaluation on 83/200
+data/large_test_set/problem_0083.txt
+Infeasible after 10 insertions
+Time: -1.4267 s
+Num feasible: 0
+Evaluation on 84/200
+data/large_test_set/problem_0084.txt
+Infeasible after 5 insertions
+Time: -0.7027 s
+Num feasible: 0
+Evaluation on 85/200
+data/large_test_set/problem_0085.txt
+Infeasible after 4 insertions
+Time: -0.6355 s
+Num feasible: 0
+Evaluation on 86/200
+data/large_test_set/problem_0086.txt
+Time: -27.3006 s
+Num feasible: 0
+Evaluation on 87/200
+data/large_test_set/problem_0087.txt
+Infeasible after 4 insertions
+Time: -0.6559 s
+Num feasible: 0
+Evaluation on 88/200
+data/large_test_set/problem_0088.txt
+Time: -30.3221 s
+Num feasible: 0
+Evaluation on 89/200
+data/large_test_set/problem_0089.txt
+Time: -29.0869 s
+Num feasible: 0
+Evaluation on 90/200
+data/large_test_set/problem_0090.txt
+Infeasible after 10 insertions
+Time: -1.2349 s
+Num feasible: 0
+Evaluation on 91/200
+data/large_test_set/problem_0091.txt
+Time: -24.7636 s
+Num feasible: 0
+Evaluation on 92/200
+data/large_test_set/problem_0092.txt
+Time: -28.3452 s
+Num feasible: 0
+Evaluation on 93/200
+data/large_test_set/problem_0093.txt
+Infeasible after 4 insertions
+Time: -0.6255 s
+Num feasible: 0
+Evaluation on 94/200
+data/large_test_set/problem_0094.txt
+Time: -24.3126 s
+Num feasible: 0
+Evaluation on 95/200
+data/large_test_set/problem_0095.txt
+Time: -35.9717 s
+Num feasible: 0
+Evaluation on 96/200
+data/large_test_set/problem_0096.txt
+Time: -31.8051 s
+Num feasible: 0
+Evaluation on 97/200
+data/large_test_set/problem_0097.txt
+Infeasible after 2 insertions
+Time: -0.5587 s
+Num feasible: 0
+Evaluation on 98/200
+data/large_test_set/problem_0098.txt
+Feasible solution found, min makespan: 470.000000
+Time: -5.0763 s
+Num feasible: 1
+Evaluation on 99/200
+data/large_test_set/problem_0099.txt
+Infeasible after 6 insertions
+Time: -0.7067 s
+Num feasible: 1
+Evaluation on 100/200
+data/large_test_set/problem_0100.txt
+Time: -36.9143 s
+Num feasible: 1
+Evaluation on 101/200
+data/large_test_set/problem_0101.txt
+Infeasible after 10 insertions
+Time: -1.4026 s
+Num feasible: 1
+Evaluation on 102/200
+data/large_test_set/problem_0102.txt
+Infeasible after 3 insertions
+Time: -0.4421 s
+Num feasible: 1
+Evaluation on 103/200
+data/large_test_set/problem_0103.txt
+Infeasible after 6 insertions
+Time: -0.5598 s
+Num feasible: 1
+Evaluation on 104/200
+data/large_test_set/problem_0104.txt
+Infeasible after 12 insertions
+Time: -1.6575 s
+Num feasible: 1
+Evaluation on 105/200
+data/large_test_set/problem_0105.txt
+Time: -27.9722 s
+Num feasible: 1
+Evaluation on 106/200
+data/large_test_set/problem_0106.txt
+Infeasible after 3 insertions
+Time: -0.4880 s
+Num feasible: 1
+Evaluation on 107/200
+data/large_test_set/problem_0107.txt
+Infeasible after 7 insertions
+Time: -0.8262 s
+Num feasible: 1
+Evaluation on 108/200
+data/large_test_set/problem_0108.txt
+Time: -24.7183 s
+Num feasible: 1
+Evaluation on 109/200
+data/large_test_set/problem_0109.txt
+Infeasible after 5 insertions
+Time: -0.4906 s
+Num feasible: 1
+Evaluation on 110/200
+data/large_test_set/problem_0110.txt
+Infeasible after 2 insertions
+Time: -0.2915 s
+Num feasible: 1
+Evaluation on 111/200
+data/large_test_set/problem_0111.txt
+Infeasible after 3 insertions
+Time: -0.4798 s
+Num feasible: 1
+Evaluation on 112/200
+data/large_test_set/problem_0112.txt
+Infeasible after 8 insertions
+Time: -0.9283 s
+Num feasible: 1
+Evaluation on 113/200
+data/large_test_set/problem_0113.txt
+Time: -37.5481 s
+Num feasible: 1
+Evaluation on 114/200
+data/large_test_set/problem_0114.txt
+Infeasible after 3 insertions
+Time: -0.9790 s
+Num feasible: 1
+Evaluation on 115/200
+data/large_test_set/problem_0115.txt
+Time: -24.1994 s
+Num feasible: 1
+Evaluation on 116/200
+data/large_test_set/problem_0116.txt
+Time: -27.2068 s
+Num feasible: 1
+Evaluation on 117/200
+data/large_test_set/problem_0117.txt
+Infeasible after 8 insertions
+Time: -0.8469 s
+Num feasible: 1
+Evaluation on 118/200
+data/large_test_set/problem_0118.txt
+Infeasible after 4 insertions
+Time: -0.4365 s
+Num feasible: 1
+Evaluation on 119/200
+data/large_test_set/problem_0119.txt
+Infeasible after 9 insertions
+Time: -0.9708 s
+Num feasible: 1
+Evaluation on 120/200
+data/large_test_set/problem_0120.txt
+Time: -30.0632 s
+Num feasible: 1
+Evaluation on 121/200
+data/large_test_set/problem_0121.txt
+Infeasible after 2 insertions
+Time: -0.3995 s
+Num feasible: 1
+Evaluation on 122/200
+data/large_test_set/problem_0122.txt
+Time: -35.3366 s
+Num feasible: 1
+Evaluation on 123/200
+data/large_test_set/problem_0123.txt
+Infeasible after 2 insertions
+Time: -0.4658 s
+Num feasible: 1
+Evaluation on 124/200
+data/large_test_set/problem_0124.txt
+Time: -31.2700 s
+Num feasible: 1
+Evaluation on 125/200
+data/large_test_set/problem_0125.txt
+Time: -24.1798 s
+Num feasible: 1
+Evaluation on 126/200
+data/large_test_set/problem_0126.txt
+Infeasible after 5 insertions
+Time: -0.6019 s
+Num feasible: 1
+Evaluation on 127/200
+data/large_test_set/problem_0127.txt
+Time: -39.7754 s
+Num feasible: 1
+Evaluation on 128/200
+data/large_test_set/problem_0128.txt
+Infeasible after 3 insertions
+Time: -0.3366 s
+Num feasible: 1
+Evaluation on 129/200
+data/large_test_set/problem_0129.txt
+Feasible solution found, min makespan: 497.000000
+Time: -4.4777 s
+Num feasible: 2
+Evaluation on 130/200
+data/large_test_set/problem_0130.txt
+Infeasible after 14 insertions
+Time: -1.4054 s
+Num feasible: 2
+Evaluation on 131/200
+data/large_test_set/problem_0131.txt
+Time: -36.8009 s
+Num feasible: 2
+Evaluation on 132/200
+data/large_test_set/problem_0132.txt
+Time: -32.9626 s
+Num feasible: 2
+Evaluation on 133/200
+data/large_test_set/problem_0133.txt
+Infeasible after 9 insertions
+Time: -1.2468 s
+Num feasible: 2
+Evaluation on 134/200
+data/large_test_set/problem_0134.txt
+Infeasible after 5 insertions
+Time: -0.7397 s
+Num feasible: 2
+Evaluation on 135/200
+data/large_test_set/problem_0135.txt
+Infeasible after 11 insertions
+Time: -1.2174 s
+Num feasible: 2
+Evaluation on 136/200
+data/large_test_set/problem_0136.txt
+Infeasible after 3 insertions
+Time: -0.4186 s
+Num feasible: 2
+Evaluation on 137/200
+data/large_test_set/problem_0137.txt
+Infeasible after 2 insertions
+Time: -0.3277 s
+Num feasible: 2
+Evaluation on 138/200
+data/large_test_set/problem_0138.txt
+Infeasible after 2 insertions
+Time: -0.4524 s
+Num feasible: 2
+Evaluation on 139/200
+data/large_test_set/problem_0139.txt
+Infeasible after 2 insertions
+Time: -0.4936 s
+Num feasible: 2
+Evaluation on 140/200
+data/large_test_set/problem_0140.txt
+Time: -26.5780 s
+Num feasible: 2
+Evaluation on 141/200
+data/large_test_set/problem_0141.txt
+Time: -29.4884 s
+Num feasible: 2
+Evaluation on 142/200
+data/large_test_set/problem_0142.txt
+Infeasible after 7 insertions
+Time: -1.8153 s
+Num feasible: 2
+Evaluation on 143/200
+data/large_test_set/problem_0143.txt
+Time: -28.4416 s
+Num feasible: 2
+Evaluation on 144/200
+data/large_test_set/problem_0144.txt
+Infeasible after 2 insertions
+Time: -0.4772 s
+Num feasible: 2
+Evaluation on 145/200
+data/large_test_set/problem_0145.txt
+Time: -26.7237 s
+Num feasible: 2
+Evaluation on 146/200
+data/large_test_set/problem_0146.txt
+Infeasible after 2 insertions
+Time: -0.3652 s
+Num feasible: 2
+Evaluation on 147/200
+data/large_test_set/problem_0147.txt
+Infeasible after 2 insertions
+Time: -0.4989 s
+Num feasible: 2
+Evaluation on 148/200
+data/large_test_set/problem_0148.txt
+Infeasible after 2 insertions
+Time: -0.5192 s
+Num feasible: 2
+Evaluation on 149/200
+data/large_test_set/problem_0149.txt
+Infeasible after 6 insertions
+Time: -0.7207 s
+Num feasible: 2
+Evaluation on 150/200
+data/large_test_set/problem_0150.txt
+Infeasible after 3 insertions
+Time: -0.6200 s
+Num feasible: 2
+Evaluation on 151/200
+data/large_test_set/problem_0151.txt
+Infeasible after 2 insertions
+Time: -0.3713 s
+Num feasible: 2
+Evaluation on 152/200
+data/large_test_set/problem_0152.txt
+Infeasible after 2 insertions
+Time: -0.3441 s
+Num feasible: 2
+Evaluation on 153/200
+data/large_test_set/problem_0153.txt
+Time: -32.8589 s
+Num feasible: 2
+Evaluation on 154/200
+data/large_test_set/problem_0154.txt
+Time: -28.2521 s
+Num feasible: 2
+Evaluation on 155/200
+data/large_test_set/problem_0155.txt
+Infeasible after 7 insertions
+Time: -1.0147 s
+Num feasible: 2
+Evaluation on 156/200
+data/large_test_set/problem_0156.txt
+Infeasible after 6 insertions
+Time: -0.6270 s
+Num feasible: 2
+Evaluation on 157/200
+data/large_test_set/problem_0157.txt
+Infeasible after 11 insertions
+Time: -1.1962 s
+Num feasible: 2
+Evaluation on 158/200
+data/large_test_set/problem_0158.txt
+Time: -36.1686 s
+Num feasible: 2
+Evaluation on 159/200
+data/large_test_set/problem_0159.txt
+Time: -37.2179 s
+Num feasible: 2
+Evaluation on 160/200
+data/large_test_set/problem_0160.txt
+Time: -27.5386 s
+Num feasible: 2
+Evaluation on 161/200
+data/large_test_set/problem_0161.txt
+Infeasible after 12 insertions
+Time: -1.6872 s
+Num feasible: 2
+Evaluation on 162/200
+data/large_test_set/problem_0162.txt
+Infeasible after 2 insertions
+Time: -0.4148 s
+Num feasible: 2
+Evaluation on 163/200
+data/large_test_set/problem_0163.txt
+Time: -36.0616 s
+Num feasible: 2
+Evaluation on 164/200
+data/large_test_set/problem_0164.txt
+Infeasible after 9 insertions
+Time: -1.4375 s
+Num feasible: 2
+Evaluation on 165/200
+data/large_test_set/problem_0165.txt
+Time: -33.9397 s
+Num feasible: 2
+Evaluation on 166/200
+data/large_test_set/problem_0166.txt
+Time: -36.1676 s
+Num feasible: 2
+Evaluation on 167/200
+data/large_test_set/problem_0167.txt
+Time: -36.6000 s
+Num feasible: 2
+Evaluation on 168/200
+data/large_test_set/problem_0168.txt
+Time: -28.3394 s
+Num feasible: 2
+Evaluation on 169/200
+data/large_test_set/problem_0169.txt
+Infeasible after 6 insertions
+Time: -0.6014 s
+Num feasible: 2
+Evaluation on 170/200
+data/large_test_set/problem_0170.txt
+Time: -31.1381 s
+Num feasible: 2
+Evaluation on 171/200
+data/large_test_set/problem_0171.txt
+Infeasible after 9 insertions
+Time: -1.4042 s
+Num feasible: 2
+Evaluation on 172/200
+data/large_test_set/problem_0172.txt
+Time: -30.0601 s
+Num feasible: 2
+Evaluation on 173/200
+data/large_test_set/problem_0173.txt
+Time: -29.5453 s
+Num feasible: 2
+Evaluation on 174/200
+data/large_test_set/problem_0174.txt
+Infeasible after 6 insertions
+Time: -0.8184 s
+Num feasible: 2
+Evaluation on 175/200
+data/large_test_set/problem_0175.txt
+Infeasible after 2 insertions
+Time: -0.3892 s
+Num feasible: 2
+Evaluation on 176/200
+data/large_test_set/problem_0176.txt
+Time: -34.0791 s
+Num feasible: 2
+Evaluation on 177/200
+data/large_test_set/problem_0177.txt
+Time: -34.7982 s
+Num feasible: 2
+Evaluation on 178/200
+data/large_test_set/problem_0178.txt
+Time: -35.6092 s
+Num feasible: 2
+Evaluation on 179/200
+data/large_test_set/problem_0179.txt
+Infeasible after 2 insertions
+Time: -0.3894 s
+Num feasible: 2
+Evaluation on 180/200
+data/large_test_set/problem_0180.txt
+Time: -40.7684 s
+Num feasible: 2
+Evaluation on 181/200
+data/large_test_set/problem_0181.txt
+Time: -32.8825 s
+Num feasible: 2
+Evaluation on 182/200
+data/large_test_set/problem_0182.txt
+Time: -33.4068 s
+Num feasible: 2
+Evaluation on 183/200
+data/large_test_set/problem_0183.txt
+Infeasible after 15 insertions
+Time: -2.3426 s
+Num feasible: 2
+Evaluation on 184/200
+data/large_test_set/problem_0184.txt
+Infeasible after 3 insertions
+Time: -0.4276 s
+Num feasible: 2
+Evaluation on 185/200
+data/large_test_set/problem_0185.txt
+Infeasible after 2 insertions
+Time: -0.5210 s
+Num feasible: 2
+Evaluation on 186/200
+data/large_test_set/problem_0186.txt
+Time: -28.3336 s
+Num feasible: 2
+Evaluation on 187/200
+data/large_test_set/problem_0187.txt
+Time: -42.6098 s
+Num feasible: 2
+Evaluation on 188/200
+data/large_test_set/problem_0188.txt
+Time: -38.0556 s
+Num feasible: 2
+Evaluation on 189/200
+data/large_test_set/problem_0189.txt
+Infeasible after 9 insertions
+Time: -1.4275 s
+Num feasible: 2
+Evaluation on 190/200
+data/large_test_set/problem_0190.txt
+Time: -46.3889 s
+Num feasible: 2
+Evaluation on 191/200
+data/large_test_set/problem_0191.txt
+Infeasible after 2 insertions
+Time: -0.5398 s
+Num feasible: 2
+Evaluation on 192/200
+data/large_test_set/problem_0192.txt
+Infeasible after 3 insertions
+Time: -0.7694 s
+Num feasible: 2
+Evaluation on 193/200
+data/large_test_set/problem_0193.txt
+Time: -35.1337 s
+Num feasible: 2
+Evaluation on 194/200
+data/large_test_set/problem_0194.txt
+Time: -33.3022 s
+Num feasible: 2
+Evaluation on 195/200
+data/large_test_set/problem_0195.txt
+Time: -33.3067 s
+Num feasible: 2
+Evaluation on 196/200
+data/large_test_set/problem_0196.txt
+Time: -49.0137 s
+Num feasible: 2
+Evaluation on 197/200
+data/large_test_set/problem_0197.txt
+Time: -33.4310 s
+Num feasible: 2
+Evaluation on 198/200
+data/large_test_set/problem_0198.txt
+Infeasible after 10 insertions
+Time: -1.4773 s
+Num feasible: 2
+Evaluation on 199/200
+data/large_test_set/problem_0199.txt
+Infeasible after 4 insertions
+Time: -0.4888 s
+Num feasible: 2
+Evaluation on 200/200
+data/large_test_set/problem_0200.txt
+Time: -34.1119 s
+Num feasible: 2
+Tasks: [659] [7975]
+Feasible solution found: 2/200
+Average time per instance:  14.7493, stdev: 15.8915
+Feasible Makespan:  483.5 , stdev:  0.0
+Total Makespan:  2535.891891891892 , stdev:  0.0
+Feasible Percentage: 1.0, stdev: 0.0%

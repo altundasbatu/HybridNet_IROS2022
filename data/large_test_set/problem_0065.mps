@@ -1,0 +1,42125 @@
+NAME tg
+ROWS
+ N  OBJ
+ L  R0      
+ L  R1      
+ L  R2      
+ L  R3      
+ L  R4      
+ L  R5      
+ L  R6      
+ L  R7      
+ L  R8      
+ L  R9      
+ L  R10     
+ L  R11     
+ L  R12     
+ L  R13     
+ L  R14     
+ L  R15     
+ L  R16     
+ L  R17     
+ L  R18     
+ L  R19     
+ L  R20     
+ L  R21     
+ L  R22     
+ L  R23     
+ L  R24     
+ L  R25     
+ L  R26     
+ L  R27     
+ L  R28     
+ L  R29     
+ L  R30     
+ L  R31     
+ L  R32     
+ L  R33     
+ L  R34     
+ L  R35     
+ L  R36     
+ L  R37     
+ L  R38     
+ L  R39     
+ L  R40     
+ L  R41     
+ L  R42     
+ L  R43     
+ L  R44     
+ L  R45     
+ G  R46     
+ G  R47     
+ G  R48     
+ G  R49     
+ G  R50     
+ G  R51     
+ G  R52     
+ E  R53     
+ E  R54     
+ E  R55     
+ E  R56     
+ E  R57     
+ E  R58     
+ E  R59     
+ E  R60     
+ E  R61     
+ E  R62     
+ E  R63     
+ E  R64     
+ E  R65     
+ E  R66     
+ E  R67     
+ E  R68     
+ E  R69     
+ E  R70     
+ E  R71     
+ E  R72     
+ E  R73     
+ E  R74     
+ E  R75     
+ E  R76     
+ E  R77     
+ E  R78     
+ E  R79     
+ E  R80     
+ E  R81     
+ E  R82     
+ E  R83     
+ E  R84     
+ E  R85     
+ E  R86     
+ E  R87     
+ E  R88     
+ E  R89     
+ E  R90     
+ E  GC0     
+ E  GC1     
+ E  GC2     
+ E  GC3     
+ E  GC4     
+ E  GC5     
+ E  GC6     
+ E  GC7     
+ E  GC8     
+ E  GC9     
+ E  GC10    
+ E  GC11    
+ E  GC12    
+ E  GC13    
+ E  GC14    
+ E  GC15    
+ E  GC16    
+ E  GC17    
+ E  GC18    
+ E  GC19    
+ E  GC20    
+ E  GC21    
+ E  GC22    
+ E  GC23    
+ E  GC24    
+ E  GC25    
+ E  GC26    
+ E  GC27    
+ E  GC28    
+ E  GC29    
+ E  GC30    
+ E  GC31    
+ E  GC32    
+ E  GC33    
+ E  GC34    
+ E  GC35    
+ E  GC36    
+ E  GC37    
+ E  GC38    
+ E  GC39    
+ E  GC40    
+ E  GC41    
+ E  GC42    
+ E  GC43    
+ E  GC44    
+ E  GC45    
+ E  GC46    
+ E  GC47    
+ E  GC48    
+ E  GC49    
+ E  GC50    
+ E  GC51    
+ E  GC52    
+ E  GC53    
+ E  GC54    
+ E  GC55    
+ E  GC56    
+ E  GC57    
+ E  GC58    
+ E  GC59    
+ E  GC60    
+ E  GC61    
+ E  GC62    
+ E  GC63    
+ E  GC64    
+ E  GC65    
+ E  GC66    
+ E  GC67    
+ E  GC68    
+ E  GC69    
+ E  GC70    
+ E  GC71    
+ E  GC72    
+ E  GC73    
+ E  GC74    
+ E  GC75    
+ E  GC76    
+ E  GC77    
+ E  GC78    
+ E  GC79    
+ E  GC80    
+ E  GC81    
+ E  GC82    
+ E  GC83    
+ E  GC84    
+ E  GC85    
+ E  GC86    
+ E  GC87    
+ E  GC88    
+ E  GC89    
+ E  GC90    
+ E  GC91    
+ E  GC92    
+ E  GC93    
+ E  GC94    
+ E  GC95    
+ E  GC96    
+ E  GC97    
+ E  GC98    
+ E  GC99    
+ E  GC100   
+ E  GC101   
+ E  GC102   
+ E  GC103   
+ E  GC104   
+ E  GC105   
+ E  GC106   
+ E  GC107   
+ E  GC108   
+ E  GC109   
+ E  GC110   
+ E  GC111   
+ E  GC112   
+ E  GC113   
+ E  GC114   
+ E  GC115   
+ E  GC116   
+ E  GC117   
+ E  GC118   
+ E  GC119   
+ E  GC120   
+ E  GC121   
+ E  GC122   
+ E  GC123   
+ E  GC124   
+ E  GC125   
+ E  GC126   
+ E  GC127   
+ E  GC128   
+ E  GC129   
+ E  GC130   
+ E  GC131   
+ E  GC132   
+ E  GC133   
+ E  GC134   
+ E  GC135   
+ E  GC136   
+ E  GC137   
+ E  GC138   
+ E  GC139   
+ E  GC140   
+ E  GC141   
+ E  GC142   
+ E  GC143   
+ E  GC144   
+ E  GC145   
+ E  GC146   
+ E  GC147   
+ E  GC148   
+ E  GC149   
+ E  GC150   
+ E  GC151   
+ E  GC153   
+ E  GC155   
+ E  GC157   
+ E  GC159   
+ E  GC161   
+ E  GC163   
+ E  GC165   
+ E  GC167   
+ E  GC169   
+ E  GC171   
+ E  GC173   
+ E  GC175   
+ E  GC177   
+ E  GC179   
+ E  GC181   
+ E  GC183   
+ E  GC185   
+ E  GC187   
+ E  GC189   
+ E  GC191   
+ E  GC193   
+ E  GC195   
+ E  GC197   
+ E  GC199   
+ E  GC201   
+ E  GC203   
+ E  GC205   
+ E  GC207   
+ E  GC209   
+ E  GC211   
+ E  GC213   
+ E  GC215   
+ E  GC217   
+ E  GC219   
+ E  GC221   
+ E  GC223   
+ E  GC225   
+ E  GC227   
+ E  GC229   
+ E  GC231   
+ E  GC233   
+ E  GC235   
+ E  GC237   
+ E  GC239   
+ E  GC241   
+ E  GC243   
+ E  GC245   
+ E  GC247   
+ E  GC249   
+ E  GC251   
+ E  GC253   
+ E  GC255   
+ E  GC257   
+ E  GC259   
+ E  GC261   
+ E  GC263   
+ E  GC265   
+ E  GC267   
+ E  GC269   
+ E  GC271   
+ E  GC273   
+ E  GC275   
+ E  GC277   
+ E  GC279   
+ E  GC281   
+ E  GC283   
+ E  GC285   
+ E  GC287   
+ E  GC289   
+ E  GC291   
+ E  GC293   
+ E  GC295   
+ E  GC297   
+ E  GC299   
+ E  GC301   
+ E  GC303   
+ E  GC305   
+ E  GC307   
+ E  GC309   
+ E  GC311   
+ E  GC313   
+ E  GC315   
+ E  GC317   
+ E  GC319   
+ E  GC321   
+ E  GC323   
+ E  GC325   
+ E  GC327   
+ E  GC329   
+ E  GC331   
+ E  GC333   
+ E  GC335   
+ E  GC337   
+ E  GC339   
+ E  GC341   
+ E  GC343   
+ E  GC345   
+ E  GC347   
+ E  GC349   
+ E  GC351   
+ E  GC353   
+ E  GC355   
+ E  GC357   
+ E  GC359   
+ E  GC361   
+ E  GC363   
+ E  GC365   
+ E  GC367   
+ E  GC369   
+ E  GC371   
+ E  GC373   
+ E  GC375   
+ E  GC377   
+ E  GC379   
+ E  GC381   
+ E  GC383   
+ E  GC385   
+ E  GC387   
+ E  GC389   
+ E  GC391   
+ E  GC393   
+ E  GC395   
+ E  GC397   
+ E  GC399   
+ E  GC401   
+ E  GC403   
+ E  GC405   
+ E  GC407   
+ E  GC409   
+ E  GC411   
+ E  GC413   
+ E  GC415   
+ E  GC417   
+ E  GC419   
+ E  GC421   
+ E  GC423   
+ E  GC425   
+ E  GC427   
+ E  GC429   
+ E  GC431   
+ E  GC433   
+ E  GC435   
+ E  GC437   
+ E  GC439   
+ E  GC441   
+ E  GC443   
+ E  GC445   
+ E  GC447   
+ E  GC449   
+ E  GC451   
+ E  GC453   
+ E  GC455   
+ E  GC457   
+ E  GC459   
+ E  GC461   
+ E  GC463   
+ E  GC465   
+ E  GC467   
+ E  GC469   
+ E  GC471   
+ E  GC473   
+ E  GC475   
+ E  GC477   
+ E  GC479   
+ E  GC481   
+ E  GC483   
+ E  GC485   
+ E  GC487   
+ E  GC489   
+ E  GC491   
+ E  GC493   
+ E  GC495   
+ E  GC497   
+ E  GC499   
+ E  GC501   
+ E  GC503   
+ E  GC505   
+ E  GC507   
+ E  GC509   
+ E  GC511   
+ E  GC513   
+ E  GC515   
+ E  GC517   
+ E  GC519   
+ E  GC521   
+ E  GC523   
+ E  GC525   
+ E  GC527   
+ E  GC529   
+ E  GC531   
+ E  GC533   
+ E  GC535   
+ E  GC537   
+ E  GC539   
+ E  GC541   
+ E  GC543   
+ E  GC545   
+ E  GC547   
+ E  GC549   
+ E  GC551   
+ E  GC553   
+ E  GC555   
+ E  GC557   
+ E  GC559   
+ E  GC561   
+ E  GC563   
+ E  GC565   
+ E  GC567   
+ E  GC569   
+ E  GC571   
+ E  GC573   
+ E  GC575   
+ E  GC577   
+ E  GC579   
+ E  GC581   
+ E  GC583   
+ E  GC585   
+ E  GC587   
+ E  GC589   
+ E  GC591   
+ E  GC593   
+ E  GC595   
+ E  GC597   
+ E  GC599   
+ E  GC601   
+ E  GC603   
+ E  GC605   
+ E  GC607   
+ E  GC609   
+ E  GC611   
+ E  GC613   
+ E  GC615   
+ E  GC617   
+ E  GC619   
+ E  GC621   
+ E  GC623   
+ E  GC625   
+ E  GC627   
+ E  GC629   
+ E  GC631   
+ E  GC633   
+ E  GC635   
+ E  GC637   
+ E  GC639   
+ E  GC641   
+ E  GC643   
+ E  GC645   
+ E  GC647   
+ E  GC649   
+ E  GC651   
+ E  GC653   
+ E  GC655   
+ E  GC657   
+ E  GC659   
+ E  GC661   
+ E  GC663   
+ E  GC665   
+ E  GC667   
+ E  GC669   
+ E  GC671   
+ E  GC673   
+ E  GC675   
+ E  GC677   
+ E  GC679   
+ E  GC681   
+ E  GC683   
+ E  GC685   
+ E  GC687   
+ E  GC689   
+ E  GC691   
+ E  GC693   
+ E  GC695   
+ E  GC697   
+ E  GC699   
+ E  GC701   
+ E  GC703   
+ E  GC705   
+ E  GC707   
+ E  GC709   
+ E  GC711   
+ E  GC713   
+ E  GC715   
+ E  GC717   
+ E  GC719   
+ E  GC721   
+ E  GC723   
+ E  GC725   
+ E  GC727   
+ E  GC729   
+ E  GC731   
+ E  GC733   
+ E  GC735   
+ E  GC737   
+ E  GC739   
+ E  GC741   
+ E  GC743   
+ E  GC745   
+ E  GC747   
+ E  GC749   
+ E  GC751   
+ E  GC753   
+ E  GC755   
+ E  GC757   
+ E  GC759   
+ E  GC761   
+ E  GC763   
+ E  GC765   
+ E  GC767   
+ E  GC769   
+ E  GC771   
+ E  GC773   
+ E  GC775   
+ E  GC777   
+ E  GC779   
+ E  GC781   
+ E  GC783   
+ E  GC785   
+ E  GC787   
+ E  GC789   
+ E  GC791   
+ E  GC793   
+ E  GC795   
+ E  GC797   
+ E  GC799   
+ E  GC801   
+ E  GC803   
+ E  GC805   
+ E  GC807   
+ E  GC809   
+ E  GC811   
+ E  GC813   
+ E  GC815   
+ E  GC817   
+ E  GC819   
+ E  GC821   
+ E  GC823   
+ E  GC825   
+ E  GC827   
+ E  GC829   
+ E  GC831   
+ E  GC833   
+ E  GC835   
+ E  GC837   
+ E  GC839   
+ E  GC841   
+ E  GC843   
+ E  GC845   
+ E  GC847   
+ E  GC849   
+ E  GC851   
+ E  GC853   
+ E  GC855   
+ E  GC857   
+ E  GC859   
+ E  GC861   
+ E  GC863   
+ E  GC865   
+ E  GC867   
+ E  GC869   
+ E  GC871   
+ E  GC873   
+ E  GC875   
+ E  GC877   
+ E  GC879   
+ E  GC881   
+ E  GC883   
+ E  GC885   
+ E  GC887   
+ E  GC889   
+ E  GC891   
+ E  GC893   
+ E  GC895   
+ E  GC897   
+ E  GC899   
+ E  GC901   
+ E  GC903   
+ E  GC905   
+ E  GC907   
+ E  GC909   
+ E  GC911   
+ E  GC913   
+ E  GC915   
+ E  GC917   
+ E  GC919   
+ E  GC921   
+ E  GC923   
+ E  GC925   
+ E  GC927   
+ E  GC929   
+ E  GC931   
+ E  GC933   
+ E  GC935   
+ E  GC937   
+ E  GC939   
+ E  GC941   
+ E  GC943   
+ E  GC945   
+ E  GC947   
+ E  GC949   
+ E  GC951   
+ E  GC953   
+ E  GC955   
+ E  GC957   
+ E  GC959   
+ E  GC961   
+ E  GC963   
+ E  GC965   
+ E  GC967   
+ E  GC969   
+ E  GC971   
+ E  GC973   
+ E  GC975   
+ E  GC977   
+ E  GC979   
+ E  GC981   
+ E  GC983   
+ E  GC985   
+ E  GC987   
+ E  GC989   
+ E  GC991   
+ E  GC993   
+ E  GC995   
+ E  GC997   
+ E  GC999   
+ E  GC1001  
+ E  GC1003  
+ E  GC1005  
+ E  GC1007  
+ E  GC1009  
+ E  GC1011  
+ E  GC1013  
+ E  GC1015  
+ E  GC1017  
+ E  GC1019  
+ E  GC1021  
+ E  GC1023  
+ E  GC1025  
+ E  GC1027  
+ E  GC1029  
+ E  GC1031  
+ E  GC1033  
+ E  GC1035  
+ E  GC1037  
+ E  GC1039  
+ E  GC1041  
+ E  GC1043  
+ E  GC1045  
+ E  GC1047  
+ E  GC1049  
+ E  GC1051  
+ E  GC1053  
+ E  GC1055  
+ E  GC1057  
+ E  GC1059  
+ E  GC1061  
+ E  GC1063  
+ E  GC1065  
+ E  GC1067  
+ E  GC1069  
+ E  GC1071  
+ E  GC1073  
+ E  GC1075  
+ E  GC1077  
+ E  GC1079  
+ E  GC1081  
+ E  GC1083  
+ E  GC1085  
+ E  GC1087  
+ E  GC1089  
+ E  GC1091  
+ E  GC1093  
+ E  GC1095  
+ E  GC1097  
+ E  GC1099  
+ E  GC1101  
+ E  GC1103  
+ E  GC1105  
+ E  GC1107  
+ E  GC1109  
+ E  GC1111  
+ E  GC1113  
+ E  GC1115  
+ E  GC1117  
+ E  GC1119  
+ E  GC1121  
+ E  GC1123  
+ E  GC1125  
+ E  GC1127  
+ E  GC1129  
+ E  GC1131  
+ E  GC1133  
+ E  GC1135  
+ E  GC1137  
+ E  GC1139  
+ E  GC1141  
+ E  GC1143  
+ E  GC1145  
+ E  GC1147  
+ E  GC1149  
+ E  GC1151  
+ E  GC1153  
+ E  GC1155  
+ E  GC1157  
+ E  GC1159  
+ E  GC1161  
+ E  GC1163  
+ E  GC1165  
+ E  GC1167  
+ E  GC1169  
+ E  GC1171  
+ E  GC1173  
+ E  GC1175  
+ E  GC1177  
+ E  GC1179  
+ E  GC1181  
+ E  GC1183  
+ E  GC1185  
+ E  GC1187  
+ E  GC1189  
+ E  GC1191  
+ E  GC1193  
+ E  GC1195  
+ E  GC1197  
+ E  GC1199  
+ E  GC1201  
+ E  GC1203  
+ E  GC1205  
+ E  GC1207  
+ E  GC1209  
+ E  GC1211  
+ E  GC1213  
+ E  GC1215  
+ E  GC1217  
+ E  GC1219  
+ E  GC1221  
+ E  GC1223  
+ E  GC1225  
+ E  GC1227  
+ E  GC1229  
+ E  GC1231  
+ E  GC1233  
+ E  GC1235  
+ E  GC1237  
+ E  GC1239  
+ E  GC1241  
+ E  GC1243  
+ E  GC1245  
+ E  GC1247  
+ E  GC1249  
+ E  GC1251  
+ E  GC1253  
+ E  GC1255  
+ E  GC1257  
+ E  GC1259  
+ E  GC1261  
+ E  GC1263  
+ E  GC1265  
+ E  GC1267  
+ E  GC1269  
+ E  GC1271  
+ E  GC1273  
+ E  GC1275  
+ E  GC1277  
+ E  GC1279  
+ E  GC1281  
+ E  GC1283  
+ E  GC1285  
+ E  GC1287  
+ E  GC1289  
+ E  GC1291  
+ E  GC1293  
+ E  GC1295  
+ E  GC1297  
+ E  GC1299  
+ E  GC1301  
+ E  GC1303  
+ E  GC1305  
+ E  GC1307  
+ E  GC1309  
+ E  GC1311  
+ E  GC1313  
+ E  GC1315  
+ E  GC1317  
+ E  GC1319  
+ E  GC1321  
+ E  GC1323  
+ E  GC1325  
+ E  GC1327  
+ E  GC1329  
+ E  GC1331  
+ E  GC1333  
+ E  GC1335  
+ E  GC1337  
+ E  GC1339  
+ E  GC1341  
+ E  GC1343  
+ E  GC1345  
+ E  GC1347  
+ E  GC1349  
+ E  GC1351  
+ E  GC1353  
+ E  GC1355  
+ E  GC1357  
+ E  GC1359  
+ E  GC1361  
+ E  GC1363  
+ E  GC1365  
+ E  GC1367  
+ E  GC1369  
+ E  GC1371  
+ E  GC1373  
+ E  GC1375  
+ E  GC1377  
+ E  GC1379  
+ E  GC1381  
+ E  GC1383  
+ E  GC1385  
+ E  GC1387  
+ E  GC1389  
+ E  GC1391  
+ E  GC1393  
+ E  GC1395  
+ E  GC1397  
+ E  GC1399  
+ E  GC1401  
+ E  GC1403  
+ E  GC1405  
+ E  GC1407  
+ E  GC1409  
+ E  GC1411  
+ E  GC1413  
+ E  GC1415  
+ E  GC1417  
+ E  GC1419  
+ E  GC1421  
+ E  GC1423  
+ E  GC1425  
+ E  GC1427  
+ E  GC1429  
+ E  GC1431  
+ E  GC1433  
+ E  GC1435  
+ E  GC1437  
+ E  GC1439  
+ E  GC1441  
+ E  GC1443  
+ E  GC1445  
+ E  GC1447  
+ E  GC1449  
+ E  GC1451  
+ E  GC1453  
+ E  GC1455  
+ E  GC1457  
+ E  GC1459  
+ E  GC1461  
+ E  GC1463  
+ E  GC1465  
+ E  GC1467  
+ E  GC1469  
+ E  GC1471  
+ E  GC1473  
+ E  GC1475  
+ E  GC1477  
+ E  GC1479  
+ E  GC1481  
+ E  GC1483  
+ E  GC1485  
+ E  GC1487  
+ E  GC1489  
+ E  GC1491  
+ E  GC1493  
+ E  GC1495  
+ E  GC1497  
+ E  GC1499  
+ E  GC1501  
+ E  GC1503  
+ E  GC1505  
+ E  GC1507  
+ E  GC1509  
+ E  GC1511  
+ E  GC1513  
+ E  GC1515  
+ E  GC1517  
+ E  GC1519  
+ E  GC1521  
+ E  GC1523  
+ E  GC1525  
+ E  GC1527  
+ E  GC1529  
+ E  GC1531  
+ E  GC1533  
+ E  GC1535  
+ E  GC1537  
+ E  GC1539  
+ E  GC1541  
+ E  GC1543  
+ E  GC1545  
+ E  GC1547  
+ E  GC1549  
+ E  GC1551  
+ E  GC1553  
+ E  GC1555  
+ E  GC1557  
+ E  GC1559  
+ E  GC1561  
+ E  GC1563  
+ E  GC1565  
+ E  GC1567  
+ E  GC1569  
+ E  GC1571  
+ E  GC1573  
+ E  GC1575  
+ E  GC1577  
+ E  GC1579  
+ E  GC1581  
+ E  GC1583  
+ E  GC1585  
+ E  GC1587  
+ E  GC1589  
+ E  GC1591  
+ E  GC1593  
+ E  GC1595  
+ E  GC1597  
+ E  GC1599  
+ E  GC1601  
+ E  GC1603  
+ E  GC1605  
+ E  GC1607  
+ E  GC1609  
+ E  GC1611  
+ E  GC1613  
+ E  GC1615  
+ E  GC1617  
+ E  GC1619  
+ E  GC1621  
+ E  GC1623  
+ E  GC1625  
+ E  GC1627  
+ E  GC1629  
+ E  GC1631  
+ E  GC1633  
+ E  GC1635  
+ E  GC1637  
+ E  GC1639  
+ E  GC1641  
+ E  GC1643  
+ E  GC1645  
+ E  GC1647  
+ E  GC1649  
+ E  GC1651  
+ E  GC1653  
+ E  GC1655  
+ E  GC1657  
+ E  GC1659  
+ E  GC1661  
+ E  GC1663  
+ E  GC1665  
+ E  GC1667  
+ E  GC1669  
+ E  GC1671  
+ E  GC1673  
+ E  GC1675  
+ E  GC1677  
+ E  GC1679  
+ E  GC1681  
+ E  GC1683  
+ E  GC1685  
+ E  GC1687  
+ E  GC1689  
+ E  GC1691  
+ E  GC1693  
+ E  GC1695  
+ E  GC1697  
+ E  GC1699  
+ E  GC1701  
+ E  GC1703  
+ E  GC1705  
+ E  GC1707  
+ E  GC1709  
+ E  GC1711  
+ E  GC1713  
+ E  GC1715  
+ E  GC1717  
+ E  GC1719  
+ E  GC1721  
+ E  GC1723  
+ E  GC1725  
+ E  GC1727  
+ E  GC1729  
+ E  GC1731  
+ E  GC1733  
+ E  GC1735  
+ E  GC1737  
+ E  GC1739  
+ E  GC1741  
+ E  GC1743  
+ E  GC1745  
+ E  GC1747  
+ E  GC1749  
+ E  GC1751  
+ E  GC1753  
+ E  GC1755  
+ E  GC1757  
+ E  GC1759  
+ E  GC1761  
+ E  GC1763  
+ E  GC1765  
+ E  GC1767  
+ E  GC1769  
+ E  GC1771  
+ E  GC1773  
+ E  GC1775  
+ E  GC1777  
+ E  GC1779  
+ E  GC1781  
+ E  GC1783  
+ E  GC1785  
+ E  GC1787  
+ E  GC1789  
+ E  GC1791  
+ E  GC1793  
+ E  GC1795  
+ E  GC1797  
+ E  GC1799  
+ E  GC1801  
+ E  GC1803  
+ E  GC1805  
+ E  GC1807  
+ E  GC1809  
+ E  GC1811  
+ E  GC1813  
+ E  GC1815  
+ E  GC1817  
+ E  GC1819  
+ E  GC1821  
+ E  GC1823  
+ E  GC1825  
+ E  GC1827  
+ E  GC1829  
+ E  GC1831  
+ E  GC1833  
+ E  GC1835  
+ E  GC1837  
+ E  GC1839  
+ E  GC1841  
+ E  GC1843  
+ E  GC1845  
+ E  GC1847  
+ E  GC1849  
+ E  GC1851  
+ E  GC1853  
+ E  GC1855  
+ E  GC1857  
+ E  GC1859  
+ E  GC1861  
+ E  GC1863  
+ E  GC1865  
+ E  GC1867  
+ E  GC1869  
+ E  GC1871  
+ E  GC1873  
+ E  GC1875  
+ E  GC1877  
+ E  GC1879  
+ E  GC1881  
+ E  GC1883  
+ E  GC1885  
+ E  GC1887  
+ E  GC1889  
+ E  GC1891  
+ E  GC1893  
+ E  GC1895  
+ E  GC1897  
+ E  GC1899  
+ E  GC1901  
+ E  GC1903  
+ E  GC1905  
+ E  GC1907  
+ E  GC1909  
+ E  GC1911  
+ E  GC1913  
+ E  GC1915  
+ E  GC1917  
+ E  GC1919  
+ E  GC1921  
+ E  GC1923  
+ E  GC1925  
+ E  GC1927  
+ E  GC1929  
+ E  GC1931  
+ E  GC1933  
+ E  GC1935  
+ E  GC1937  
+ E  GC1939  
+ E  GC1941  
+ E  GC1943  
+ E  GC1945  
+ E  GC1947  
+ E  GC1949  
+ E  GC1951  
+ E  GC1953  
+ E  GC1955  
+ E  GC1957  
+ E  GC1959  
+ E  GC1961  
+ E  GC1963  
+ E  GC1965  
+ E  GC1967  
+ E  GC1969  
+ E  GC1971  
+ E  GC1973  
+ E  GC1975  
+ E  GC1977  
+ E  GC1979  
+ E  GC1981  
+ E  GC1983  
+ E  GC1985  
+ E  GC1987  
+ E  GC1989  
+ E  GC1991  
+ E  GC1993  
+ E  GC1995  
+ E  GC1997  
+ E  GC1999  
+ E  GC2001  
+ E  GC2003  
+ E  GC2005  
+ E  GC2007  
+ E  GC2009  
+ E  GC2011  
+ E  GC2013  
+ E  GC2015  
+ E  GC2017  
+ E  GC2019  
+ E  GC2021  
+ E  GC2023  
+ E  GC2025  
+ E  GC2027  
+ E  GC2029  
+ E  GC2031  
+ E  GC2033  
+ E  GC2035  
+ E  GC2037  
+ E  GC2039  
+ E  GC2041  
+ E  GC2043  
+ E  GC2045  
+ E  GC2047  
+ E  GC2049  
+ E  GC2051  
+ E  GC2053  
+ E  GC2055  
+ E  GC2057  
+ E  GC2059  
+ E  GC2061  
+ E  GC2063  
+ E  GC2065  
+ E  GC2067  
+ E  GC2069  
+ E  GC2071  
+ E  GC2073  
+ E  GC2075  
+ E  GC2077  
+ E  GC2079  
+ E  GC2081  
+ E  GC2083  
+ E  GC2085  
+ E  GC2087  
+ E  GC2089  
+ E  GC2091  
+ E  GC2093  
+ E  GC2095  
+ E  GC2097  
+ E  GC2099  
+ E  GC2101  
+ E  GC2103  
+ E  GC2105  
+ E  GC2107  
+ E  GC2109  
+ E  GC2111  
+ E  GC2113  
+ E  GC2115  
+ E  GC2117  
+ E  GC2119  
+ E  GC2121  
+ E  GC2123  
+ E  GC2125  
+ E  GC2127  
+ E  GC2129  
+ E  GC2131  
+ E  GC2133  
+ E  GC2135  
+ E  GC2137  
+ E  GC2139  
+ E  GC2141  
+ E  GC2143  
+ E  GC2145  
+ E  GC2147  
+ E  GC2149  
+ E  GC2151  
+ E  GC2153  
+ E  GC2155  
+ E  GC2157  
+ E  GC2159  
+ E  GC2161  
+ E  GC2163  
+ E  GC2165  
+ E  GC2167  
+ E  GC2169  
+ E  GC2171  
+ E  GC2173  
+ E  GC2175  
+ E  GC2177  
+ E  GC2179  
+ E  GC2181  
+ E  GC2183  
+ E  GC2185  
+ E  GC2187  
+ E  GC2189  
+ E  GC2191  
+ E  GC2193  
+ E  GC2195  
+ E  GC2197  
+ E  GC2199  
+ E  GC2201  
+ E  GC2203  
+ E  GC2205  
+ E  GC2207  
+ E  GC2209  
+ E  GC2211  
+ E  GC2213  
+ E  GC2215  
+ E  GC2217  
+ E  GC2219  
+ E  GC2221  
+ E  GC2223  
+ E  GC2225  
+ E  GC2227  
+ E  GC2229  
+ E  GC2231  
+ E  GC2233  
+ E  GC2235  
+ E  GC2237  
+ E  GC2239  
+ E  GC2241  
+ E  GC2243  
+ E  GC2245  
+ E  GC2247  
+ E  GC2249  
+ E  GC2251  
+ E  GC2253  
+ E  GC2255  
+ E  GC2257  
+ E  GC2259  
+ E  GC2261  
+ E  GC2263  
+ E  GC2265  
+ E  GC2267  
+ E  GC2269  
+ E  GC2271  
+ E  GC2273  
+ E  GC2275  
+ E  GC2277  
+ E  GC2279  
+ E  GC2281  
+ E  GC2283  
+ E  GC2285  
+ E  GC2287  
+ E  GC2289  
+ E  GC2291  
+ E  GC2293  
+ E  GC2295  
+ E  GC2297  
+ E  GC2299  
+ E  GC2301  
+ E  GC2303  
+ E  GC2305  
+ E  GC2307  
+ E  GC2309  
+ E  GC2311  
+ E  GC2313  
+ E  GC2315  
+ E  GC2317  
+ E  GC2319  
+ E  GC2321  
+ E  GC2323  
+ E  GC2325  
+ E  GC2327  
+ E  GC2329  
+ E  GC2331  
+ E  GC2333  
+ E  GC2335  
+ E  GC2337  
+ E  GC2339  
+ E  GC2341  
+ E  GC2343  
+ E  GC2345  
+ E  GC2347  
+ E  GC2349  
+ E  GC2351  
+ E  GC2353  
+ E  GC2355  
+ E  GC2357  
+ E  GC2359  
+ E  GC2361  
+ E  GC2363  
+ E  GC2365  
+ E  GC2367  
+ E  GC2369  
+ E  GC2371  
+ E  GC2373  
+ E  GC2375  
+ E  GC2377  
+ E  GC2379  
+ E  GC2381  
+ E  GC2383  
+ E  GC2385  
+ E  GC2387  
+ E  GC2389  
+ E  GC2391  
+ E  GC2393  
+ E  GC2395  
+ E  GC2397  
+ E  GC2399  
+ E  GC2401  
+ E  GC2403  
+ E  GC2405  
+ E  GC2407  
+ E  GC2409  
+ E  GC2411  
+ E  GC2413  
+ E  GC2415  
+ E  GC2417  
+ E  GC2419  
+ E  GC2421  
+ E  GC2423  
+ E  GC2425  
+ E  GC2427  
+ E  GC2429  
+ E  GC2431  
+ E  GC2433  
+ E  GC2435  
+ E  GC2437  
+ E  GC2439  
+ E  GC2441  
+ E  GC2443  
+ E  GC2445  
+ E  GC2447  
+ E  GC2449  
+ E  GC2451  
+ E  GC2453  
+ E  GC2455  
+ E  GC2457  
+ E  GC2459  
+ E  GC2461  
+ E  GC2463  
+ E  GC2465  
+ E  GC2467  
+ E  GC2469  
+ E  GC2471  
+ E  GC2473  
+ E  GC2475  
+ E  GC2477  
+ E  GC2479  
+ E  GC2481  
+ E  GC2483  
+ E  GC2485  
+ E  GC2487  
+ E  GC2489  
+ E  GC2491  
+ E  GC2493  
+ E  GC2495  
+ E  GC2497  
+ E  GC2499  
+ E  GC2501  
+ E  GC2503  
+ E  GC2505  
+ E  GC2507  
+ E  GC2509  
+ E  GC2511  
+ E  GC2513  
+ E  GC2515  
+ E  GC2517  
+ E  GC2519  
+ E  GC2521  
+ E  GC2523  
+ E  GC2525  
+ E  GC2527  
+ E  GC2529  
+ E  GC2531  
+ E  GC2533  
+ E  GC2535  
+ E  GC2537  
+ E  GC2539  
+ E  GC2541  
+ E  GC2543  
+ E  GC2545  
+ E  GC2547  
+ E  GC2549  
+ E  GC2551  
+ E  GC2553  
+ E  GC2555  
+ E  GC2557  
+ E  GC2559  
+ E  GC2561  
+ E  GC2563  
+ E  GC2565  
+ E  GC2567  
+ E  GC2569  
+ E  GC2571  
+ E  GC2573  
+ E  GC2575  
+ E  GC2577  
+ E  GC2579  
+ E  GC2581  
+ E  GC2583  
+ E  GC2585  
+ E  GC2587  
+ E  GC2589  
+ E  GC2591  
+ E  GC2593  
+ E  GC2595  
+ E  GC2597  
+ E  GC2599  
+ E  GC2601  
+ E  GC2603  
+ E  GC2605  
+ E  GC2607  
+ E  GC2609  
+ E  GC2611  
+ E  GC2613  
+ E  GC2615  
+ E  GC2617  
+ E  GC2619  
+ E  GC2621  
+ E  GC2623  
+ E  GC2625  
+ E  GC2627  
+ E  GC2629  
+ E  GC2631  
+ E  GC2633  
+ E  GC2635  
+ E  GC2637  
+ E  GC2639  
+ E  GC2641  
+ E  GC2643  
+ E  GC2645  
+ E  GC2647  
+ E  GC2649  
+ E  GC2651  
+ E  GC2653  
+ E  GC2655  
+ E  GC2657  
+ E  GC2659  
+ E  GC2661  
+ E  GC2663  
+ E  GC2665  
+ E  GC2667  
+ E  GC2669  
+ E  GC2671  
+ E  GC2673  
+ E  GC2675  
+ E  GC2677  
+ E  GC2679  
+ E  GC2681  
+ E  GC2683  
+ E  GC2685  
+ E  GC2687  
+ E  GC2689  
+ E  GC2691  
+ E  GC2693  
+ E  GC2695  
+ E  GC2697  
+ E  GC2699  
+ E  GC2701  
+ E  GC2703  
+ E  GC2705  
+ E  GC2707  
+ E  GC2709  
+ E  GC2711  
+ E  GC2713  
+ E  GC2715  
+ E  GC2717  
+ E  GC2719  
+ E  GC2721  
+ E  GC2723  
+ E  GC2725  
+ E  GC2727  
+ E  GC2729  
+ E  GC2731  
+ E  GC2733  
+ E  GC2735  
+ E  GC2737  
+ E  GC2739  
+ E  GC2741  
+ E  GC2743  
+ E  GC2745  
+ E  GC2747  
+ E  GC2749  
+ E  GC2751  
+ E  GC2753  
+ E  GC2755  
+ E  GC2757  
+ E  GC2759  
+ E  GC2761  
+ E  GC2763  
+ E  GC2765  
+ E  GC2767  
+ E  GC2769  
+ E  GC2771  
+ E  GC2773  
+ E  GC2775  
+ E  GC2777  
+ E  GC2779  
+ E  GC2781  
+ E  GC2783  
+ E  GC2785  
+ E  GC2787  
+ E  GC2789  
+ E  GC2791  
+ E  GC2793  
+ E  GC2795  
+ E  GC2797  
+ E  GC2799  
+ E  GC2801  
+ E  GC2803  
+ E  GC2805  
+ E  GC2807  
+ E  GC2809  
+ E  GC2811  
+ E  GC2813  
+ E  GC2815  
+ E  GC2817  
+ E  GC2819  
+ E  GC2821  
+ E  GC2823  
+ E  GC2825  
+ E  GC2827  
+ E  GC2829  
+ E  GC2831  
+ E  GC2833  
+ E  GC2835  
+ E  GC2837  
+ E  GC2839  
+ E  GC2841  
+ E  GC2843  
+ E  GC2845  
+ E  GC2847  
+ E  GC2849  
+ E  GC2851  
+ E  GC2853  
+ E  GC2855  
+ E  GC2857  
+ E  GC2859  
+ E  GC2861  
+ E  GC2863  
+ E  GC2865  
+ E  GC2867  
+ E  GC2869  
+ E  GC2871  
+ E  GC2873  
+ E  GC2875  
+ E  GC2877  
+ E  GC2879  
+ E  GC2881  
+ E  GC2883  
+ E  GC2885  
+ E  GC2887  
+ E  GC2889  
+ E  GC2891  
+ E  GC2893  
+ E  GC2895  
+ E  GC2897  
+ E  GC2899  
+ E  GC2901  
+ E  GC2903  
+ E  GC2905  
+ E  GC2907  
+ E  GC2909  
+ E  GC2911  
+ E  GC2913  
+ E  GC2915  
+ E  GC2917  
+ E  GC2919  
+ E  GC2921  
+ E  GC2923  
+ E  GC2925  
+ E  GC2927  
+ E  GC2929  
+ E  GC2931  
+ E  GC2933  
+ E  GC2935  
+ E  GC2937  
+ E  GC2939  
+ E  GC2941  
+ E  GC2943  
+ E  GC2945  
+ E  GC2947  
+ E  GC2949  
+ E  GC2951  
+ E  GC2953  
+ E  GC2955  
+ E  GC2957  
+ E  GC2959  
+ E  GC2961  
+ E  GC2963  
+ E  GC2965  
+ E  GC2967  
+ E  GC2969  
+ E  GC2971  
+ E  GC2973  
+ E  GC2975  
+ E  GC2977  
+ E  GC2979  
+ E  GC2981  
+ E  GC2983  
+ E  GC2985  
+ E  GC2987  
+ E  GC2989  
+ E  GC2991  
+ E  GC2993  
+ E  GC2995  
+ E  GC2997  
+ E  GC2999  
+ E  GC3001  
+ E  GC3003  
+ E  GC3005  
+ E  GC3007  
+ E  GC3009  
+ E  GC3011  
+ E  GC3013  
+ E  GC3015  
+ E  GC3017  
+ E  GC3019  
+ E  GC3021  
+ E  GC3023  
+ E  GC3025  
+ E  GC3027  
+ E  GC3029  
+ E  GC3031  
+ E  GC3033  
+ E  GC3035  
+ E  GC3037  
+ E  GC3039  
+ E  GC3041  
+ E  GC3043  
+ E  GC3045  
+ E  GC3047  
+ E  GC3049  
+ E  GC3051  
+ E  GC3053  
+ E  GC3055  
+ E  GC3057  
+ E  GC3059  
+ E  GC3061  
+ E  GC3063  
+ E  GC3065  
+ E  GC3067  
+ E  GC3069  
+ E  GC3071  
+ E  GC3073  
+ E  GC3075  
+ E  GC3077  
+ E  GC3079  
+ E  GC3081  
+ E  GC3083  
+ E  GC3085  
+ E  GC3087  
+ E  GC3089  
+ E  GC3091  
+ E  GC3093  
+ E  GC3095  
+ E  GC3097  
+ E  GC3099  
+ E  GC3101  
+ E  GC3103  
+ E  GC3105  
+ E  GC3107  
+ E  GC3109  
+ E  GC3111  
+ E  GC3113  
+ E  GC3115  
+ E  GC3117  
+ E  GC3119  
+ E  GC3121  
+ E  GC3123  
+ E  GC3125  
+ E  GC3127  
+ E  GC3129  
+ E  GC3131  
+ E  GC3133  
+ E  GC3135  
+ E  GC3137  
+ E  GC3139  
+ E  GC3141  
+ E  GC3143  
+ E  GC3145  
+ E  GC3147  
+ E  GC3149  
+ E  GC3151  
+ E  GC3153  
+ E  GC3155  
+ E  GC3157  
+ E  GC3159  
+ E  GC3161  
+ E  GC3163  
+ E  GC3165  
+ E  GC3167  
+ E  GC3169  
+ E  GC3171  
+ E  GC3173  
+ E  GC3175  
+ E  GC3177  
+ E  GC3179  
+ E  GC3181  
+ E  GC3183  
+ E  GC3185  
+ E  GC3187  
+ E  GC3189  
+ E  GC3191  
+ E  GC3193  
+ E  GC3195  
+ E  GC3197  
+ E  GC3199  
+ E  GC3201  
+ E  GC3203  
+ E  GC3205  
+ E  GC3207  
+ E  GC3209  
+ E  GC3211  
+ E  GC3213  
+ E  GC3215  
+ E  GC3217  
+ E  GC3219  
+ E  GC3221  
+ E  GC3223  
+ E  GC3225  
+ E  GC3227  
+ E  GC3229  
+ E  GC3231  
+ E  GC3233  
+ E  GC3235  
+ E  GC3237  
+ E  GC3239  
+ E  GC3241  
+ E  GC3243  
+ E  GC3245  
+ E  GC3247  
+ E  GC3249  
+ E  GC3251  
+ E  GC3253  
+ E  GC3255  
+ E  GC3257  
+ E  GC3259  
+ E  GC3261  
+ E  GC3263  
+ E  GC3265  
+ E  GC3267  
+ E  GC3269  
+ E  GC3271  
+ E  GC3273  
+ E  GC3275  
+ E  GC3277  
+ E  GC3279  
+ E  GC3281  
+ E  GC3283  
+ E  GC3285  
+ E  GC3287  
+ E  GC3289  
+ E  GC3291  
+ E  GC3293  
+ E  GC3295  
+ E  GC3297  
+ E  GC3299  
+ E  GC3301  
+ E  GC3303  
+ E  GC3305  
+ E  GC3307  
+ E  GC3309  
+ E  GC3311  
+ E  GC3313  
+ E  GC3315  
+ E  GC3317  
+ E  GC3319  
+ E  GC3321  
+ E  GC3323  
+ E  GC3325  
+ E  GC3327  
+ E  GC3329  
+ E  GC3331  
+ E  GC3333  
+ E  GC3335  
+ E  GC3337  
+ E  GC3339  
+ E  GC3341  
+ E  GC3343  
+ E  GC3345  
+ E  GC3347  
+ E  GC3349  
+ E  GC3351  
+ E  GC3353  
+ E  GC3355  
+ E  GC3357  
+ E  GC3359  
+ E  GC3361  
+ E  GC3363  
+ E  GC3365  
+ E  GC3367  
+ E  GC3369  
+ E  GC3371  
+ E  GC3373  
+ E  GC3375  
+ E  GC3377  
+ E  GC3379  
+ E  GC3381  
+ E  GC3383  
+ E  GC3385  
+ E  GC3387  
+ E  GC3389  
+ E  GC3391  
+ E  GC3393  
+ E  GC3395  
+ E  GC3397  
+ E  GC3399  
+ E  GC3401  
+ E  GC3403  
+ E  GC3405  
+ E  GC3407  
+ E  GC3409  
+ E  GC3411  
+ E  GC3413  
+ E  GC3415  
+ E  GC3417  
+ E  GC3419  
+ E  GC3421  
+ E  GC3423  
+ E  GC3425  
+ E  GC3427  
+ E  GC3429  
+ E  GC3431  
+ E  GC3433  
+ E  GC3435  
+ E  GC3437  
+ E  GC3439  
+ E  GC3441  
+ E  GC3443  
+ E  GC3445  
+ E  GC3447  
+ E  GC3449  
+ E  GC3451  
+ E  GC3453  
+ E  GC3455  
+ E  GC3457  
+ E  GC3459  
+ E  GC3461  
+ E  GC3463  
+ E  GC3465  
+ E  GC3467  
+ E  GC3469  
+ E  GC3471  
+ E  GC3473  
+ E  GC3475  
+ E  GC3477  
+ E  GC3479  
+ E  GC3481  
+ E  GC3483  
+ E  GC3485  
+ E  GC3487  
+ E  GC3489  
+ E  GC3491  
+ E  GC3493  
+ E  GC3495  
+ E  GC3497  
+ E  GC3499  
+ E  GC3501  
+ E  GC3503  
+ E  GC3505  
+ E  GC3507  
+ E  GC3509  
+ E  GC3511  
+ E  GC3513  
+ E  GC3515  
+ E  GC3517  
+ E  GC3519  
+ E  GC3521  
+ E  GC3523  
+ E  GC3525  
+ E  GC3527  
+ E  GC3529  
+ E  GC3531  
+ E  GC3533  
+ E  GC3535  
+ E  GC3537  
+ E  GC3539  
+ E  GC3541  
+ E  GC3543  
+ E  GC3545  
+ E  GC3547  
+ E  GC3549  
+ E  GC3551  
+ E  GC3553  
+ E  GC3555  
+ E  GC3557  
+ E  GC3559  
+ E  GC3561  
+ E  GC3563  
+ E  GC3565  
+ E  GC3567  
+ E  GC3569  
+ E  GC3571  
+ E  GC3573  
+ E  GC3575  
+ E  GC3577  
+ E  GC3579  
+ E  GC3581  
+ E  GC3583  
+ E  GC3585  
+ E  GC3587  
+ E  GC3589  
+ E  GC3591  
+ E  GC3593  
+ E  GC3595  
+ E  GC3597  
+ E  GC3599  
+ E  GC3601  
+ E  GC3603  
+ E  GC3605  
+ E  GC3607  
+ E  GC3609  
+ E  GC3611  
+ E  GC3613  
+ E  GC3615  
+ E  GC3617  
+ E  GC3619  
+ E  GC3621  
+ E  GC3623  
+ E  GC3625  
+ E  GC3627  
+ E  GC3629  
+ E  GC3631  
+ E  GC3633  
+ E  GC3635  
+ E  GC3637  
+ E  GC3639  
+ E  GC3641  
+ E  GC3643  
+ E  GC3645  
+ E  GC3647  
+ E  GC3649  
+ E  GC3651  
+ E  GC3653  
+ E  GC3655  
+ E  GC3657  
+ E  GC3659  
+ E  GC3661  
+ E  GC3663  
+ E  GC3665  
+ E  GC3667  
+ E  GC3669  
+ E  GC3671  
+ E  GC3673  
+ E  GC3675  
+ E  GC3677  
+ E  GC3679  
+ E  GC3681  
+ E  GC3683  
+ E  GC3685  
+ E  GC3687  
+ E  GC3689  
+ E  GC3691  
+ E  GC3693  
+ E  GC3695  
+ E  GC3697  
+ E  GC3699  
+ E  GC3701  
+ E  GC3703  
+ E  GC3705  
+ E  GC3707  
+ E  GC3709  
+ E  GC3711  
+ E  GC3713  
+ E  GC3715  
+ E  GC3717  
+ E  GC3719  
+ E  GC3721  
+ E  GC3723  
+ E  GC3725  
+ E  GC3727  
+ E  GC3729  
+ E  GC3731  
+ E  GC3733  
+ E  GC3735  
+ E  GC3737  
+ E  GC3739  
+ E  GC3741  
+ E  GC3743  
+ E  GC3745  
+ E  GC3747  
+ E  GC3749  
+ E  GC3751  
+ E  GC3753  
+ E  GC3755  
+ E  GC3757  
+ E  GC3759  
+ E  GC3761  
+ E  GC3763  
+ E  GC3765  
+ E  GC3767  
+ E  GC3769  
+ E  GC3771  
+ E  GC3773  
+ E  GC3775  
+ E  GC3777  
+ E  GC3779  
+ E  GC3781  
+ E  GC3783  
+ E  GC3785  
+ E  GC3787  
+ E  GC3789  
+ E  GC3791  
+ E  GC3793  
+ E  GC3795  
+ E  GC3797  
+ E  GC3799  
+ E  GC3801  
+ E  GC3803  
+ E  GC3805  
+ E  GC3807  
+ E  GC3809  
+ E  GC3811  
+ E  GC3813  
+ E  GC3815  
+ E  GC3817  
+ E  GC3819  
+ E  GC3821  
+ E  GC3823  
+ E  GC3825  
+ E  GC3827  
+ E  GC3829  
+ E  GC3831  
+ E  GC3833  
+ E  GC3835  
+ E  GC3837  
+ E  GC3839  
+ E  GC3841  
+ E  GC3843  
+ E  GC3845  
+ E  GC3847  
+ E  GC3849  
+ E  GC3851  
+ E  GC3853  
+ E  GC3855  
+ E  GC3857  
+ E  GC3859  
+ E  GC3861  
+ E  GC3863  
+ E  GC3865  
+ E  GC3867  
+ E  GC3869  
+ E  GC3871  
+ E  GC3873  
+ E  GC3875  
+ E  GC3877  
+ E  GC3879  
+ E  GC3881  
+ E  GC3883  
+ E  GC3885  
+ E  GC3887  
+ E  GC3889  
+ E  GC3891  
+ E  GC3893  
+ E  GC3895  
+ E  GC3897  
+ E  GC3899  
+ E  GC3901  
+ E  GC3903  
+ E  GC3905  
+ E  GC3907  
+ E  GC3909  
+ E  GC3911  
+ E  GC3913  
+ E  GC3915  
+ E  GC3917  
+ E  GC3919  
+ E  GC3921  
+ E  GC3923  
+ E  GC3925  
+ E  GC3927  
+ E  GC3929  
+ E  GC3931  
+ E  GC3933  
+ E  GC3935  
+ E  GC3937  
+ E  GC3939  
+ E  GC3941  
+ E  GC3943  
+ E  GC3945  
+ E  GC3947  
+ E  GC3949  
+ E  GC3951  
+ E  GC3953  
+ E  GC3955  
+ E  GC3957  
+ E  GC3959  
+ E  GC3961  
+ E  GC3963  
+ E  GC3965  
+ E  GC3967  
+ E  GC3969  
+ E  GC3971  
+ E  GC3973  
+ E  GC3975  
+ E  GC3977  
+ E  GC3979  
+ E  GC3981  
+ E  GC3983  
+ E  GC3985  
+ E  GC3987  
+ E  GC3989  
+ E  GC3991  
+ E  GC3993  
+ E  GC3995  
+ E  GC3997  
+ E  GC3999  
+ E  GC4001  
+ E  GC4003  
+ E  GC4005  
+ E  GC4007  
+ E  GC4009  
+ E  GC4011  
+ E  GC4013  
+ E  GC4015  
+ E  GC4017  
+ E  GC4019  
+ E  GC4021  
+ E  GC4023  
+ E  GC4025  
+ E  GC4027  
+ E  GC4029  
+ E  GC4031  
+ E  GC4033  
+ E  GC4035  
+ E  GC4037  
+ E  GC4039  
+ E  GC4041  
+ E  GC4043  
+ E  GC4045  
+ E  GC4047  
+ E  GC4049  
+ E  GC4051  
+ E  GC4053  
+ E  GC4055  
+ E  GC4057  
+ E  GC4059  
+ E  GC4061  
+ E  GC4063  
+ E  GC4065  
+ E  GC4067  
+ E  GC4069  
+ E  GC4071  
+ E  GC4073  
+ E  GC4075  
+ E  GC4077  
+ E  GC4079  
+ E  GC4081  
+ E  GC4083  
+ E  GC4085  
+ E  GC4087  
+ E  GC4089  
+ E  GC4091  
+ E  GC4093  
+ E  GC4095  
+ E  GC4097  
+ E  GC4099  
+ E  GC4101  
+ E  GC4103  
+ E  GC4105  
+ E  GC4107  
+ E  GC4109  
+ E  GC4111  
+ E  GC4113  
+ E  GC4115  
+ E  GC4117  
+ E  GC4119  
+ E  GC4121  
+ E  GC4123  
+ E  GC4125  
+ E  GC4127  
+ E  GC4129  
+ E  GC4131  
+ E  GC4133  
+ E  GC4135  
+ E  GC4137  
+ E  GC4139  
+ E  GC4141  
+ E  GC4143  
+ E  GC4145  
+ E  GC4147  
+ E  GC4149  
+ E  GC4151  
+ E  GC4153  
+ E  GC4155  
+ E  GC4157  
+ E  GC4159  
+ E  GC4161  
+ E  GC4163  
+ E  GC4165  
+ E  GC4167  
+ E  GC4169  
+ E  GC4171  
+ E  GC4173  
+ E  GC4175  
+ E  GC4177  
+ E  GC4179  
+ E  GC4181  
+ E  GC4183  
+ E  GC4185  
+ E  GC4187  
+ E  GC4189  
+ E  GC4191  
+ E  GC4193  
+ E  GC4195  
+ E  GC4197  
+ E  GC4199  
+ E  GC4201  
+ E  GC4203  
+ E  GC4205  
+ E  GC4207  
+ E  GC4209  
+ E  GC4211  
+ E  GC4213  
+ E  GC4215  
+ E  GC4217  
+ E  GC4219  
+ E  GC4221  
+ E  GC4223  
+ E  GC4225  
+ E  GC4227  
+ E  GC4229  
+ E  GC4231  
+ E  GC4233  
+ E  GC4235  
+ E  GC4237  
+ E  GC4239  
+ E  GC4241  
+ E  GC4243  
+ E  GC4245  
+ E  GC4247  
+ E  GC4249  
+ E  GC4251  
+ E  GC4253  
+ E  GC4255  
+ E  GC4257  
+ E  GC4259  
+ E  GC4261  
+ E  GC4263  
+ E  GC4265  
+ E  GC4267  
+ E  GC4269  
+ E  GC4271  
+ E  GC4273  
+ E  GC4275  
+ E  GC4277  
+ E  GC4279  
+ E  GC4281  
+ E  GC4283  
+ E  GC4285  
+ E  GC4287  
+ E  GC4289  
+ E  GC4291  
+ E  GC4293  
+ E  GC4295  
+ E  GC4297  
+ E  GC4299  
+ E  GC4301  
+ E  GC4303  
+ E  GC4305  
+ E  GC4307  
+ E  GC4309  
+ E  GC4311  
+ E  GC4313  
+ E  GC4315  
+ E  GC4317  
+ E  GC4319  
+ E  GC4321  
+ E  GC4323  
+ E  GC4325  
+ E  GC4327  
+ E  GC4329  
+ E  GC4331  
+ E  GC4333  
+ E  GC4335  
+ E  GC4337  
+ E  GC4339  
+ E  GC4341  
+ E  GC4343  
+ E  GC4345  
+ E  GC4347  
+ E  GC4349  
+ E  GC4351  
+ E  GC4353  
+ E  GC4355  
+ E  GC4357  
+ E  GC4359  
+ E  GC4361  
+ E  GC4363  
+ E  GC4365  
+ E  GC4367  
+ E  GC4369  
+ E  GC4371  
+ E  GC4373  
+ E  GC4375  
+ E  GC4377  
+ E  GC4379  
+ E  GC4381  
+ E  GC4383  
+ E  GC4385  
+ E  GC4387  
+ E  GC4389  
+ E  GC4391  
+ E  GC4393  
+ E  GC4395  
+ E  GC4397  
+ E  GC4399  
+ E  GC4401  
+ E  GC4403  
+ E  GC4405  
+ E  GC4407  
+ E  GC4409  
+ E  GC4411  
+ E  GC4413  
+ E  GC4415  
+ E  GC4417  
+ E  GC4419  
+ E  GC4421  
+ E  GC4423  
+ E  GC4425  
+ E  GC4427  
+ E  GC4429  
+ E  GC4431  
+ E  GC4433  
+ E  GC4435  
+ E  GC4437  
+ E  GC4439  
+ E  GC4441  
+ E  GC4443  
+ E  GC4445  
+ E  GC4447  
+ E  GC4449  
+ E  GC4451  
+ E  GC4453  
+ E  GC4455  
+ E  GC4457  
+ E  GC4459  
+ E  GC4461  
+ E  GC4463  
+ E  GC4465  
+ E  GC4467  
+ E  GC4469  
+ E  GC4471  
+ E  GC4473  
+ E  GC4475  
+ E  GC4477  
+ E  GC4479  
+ E  GC4481  
+ E  GC4483  
+ E  GC4485  
+ E  GC4487  
+ E  GC4489  
+ E  GC4491  
+ E  GC4493  
+ E  GC4495  
+ E  GC4497  
+ E  GC4499  
+ E  GC4501  
+ E  GC4503  
+ E  GC4505  
+ E  GC4507  
+ E  GC4509  
+ E  GC4511  
+ E  GC4513  
+ E  GC4515  
+ E  GC4517  
+ E  GC4519  
+ E  GC4521  
+ E  GC4523  
+ E  GC4525  
+ E  GC4527  
+ E  GC4529  
+ E  GC4531  
+ E  GC4533  
+ E  GC4535  
+ E  GC4537  
+ E  GC4539  
+ E  GC4541  
+ E  GC4543  
+ E  GC4545  
+ E  GC4547  
+ E  GC4549  
+ E  GC4551  
+ E  GC4553  
+ E  GC4555  
+ E  GC4557  
+ E  GC4559  
+ E  GC4561  
+ E  GC4563  
+ E  GC4565  
+ E  GC4567  
+ E  GC4569  
+ E  GC4571  
+ E  GC4573  
+ E  GC4575  
+ E  GC4577  
+ E  GC4579  
+ E  GC4581  
+ E  GC4583  
+ E  GC4585  
+ E  GC4587  
+ E  GC4589  
+ E  GC4591  
+ E  GC4593  
+ E  GC4595  
+ E  GC4597  
+ E  GC4599  
+ E  GC4601  
+ E  GC4603  
+ E  GC4605  
+ E  GC4607  
+ E  GC4609  
+ E  GC4611  
+ E  GC4613  
+ E  GC4615  
+ E  GC4617  
+ E  GC4619  
+ E  GC4621  
+ E  GC4623  
+ E  GC4625  
+ E  GC4627  
+ E  GC4629  
+ E  GC4631  
+ E  GC4633  
+ E  GC4635  
+ E  GC4637  
+ E  GC4639  
+ E  GC4641  
+ E  GC4643  
+ E  GC4645  
+ E  GC4647  
+ E  GC4649  
+ E  GC4651  
+ E  GC4653  
+ E  GC4655  
+ E  GC4657  
+ E  GC4659  
+ E  GC4661  
+ E  GC4663  
+ E  GC4665  
+ E  GC4667  
+ E  GC4669  
+ E  GC4671  
+ E  GC4673  
+ E  GC4675  
+ E  GC4677  
+ E  GC4679  
+ E  GC4681  
+ E  GC4683  
+ E  GC4685  
+ E  GC4687  
+ E  GC4689  
+ E  GC4691  
+ E  GC4693  
+ E  GC4695  
+ E  GC4697  
+ E  GC4699  
+ E  GC4701  
+ E  GC4703  
+ E  GC4705  
+ E  GC4707  
+ E  GC4709  
+ E  GC4711  
+ E  GC4713  
+ E  GC4715  
+ E  GC4717  
+ E  GC4719  
+ E  GC4721  
+ E  GC4723  
+ E  GC4725  
+ E  GC4727  
+ E  GC4729  
+ E  GC4731  
+ E  GC4733  
+ E  GC4735  
+ E  GC4737  
+ E  GC4739  
+ E  GC4741  
+ E  GC4743  
+ E  GC4745  
+ E  GC4747  
+ E  GC4749  
+ E  GC4751  
+ E  GC4753  
+ E  GC4755  
+ E  GC4757  
+ E  GC4759  
+ E  GC4761  
+ E  GC4763  
+ E  GC4765  
+ E  GC4767  
+ E  GC4769  
+ E  GC4771  
+ E  GC4773  
+ E  GC4775  
+ E  GC4777  
+ E  GC4779  
+ E  GC4781  
+ E  GC4783  
+ E  GC4785  
+ E  GC4787  
+ E  GC4789  
+ E  GC4791  
+ E  GC4793  
+ E  GC4795  
+ E  GC4797  
+ E  GC4799  
+ E  GC4801  
+ E  GC4803  
+ E  GC4805  
+ E  GC4807  
+ E  GC4809  
+ E  GC4811  
+ E  GC4813  
+ E  GC4815  
+ E  GC4817  
+ E  GC4819  
+ E  GC4821  
+ E  GC4823  
+ E  GC4825  
+ E  GC4827  
+ E  GC4829  
+ E  GC4831  
+ E  GC4833  
+ E  GC4835  
+ E  GC4837  
+ E  GC4839  
+ E  GC4841  
+ E  GC4843  
+ E  GC4845  
+ E  GC4847  
+ E  GC4849  
+ E  GC4851  
+ E  GC4853  
+ E  GC4855  
+ E  GC4857  
+ E  GC4859  
+ E  GC4861  
+ E  GC4863  
+ E  GC4865  
+ E  GC4867  
+ E  GC4869  
+ E  GC4871  
+ E  GC4873  
+ E  GC4875  
+ E  GC4877  
+ E  GC4879  
+ E  GC4881  
+ E  GC4883  
+ E  GC4885  
+ E  GC4887  
+ E  GC4889  
+ E  GC4891  
+ E  GC4893  
+ E  GC4895  
+ E  GC4897  
+ E  GC4899  
+ E  GC4901  
+ E  GC4903  
+ E  GC4905  
+ E  GC4907  
+ E  GC4909  
+ E  GC4911  
+ E  GC4913  
+ E  GC4915  
+ E  GC4917  
+ E  GC4919  
+ E  GC4921  
+ E  GC4923  
+ E  GC4925  
+ E  GC4927  
+ E  GC4929  
+ E  GC4931  
+ E  GC4933  
+ E  GC4935  
+ E  GC4937  
+ E  GC4939  
+ E  GC4941  
+ E  GC4943  
+ E  GC4945  
+ E  GC4947  
+ E  GC4949  
+ E  GC4951  
+ E  GC4953  
+ E  GC4955  
+ E  GC4957  
+ E  GC4959  
+ E  GC4961  
+ E  GC4963  
+ E  GC4965  
+ E  GC4967  
+ E  GC4969  
+ E  GC4971  
+ E  GC4973  
+ E  GC4975  
+ E  GC4977  
+ E  GC4979  
+ E  GC4981  
+ E  GC4983  
+ E  GC4985  
+ E  GC4987  
+ E  GC4989  
+ E  GC4991  
+ E  GC4993  
+ E  GC4995  
+ E  GC4997  
+ E  GC4999  
+ E  GC5001  
+ E  GC5003  
+ E  GC5005  
+ E  GC5007  
+ E  GC5009  
+ E  GC5011  
+ E  GC5013  
+ E  GC5015  
+ E  GC5017  
+ E  GC5019  
+ E  GC5021  
+ E  GC5023  
+ E  GC5025  
+ E  GC5027  
+ E  GC5029  
+ E  GC5031  
+ E  GC5033  
+ E  GC5035  
+ E  GC5037  
+ E  GC5039  
+ E  GC5041  
+ E  GC5043  
+ E  GC5045  
+ E  GC5047  
+ E  GC5049  
+ E  GC5051  
+ E  GC5053  
+ E  GC5055  
+ E  GC5057  
+ E  GC5059  
+ E  GC5061  
+ E  GC5063  
+ E  GC5065  
+ E  GC5067  
+ E  GC5069  
+ E  GC5071  
+ E  GC5073  
+ E  GC5075  
+ E  GC5077  
+ E  GC5079  
+ E  GC5081  
+ E  GC5083  
+ E  GC5085  
+ E  GC5087  
+ E  GC5089  
+ E  GC5091  
+ E  GC5093  
+ E  GC5095  
+ E  GC5097  
+ E  GC5099  
+ E  GC5101  
+ E  GC5103  
+ E  GC5105  
+ E  GC5107  
+ E  GC5109  
+ E  GC5111  
+ E  GC5113  
+ E  GC5115  
+ E  GC5117  
+ E  GC5119  
+ E  GC5121  
+ E  GC5123  
+ E  GC5125  
+ E  GC5127  
+ E  GC5129  
+ E  GC5131  
+ E  GC5133  
+ E  GC5135  
+ E  GC5137  
+ E  GC5139  
+ E  GC5141  
+ E  GC5143  
+ E  GC5145  
+ E  GC5147  
+ E  GC5149  
+ E  GC5151  
+ E  GC5153  
+ E  GC5155  
+ E  GC5157  
+ E  GC5159  
+ E  GC5161  
+ E  GC5163  
+ E  GC5165  
+ E  GC5167  
+ E  GC5169  
+ E  GC5171  
+ E  GC5173  
+ E  GC5175  
+ E  GC5177  
+ E  GC5179  
+ E  GC5181  
+ E  GC5183  
+ E  GC5185  
+ E  GC5187  
+ E  GC5189  
+ E  GC5191  
+ E  GC5193  
+ E  GC5195  
+ E  GC5197  
+ E  GC5199  
+ E  GC5201  
+ E  GC5203  
+ E  GC5205  
+ E  GC5207  
+ E  GC5209  
+ E  GC5211  
+ E  GC5213  
+ E  GC5215  
+ E  GC5217  
+ E  GC5219  
+ E  GC5221  
+ E  GC5223  
+ E  GC5225  
+ E  GC5227  
+ E  GC5229  
+ E  GC5231  
+ E  GC5233  
+ E  GC5235  
+ E  GC5237  
+ E  GC5239  
+ E  GC5241  
+ E  GC5243  
+ E  GC5245  
+ E  GC5247  
+ E  GC5249  
+ E  GC5251  
+ E  GC5253  
+ E  GC5255  
+ E  GC5257  
+ E  GC5259  
+ E  GC5261  
+ E  GC5263  
+ E  GC5265  
+ E  GC5267  
+ E  GC5269  
+ E  GC5271  
+ E  GC5273  
+ E  GC5275  
+ E  GC5277  
+ E  GC5279  
+ E  GC5281  
+ E  GC5283  
+ E  GC5285  
+ E  GC5287  
+ E  GC5289  
+ E  GC5291  
+ E  GC5293  
+ E  GC5295  
+ E  GC5297  
+ E  GC5299  
+ E  GC5301  
+ E  GC5303  
+ E  GC5305  
+ E  GC5307  
+ E  GC5309  
+ E  GC5311  
+ E  GC5313  
+ E  GC5315  
+ E  GC5317  
+ E  GC5319  
+ E  GC5321  
+ E  GC5323  
+ E  GC5325  
+ E  GC5327  
+ E  GC5329  
+ E  GC5331  
+ E  GC5333  
+ E  GC5335  
+ E  GC5337  
+ E  GC5339  
+ E  GC5341  
+ E  GC5343  
+ E  GC5345  
+ E  GC5347  
+ E  GC5349  
+ E  GC5351  
+ E  GC5353  
+ E  GC5355  
+ E  GC5357  
+ E  GC5359  
+ E  GC5361  
+ E  GC5363  
+ E  GC5365  
+ E  GC5367  
+ E  GC5369  
+ E  GC5371  
+ E  GC5373  
+ E  GC5375  
+ E  GC5377  
+ E  GC5379  
+ E  GC5381  
+ E  GC5383  
+ E  GC5385  
+ E  GC5387  
+ E  GC5389  
+ E  GC5391  
+ E  GC5393  
+ E  GC5395  
+ E  GC5397  
+ E  GC5399  
+ E  GC5401  
+ E  GC5403  
+ E  GC5405  
+ E  GC5407  
+ E  GC5409  
+ E  GC5411  
+ E  GC5413  
+ E  GC5415  
+ E  GC5417  
+ E  GC5419  
+ E  GC5421  
+ E  GC5423  
+ E  GC5425  
+ E  GC5427  
+ E  GC5429  
+ E  GC5431  
+ E  GC5433  
+ E  GC5435  
+ E  GC5437  
+ E  GC5439  
+ E  GC5441  
+ E  GC5443  
+ E  GC5445  
+ E  GC5447  
+ E  GC5449  
+ E  GC5451  
+ E  GC5453  
+ E  GC5455  
+ E  GC5457  
+ E  GC5459  
+ E  GC5461  
+ E  GC5463  
+ E  GC5465  
+ E  GC5467  
+ E  GC5469  
+ E  GC5471  
+ E  GC5473  
+ E  GC5475  
+ E  GC5477  
+ E  GC5479  
+ E  GC5481  
+ E  GC5483  
+ E  GC5485  
+ E  GC5487  
+ E  GC5489  
+ E  GC5491  
+ E  GC5493  
+ E  GC5495  
+ E  GC5497  
+ E  GC5499  
+ E  GC5501  
+ E  GC5503  
+ E  GC5505  
+ E  GC5507  
+ E  GC5509  
+ E  GC5511  
+ E  GC5513  
+ E  GC5515  
+ E  GC5517  
+ E  GC5519  
+ E  GC5521  
+ E  GC5523  
+ E  GC5525  
+ E  GC5527  
+ E  GC5529  
+ E  GC5531  
+ E  GC5533  
+ E  GC5535  
+ E  GC5537  
+ E  GC5539  
+ E  GC5541  
+ E  GC5543  
+ E  GC5545  
+ E  GC5547  
+ E  GC5549  
+ E  GC5551  
+ E  GC5553  
+ E  GC5555  
+ E  GC5557  
+ E  GC5559  
+ E  GC5561  
+ E  GC5563  
+ E  GC5565  
+ E  GC5567  
+ E  GC5569  
+ E  GC5571  
+ E  GC5573  
+ E  GC5575  
+ E  GC5577  
+ E  GC5579  
+ E  GC5581  
+ E  GC5583  
+ E  GC5585  
+ E  GC5587  
+ E  GC5589  
+ E  GC5591  
+ E  GC5593  
+ E  GC5595  
+ E  GC5597  
+ E  GC5599  
+ E  GC5601  
+ E  GC5603  
+ E  GC5605  
+ E  GC5607  
+ E  GC5609  
+ E  GC5611  
+ E  GC5613  
+ E  GC5615  
+ E  GC5617  
+ E  GC5619  
+ E  GC5621  
+ E  GC5623  
+ E  GC5625  
+ E  GC5627  
+ E  GC5629  
+ E  GC5631  
+ E  GC5633  
+ E  GC5635  
+ E  GC5637  
+ E  GC5639  
+ E  GC5641  
+ E  GC5643  
+ E  GC5645  
+ E  GC5647  
+ E  GC5649  
+ E  GC5651  
+ E  GC5653  
+ E  GC5655  
+ E  GC5657  
+ E  GC5659  
+ E  GC5661  
+ E  GC5663  
+ E  GC5665  
+ E  GC5667  
+ E  GC5669  
+ E  GC5671  
+ E  GC5673  
+ E  GC5675  
+ E  GC5677  
+ E  GC5679  
+ E  GC5681  
+ E  GC5683  
+ E  GC5685  
+ E  GC5687  
+ E  GC5689  
+ E  GC5691  
+ E  GC5693  
+ E  GC5695  
+ E  GC5697  
+ E  GC5699  
+ E  GC5701  
+ E  GC5703  
+ E  GC5705  
+ E  GC5707  
+ E  GC5709  
+ E  GC5711  
+ E  GC5713  
+ E  GC5715  
+ E  GC5717  
+ E  GC5719  
+ E  GC5721  
+ E  GC5723  
+ E  GC5725  
+ E  GC5727  
+ E  GC5729  
+ E  GC5731  
+ E  GC5733  
+ E  GC5735  
+ E  GC5737  
+ E  GC5739  
+ E  GC5741  
+ E  GC5743  
+ E  GC5745  
+ E  GC5747  
+ E  GC5749  
+ E  GC5751  
+ E  GC5753  
+ E  GC5755  
+ E  GC5757  
+ E  GC5759  
+ E  GC5761  
+ E  GC5763  
+ E  GC5765  
+ E  GC5767  
+ E  GC5769  
+ E  GC5771  
+ E  GC5773  
+ E  GC5775  
+ L  GC5776  
+ L  GC5777  
+ L  GC5778  
+ L  GC5779  
+ L  GC5780  
+ L  GC5781  
+ L  GC5782  
+ L  GC5783  
+ L  GC5784  
+ L  GC5785  
+ L  GC5786  
+ L  GC5787  
+ L  GC5788  
+ L  GC5789  
+ L  GC5790  
+ L  GC5791  
+ L  GC5792  
+ L  GC5793  
+ L  GC5794  
+ L  GC5795  
+ L  GC5796  
+ L  GC5797  
+ L  GC5798  
+ L  GC5799  
+ L  GC5800  
+ L  GC5801  
+ L  GC5802  
+ L  GC5803  
+ L  GC5804  
+ L  GC5805  
+ L  GC5806  
+ L  GC5807  
+ L  GC5808  
+ L  GC5809  
+ L  GC5810  
+ L  GC5811  
+ L  GC5812  
+ L  GC5813  
+ L  GC5814  
+ L  GC5815  
+ L  GC5816  
+ L  GC5817  
+ L  GC5818  
+ L  GC5819  
+ L  GC5820  
+ L  GC5821  
+ L  GC5822  
+ L  GC5823  
+ L  GC5824  
+ L  GC5825  
+ L  GC5826  
+ L  GC5827  
+ L  GC5828  
+ L  GC5829  
+ L  GC5830  
+ L  GC5831  
+ L  GC5832  
+ L  GC5833  
+ L  GC5834  
+ L  GC5835  
+ L  GC5836  
+ L  GC5837  
+ L  GC5838  
+ L  GC5839  
+ L  GC5840  
+ L  GC5841  
+ L  GC5842  
+ L  GC5843  
+ L  GC5844  
+ L  GC5845  
+ L  GC5846  
+ L  GC5847  
+ L  GC5848  
+ L  GC5849  
+ L  GC5850  
+ L  GC5851  
+ L  GC5852  
+ L  GC5853  
+ L  GC5854  
+ L  GC5855  
+ L  GC5856  
+ L  GC5857  
+ L  GC5858  
+ L  GC5859  
+ L  GC5860  
+ L  GC5861  
+ L  GC5862  
+ L  GC5863  
+ L  GC5864  
+ L  GC5865  
+ L  GC5866  
+ L  GC5867  
+ L  GC5868  
+ L  GC5869  
+ L  GC5870  
+ L  GC5871  
+ L  GC5872  
+ L  GC5873  
+ L  GC5874  
+ L  GC5875  
+ L  GC5876  
+ L  GC5877  
+ L  GC5878  
+ L  GC5879  
+ L  GC5880  
+ L  GC5881  
+ L  GC5882  
+ L  GC5883  
+ L  GC5884  
+ L  GC5885  
+ L  GC5886  
+ L  GC5887  
+ L  GC5888  
+ L  GC5889  
+ L  GC5890  
+ L  GC5891  
+ L  GC5892  
+ L  GC5893  
+ L  GC5894  
+ L  GC5895  
+ L  GC5896  
+ L  GC5897  
+ L  GC5898  
+ L  GC5899  
+ L  GC5900  
+ L  GC5901  
+ L  GC5902  
+ L  GC5903  
+ L  GC5904  
+ L  GC5905  
+ L  GC5906  
+ L  GC5907  
+ L  GC5908  
+ L  GC5909  
+ L  GC5910  
+ L  GC5911  
+ L  GC5912  
+ L  GC5913  
+ L  GC5914  
+ L  GC5915  
+ L  GC5916  
+ L  GC5917  
+ L  GC5918  
+ L  GC5919  
+ L  GC5920  
+ L  GC5921  
+ L  GC5922  
+ L  GC5923  
+ L  GC5924  
+ L  GC5925  
+ L  GC5926  
+ L  GC5927  
+ L  GC5928  
+ L  GC5929  
+ L  GC5930  
+ L  GC5931  
+ L  GC5932  
+ L  GC5933  
+ L  GC5934  
+ L  GC5935  
+ L  GC5936  
+ L  GC5937  
+ L  GC5938  
+ L  GC5939  
+ L  GC5940  
+ L  GC5941  
+ L  GC5942  
+ L  GC5943  
+ L  GC5944  
+ L  GC5945  
+ L  GC5946  
+ L  GC5947  
+ L  GC5948  
+ L  GC5949  
+ L  GC5950  
+ L  GC5951  
+ L  GC5952  
+ L  GC5953  
+ L  GC5954  
+ L  GC5955  
+ L  GC5956  
+ L  GC5957  
+ L  GC5958  
+ L  GC5959  
+ L  GC5960  
+ L  GC5961  
+ L  GC5962  
+ L  GC5963  
+ L  GC5964  
+ L  GC5965  
+ L  GC5966  
+ L  GC5967  
+ L  GC5968  
+ L  GC5969  
+ L  GC5970  
+ L  GC5971  
+ L  GC5972  
+ L  GC5973  
+ L  GC5974  
+ L  GC5975  
+ L  GC5976  
+ L  GC5977  
+ L  GC5978  
+ L  GC5979  
+ L  GC5980  
+ L  GC5981  
+ L  GC5982  
+ L  GC5983  
+ L  GC5984  
+ L  GC5985  
+ L  GC5986  
+ L  GC5987  
+ L  GC5988  
+ L  GC5989  
+ L  GC5990  
+ L  GC5991  
+ L  GC5992  
+ L  GC5993  
+ L  GC5994  
+ L  GC5995  
+ L  GC5996  
+ L  GC5997  
+ L  GC5998  
+ L  GC5999  
+ L  GC6000  
+ L  GC6001  
+ L  GC6002  
+ L  GC6003  
+ L  GC6004  
+ L  GC6005  
+ L  GC6006  
+ L  GC6007  
+ L  GC6008  
+ L  GC6009  
+ L  GC6010  
+ L  GC6011  
+ L  GC6012  
+ L  GC6013  
+ L  GC6014  
+ L  GC6015  
+ L  GC6016  
+ L  GC6017  
+ L  GC6018  
+ L  GC6019  
+ L  GC6020  
+ L  GC6021  
+ L  GC6022  
+ L  GC6023  
+ L  GC6024  
+ L  GC6025  
+ L  GC6026  
+ L  GC6027  
+ L  GC6028  
+ L  GC6029  
+ L  GC6030  
+ L  GC6031  
+ L  GC6032  
+ L  GC6033  
+ L  GC6034  
+ L  GC6035  
+ L  GC6036  
+ L  GC6037  
+ L  GC6038  
+ L  GC6039  
+ L  GC6040  
+ L  GC6041  
+ L  GC6042  
+ L  GC6043  
+ L  GC6044  
+ L  GC6045  
+ L  GC6046  
+ L  GC6047  
+ L  GC6048  
+ L  GC6049  
+ L  GC6050  
+ L  GC6051  
+ L  GC6052  
+ L  GC6053  
+ L  GC6054  
+ L  GC6055  
+ L  GC6056  
+ L  GC6057  
+ L  GC6058  
+ L  GC6059  
+ L  GC6060  
+ L  GC6061  
+ L  GC6062  
+ L  GC6063  
+ L  GC6064  
+ L  GC6065  
+ L  GC6066  
+ L  GC6067  
+ L  GC6068  
+ L  GC6069  
+ L  GC6070  
+ L  GC6071  
+ L  GC6072  
+ L  GC6073  
+ L  GC6074  
+ L  GC6075  
+ L  GC6076  
+ L  GC6077  
+ L  GC6078  
+ L  GC6079  
+ L  GC6080  
+ L  GC6081  
+ L  GC6082  
+ L  GC6083  
+ L  GC6084  
+ L  GC6085  
+ L  GC6086  
+ L  GC6087  
+ L  GC6088  
+ L  GC6089  
+ L  GC6090  
+ L  GC6091  
+ L  GC6092  
+ L  GC6093  
+ L  GC6094  
+ L  GC6095  
+ L  GC6096  
+ L  GC6097  
+ L  GC6098  
+ L  GC6099  
+ L  GC6100  
+ L  GC6101  
+ L  GC6102  
+ L  GC6103  
+ L  GC6104  
+ L  GC6105  
+ L  GC6106  
+ L  GC6107  
+ L  GC6108  
+ L  GC6109  
+ L  GC6110  
+ L  GC6111  
+ L  GC6112  
+ L  GC6113  
+ L  GC6114  
+ L  GC6115  
+ L  GC6116  
+ L  GC6117  
+ L  GC6118  
+ L  GC6119  
+ L  GC6120  
+ L  GC6121  
+ L  GC6122  
+ L  GC6123  
+ L  GC6124  
+ L  GC6125  
+ L  GC6126  
+ L  GC6127  
+ L  GC6128  
+ L  GC6129  
+ L  GC6130  
+ L  GC6131  
+ L  GC6132  
+ L  GC6133  
+ L  GC6134  
+ L  GC6135  
+ L  GC6136  
+ L  GC6137  
+ L  GC6138  
+ L  GC6139  
+ L  GC6140  
+ L  GC6141  
+ L  GC6142  
+ L  GC6143  
+ L  GC6144  
+ L  GC6145  
+ L  GC6146  
+ L  GC6147  
+ L  GC6148  
+ L  GC6149  
+ L  GC6150  
+ L  GC6151  
+ L  GC6152  
+ L  GC6153  
+ L  GC6154  
+ L  GC6155  
+ L  GC6156  
+ L  GC6157  
+ L  GC6158  
+ L  GC6159  
+ L  GC6160  
+ L  GC6161  
+ L  GC6162  
+ L  GC6163  
+ L  GC6164  
+ L  GC6165  
+ L  GC6166  
+ L  GC6167  
+ L  GC6168  
+ L  GC6169  
+ L  GC6170  
+ L  GC6171  
+ L  GC6172  
+ L  GC6173  
+ L  GC6174  
+ L  GC6175  
+ L  GC6176  
+ L  GC6177  
+ L  GC6178  
+ L  GC6179  
+ L  GC6180  
+ L  GC6181  
+ L  GC6182  
+ L  GC6183  
+ L  GC6184  
+ L  GC6185  
+ L  GC6186  
+ L  GC6187  
+ L  GC6188  
+ L  GC6189  
+ L  GC6190  
+ L  GC6191  
+ L  GC6192  
+ L  GC6193  
+ L  GC6194  
+ L  GC6195  
+ L  GC6196  
+ L  GC6197  
+ L  GC6198  
+ L  GC6199  
+ L  GC6200  
+ L  GC6201  
+ L  GC6202  
+ L  GC6203  
+ L  GC6204  
+ L  GC6205  
+ L  GC6206  
+ L  GC6207  
+ L  GC6208  
+ L  GC6209  
+ L  GC6210  
+ L  GC6211  
+ L  GC6212  
+ L  GC6213  
+ L  GC6214  
+ L  GC6215  
+ L  GC6216  
+ L  GC6217  
+ L  GC6218  
+ L  GC6219  
+ L  GC6220  
+ L  GC6221  
+ L  GC6222  
+ L  GC6223  
+ L  GC6224  
+ L  GC6225  
+ L  GC6226  
+ L  GC6227  
+ L  GC6228  
+ L  GC6229  
+ L  GC6230  
+ L  GC6231  
+ L  GC6232  
+ L  GC6233  
+ L  GC6234  
+ L  GC6235  
+ L  GC6236  
+ L  GC6237  
+ L  GC6238  
+ L  GC6239  
+ L  GC6240  
+ L  GC6241  
+ L  GC6242  
+ L  GC6243  
+ L  GC6244  
+ L  GC6245  
+ L  GC6246  
+ L  GC6247  
+ L  GC6248  
+ L  GC6249  
+ L  GC6250  
+ L  GC6251  
+ L  GC6252  
+ L  GC6253  
+ L  GC6254  
+ L  GC6255  
+ L  GC6256  
+ L  GC6257  
+ L  GC6258  
+ L  GC6259  
+ L  GC6260  
+ L  GC6261  
+ L  GC6262  
+ L  GC6263  
+ L  GC6264  
+ L  GC6265  
+ L  GC6266  
+ L  GC6267  
+ L  GC6268  
+ L  GC6269  
+ L  GC6270  
+ L  GC6271  
+ L  GC6272  
+ L  GC6273  
+ L  GC6274  
+ L  GC6275  
+ L  GC6276  
+ L  GC6277  
+ L  GC6278  
+ L  GC6279  
+ L  GC6280  
+ L  GC6281  
+ L  GC6282  
+ L  GC6283  
+ L  GC6284  
+ L  GC6285  
+ L  GC6286  
+ L  GC6287  
+ L  GC6288  
+ L  GC6289  
+ L  GC6290  
+ L  GC6291  
+ L  GC6292  
+ L  GC6293  
+ L  GC6294  
+ L  GC6295  
+ L  GC6296  
+ L  GC6297  
+ L  GC6298  
+ L  GC6299  
+ L  GC6300  
+ L  GC6301  
+ L  GC6302  
+ L  GC6303  
+ L  GC6304  
+ L  GC6305  
+ L  GC6306  
+ L  GC6307  
+ L  GC6308  
+ L  GC6309  
+ L  GC6310  
+ L  GC6311  
+ L  GC6312  
+ L  GC6313  
+ L  GC6314  
+ L  GC6315  
+ L  GC6316  
+ L  GC6317  
+ L  GC6318  
+ L  GC6319  
+ L  GC6320  
+ L  GC6321  
+ L  GC6322  
+ L  GC6323  
+ L  GC6324  
+ L  GC6325  
+ L  GC6326  
+ L  GC6327  
+ L  GC6328  
+ L  GC6329  
+ L  GC6330  
+ L  GC6331  
+ L  GC6332  
+ L  GC6333  
+ L  GC6334  
+ L  GC6335  
+ L  GC6336  
+ L  GC6337  
+ L  GC6338  
+ L  GC6339  
+ L  GC6340  
+ L  GC6341  
+ L  GC6342  
+ L  GC6343  
+ L  GC6344  
+ L  GC6345  
+ L  GC6346  
+ L  GC6347  
+ L  GC6348  
+ L  GC6349  
+ L  GC6350  
+ L  GC6351  
+ L  GC6352  
+ L  GC6353  
+ L  GC6354  
+ L  GC6355  
+ L  GC6356  
+ L  GC6357  
+ L  GC6358  
+ L  GC6359  
+ L  GC6360  
+ L  GC6361  
+ L  GC6362  
+ L  GC6363  
+ L  GC6364  
+ L  GC6365  
+ L  GC6366  
+ L  GC6367  
+ L  GC6368  
+ L  GC6369  
+ L  GC6370  
+ L  GC6371  
+ L  GC6372  
+ L  GC6373  
+ L  GC6374  
+ L  GC6375  
+ L  GC6376  
+ L  GC6377  
+ L  GC6378  
+ L  GC6379  
+ L  GC6380  
+ L  GC6381  
+ L  GC6382  
+ L  GC6383  
+ L  GC6384  
+ L  GC6385  
+ L  GC6386  
+ L  GC6387  
+ L  GC6388  
+ L  GC6389  
+ L  GC6390  
+ L  GC6391  
+ L  GC6392  
+ L  GC6393  
+ L  GC6394  
+ L  GC6395  
+ L  GC6396  
+ L  GC6397  
+ L  GC6398  
+ L  GC6399  
+ L  GC6400  
+ L  GC6401  
+ L  GC6402  
+ L  GC6403  
+ L  GC6404  
+ L  GC6405  
+ L  GC6406  
+ L  GC6407  
+ L  GC6408  
+ L  GC6409  
+ L  GC6410  
+ L  GC6411  
+ L  GC6412  
+ L  GC6413  
+ L  GC6414  
+ L  GC6415  
+ L  GC6416  
+ L  GC6417  
+ L  GC6418  
+ L  GC6419  
+ L  GC6420  
+ L  GC6421  
+ L  GC6422  
+ L  GC6423  
+ L  GC6424  
+ L  GC6425  
+ L  GC6426  
+ L  GC6427  
+ L  GC6428  
+ L  GC6429  
+ L  GC6430  
+ L  GC6431  
+ L  GC6432  
+ L  GC6433  
+ L  GC6434  
+ L  GC6435  
+ L  GC6436  
+ L  GC6437  
+ L  GC6438  
+ L  GC6439  
+ L  GC6440  
+ L  GC6441  
+ L  GC6442  
+ L  GC6443  
+ L  GC6444  
+ L  GC6445  
+ L  GC6446  
+ L  GC6447  
+ L  GC6448  
+ L  GC6449  
+ L  GC6450  
+ L  GC6451  
+ L  GC6452  
+ L  GC6453  
+ L  GC6454  
+ L  GC6455  
+ L  GC6456  
+ L  GC6457  
+ L  GC6458  
+ L  GC6459  
+ L  GC6460  
+ L  GC6461  
+ L  GC6462  
+ L  GC6463  
+ L  GC6464  
+ L  GC6465  
+ L  GC6466  
+ L  GC6467  
+ L  GC6468  
+ L  GC6469  
+ L  GC6470  
+ L  GC6471  
+ L  GC6472  
+ L  GC6473  
+ L  GC6474  
+ L  GC6475  
+ L  GC6476  
+ L  GC6477  
+ L  GC6478  
+ L  GC6479  
+ L  GC6480  
+ L  GC6481  
+ L  GC6482  
+ L  GC6483  
+ L  GC6484  
+ L  GC6485  
+ L  GC6486  
+ L  GC6487  
+ L  GC6488  
+ L  GC6489  
+ L  GC6490  
+ L  GC6491  
+ L  GC6492  
+ L  GC6493  
+ L  GC6494  
+ L  GC6495  
+ L  GC6496  
+ L  GC6497  
+ L  GC6498  
+ L  GC6499  
+ L  GC6500  
+ L  GC6501  
+ L  GC6502  
+ L  GC6503  
+ L  GC6504  
+ L  GC6505  
+ L  GC6506  
+ L  GC6507  
+ L  GC6508  
+ L  GC6509  
+ L  GC6510  
+ L  GC6511  
+ L  GC6512  
+ L  GC6513  
+ L  GC6514  
+ L  GC6515  
+ L  GC6516  
+ L  GC6517  
+ L  GC6518  
+ L  GC6519  
+ L  GC6520  
+ L  GC6521  
+ L  GC6522  
+ L  GC6523  
+ L  GC6524  
+ L  GC6525  
+ L  GC6526  
+ L  GC6527  
+ L  GC6528  
+ L  GC6529  
+ L  GC6530  
+ L  GC6531  
+ L  GC6532  
+ L  GC6533  
+ L  GC6534  
+ L  GC6535  
+ L  GC6536  
+ L  GC6537  
+ L  GC6538  
+ L  GC6539  
+ L  GC6540  
+ L  GC6541  
+ L  GC6542  
+ L  GC6543  
+ L  GC6544  
+ L  GC6545  
+ L  GC6546  
+ L  GC6547  
+ L  GC6548  
+ L  GC6549  
+ L  GC6550  
+ L  GC6551  
+ L  GC6552  
+ L  GC6553  
+ L  GC6554  
+ L  GC6555  
+ L  GC6556  
+ L  GC6557  
+ L  GC6558  
+ L  GC6559  
+ L  GC6560  
+ L  GC6561  
+ L  GC6562  
+ L  GC6563  
+ L  GC6564  
+ L  GC6565  
+ L  GC6566  
+ L  GC6567  
+ L  GC6568  
+ L  GC6569  
+ L  GC6570  
+ L  GC6571  
+ L  GC6572  
+ L  GC6573  
+ L  GC6574  
+ L  GC6575  
+ L  GC6576  
+ L  GC6577  
+ L  GC6578  
+ L  GC6579  
+ L  GC6580  
+ L  GC6581  
+ L  GC6582  
+ L  GC6583  
+ L  GC6584  
+ L  GC6585  
+ L  GC6586  
+ L  GC6587  
+ L  GC6588  
+ L  GC6589  
+ L  GC6590  
+ L  GC6591  
+ L  GC6592  
+ L  GC6593  
+ L  GC6594  
+ L  GC6595  
+ L  GC6596  
+ L  GC6597  
+ L  GC6598  
+ L  GC6599  
+ L  GC6600  
+ L  GC6601  
+ L  GC6602  
+ L  GC6603  
+ L  GC6604  
+ L  GC6605  
+ L  GC6606  
+ L  GC6607  
+ L  GC6608  
+ L  GC6609  
+ L  GC6610  
+ L  GC6611  
+ L  GC6612  
+ L  GC6613  
+ L  GC6614  
+ L  GC6615  
+ L  GC6616  
+ L  GC6617  
+ L  GC6618  
+ L  GC6619  
+ L  GC6620  
+ L  GC6621  
+ L  GC6622  
+ L  GC6623  
+ L  GC6624  
+ L  GC6625  
+ L  GC6626  
+ L  GC6627  
+ L  GC6628  
+ L  GC6629  
+ L  GC6630  
+ L  GC6631  
+ L  GC6632  
+ L  GC6633  
+ L  GC6634  
+ L  GC6635  
+ L  GC6636  
+ L  GC6637  
+ L  GC6638  
+ L  GC6639  
+ L  GC6640  
+ L  GC6641  
+ L  GC6642  
+ L  GC6643  
+ L  GC6644  
+ L  GC6645  
+ L  GC6646  
+ L  GC6647  
+ L  GC6648  
+ L  GC6649  
+ L  GC6650  
+ L  GC6651  
+ L  GC6652  
+ L  GC6653  
+ L  GC6654  
+ L  GC6655  
+ L  GC6656  
+ L  GC6657  
+ L  GC6658  
+ L  GC6659  
+ L  GC6660  
+ L  GC6661  
+ L  GC6662  
+ L  GC6663  
+ L  GC6664  
+ L  GC6665  
+ L  GC6666  
+ L  GC6667  
+ L  GC6668  
+ L  GC6669  
+ L  GC6670  
+ L  GC6671  
+ L  GC6672  
+ L  GC6673  
+ L  GC6674  
+ L  GC6675  
+ L  GC6676  
+ L  GC6677  
+ L  GC6678  
+ L  GC6679  
+ L  GC6680  
+ L  GC6681  
+ L  GC6682  
+ L  GC6683  
+ L  GC6684  
+ L  GC6685  
+ L  GC6686  
+ L  GC6687  
+ L  GC6688  
+ L  GC6689  
+ L  GC6690  
+ L  GC6691  
+ L  GC6692  
+ L  GC6693  
+ L  GC6694  
+ L  GC6695  
+ L  GC6696  
+ L  GC6697  
+ L  GC6698  
+ L  GC6699  
+ L  GC6700  
+ L  GC6701  
+ L  GC6702  
+ L  GC6703  
+ L  GC6704  
+ L  GC6705  
+ L  GC6706  
+ L  GC6707  
+ L  GC6708  
+ L  GC6709  
+ L  GC6710  
+ L  GC6711  
+ L  GC6712  
+ L  GC6713  
+ L  GC6714  
+ L  GC6715  
+ L  GC6716  
+ L  GC6717  
+ L  GC6718  
+ L  GC6719  
+ L  GC6720  
+ L  GC6721  
+ L  GC6722  
+ L  GC6723  
+ L  GC6724  
+ L  GC6725  
+ L  GC6726  
+ L  GC6727  
+ L  GC6728  
+ L  GC6729  
+ L  GC6730  
+ L  GC6731  
+ L  GC6732  
+ L  GC6733  
+ L  GC6734  
+ L  GC6735  
+ L  GC6736  
+ L  GC6737  
+ L  GC6738  
+ L  GC6739  
+ L  GC6740  
+ L  GC6741  
+ L  GC6742  
+ L  GC6743  
+ L  GC6744  
+ L  GC6745  
+ L  GC6746  
+ L  GC6747  
+ L  GC6748  
+ L  GC6749  
+ L  GC6750  
+ L  GC6751  
+ L  GC6752  
+ L  GC6753  
+ L  GC6754  
+ L  GC6755  
+ L  GC6756  
+ L  GC6757  
+ L  GC6758  
+ L  GC6759  
+ L  GC6760  
+ L  GC6761  
+ L  GC6762  
+ L  GC6763  
+ L  GC6764  
+ L  GC6765  
+ L  GC6766  
+ L  GC6767  
+ L  GC6768  
+ L  GC6769  
+ L  GC6770  
+ L  GC6771  
+ L  GC6772  
+ L  GC6773  
+ L  GC6774  
+ L  GC6775  
+ L  GC6776  
+ L  GC6777  
+ L  GC6778  
+ L  GC6779  
+ L  GC6780  
+ L  GC6781  
+ L  GC6782  
+ L  GC6783  
+ L  GC6784  
+ L  GC6785  
+ L  GC6786  
+ L  GC6787  
+ L  GC6788  
+ L  GC6789  
+ L  GC6790  
+ L  GC6791  
+ L  GC6792  
+ L  GC6793  
+ L  GC6794  
+ L  GC6795  
+ L  GC6796  
+ L  GC6797  
+ L  GC6798  
+ L  GC6799  
+ L  GC6800  
+ L  GC6801  
+ L  GC6802  
+ L  GC6803  
+ L  GC6804  
+ L  GC6805  
+ L  GC6806  
+ L  GC6807  
+ L  GC6808  
+ L  GC6809  
+ L  GC6810  
+ L  GC6811  
+ L  GC6812  
+ L  GC6813  
+ L  GC6814  
+ L  GC6815  
+ L  GC6816  
+ L  GC6817  
+ L  GC6818  
+ L  GC6819  
+ L  GC6820  
+ L  GC6821  
+ L  GC6822  
+ L  GC6823  
+ L  GC6824  
+ L  GC6825  
+ L  GC6826  
+ L  GC6827  
+ L  GC6828  
+ L  GC6829  
+ L  GC6830  
+ L  GC6831  
+ L  GC6832  
+ L  GC6833  
+ L  GC6834  
+ L  GC6835  
+ L  GC6836  
+ L  GC6837  
+ L  GC6838  
+ L  GC6839  
+ L  GC6840  
+ L  GC6841  
+ L  GC6842  
+ L  GC6843  
+ L  GC6844  
+ L  GC6845  
+ L  GC6846  
+ L  GC6847  
+ L  GC6848  
+ L  GC6849  
+ L  GC6850  
+ L  GC6851  
+ L  GC6852  
+ L  GC6853  
+ L  GC6854  
+ L  GC6855  
+ L  GC6856  
+ L  GC6857  
+ L  GC6858  
+ L  GC6859  
+ L  GC6860  
+ L  GC6861  
+ L  GC6862  
+ L  GC6863  
+ L  GC6864  
+ L  GC6865  
+ L  GC6866  
+ L  GC6867  
+ L  GC6868  
+ L  GC6869  
+ L  GC6870  
+ L  GC6871  
+ L  GC6872  
+ L  GC6873  
+ L  GC6874  
+ L  GC6875  
+ L  GC6876  
+ L  GC6877  
+ L  GC6878  
+ L  GC6879  
+ L  GC6880  
+ L  GC6881  
+ L  GC6882  
+ L  GC6883  
+ L  GC6884  
+ L  GC6885  
+ L  GC6886  
+ L  GC6887  
+ L  GC6888  
+ L  GC6889  
+ L  GC6890  
+ L  GC6891  
+ L  GC6892  
+ L  GC6893  
+ L  GC6894  
+ L  GC6895  
+ L  GC6896  
+ L  GC6897  
+ L  GC6898  
+ L  GC6899  
+ L  GC6900  
+ L  GC6901  
+ L  GC6902  
+ L  GC6903  
+ L  GC6904  
+ L  GC6905  
+ L  GC6906  
+ L  GC6907  
+ L  GC6908  
+ L  GC6909  
+ L  GC6910  
+ L  GC6911  
+ L  GC6912  
+ L  GC6913  
+ L  GC6914  
+ L  GC6915  
+ L  GC6916  
+ L  GC6917  
+ L  GC6918  
+ L  GC6919  
+ L  GC6920  
+ L  GC6921  
+ L  GC6922  
+ L  GC6923  
+ L  GC6924  
+ L  GC6925  
+ L  GC6926  
+ L  GC6927  
+ L  GC6928  
+ L  GC6929  
+ L  GC6930  
+ L  GC6931  
+ L  GC6932  
+ L  GC6933  
+ L  GC6934  
+ L  GC6935  
+ L  GC6936  
+ L  GC6937  
+ L  GC6938  
+ L  GC6939  
+ L  GC6940  
+ L  GC6941  
+ L  GC6942  
+ L  GC6943  
+ L  GC6944  
+ L  GC6945  
+ L  GC6946  
+ L  GC6947  
+ L  GC6948  
+ L  GC6949  
+ L  GC6950  
+ L  GC6951  
+ L  GC6952  
+ L  GC6953  
+ L  GC6954  
+ L  GC6955  
+ L  GC6956  
+ L  GC6957  
+ L  GC6958  
+ L  GC6959  
+ L  GC6960  
+ L  GC6961  
+ L  GC6962  
+ L  GC6963  
+ L  GC6964  
+ L  GC6965  
+ L  GC6966  
+ L  GC6967  
+ L  GC6968  
+ L  GC6969  
+ L  GC6970  
+ L  GC6971  
+ L  GC6972  
+ L  GC6973  
+ L  GC6974  
+ L  GC6975  
+ L  GC6976  
+ L  GC6977  
+ L  GC6978  
+ L  GC6979  
+ L  GC6980  
+ L  GC6981  
+ L  GC6982  
+ L  GC6983  
+ L  GC6984  
+ L  GC6985  
+ L  GC6986  
+ L  GC6987  
+ L  GC6988  
+ L  GC6989  
+ L  GC6990  
+ L  GC6991  
+ L  GC6992  
+ L  GC6993  
+ L  GC6994  
+ L  GC6995  
+ L  GC6996  
+ L  GC6997  
+ L  GC6998  
+ L  GC6999  
+ L  GC7000  
+ L  GC7001  
+ L  GC7002  
+ L  GC7003  
+ L  GC7004  
+ L  GC7005  
+ L  GC7006  
+ L  GC7007  
+ L  GC7008  
+ L  GC7009  
+ L  GC7010  
+ L  GC7011  
+ L  GC7012  
+ L  GC7013  
+ L  GC7014  
+ L  GC7015  
+ L  GC7016  
+ L  GC7017  
+ L  GC7018  
+ L  GC7019  
+ L  GC7020  
+ L  GC7021  
+ L  GC7022  
+ L  GC7023  
+ L  GC7024  
+ L  GC7025  
+ L  GC7026  
+ L  GC7027  
+ L  GC7028  
+ L  GC7029  
+ L  GC7030  
+ L  GC7031  
+ L  GC7032  
+ L  GC7033  
+ L  GC7034  
+ L  GC7035  
+ L  GC7036  
+ L  GC7037  
+ L  GC7038  
+ L  GC7039  
+ L  GC7040  
+ L  GC7041  
+ L  GC7042  
+ L  GC7043  
+ L  GC7044  
+ L  GC7045  
+ L  GC7046  
+ L  GC7047  
+ L  GC7048  
+ L  GC7049  
+ L  GC7050  
+ L  GC7051  
+ L  GC7052  
+ L  GC7053  
+ L  GC7054  
+ L  GC7055  
+ L  GC7056  
+ L  GC7057  
+ L  GC7058  
+ L  GC7059  
+ L  GC7060  
+ L  GC7061  
+ L  GC7062  
+ L  GC7063  
+ L  GC7064  
+ L  GC7065  
+ L  GC7066  
+ L  GC7067  
+ L  GC7068  
+ L  GC7069  
+ L  GC7070  
+ L  GC7071  
+ L  GC7072  
+ L  GC7073  
+ L  GC7074  
+ L  GC7075  
+ L  GC7076  
+ L  GC7077  
+ L  GC7078  
+ L  GC7079  
+ L  GC7080  
+ L  GC7081  
+ L  GC7082  
+ L  GC7083  
+ L  GC7084  
+ L  GC7085  
+ L  GC7086  
+ L  GC7087  
+ L  GC7088  
+ L  GC7089  
+ L  GC7090  
+ L  GC7091  
+ L  GC7092  
+ L  GC7093  
+ L  GC7094  
+ L  GC7095  
+ L  GC7096  
+ L  GC7097  
+ L  GC7098  
+ L  GC7099  
+ L  GC7100  
+ L  GC7101  
+ L  GC7102  
+ L  GC7103  
+ L  GC7104  
+ L  GC7105  
+ L  GC7106  
+ L  GC7107  
+ L  GC7108  
+ L  GC7109  
+ L  GC7110  
+ L  GC7111  
+ L  GC7112  
+ L  GC7113  
+ L  GC7114  
+ L  GC7115  
+ L  GC7116  
+ L  GC7117  
+ L  GC7118  
+ L  GC7119  
+ L  GC7120  
+ L  GC7121  
+ L  GC7122  
+ L  GC7123  
+ L  GC7124  
+ L  GC7125  
+ L  GC7126  
+ L  GC7127  
+ L  GC7128  
+ L  GC7129  
+ L  GC7130  
+ L  GC7131  
+ L  GC7132  
+ L  GC7133  
+ L  GC7134  
+ L  GC7135  
+ L  GC7136  
+ L  GC7137  
+ L  GC7138  
+ L  GC7139  
+ L  GC7140  
+ L  GC7141  
+ L  GC7142  
+ L  GC7143  
+ L  GC7144  
+ L  GC7145  
+ L  GC7146  
+ L  GC7147  
+ L  GC7148  
+ L  GC7149  
+ L  GC7150  
+ L  GC7151  
+ L  GC7152  
+ L  GC7153  
+ L  GC7154  
+ L  GC7155  
+ L  GC7156  
+ L  GC7157  
+ L  GC7158  
+ L  GC7159  
+ L  GC7160  
+ L  GC7161  
+ L  GC7162  
+ L  GC7163  
+ L  GC7164  
+ L  GC7165  
+ L  GC7166  
+ L  GC7167  
+ L  GC7168  
+ L  GC7169  
+ L  GC7170  
+ L  GC7171  
+ L  GC7172  
+ L  GC7173  
+ L  GC7174  
+ L  GC7175  
+ L  GC7176  
+ L  GC7177  
+ L  GC7178  
+ L  GC7179  
+ L  GC7180  
+ L  GC7181  
+COLUMNS
+    s000      OBJ       0
+    f000      OBJ       1
+    f000      R0        1
+    f000      R1        -1
+    f000      R2        -1
+    f000      R3        -1
+    f000      R4        -1
+    f000      R5        -1
+    f000      R6        -1
+    f000      R7        -1
+    f000      R8        -1
+    f000      R9        -1
+    f000      R10       -1
+    f000      R11       -1
+    f000      R12       -1
+    f000      R13       -1
+    f000      R14       -1
+    f000      R15       -1
+    f000      R16       -1
+    f000      R17       -1
+    f000      R18       -1
+    f000      R19       -1
+    f000      R20       -1
+    f000      R21       -1
+    f000      R22       -1
+    f000      R23       -1
+    f000      R24       -1
+    f000      R25       -1
+    f000      R26       -1
+    f000      R27       -1
+    f000      R28       -1
+    f000      R29       -1
+    f000      R30       -1
+    f000      R31       -1
+    f000      R32       -1
+    f000      R33       -1
+    f000      R34       -1
+    f000      R35       -1
+    f000      R36       -1
+    f000      R37       -1
+    f000      R38       -1
+    s001      R46       1
+    s001      GC0       -1
+    s001      GC1       -1
+    s001      GC2       -1
+    s001      GC3       -1
+    s001      GC5813    -1
+    s001      GC5850    -1
+    s001      GC5887    -1
+    s001      GC5924    -1
+    s001      GC5961    -1
+    s001      GC5998    -1
+    s001      GC6035    -1
+    s001      GC6072    -1
+    s001      GC6109    -1
+    s001      GC6146    -1
+    s001      GC6183    -1
+    s001      GC6220    -1
+    s001      GC6257    -1
+    s001      GC6294    -1
+    s001      GC6331    -1
+    s001      GC6368    -1
+    s001      GC6405    -1
+    s001      GC6442    -1
+    s001      GC6479    -1
+    s001      GC6516    -1
+    s001      GC6553    -1
+    s001      GC6590    -1
+    s001      GC6627    -1
+    s001      GC6664    -1
+    s001      GC6701    -1
+    s001      GC6738    -1
+    s001      GC6775    -1
+    s001      GC6812    -1
+    s001      GC6849    -1
+    s001      GC6886    -1
+    s001      GC6923    -1
+    s001      GC6960    -1
+    s001      GC6997    -1
+    s001      GC7034    -1
+    s001      GC7071    -1
+    s001      GC7108    -1
+    s001      GC7145    -1
+    f001      R1        1
+    f001      GC0       1
+    f001      GC1       1
+    f001      GC2       1
+    f001      GC3       1
+    f001      GC5776    1
+    f001      GC5777    1
+    f001      GC5778    1
+    f001      GC5779    1
+    f001      GC5780    1
+    f001      GC5781    1
+    f001      GC5782    1
+    f001      GC5783    1
+    f001      GC5784    1
+    f001      GC5785    1
+    f001      GC5786    1
+    f001      GC5787    1
+    f001      GC5788    1
+    f001      GC5789    1
+    f001      GC5790    1
+    f001      GC5791    1
+    f001      GC5792    1
+    f001      GC5793    1
+    f001      GC5794    1
+    f001      GC5795    1
+    f001      GC5796    1
+    f001      GC5797    1
+    f001      GC5798    1
+    f001      GC5799    1
+    f001      GC5800    1
+    f001      GC5801    1
+    f001      GC5802    1
+    f001      GC5803    1
+    f001      GC5804    1
+    f001      GC5805    1
+    f001      GC5806    1
+    f001      GC5807    1
+    f001      GC5808    1
+    f001      GC5809    1
+    f001      GC5810    1
+    f001      GC5811    1
+    f001      GC5812    1
+    s002      OBJ       0
+    s002      GC4       -1
+    s002      GC5       -1
+    s002      GC6       -1
+    s002      GC7       -1
+    s002      GC5776    -1
+    s002      GC5851    -1
+    s002      GC5888    -1
+    s002      GC5925    -1
+    s002      GC5962    -1
+    s002      GC5999    -1
+    s002      GC6036    -1
+    s002      GC6073    -1
+    s002      GC6110    -1
+    s002      GC6147    -1
+    s002      GC6184    -1
+    s002      GC6221    -1
+    s002      GC6258    -1
+    s002      GC6295    -1
+    s002      GC6332    -1
+    s002      GC6369    -1
+    s002      GC6406    -1
+    s002      GC6443    -1
+    s002      GC6480    -1
+    s002      GC6517    -1
+    s002      GC6554    -1
+    s002      GC6591    -1
+    s002      GC6628    -1
+    s002      GC6665    -1
+    s002      GC6702    -1
+    s002      GC6739    -1
+    s002      GC6776    -1
+    s002      GC6813    -1
+    s002      GC6850    -1
+    s002      GC6887    -1
+    s002      GC6924    -1
+    s002      GC6961    -1
+    s002      GC6998    -1
+    s002      GC7035    -1
+    s002      GC7072    -1
+    s002      GC7109    -1
+    s002      GC7146    -1
+    f002      R2        1
+    f002      GC4       1
+    f002      GC5       1
+    f002      GC6       1
+    f002      GC7       1
+    f002      GC5813    1
+    f002      GC5814    1
+    f002      GC5815    1
+    f002      GC5816    1
+    f002      GC5817    1
+    f002      GC5818    1
+    f002      GC5819    1
+    f002      GC5820    1
+    f002      GC5821    1
+    f002      GC5822    1
+    f002      GC5823    1
+    f002      GC5824    1
+    f002      GC5825    1
+    f002      GC5826    1
+    f002      GC5827    1
+    f002      GC5828    1
+    f002      GC5829    1
+    f002      GC5830    1
+    f002      GC5831    1
+    f002      GC5832    1
+    f002      GC5833    1
+    f002      GC5834    1
+    f002      GC5835    1
+    f002      GC5836    1
+    f002      GC5837    1
+    f002      GC5838    1
+    f002      GC5839    1
+    f002      GC5840    1
+    f002      GC5841    1
+    f002      GC5842    1
+    f002      GC5843    1
+    f002      GC5844    1
+    f002      GC5845    1
+    f002      GC5846    1
+    f002      GC5847    1
+    f002      GC5848    1
+    f002      GC5849    1
+    s003      OBJ       0
+    s003      GC8       -1
+    s003      GC9       -1
+    s003      GC10      -1
+    s003      GC11      -1
+    s003      GC5777    -1
+    s003      GC5814    -1
+    s003      GC5889    -1
+    s003      GC5926    -1
+    s003      GC5963    -1
+    s003      GC6000    -1
+    s003      GC6037    -1
+    s003      GC6074    -1
+    s003      GC6111    -1
+    s003      GC6148    -1
+    s003      GC6185    -1
+    s003      GC6222    -1
+    s003      GC6259    -1
+    s003      GC6296    -1
+    s003      GC6333    -1
+    s003      GC6370    -1
+    s003      GC6407    -1
+    s003      GC6444    -1
+    s003      GC6481    -1
+    s003      GC6518    -1
+    s003      GC6555    -1
+    s003      GC6592    -1
+    s003      GC6629    -1
+    s003      GC6666    -1
+    s003      GC6703    -1
+    s003      GC6740    -1
+    s003      GC6777    -1
+    s003      GC6814    -1
+    s003      GC6851    -1
+    s003      GC6888    -1
+    s003      GC6925    -1
+    s003      GC6962    -1
+    s003      GC6999    -1
+    s003      GC7036    -1
+    s003      GC7073    -1
+    s003      GC7110    -1
+    s003      GC7147    -1
+    f003      R3        1
+    f003      R39       1
+    f003      GC8       1
+    f003      GC9       1
+    f003      GC10      1
+    f003      GC11      1
+    f003      GC5850    1
+    f003      GC5851    1
+    f003      GC5852    1
+    f003      GC5853    1
+    f003      GC5854    1
+    f003      GC5855    1
+    f003      GC5856    1
+    f003      GC5857    1
+    f003      GC5858    1
+    f003      GC5859    1
+    f003      GC5860    1
+    f003      GC5861    1
+    f003      GC5862    1
+    f003      GC5863    1
+    f003      GC5864    1
+    f003      GC5865    1
+    f003      GC5866    1
+    f003      GC5867    1
+    f003      GC5868    1
+    f003      GC5869    1
+    f003      GC5870    1
+    f003      GC5871    1
+    f003      GC5872    1
+    f003      GC5873    1
+    f003      GC5874    1
+    f003      GC5875    1
+    f003      GC5876    1
+    f003      GC5877    1
+    f003      GC5878    1
+    f003      GC5879    1
+    f003      GC5880    1
+    f003      GC5881    1
+    f003      GC5882    1
+    f003      GC5883    1
+    f003      GC5884    1
+    f003      GC5885    1
+    f003      GC5886    1
+    s004      OBJ       0
+    s004      GC12      -1
+    s004      GC13      -1
+    s004      GC14      -1
+    s004      GC15      -1
+    s004      GC5778    -1
+    s004      GC5815    -1
+    s004      GC5852    -1
+    s004      GC5927    -1
+    s004      GC5964    -1
+    s004      GC6001    -1
+    s004      GC6038    -1
+    s004      GC6075    -1
+    s004      GC6112    -1
+    s004      GC6149    -1
+    s004      GC6186    -1
+    s004      GC6223    -1
+    s004      GC6260    -1
+    s004      GC6297    -1
+    s004      GC6334    -1
+    s004      GC6371    -1
+    s004      GC6408    -1
+    s004      GC6445    -1
+    s004      GC6482    -1
+    s004      GC6519    -1
+    s004      GC6556    -1
+    s004      GC6593    -1
+    s004      GC6630    -1
+    s004      GC6667    -1
+    s004      GC6704    -1
+    s004      GC6741    -1
+    s004      GC6778    -1
+    s004      GC6815    -1
+    s004      GC6852    -1
+    s004      GC6889    -1
+    s004      GC6926    -1
+    s004      GC6963    -1
+    s004      GC7000    -1
+    s004      GC7037    -1
+    s004      GC7074    -1
+    s004      GC7111    -1
+    s004      GC7148    -1
+    f004      R4        1
+    f004      GC12      1
+    f004      GC13      1
+    f004      GC14      1
+    f004      GC15      1
+    f004      GC5887    1
+    f004      GC5888    1
+    f004      GC5889    1
+    f004      GC5890    1
+    f004      GC5891    1
+    f004      GC5892    1
+    f004      GC5893    1
+    f004      GC5894    1
+    f004      GC5895    1
+    f004      GC5896    1
+    f004      GC5897    1
+    f004      GC5898    1
+    f004      GC5899    1
+    f004      GC5900    1
+    f004      GC5901    1
+    f004      GC5902    1
+    f004      GC5903    1
+    f004      GC5904    1
+    f004      GC5905    1
+    f004      GC5906    1
+    f004      GC5907    1
+    f004      GC5908    1
+    f004      GC5909    1
+    f004      GC5910    1
+    f004      GC5911    1
+    f004      GC5912    1
+    f004      GC5913    1
+    f004      GC5914    1
+    f004      GC5915    1
+    f004      GC5916    1
+    f004      GC5917    1
+    f004      GC5918    1
+    f004      GC5919    1
+    f004      GC5920    1
+    f004      GC5921    1
+    f004      GC5922    1
+    f004      GC5923    1
+    s005      R47       1
+    s005      GC16      -1
+    s005      GC17      -1
+    s005      GC18      -1
+    s005      GC19      -1
+    s005      GC5779    -1
+    s005      GC5816    -1
+    s005      GC5853    -1
+    s005      GC5890    -1
+    s005      GC5965    -1
+    s005      GC6002    -1
+    s005      GC6039    -1
+    s005      GC6076    -1
+    s005      GC6113    -1
+    s005      GC6150    -1
+    s005      GC6187    -1
+    s005      GC6224    -1
+    s005      GC6261    -1
+    s005      GC6298    -1
+    s005      GC6335    -1
+    s005      GC6372    -1
+    s005      GC6409    -1
+    s005      GC6446    -1
+    s005      GC6483    -1
+    s005      GC6520    -1
+    s005      GC6557    -1
+    s005      GC6594    -1
+    s005      GC6631    -1
+    s005      GC6668    -1
+    s005      GC6705    -1
+    s005      GC6742    -1
+    s005      GC6779    -1
+    s005      GC6816    -1
+    s005      GC6853    -1
+    s005      GC6890    -1
+    s005      GC6927    -1
+    s005      GC6964    -1
+    s005      GC7001    -1
+    s005      GC7038    -1
+    s005      GC7075    -1
+    s005      GC7112    -1
+    s005      GC7149    -1
+    f005      R5        1
+    f005      GC16      1
+    f005      GC17      1
+    f005      GC18      1
+    f005      GC19      1
+    f005      GC5924    1
+    f005      GC5925    1
+    f005      GC5926    1
+    f005      GC5927    1
+    f005      GC5928    1
+    f005      GC5929    1
+    f005      GC5930    1
+    f005      GC5931    1
+    f005      GC5932    1
+    f005      GC5933    1
+    f005      GC5934    1
+    f005      GC5935    1
+    f005      GC5936    1
+    f005      GC5937    1
+    f005      GC5938    1
+    f005      GC5939    1
+    f005      GC5940    1
+    f005      GC5941    1
+    f005      GC5942    1
+    f005      GC5943    1
+    f005      GC5944    1
+    f005      GC5945    1
+    f005      GC5946    1
+    f005      GC5947    1
+    f005      GC5948    1
+    f005      GC5949    1
+    f005      GC5950    1
+    f005      GC5951    1
+    f005      GC5952    1
+    f005      GC5953    1
+    f005      GC5954    1
+    f005      GC5955    1
+    f005      GC5956    1
+    f005      GC5957    1
+    f005      GC5958    1
+    f005      GC5959    1
+    f005      GC5960    1
+    s006      OBJ       0
+    s006      GC20      -1
+    s006      GC21      -1
+    s006      GC22      -1
+    s006      GC23      -1
+    s006      GC5780    -1
+    s006      GC5817    -1
+    s006      GC5854    -1
+    s006      GC5891    -1
+    s006      GC5928    -1
+    s006      GC6003    -1
+    s006      GC6040    -1
+    s006      GC6077    -1
+    s006      GC6114    -1
+    s006      GC6151    -1
+    s006      GC6188    -1
+    s006      GC6225    -1
+    s006      GC6262    -1
+    s006      GC6299    -1
+    s006      GC6336    -1
+    s006      GC6373    -1
+    s006      GC6410    -1
+    s006      GC6447    -1
+    s006      GC6484    -1
+    s006      GC6521    -1
+    s006      GC6558    -1
+    s006      GC6595    -1
+    s006      GC6632    -1
+    s006      GC6669    -1
+    s006      GC6706    -1
+    s006      GC6743    -1
+    s006      GC6780    -1
+    s006      GC6817    -1
+    s006      GC6854    -1
+    s006      GC6891    -1
+    s006      GC6928    -1
+    s006      GC6965    -1
+    s006      GC7002    -1
+    s006      GC7039    -1
+    s006      GC7076    -1
+    s006      GC7113    -1
+    s006      GC7150    -1
+    f006      R6        1
+    f006      GC20      1
+    f006      GC21      1
+    f006      GC22      1
+    f006      GC23      1
+    f006      GC5961    1
+    f006      GC5962    1
+    f006      GC5963    1
+    f006      GC5964    1
+    f006      GC5965    1
+    f006      GC5966    1
+    f006      GC5967    1
+    f006      GC5968    1
+    f006      GC5969    1
+    f006      GC5970    1
+    f006      GC5971    1
+    f006      GC5972    1
+    f006      GC5973    1
+    f006      GC5974    1
+    f006      GC5975    1
+    f006      GC5976    1
+    f006      GC5977    1
+    f006      GC5978    1
+    f006      GC5979    1
+    f006      GC5980    1
+    f006      GC5981    1
+    f006      GC5982    1
+    f006      GC5983    1
+    f006      GC5984    1
+    f006      GC5985    1
+    f006      GC5986    1
+    f006      GC5987    1
+    f006      GC5988    1
+    f006      GC5989    1
+    f006      GC5990    1
+    f006      GC5991    1
+    f006      GC5992    1
+    f006      GC5993    1
+    f006      GC5994    1
+    f006      GC5995    1
+    f006      GC5996    1
+    f006      GC5997    1
+    s007      OBJ       0
+    s007      GC24      -1
+    s007      GC25      -1
+    s007      GC26      -1
+    s007      GC27      -1
+    s007      GC5781    -1
+    s007      GC5818    -1
+    s007      GC5855    -1
+    s007      GC5892    -1
+    s007      GC5929    -1
+    s007      GC5966    -1
+    s007      GC6041    -1
+    s007      GC6078    -1
+    s007      GC6115    -1
+    s007      GC6152    -1
+    s007      GC6189    -1
+    s007      GC6226    -1
+    s007      GC6263    -1
+    s007      GC6300    -1
+    s007      GC6337    -1
+    s007      GC6374    -1
+    s007      GC6411    -1
+    s007      GC6448    -1
+    s007      GC6485    -1
+    s007      GC6522    -1
+    s007      GC6559    -1
+    s007      GC6596    -1
+    s007      GC6633    -1
+    s007      GC6670    -1
+    s007      GC6707    -1
+    s007      GC6744    -1
+    s007      GC6781    -1
+    s007      GC6818    -1
+    s007      GC6855    -1
+    s007      GC6892    -1
+    s007      GC6929    -1
+    s007      GC6966    -1
+    s007      GC7003    -1
+    s007      GC7040    -1
+    s007      GC7077    -1
+    s007      GC7114    -1
+    s007      GC7151    -1
+    f007      R7        1
+    f007      R40       1
+    f007      GC24      1
+    f007      GC25      1
+    f007      GC26      1
+    f007      GC27      1
+    f007      GC5998    1
+    f007      GC5999    1
+    f007      GC6000    1
+    f007      GC6001    1
+    f007      GC6002    1
+    f007      GC6003    1
+    f007      GC6004    1
+    f007      GC6005    1
+    f007      GC6006    1
+    f007      GC6007    1
+    f007      GC6008    1
+    f007      GC6009    1
+    f007      GC6010    1
+    f007      GC6011    1
+    f007      GC6012    1
+    f007      GC6013    1
+    f007      GC6014    1
+    f007      GC6015    1
+    f007      GC6016    1
+    f007      GC6017    1
+    f007      GC6018    1
+    f007      GC6019    1
+    f007      GC6020    1
+    f007      GC6021    1
+    f007      GC6022    1
+    f007      GC6023    1
+    f007      GC6024    1
+    f007      GC6025    1
+    f007      GC6026    1
+    f007      GC6027    1
+    f007      GC6028    1
+    f007      GC6029    1
+    f007      GC6030    1
+    f007      GC6031    1
+    f007      GC6032    1
+    f007      GC6033    1
+    f007      GC6034    1
+    s008      OBJ       0
+    s008      GC28      -1
+    s008      GC29      -1
+    s008      GC30      -1
+    s008      GC31      -1
+    s008      GC5782    -1
+    s008      GC5819    -1
+    s008      GC5856    -1
+    s008      GC5893    -1
+    s008      GC5930    -1
+    s008      GC5967    -1
+    s008      GC6004    -1
+    s008      GC6079    -1
+    s008      GC6116    -1
+    s008      GC6153    -1
+    s008      GC6190    -1
+    s008      GC6227    -1
+    s008      GC6264    -1
+    s008      GC6301    -1
+    s008      GC6338    -1
+    s008      GC6375    -1
+    s008      GC6412    -1
+    s008      GC6449    -1
+    s008      GC6486    -1
+    s008      GC6523    -1
+    s008      GC6560    -1
+    s008      GC6597    -1
+    s008      GC6634    -1
+    s008      GC6671    -1
+    s008      GC6708    -1
+    s008      GC6745    -1
+    s008      GC6782    -1
+    s008      GC6819    -1
+    s008      GC6856    -1
+    s008      GC6893    -1
+    s008      GC6930    -1
+    s008      GC6967    -1
+    s008      GC7004    -1
+    s008      GC7041    -1
+    s008      GC7078    -1
+    s008      GC7115    -1
+    s008      GC7152    -1
+    f008      R8        1
+    f008      GC28      1
+    f008      GC29      1
+    f008      GC30      1
+    f008      GC31      1
+    f008      GC6035    1
+    f008      GC6036    1
+    f008      GC6037    1
+    f008      GC6038    1
+    f008      GC6039    1
+    f008      GC6040    1
+    f008      GC6041    1
+    f008      GC6042    1
+    f008      GC6043    1
+    f008      GC6044    1
+    f008      GC6045    1
+    f008      GC6046    1
+    f008      GC6047    1
+    f008      GC6048    1
+    f008      GC6049    1
+    f008      GC6050    1
+    f008      GC6051    1
+    f008      GC6052    1
+    f008      GC6053    1
+    f008      GC6054    1
+    f008      GC6055    1
+    f008      GC6056    1
+    f008      GC6057    1
+    f008      GC6058    1
+    f008      GC6059    1
+    f008      GC6060    1
+    f008      GC6061    1
+    f008      GC6062    1
+    f008      GC6063    1
+    f008      GC6064    1
+    f008      GC6065    1
+    f008      GC6066    1
+    f008      GC6067    1
+    f008      GC6068    1
+    f008      GC6069    1
+    f008      GC6070    1
+    f008      GC6071    1
+    s009      OBJ       0
+    s009      GC32      -1
+    s009      GC33      -1
+    s009      GC34      -1
+    s009      GC35      -1
+    s009      GC5783    -1
+    s009      GC5820    -1
+    s009      GC5857    -1
+    s009      GC5894    -1
+    s009      GC5931    -1
+    s009      GC5968    -1
+    s009      GC6005    -1
+    s009      GC6042    -1
+    s009      GC6117    -1
+    s009      GC6154    -1
+    s009      GC6191    -1
+    s009      GC6228    -1
+    s009      GC6265    -1
+    s009      GC6302    -1
+    s009      GC6339    -1
+    s009      GC6376    -1
+    s009      GC6413    -1
+    s009      GC6450    -1
+    s009      GC6487    -1
+    s009      GC6524    -1
+    s009      GC6561    -1
+    s009      GC6598    -1
+    s009      GC6635    -1
+    s009      GC6672    -1
+    s009      GC6709    -1
+    s009      GC6746    -1
+    s009      GC6783    -1
+    s009      GC6820    -1
+    s009      GC6857    -1
+    s009      GC6894    -1
+    s009      GC6931    -1
+    s009      GC6968    -1
+    s009      GC7005    -1
+    s009      GC7042    -1
+    s009      GC7079    -1
+    s009      GC7116    -1
+    s009      GC7153    -1
+    f009      R9        1
+    f009      R46       -1
+    f009      R48       -1
+    f009      GC32      1
+    f009      GC33      1
+    f009      GC34      1
+    f009      GC35      1
+    f009      GC6072    1
+    f009      GC6073    1
+    f009      GC6074    1
+    f009      GC6075    1
+    f009      GC6076    1
+    f009      GC6077    1
+    f009      GC6078    1
+    f009      GC6079    1
+    f009      GC6080    1
+    f009      GC6081    1
+    f009      GC6082    1
+    f009      GC6083    1
+    f009      GC6084    1
+    f009      GC6085    1
+    f009      GC6086    1
+    f009      GC6087    1
+    f009      GC6088    1
+    f009      GC6089    1
+    f009      GC6090    1
+    f009      GC6091    1
+    f009      GC6092    1
+    f009      GC6093    1
+    f009      GC6094    1
+    f009      GC6095    1
+    f009      GC6096    1
+    f009      GC6097    1
+    f009      GC6098    1
+    f009      GC6099    1
+    f009      GC6100    1
+    f009      GC6101    1
+    f009      GC6102    1
+    f009      GC6103    1
+    f009      GC6104    1
+    f009      GC6105    1
+    f009      GC6106    1
+    f009      GC6107    1
+    f009      GC6108    1
+    s010      OBJ       0
+    s010      GC36      -1
+    s010      GC37      -1
+    s010      GC38      -1
+    s010      GC39      -1
+    s010      GC5784    -1
+    s010      GC5821    -1
+    s010      GC5858    -1
+    s010      GC5895    -1
+    s010      GC5932    -1
+    s010      GC5969    -1
+    s010      GC6006    -1
+    s010      GC6043    -1
+    s010      GC6080    -1
+    s010      GC6155    -1
+    s010      GC6192    -1
+    s010      GC6229    -1
+    s010      GC6266    -1
+    s010      GC6303    -1
+    s010      GC6340    -1
+    s010      GC6377    -1
+    s010      GC6414    -1
+    s010      GC6451    -1
+    s010      GC6488    -1
+    s010      GC6525    -1
+    s010      GC6562    -1
+    s010      GC6599    -1
+    s010      GC6636    -1
+    s010      GC6673    -1
+    s010      GC6710    -1
+    s010      GC6747    -1
+    s010      GC6784    -1
+    s010      GC6821    -1
+    s010      GC6858    -1
+    s010      GC6895    -1
+    s010      GC6932    -1
+    s010      GC6969    -1
+    s010      GC7006    -1
+    s010      GC7043    -1
+    s010      GC7080    -1
+    s010      GC7117    -1
+    s010      GC7154    -1
+    f010      R10       1
+    f010      GC36      1
+    f010      GC37      1
+    f010      GC38      1
+    f010      GC39      1
+    f010      GC6109    1
+    f010      GC6110    1
+    f010      GC6111    1
+    f010      GC6112    1
+    f010      GC6113    1
+    f010      GC6114    1
+    f010      GC6115    1
+    f010      GC6116    1
+    f010      GC6117    1
+    f010      GC6118    1
+    f010      GC6119    1
+    f010      GC6120    1
+    f010      GC6121    1
+    f010      GC6122    1
+    f010      GC6123    1
+    f010      GC6124    1
+    f010      GC6125    1
+    f010      GC6126    1
+    f010      GC6127    1
+    f010      GC6128    1
+    f010      GC6129    1
+    f010      GC6130    1
+    f010      GC6131    1
+    f010      GC6132    1
+    f010      GC6133    1
+    f010      GC6134    1
+    f010      GC6135    1
+    f010      GC6136    1
+    f010      GC6137    1
+    f010      GC6138    1
+    f010      GC6139    1
+    f010      GC6140    1
+    f010      GC6141    1
+    f010      GC6142    1
+    f010      GC6143    1
+    f010      GC6144    1
+    f010      GC6145    1
+    s011      OBJ       0
+    s011      GC40      -1
+    s011      GC41      -1
+    s011      GC42      -1
+    s011      GC43      -1
+    s011      GC5785    -1
+    s011      GC5822    -1
+    s011      GC5859    -1
+    s011      GC5896    -1
+    s011      GC5933    -1
+    s011      GC5970    -1
+    s011      GC6007    -1
+    s011      GC6044    -1
+    s011      GC6081    -1
+    s011      GC6118    -1
+    s011      GC6193    -1
+    s011      GC6230    -1
+    s011      GC6267    -1
+    s011      GC6304    -1
+    s011      GC6341    -1
+    s011      GC6378    -1
+    s011      GC6415    -1
+    s011      GC6452    -1
+    s011      GC6489    -1
+    s011      GC6526    -1
+    s011      GC6563    -1
+    s011      GC6600    -1
+    s011      GC6637    -1
+    s011      GC6674    -1
+    s011      GC6711    -1
+    s011      GC6748    -1
+    s011      GC6785    -1
+    s011      GC6822    -1
+    s011      GC6859    -1
+    s011      GC6896    -1
+    s011      GC6933    -1
+    s011      GC6970    -1
+    s011      GC7007    -1
+    s011      GC7044    -1
+    s011      GC7081    -1
+    s011      GC7118    -1
+    s011      GC7155    -1
+    f011      R11       1
+    f011      R41       1
+    f011      R51       -1
+    f011      GC40      1
+    f011      GC41      1
+    f011      GC42      1
+    f011      GC43      1
+    f011      GC6146    1
+    f011      GC6147    1
+    f011      GC6148    1
+    f011      GC6149    1
+    f011      GC6150    1
+    f011      GC6151    1
+    f011      GC6152    1
+    f011      GC6153    1
+    f011      GC6154    1
+    f011      GC6155    1
+    f011      GC6156    1
+    f011      GC6157    1
+    f011      GC6158    1
+    f011      GC6159    1
+    f011      GC6160    1
+    f011      GC6161    1
+    f011      GC6162    1
+    f011      GC6163    1
+    f011      GC6164    1
+    f011      GC6165    1
+    f011      GC6166    1
+    f011      GC6167    1
+    f011      GC6168    1
+    f011      GC6169    1
+    f011      GC6170    1
+    f011      GC6171    1
+    f011      GC6172    1
+    f011      GC6173    1
+    f011      GC6174    1
+    f011      GC6175    1
+    f011      GC6176    1
+    f011      GC6177    1
+    f011      GC6178    1
+    f011      GC6179    1
+    f011      GC6180    1
+    f011      GC6181    1
+    f011      GC6182    1
+    s012      OBJ       0
+    s012      GC44      -1
+    s012      GC45      -1
+    s012      GC46      -1
+    s012      GC47      -1
+    s012      GC5786    -1
+    s012      GC5823    -1
+    s012      GC5860    -1
+    s012      GC5897    -1
+    s012      GC5934    -1
+    s012      GC5971    -1
+    s012      GC6008    -1
+    s012      GC6045    -1
+    s012      GC6082    -1
+    s012      GC6119    -1
+    s012      GC6156    -1
+    s012      GC6231    -1
+    s012      GC6268    -1
+    s012      GC6305    -1
+    s012      GC6342    -1
+    s012      GC6379    -1
+    s012      GC6416    -1
+    s012      GC6453    -1
+    s012      GC6490    -1
+    s012      GC6527    -1
+    s012      GC6564    -1
+    s012      GC6601    -1
+    s012      GC6638    -1
+    s012      GC6675    -1
+    s012      GC6712    -1
+    s012      GC6749    -1
+    s012      GC6786    -1
+    s012      GC6823    -1
+    s012      GC6860    -1
+    s012      GC6897    -1
+    s012      GC6934    -1
+    s012      GC6971    -1
+    s012      GC7008    -1
+    s012      GC7045    -1
+    s012      GC7082    -1
+    s012      GC7119    -1
+    s012      GC7156    -1
+    f012      R12       1
+    f012      GC44      1
+    f012      GC45      1
+    f012      GC46      1
+    f012      GC47      1
+    f012      GC6183    1
+    f012      GC6184    1
+    f012      GC6185    1
+    f012      GC6186    1
+    f012      GC6187    1
+    f012      GC6188    1
+    f012      GC6189    1
+    f012      GC6190    1
+    f012      GC6191    1
+    f012      GC6192    1
+    f012      GC6193    1
+    f012      GC6194    1
+    f012      GC6195    1
+    f012      GC6196    1
+    f012      GC6197    1
+    f012      GC6198    1
+    f012      GC6199    1
+    f012      GC6200    1
+    f012      GC6201    1
+    f012      GC6202    1
+    f012      GC6203    1
+    f012      GC6204    1
+    f012      GC6205    1
+    f012      GC6206    1
+    f012      GC6207    1
+    f012      GC6208    1
+    f012      GC6209    1
+    f012      GC6210    1
+    f012      GC6211    1
+    f012      GC6212    1
+    f012      GC6213    1
+    f012      GC6214    1
+    f012      GC6215    1
+    f012      GC6216    1
+    f012      GC6217    1
+    f012      GC6218    1
+    f012      GC6219    1
+    s013      OBJ       0
+    s013      GC48      -1
+    s013      GC49      -1
+    s013      GC50      -1
+    s013      GC51      -1
+    s013      GC5787    -1
+    s013      GC5824    -1
+    s013      GC5861    -1
+    s013      GC5898    -1
+    s013      GC5935    -1
+    s013      GC5972    -1
+    s013      GC6009    -1
+    s013      GC6046    -1
+    s013      GC6083    -1
+    s013      GC6120    -1
+    s013      GC6157    -1
+    s013      GC6194    -1
+    s013      GC6269    -1
+    s013      GC6306    -1
+    s013      GC6343    -1
+    s013      GC6380    -1
+    s013      GC6417    -1
+    s013      GC6454    -1
+    s013      GC6491    -1
+    s013      GC6528    -1
+    s013      GC6565    -1
+    s013      GC6602    -1
+    s013      GC6639    -1
+    s013      GC6676    -1
+    s013      GC6713    -1
+    s013      GC6750    -1
+    s013      GC6787    -1
+    s013      GC6824    -1
+    s013      GC6861    -1
+    s013      GC6898    -1
+    s013      GC6935    -1
+    s013      GC6972    -1
+    s013      GC7009    -1
+    s013      GC7046    -1
+    s013      GC7083    -1
+    s013      GC7120    -1
+    s013      GC7157    -1
+    f013      R13       1
+    f013      GC48      1
+    f013      GC49      1
+    f013      GC50      1
+    f013      GC51      1
+    f013      GC6220    1
+    f013      GC6221    1
+    f013      GC6222    1
+    f013      GC6223    1
+    f013      GC6224    1
+    f013      GC6225    1
+    f013      GC6226    1
+    f013      GC6227    1
+    f013      GC6228    1
+    f013      GC6229    1
+    f013      GC6230    1
+    f013      GC6231    1
+    f013      GC6232    1
+    f013      GC6233    1
+    f013      GC6234    1
+    f013      GC6235    1
+    f013      GC6236    1
+    f013      GC6237    1
+    f013      GC6238    1
+    f013      GC6239    1
+    f013      GC6240    1
+    f013      GC6241    1
+    f013      GC6242    1
+    f013      GC6243    1
+    f013      GC6244    1
+    f013      GC6245    1
+    f013      GC6246    1
+    f013      GC6247    1
+    f013      GC6248    1
+    f013      GC6249    1
+    f013      GC6250    1
+    f013      GC6251    1
+    f013      GC6252    1
+    f013      GC6253    1
+    f013      GC6254    1
+    f013      GC6255    1
+    f013      GC6256    1
+    s014      OBJ       0
+    s014      GC52      -1
+    s014      GC53      -1
+    s014      GC54      -1
+    s014      GC55      -1
+    s014      GC5788    -1
+    s014      GC5825    -1
+    s014      GC5862    -1
+    s014      GC5899    -1
+    s014      GC5936    -1
+    s014      GC5973    -1
+    s014      GC6010    -1
+    s014      GC6047    -1
+    s014      GC6084    -1
+    s014      GC6121    -1
+    s014      GC6158    -1
+    s014      GC6195    -1
+    s014      GC6232    -1
+    s014      GC6307    -1
+    s014      GC6344    -1
+    s014      GC6381    -1
+    s014      GC6418    -1
+    s014      GC6455    -1
+    s014      GC6492    -1
+    s014      GC6529    -1
+    s014      GC6566    -1
+    s014      GC6603    -1
+    s014      GC6640    -1
+    s014      GC6677    -1
+    s014      GC6714    -1
+    s014      GC6751    -1
+    s014      GC6788    -1
+    s014      GC6825    -1
+    s014      GC6862    -1
+    s014      GC6899    -1
+    s014      GC6936    -1
+    s014      GC6973    -1
+    s014      GC7010    -1
+    s014      GC7047    -1
+    s014      GC7084    -1
+    s014      GC7121    -1
+    s014      GC7158    -1
+    f014      R14       1
+    f014      R52       -1
+    f014      GC52      1
+    f014      GC53      1
+    f014      GC54      1
+    f014      GC55      1
+    f014      GC6257    1
+    f014      GC6258    1
+    f014      GC6259    1
+    f014      GC6260    1
+    f014      GC6261    1
+    f014      GC6262    1
+    f014      GC6263    1
+    f014      GC6264    1
+    f014      GC6265    1
+    f014      GC6266    1
+    f014      GC6267    1
+    f014      GC6268    1
+    f014      GC6269    1
+    f014      GC6270    1
+    f014      GC6271    1
+    f014      GC6272    1
+    f014      GC6273    1
+    f014      GC6274    1
+    f014      GC6275    1
+    f014      GC6276    1
+    f014      GC6277    1
+    f014      GC6278    1
+    f014      GC6279    1
+    f014      GC6280    1
+    f014      GC6281    1
+    f014      GC6282    1
+    f014      GC6283    1
+    f014      GC6284    1
+    f014      GC6285    1
+    f014      GC6286    1
+    f014      GC6287    1
+    f014      GC6288    1
+    f014      GC6289    1
+    f014      GC6290    1
+    f014      GC6291    1
+    f014      GC6292    1
+    f014      GC6293    1
+    s015      OBJ       0
+    s015      GC56      -1
+    s015      GC57      -1
+    s015      GC58      -1
+    s015      GC59      -1
+    s015      GC5789    -1
+    s015      GC5826    -1
+    s015      GC5863    -1
+    s015      GC5900    -1
+    s015      GC5937    -1
+    s015      GC5974    -1
+    s015      GC6011    -1
+    s015      GC6048    -1
+    s015      GC6085    -1
+    s015      GC6122    -1
+    s015      GC6159    -1
+    s015      GC6196    -1
+    s015      GC6233    -1
+    s015      GC6270    -1
+    s015      GC6345    -1
+    s015      GC6382    -1
+    s015      GC6419    -1
+    s015      GC6456    -1
+    s015      GC6493    -1
+    s015      GC6530    -1
+    s015      GC6567    -1
+    s015      GC6604    -1
+    s015      GC6641    -1
+    s015      GC6678    -1
+    s015      GC6715    -1
+    s015      GC6752    -1
+    s015      GC6789    -1
+    s015      GC6826    -1
+    s015      GC6863    -1
+    s015      GC6900    -1
+    s015      GC6937    -1
+    s015      GC6974    -1
+    s015      GC7011    -1
+    s015      GC7048    -1
+    s015      GC7085    -1
+    s015      GC7122    -1
+    s015      GC7159    -1
+    f015      R15       1
+    f015      GC56      1
+    f015      GC57      1
+    f015      GC58      1
+    f015      GC59      1
+    f015      GC6294    1
+    f015      GC6295    1
+    f015      GC6296    1
+    f015      GC6297    1
+    f015      GC6298    1
+    f015      GC6299    1
+    f015      GC6300    1
+    f015      GC6301    1
+    f015      GC6302    1
+    f015      GC6303    1
+    f015      GC6304    1
+    f015      GC6305    1
+    f015      GC6306    1
+    f015      GC6307    1
+    f015      GC6308    1
+    f015      GC6309    1
+    f015      GC6310    1
+    f015      GC6311    1
+    f015      GC6312    1
+    f015      GC6313    1
+    f015      GC6314    1
+    f015      GC6315    1
+    f015      GC6316    1
+    f015      GC6317    1
+    f015      GC6318    1
+    f015      GC6319    1
+    f015      GC6320    1
+    f015      GC6321    1
+    f015      GC6322    1
+    f015      GC6323    1
+    f015      GC6324    1
+    f015      GC6325    1
+    f015      GC6326    1
+    f015      GC6327    1
+    f015      GC6328    1
+    f015      GC6329    1
+    f015      GC6330    1
+    s016      R48       1
+    s016      GC60      -1
+    s016      GC61      -1
+    s016      GC62      -1
+    s016      GC63      -1
+    s016      GC5790    -1
+    s016      GC5827    -1
+    s016      GC5864    -1
+    s016      GC5901    -1
+    s016      GC5938    -1
+    s016      GC5975    -1
+    s016      GC6012    -1
+    s016      GC6049    -1
+    s016      GC6086    -1
+    s016      GC6123    -1
+    s016      GC6160    -1
+    s016      GC6197    -1
+    s016      GC6234    -1
+    s016      GC6271    -1
+    s016      GC6308    -1
+    s016      GC6383    -1
+    s016      GC6420    -1
+    s016      GC6457    -1
+    s016      GC6494    -1
+    s016      GC6531    -1
+    s016      GC6568    -1
+    s016      GC6605    -1
+    s016      GC6642    -1
+    s016      GC6679    -1
+    s016      GC6716    -1
+    s016      GC6753    -1
+    s016      GC6790    -1
+    s016      GC6827    -1
+    s016      GC6864    -1
+    s016      GC6901    -1
+    s016      GC6938    -1
+    s016      GC6975    -1
+    s016      GC7012    -1
+    s016      GC7049    -1
+    s016      GC7086    -1
+    s016      GC7123    -1
+    s016      GC7160    -1
+    f016      R16       1
+    f016      GC60      1
+    f016      GC61      1
+    f016      GC62      1
+    f016      GC63      1
+    f016      GC6331    1
+    f016      GC6332    1
+    f016      GC6333    1
+    f016      GC6334    1
+    f016      GC6335    1
+    f016      GC6336    1
+    f016      GC6337    1
+    f016      GC6338    1
+    f016      GC6339    1
+    f016      GC6340    1
+    f016      GC6341    1
+    f016      GC6342    1
+    f016      GC6343    1
+    f016      GC6344    1
+    f016      GC6345    1
+    f016      GC6346    1
+    f016      GC6347    1
+    f016      GC6348    1
+    f016      GC6349    1
+    f016      GC6350    1
+    f016      GC6351    1
+    f016      GC6352    1
+    f016      GC6353    1
+    f016      GC6354    1
+    f016      GC6355    1
+    f016      GC6356    1
+    f016      GC6357    1
+    f016      GC6358    1
+    f016      GC6359    1
+    f016      GC6360    1
+    f016      GC6361    1
+    f016      GC6362    1
+    f016      GC6363    1
+    f016      GC6364    1
+    f016      GC6365    1
+    f016      GC6366    1
+    f016      GC6367    1
+    s017      OBJ       0
+    s017      GC64      -1
+    s017      GC65      -1
+    s017      GC66      -1
+    s017      GC67      -1
+    s017      GC5791    -1
+    s017      GC5828    -1
+    s017      GC5865    -1
+    s017      GC5902    -1
+    s017      GC5939    -1
+    s017      GC5976    -1
+    s017      GC6013    -1
+    s017      GC6050    -1
+    s017      GC6087    -1
+    s017      GC6124    -1
+    s017      GC6161    -1
+    s017      GC6198    -1
+    s017      GC6235    -1
+    s017      GC6272    -1
+    s017      GC6309    -1
+    s017      GC6346    -1
+    s017      GC6421    -1
+    s017      GC6458    -1
+    s017      GC6495    -1
+    s017      GC6532    -1
+    s017      GC6569    -1
+    s017      GC6606    -1
+    s017      GC6643    -1
+    s017      GC6680    -1
+    s017      GC6717    -1
+    s017      GC6754    -1
+    s017      GC6791    -1
+    s017      GC6828    -1
+    s017      GC6865    -1
+    s017      GC6902    -1
+    s017      GC6939    -1
+    s017      GC6976    -1
+    s017      GC7013    -1
+    s017      GC7050    -1
+    s017      GC7087    -1
+    s017      GC7124    -1
+    s017      GC7161    -1
+    f017      R17       1
+    f017      GC64      1
+    f017      GC65      1
+    f017      GC66      1
+    f017      GC67      1
+    f017      GC6368    1
+    f017      GC6369    1
+    f017      GC6370    1
+    f017      GC6371    1
+    f017      GC6372    1
+    f017      GC6373    1
+    f017      GC6374    1
+    f017      GC6375    1
+    f017      GC6376    1
+    f017      GC6377    1
+    f017      GC6378    1
+    f017      GC6379    1
+    f017      GC6380    1
+    f017      GC6381    1
+    f017      GC6382    1
+    f017      GC6383    1
+    f017      GC6384    1
+    f017      GC6385    1
+    f017      GC6386    1
+    f017      GC6387    1
+    f017      GC6388    1
+    f017      GC6389    1
+    f017      GC6390    1
+    f017      GC6391    1
+    f017      GC6392    1
+    f017      GC6393    1
+    f017      GC6394    1
+    f017      GC6395    1
+    f017      GC6396    1
+    f017      GC6397    1
+    f017      GC6398    1
+    f017      GC6399    1
+    f017      GC6400    1
+    f017      GC6401    1
+    f017      GC6402    1
+    f017      GC6403    1
+    f017      GC6404    1
+    s018      R49       1
+    s018      GC68      -1
+    s018      GC69      -1
+    s018      GC70      -1
+    s018      GC71      -1
+    s018      GC5792    -1
+    s018      GC5829    -1
+    s018      GC5866    -1
+    s018      GC5903    -1
+    s018      GC5940    -1
+    s018      GC5977    -1
+    s018      GC6014    -1
+    s018      GC6051    -1
+    s018      GC6088    -1
+    s018      GC6125    -1
+    s018      GC6162    -1
+    s018      GC6199    -1
+    s018      GC6236    -1
+    s018      GC6273    -1
+    s018      GC6310    -1
+    s018      GC6347    -1
+    s018      GC6384    -1
+    s018      GC6459    -1
+    s018      GC6496    -1
+    s018      GC6533    -1
+    s018      GC6570    -1
+    s018      GC6607    -1
+    s018      GC6644    -1
+    s018      GC6681    -1
+    s018      GC6718    -1
+    s018      GC6755    -1
+    s018      GC6792    -1
+    s018      GC6829    -1
+    s018      GC6866    -1
+    s018      GC6903    -1
+    s018      GC6940    -1
+    s018      GC6977    -1
+    s018      GC7014    -1
+    s018      GC7051    -1
+    s018      GC7088    -1
+    s018      GC7125    -1
+    s018      GC7162    -1
+    f018      R18       1
+    f018      GC68      1
+    f018      GC69      1
+    f018      GC70      1
+    f018      GC71      1
+    f018      GC6405    1
+    f018      GC6406    1
+    f018      GC6407    1
+    f018      GC6408    1
+    f018      GC6409    1
+    f018      GC6410    1
+    f018      GC6411    1
+    f018      GC6412    1
+    f018      GC6413    1
+    f018      GC6414    1
+    f018      GC6415    1
+    f018      GC6416    1
+    f018      GC6417    1
+    f018      GC6418    1
+    f018      GC6419    1
+    f018      GC6420    1
+    f018      GC6421    1
+    f018      GC6422    1
+    f018      GC6423    1
+    f018      GC6424    1
+    f018      GC6425    1
+    f018      GC6426    1
+    f018      GC6427    1
+    f018      GC6428    1
+    f018      GC6429    1
+    f018      GC6430    1
+    f018      GC6431    1
+    f018      GC6432    1
+    f018      GC6433    1
+    f018      GC6434    1
+    f018      GC6435    1
+    f018      GC6436    1
+    f018      GC6437    1
+    f018      GC6438    1
+    f018      GC6439    1
+    f018      GC6440    1
+    f018      GC6441    1
+    s019      OBJ       0
+    s019      GC72      -1
+    s019      GC73      -1
+    s019      GC74      -1
+    s019      GC75      -1
+    s019      GC5793    -1
+    s019      GC5830    -1
+    s019      GC5867    -1
+    s019      GC5904    -1
+    s019      GC5941    -1
+    s019      GC5978    -1
+    s019      GC6015    -1
+    s019      GC6052    -1
+    s019      GC6089    -1
+    s019      GC6126    -1
+    s019      GC6163    -1
+    s019      GC6200    -1
+    s019      GC6237    -1
+    s019      GC6274    -1
+    s019      GC6311    -1
+    s019      GC6348    -1
+    s019      GC6385    -1
+    s019      GC6422    -1
+    s019      GC6497    -1
+    s019      GC6534    -1
+    s019      GC6571    -1
+    s019      GC6608    -1
+    s019      GC6645    -1
+    s019      GC6682    -1
+    s019      GC6719    -1
+    s019      GC6756    -1
+    s019      GC6793    -1
+    s019      GC6830    -1
+    s019      GC6867    -1
+    s019      GC6904    -1
+    s019      GC6941    -1
+    s019      GC6978    -1
+    s019      GC7015    -1
+    s019      GC7052    -1
+    s019      GC7089    -1
+    s019      GC7126    -1
+    s019      GC7163    -1
+    f019      R19       1
+    f019      GC72      1
+    f019      GC73      1
+    f019      GC74      1
+    f019      GC75      1
+    f019      GC6442    1
+    f019      GC6443    1
+    f019      GC6444    1
+    f019      GC6445    1
+    f019      GC6446    1
+    f019      GC6447    1
+    f019      GC6448    1
+    f019      GC6449    1
+    f019      GC6450    1
+    f019      GC6451    1
+    f019      GC6452    1
+    f019      GC6453    1
+    f019      GC6454    1
+    f019      GC6455    1
+    f019      GC6456    1
+    f019      GC6457    1
+    f019      GC6458    1
+    f019      GC6459    1
+    f019      GC6460    1
+    f019      GC6461    1
+    f019      GC6462    1
+    f019      GC6463    1
+    f019      GC6464    1
+    f019      GC6465    1
+    f019      GC6466    1
+    f019      GC6467    1
+    f019      GC6468    1
+    f019      GC6469    1
+    f019      GC6470    1
+    f019      GC6471    1
+    f019      GC6472    1
+    f019      GC6473    1
+    f019      GC6474    1
+    f019      GC6475    1
+    f019      GC6476    1
+    f019      GC6477    1
+    f019      GC6478    1
+    s020      OBJ       0
+    s020      GC76      -1
+    s020      GC77      -1
+    s020      GC78      -1
+    s020      GC79      -1
+    s020      GC5794    -1
+    s020      GC5831    -1
+    s020      GC5868    -1
+    s020      GC5905    -1
+    s020      GC5942    -1
+    s020      GC5979    -1
+    s020      GC6016    -1
+    s020      GC6053    -1
+    s020      GC6090    -1
+    s020      GC6127    -1
+    s020      GC6164    -1
+    s020      GC6201    -1
+    s020      GC6238    -1
+    s020      GC6275    -1
+    s020      GC6312    -1
+    s020      GC6349    -1
+    s020      GC6386    -1
+    s020      GC6423    -1
+    s020      GC6460    -1
+    s020      GC6535    -1
+    s020      GC6572    -1
+    s020      GC6609    -1
+    s020      GC6646    -1
+    s020      GC6683    -1
+    s020      GC6720    -1
+    s020      GC6757    -1
+    s020      GC6794    -1
+    s020      GC6831    -1
+    s020      GC6868    -1
+    s020      GC6905    -1
+    s020      GC6942    -1
+    s020      GC6979    -1
+    s020      GC7016    -1
+    s020      GC7053    -1
+    s020      GC7090    -1
+    s020      GC7127    -1
+    s020      GC7164    -1
+    f020      R20       1
+    f020      R49       -1
+    f020      GC76      1
+    f020      GC77      1
+    f020      GC78      1
+    f020      GC79      1
+    f020      GC6479    1
+    f020      GC6480    1
+    f020      GC6481    1
+    f020      GC6482    1
+    f020      GC6483    1
+    f020      GC6484    1
+    f020      GC6485    1
+    f020      GC6486    1
+    f020      GC6487    1
+    f020      GC6488    1
+    f020      GC6489    1
+    f020      GC6490    1
+    f020      GC6491    1
+    f020      GC6492    1
+    f020      GC6493    1
+    f020      GC6494    1
+    f020      GC6495    1
+    f020      GC6496    1
+    f020      GC6497    1
+    f020      GC6498    1
+    f020      GC6499    1
+    f020      GC6500    1
+    f020      GC6501    1
+    f020      GC6502    1
+    f020      GC6503    1
+    f020      GC6504    1
+    f020      GC6505    1
+    f020      GC6506    1
+    f020      GC6507    1
+    f020      GC6508    1
+    f020      GC6509    1
+    f020      GC6510    1
+    f020      GC6511    1
+    f020      GC6512    1
+    f020      GC6513    1
+    f020      GC6514    1
+    f020      GC6515    1
+    s021      OBJ       0
+    s021      GC80      -1
+    s021      GC81      -1
+    s021      GC82      -1
+    s021      GC83      -1
+    s021      GC5795    -1
+    s021      GC5832    -1
+    s021      GC5869    -1
+    s021      GC5906    -1
+    s021      GC5943    -1
+    s021      GC5980    -1
+    s021      GC6017    -1
+    s021      GC6054    -1
+    s021      GC6091    -1
+    s021      GC6128    -1
+    s021      GC6165    -1
+    s021      GC6202    -1
+    s021      GC6239    -1
+    s021      GC6276    -1
+    s021      GC6313    -1
+    s021      GC6350    -1
+    s021      GC6387    -1
+    s021      GC6424    -1
+    s021      GC6461    -1
+    s021      GC6498    -1
+    s021      GC6573    -1
+    s021      GC6610    -1
+    s021      GC6647    -1
+    s021      GC6684    -1
+    s021      GC6721    -1
+    s021      GC6758    -1
+    s021      GC6795    -1
+    s021      GC6832    -1
+    s021      GC6869    -1
+    s021      GC6906    -1
+    s021      GC6943    -1
+    s021      GC6980    -1
+    s021      GC7017    -1
+    s021      GC7054    -1
+    s021      GC7091    -1
+    s021      GC7128    -1
+    s021      GC7165    -1
+    f021      R21       1
+    f021      GC80      1
+    f021      GC81      1
+    f021      GC82      1
+    f021      GC83      1
+    f021      GC6516    1
+    f021      GC6517    1
+    f021      GC6518    1
+    f021      GC6519    1
+    f021      GC6520    1
+    f021      GC6521    1
+    f021      GC6522    1
+    f021      GC6523    1
+    f021      GC6524    1
+    f021      GC6525    1
+    f021      GC6526    1
+    f021      GC6527    1
+    f021      GC6528    1
+    f021      GC6529    1
+    f021      GC6530    1
+    f021      GC6531    1
+    f021      GC6532    1
+    f021      GC6533    1
+    f021      GC6534    1
+    f021      GC6535    1
+    f021      GC6536    1
+    f021      GC6537    1
+    f021      GC6538    1
+    f021      GC6539    1
+    f021      GC6540    1
+    f021      GC6541    1
+    f021      GC6542    1
+    f021      GC6543    1
+    f021      GC6544    1
+    f021      GC6545    1
+    f021      GC6546    1
+    f021      GC6547    1
+    f021      GC6548    1
+    f021      GC6549    1
+    f021      GC6550    1
+    f021      GC6551    1
+    f021      GC6552    1
+    s022      OBJ       0
+    s022      GC84      -1
+    s022      GC85      -1
+    s022      GC86      -1
+    s022      GC87      -1
+    s022      GC5796    -1
+    s022      GC5833    -1
+    s022      GC5870    -1
+    s022      GC5907    -1
+    s022      GC5944    -1
+    s022      GC5981    -1
+    s022      GC6018    -1
+    s022      GC6055    -1
+    s022      GC6092    -1
+    s022      GC6129    -1
+    s022      GC6166    -1
+    s022      GC6203    -1
+    s022      GC6240    -1
+    s022      GC6277    -1
+    s022      GC6314    -1
+    s022      GC6351    -1
+    s022      GC6388    -1
+    s022      GC6425    -1
+    s022      GC6462    -1
+    s022      GC6499    -1
+    s022      GC6536    -1
+    s022      GC6611    -1
+    s022      GC6648    -1
+    s022      GC6685    -1
+    s022      GC6722    -1
+    s022      GC6759    -1
+    s022      GC6796    -1
+    s022      GC6833    -1
+    s022      GC6870    -1
+    s022      GC6907    -1
+    s022      GC6944    -1
+    s022      GC6981    -1
+    s022      GC7018    -1
+    s022      GC7055    -1
+    s022      GC7092    -1
+    s022      GC7129    -1
+    s022      GC7166    -1
+    f022      R22       1
+    f022      GC84      1
+    f022      GC85      1
+    f022      GC86      1
+    f022      GC87      1
+    f022      GC6553    1
+    f022      GC6554    1
+    f022      GC6555    1
+    f022      GC6556    1
+    f022      GC6557    1
+    f022      GC6558    1
+    f022      GC6559    1
+    f022      GC6560    1
+    f022      GC6561    1
+    f022      GC6562    1
+    f022      GC6563    1
+    f022      GC6564    1
+    f022      GC6565    1
+    f022      GC6566    1
+    f022      GC6567    1
+    f022      GC6568    1
+    f022      GC6569    1
+    f022      GC6570    1
+    f022      GC6571    1
+    f022      GC6572    1
+    f022      GC6573    1
+    f022      GC6574    1
+    f022      GC6575    1
+    f022      GC6576    1
+    f022      GC6577    1
+    f022      GC6578    1
+    f022      GC6579    1
+    f022      GC6580    1
+    f022      GC6581    1
+    f022      GC6582    1
+    f022      GC6583    1
+    f022      GC6584    1
+    f022      GC6585    1
+    f022      GC6586    1
+    f022      GC6587    1
+    f022      GC6588    1
+    f022      GC6589    1
+    s023      OBJ       0
+    s023      GC88      -1
+    s023      GC89      -1
+    s023      GC90      -1
+    s023      GC91      -1
+    s023      GC5797    -1
+    s023      GC5834    -1
+    s023      GC5871    -1
+    s023      GC5908    -1
+    s023      GC5945    -1
+    s023      GC5982    -1
+    s023      GC6019    -1
+    s023      GC6056    -1
+    s023      GC6093    -1
+    s023      GC6130    -1
+    s023      GC6167    -1
+    s023      GC6204    -1
+    s023      GC6241    -1
+    s023      GC6278    -1
+    s023      GC6315    -1
+    s023      GC6352    -1
+    s023      GC6389    -1
+    s023      GC6426    -1
+    s023      GC6463    -1
+    s023      GC6500    -1
+    s023      GC6537    -1
+    s023      GC6574    -1
+    s023      GC6649    -1
+    s023      GC6686    -1
+    s023      GC6723    -1
+    s023      GC6760    -1
+    s023      GC6797    -1
+    s023      GC6834    -1
+    s023      GC6871    -1
+    s023      GC6908    -1
+    s023      GC6945    -1
+    s023      GC6982    -1
+    s023      GC7019    -1
+    s023      GC7056    -1
+    s023      GC7093    -1
+    s023      GC7130    -1
+    s023      GC7167    -1
+    f023      R23       1
+    f023      R50       -1
+    f023      GC88      1
+    f023      GC89      1
+    f023      GC90      1
+    f023      GC91      1
+    f023      GC6590    1
+    f023      GC6591    1
+    f023      GC6592    1
+    f023      GC6593    1
+    f023      GC6594    1
+    f023      GC6595    1
+    f023      GC6596    1
+    f023      GC6597    1
+    f023      GC6598    1
+    f023      GC6599    1
+    f023      GC6600    1
+    f023      GC6601    1
+    f023      GC6602    1
+    f023      GC6603    1
+    f023      GC6604    1
+    f023      GC6605    1
+    f023      GC6606    1
+    f023      GC6607    1
+    f023      GC6608    1
+    f023      GC6609    1
+    f023      GC6610    1
+    f023      GC6611    1
+    f023      GC6612    1
+    f023      GC6613    1
+    f023      GC6614    1
+    f023      GC6615    1
+    f023      GC6616    1
+    f023      GC6617    1
+    f023      GC6618    1
+    f023      GC6619    1
+    f023      GC6620    1
+    f023      GC6621    1
+    f023      GC6622    1
+    f023      GC6623    1
+    f023      GC6624    1
+    f023      GC6625    1
+    f023      GC6626    1
+    s024      OBJ       0
+    s024      GC92      -1
+    s024      GC93      -1
+    s024      GC94      -1
+    s024      GC95      -1
+    s024      GC5798    -1
+    s024      GC5835    -1
+    s024      GC5872    -1
+    s024      GC5909    -1
+    s024      GC5946    -1
+    s024      GC5983    -1
+    s024      GC6020    -1
+    s024      GC6057    -1
+    s024      GC6094    -1
+    s024      GC6131    -1
+    s024      GC6168    -1
+    s024      GC6205    -1
+    s024      GC6242    -1
+    s024      GC6279    -1
+    s024      GC6316    -1
+    s024      GC6353    -1
+    s024      GC6390    -1
+    s024      GC6427    -1
+    s024      GC6464    -1
+    s024      GC6501    -1
+    s024      GC6538    -1
+    s024      GC6575    -1
+    s024      GC6612    -1
+    s024      GC6687    -1
+    s024      GC6724    -1
+    s024      GC6761    -1
+    s024      GC6798    -1
+    s024      GC6835    -1
+    s024      GC6872    -1
+    s024      GC6909    -1
+    s024      GC6946    -1
+    s024      GC6983    -1
+    s024      GC7020    -1
+    s024      GC7057    -1
+    s024      GC7094    -1
+    s024      GC7131    -1
+    s024      GC7168    -1
+    f024      R24       1
+    f024      R47       -1
+    f024      GC92      1
+    f024      GC93      1
+    f024      GC94      1
+    f024      GC95      1
+    f024      GC6627    1
+    f024      GC6628    1
+    f024      GC6629    1
+    f024      GC6630    1
+    f024      GC6631    1
+    f024      GC6632    1
+    f024      GC6633    1
+    f024      GC6634    1
+    f024      GC6635    1
+    f024      GC6636    1
+    f024      GC6637    1
+    f024      GC6638    1
+    f024      GC6639    1
+    f024      GC6640    1
+    f024      GC6641    1
+    f024      GC6642    1
+    f024      GC6643    1
+    f024      GC6644    1
+    f024      GC6645    1
+    f024      GC6646    1
+    f024      GC6647    1
+    f024      GC6648    1
+    f024      GC6649    1
+    f024      GC6650    1
+    f024      GC6651    1
+    f024      GC6652    1
+    f024      GC6653    1
+    f024      GC6654    1
+    f024      GC6655    1
+    f024      GC6656    1
+    f024      GC6657    1
+    f024      GC6658    1
+    f024      GC6659    1
+    f024      GC6660    1
+    f024      GC6661    1
+    f024      GC6662    1
+    f024      GC6663    1
+    s025      R50       1
+    s025      GC96      -1
+    s025      GC97      -1
+    s025      GC98      -1
+    s025      GC99      -1
+    s025      GC5799    -1
+    s025      GC5836    -1
+    s025      GC5873    -1
+    s025      GC5910    -1
+    s025      GC5947    -1
+    s025      GC5984    -1
+    s025      GC6021    -1
+    s025      GC6058    -1
+    s025      GC6095    -1
+    s025      GC6132    -1
+    s025      GC6169    -1
+    s025      GC6206    -1
+    s025      GC6243    -1
+    s025      GC6280    -1
+    s025      GC6317    -1
+    s025      GC6354    -1
+    s025      GC6391    -1
+    s025      GC6428    -1
+    s025      GC6465    -1
+    s025      GC6502    -1
+    s025      GC6539    -1
+    s025      GC6576    -1
+    s025      GC6613    -1
+    s025      GC6650    -1
+    s025      GC6725    -1
+    s025      GC6762    -1
+    s025      GC6799    -1
+    s025      GC6836    -1
+    s025      GC6873    -1
+    s025      GC6910    -1
+    s025      GC6947    -1
+    s025      GC6984    -1
+    s025      GC7021    -1
+    s025      GC7058    -1
+    s025      GC7095    -1
+    s025      GC7132    -1
+    s025      GC7169    -1
+    f025      R25       1
+    f025      GC96      1
+    f025      GC97      1
+    f025      GC98      1
+    f025      GC99      1
+    f025      GC6664    1
+    f025      GC6665    1
+    f025      GC6666    1
+    f025      GC6667    1
+    f025      GC6668    1
+    f025      GC6669    1
+    f025      GC6670    1
+    f025      GC6671    1
+    f025      GC6672    1
+    f025      GC6673    1
+    f025      GC6674    1
+    f025      GC6675    1
+    f025      GC6676    1
+    f025      GC6677    1
+    f025      GC6678    1
+    f025      GC6679    1
+    f025      GC6680    1
+    f025      GC6681    1
+    f025      GC6682    1
+    f025      GC6683    1
+    f025      GC6684    1
+    f025      GC6685    1
+    f025      GC6686    1
+    f025      GC6687    1
+    f025      GC6688    1
+    f025      GC6689    1
+    f025      GC6690    1
+    f025      GC6691    1
+    f025      GC6692    1
+    f025      GC6693    1
+    f025      GC6694    1
+    f025      GC6695    1
+    f025      GC6696    1
+    f025      GC6697    1
+    f025      GC6698    1
+    f025      GC6699    1
+    f025      GC6700    1
+    s026      OBJ       0
+    s026      GC100     -1
+    s026      GC101     -1
+    s026      GC102     -1
+    s026      GC103     -1
+    s026      GC5800    -1
+    s026      GC5837    -1
+    s026      GC5874    -1
+    s026      GC5911    -1
+    s026      GC5948    -1
+    s026      GC5985    -1
+    s026      GC6022    -1
+    s026      GC6059    -1
+    s026      GC6096    -1
+    s026      GC6133    -1
+    s026      GC6170    -1
+    s026      GC6207    -1
+    s026      GC6244    -1
+    s026      GC6281    -1
+    s026      GC6318    -1
+    s026      GC6355    -1
+    s026      GC6392    -1
+    s026      GC6429    -1
+    s026      GC6466    -1
+    s026      GC6503    -1
+    s026      GC6540    -1
+    s026      GC6577    -1
+    s026      GC6614    -1
+    s026      GC6651    -1
+    s026      GC6688    -1
+    s026      GC6763    -1
+    s026      GC6800    -1
+    s026      GC6837    -1
+    s026      GC6874    -1
+    s026      GC6911    -1
+    s026      GC6948    -1
+    s026      GC6985    -1
+    s026      GC7022    -1
+    s026      GC7059    -1
+    s026      GC7096    -1
+    s026      GC7133    -1
+    s026      GC7170    -1
+    f026      R26       1
+    f026      GC100     1
+    f026      GC101     1
+    f026      GC102     1
+    f026      GC103     1
+    f026      GC6701    1
+    f026      GC6702    1
+    f026      GC6703    1
+    f026      GC6704    1
+    f026      GC6705    1
+    f026      GC6706    1
+    f026      GC6707    1
+    f026      GC6708    1
+    f026      GC6709    1
+    f026      GC6710    1
+    f026      GC6711    1
+    f026      GC6712    1
+    f026      GC6713    1
+    f026      GC6714    1
+    f026      GC6715    1
+    f026      GC6716    1
+    f026      GC6717    1
+    f026      GC6718    1
+    f026      GC6719    1
+    f026      GC6720    1
+    f026      GC6721    1
+    f026      GC6722    1
+    f026      GC6723    1
+    f026      GC6724    1
+    f026      GC6725    1
+    f026      GC6726    1
+    f026      GC6727    1
+    f026      GC6728    1
+    f026      GC6729    1
+    f026      GC6730    1
+    f026      GC6731    1
+    f026      GC6732    1
+    f026      GC6733    1
+    f026      GC6734    1
+    f026      GC6735    1
+    f026      GC6736    1
+    f026      GC6737    1
+    s027      OBJ       0
+    s027      GC104     -1
+    s027      GC105     -1
+    s027      GC106     -1
+    s027      GC107     -1
+    s027      GC5801    -1
+    s027      GC5838    -1
+    s027      GC5875    -1
+    s027      GC5912    -1
+    s027      GC5949    -1
+    s027      GC5986    -1
+    s027      GC6023    -1
+    s027      GC6060    -1
+    s027      GC6097    -1
+    s027      GC6134    -1
+    s027      GC6171    -1
+    s027      GC6208    -1
+    s027      GC6245    -1
+    s027      GC6282    -1
+    s027      GC6319    -1
+    s027      GC6356    -1
+    s027      GC6393    -1
+    s027      GC6430    -1
+    s027      GC6467    -1
+    s027      GC6504    -1
+    s027      GC6541    -1
+    s027      GC6578    -1
+    s027      GC6615    -1
+    s027      GC6652    -1
+    s027      GC6689    -1
+    s027      GC6726    -1
+    s027      GC6801    -1
+    s027      GC6838    -1
+    s027      GC6875    -1
+    s027      GC6912    -1
+    s027      GC6949    -1
+    s027      GC6986    -1
+    s027      GC7023    -1
+    s027      GC7060    -1
+    s027      GC7097    -1
+    s027      GC7134    -1
+    s027      GC7171    -1
+    f027      R27       1
+    f027      GC104     1
+    f027      GC105     1
+    f027      GC106     1
+    f027      GC107     1
+    f027      GC6738    1
+    f027      GC6739    1
+    f027      GC6740    1
+    f027      GC6741    1
+    f027      GC6742    1
+    f027      GC6743    1
+    f027      GC6744    1
+    f027      GC6745    1
+    f027      GC6746    1
+    f027      GC6747    1
+    f027      GC6748    1
+    f027      GC6749    1
+    f027      GC6750    1
+    f027      GC6751    1
+    f027      GC6752    1
+    f027      GC6753    1
+    f027      GC6754    1
+    f027      GC6755    1
+    f027      GC6756    1
+    f027      GC6757    1
+    f027      GC6758    1
+    f027      GC6759    1
+    f027      GC6760    1
+    f027      GC6761    1
+    f027      GC6762    1
+    f027      GC6763    1
+    f027      GC6764    1
+    f027      GC6765    1
+    f027      GC6766    1
+    f027      GC6767    1
+    f027      GC6768    1
+    f027      GC6769    1
+    f027      GC6770    1
+    f027      GC6771    1
+    f027      GC6772    1
+    f027      GC6773    1
+    f027      GC6774    1
+    s028      R51       1
+    s028      GC108     -1
+    s028      GC109     -1
+    s028      GC110     -1
+    s028      GC111     -1
+    s028      GC5802    -1
+    s028      GC5839    -1
+    s028      GC5876    -1
+    s028      GC5913    -1
+    s028      GC5950    -1
+    s028      GC5987    -1
+    s028      GC6024    -1
+    s028      GC6061    -1
+    s028      GC6098    -1
+    s028      GC6135    -1
+    s028      GC6172    -1
+    s028      GC6209    -1
+    s028      GC6246    -1
+    s028      GC6283    -1
+    s028      GC6320    -1
+    s028      GC6357    -1
+    s028      GC6394    -1
+    s028      GC6431    -1
+    s028      GC6468    -1
+    s028      GC6505    -1
+    s028      GC6542    -1
+    s028      GC6579    -1
+    s028      GC6616    -1
+    s028      GC6653    -1
+    s028      GC6690    -1
+    s028      GC6727    -1
+    s028      GC6764    -1
+    s028      GC6839    -1
+    s028      GC6876    -1
+    s028      GC6913    -1
+    s028      GC6950    -1
+    s028      GC6987    -1
+    s028      GC7024    -1
+    s028      GC7061    -1
+    s028      GC7098    -1
+    s028      GC7135    -1
+    s028      GC7172    -1
+    f028      R28       1
+    f028      GC108     1
+    f028      GC109     1
+    f028      GC110     1
+    f028      GC111     1
+    f028      GC6775    1
+    f028      GC6776    1
+    f028      GC6777    1
+    f028      GC6778    1
+    f028      GC6779    1
+    f028      GC6780    1
+    f028      GC6781    1
+    f028      GC6782    1
+    f028      GC6783    1
+    f028      GC6784    1
+    f028      GC6785    1
+    f028      GC6786    1
+    f028      GC6787    1
+    f028      GC6788    1
+    f028      GC6789    1
+    f028      GC6790    1
+    f028      GC6791    1
+    f028      GC6792    1
+    f028      GC6793    1
+    f028      GC6794    1
+    f028      GC6795    1
+    f028      GC6796    1
+    f028      GC6797    1
+    f028      GC6798    1
+    f028      GC6799    1
+    f028      GC6800    1
+    f028      GC6801    1
+    f028      GC6802    1
+    f028      GC6803    1
+    f028      GC6804    1
+    f028      GC6805    1
+    f028      GC6806    1
+    f028      GC6807    1
+    f028      GC6808    1
+    f028      GC6809    1
+    f028      GC6810    1
+    f028      GC6811    1
+    s029      OBJ       0
+    s029      GC112     -1
+    s029      GC113     -1
+    s029      GC114     -1
+    s029      GC115     -1
+    s029      GC5803    -1
+    s029      GC5840    -1
+    s029      GC5877    -1
+    s029      GC5914    -1
+    s029      GC5951    -1
+    s029      GC5988    -1
+    s029      GC6025    -1
+    s029      GC6062    -1
+    s029      GC6099    -1
+    s029      GC6136    -1
+    s029      GC6173    -1
+    s029      GC6210    -1
+    s029      GC6247    -1
+    s029      GC6284    -1
+    s029      GC6321    -1
+    s029      GC6358    -1
+    s029      GC6395    -1
+    s029      GC6432    -1
+    s029      GC6469    -1
+    s029      GC6506    -1
+    s029      GC6543    -1
+    s029      GC6580    -1
+    s029      GC6617    -1
+    s029      GC6654    -1
+    s029      GC6691    -1
+    s029      GC6728    -1
+    s029      GC6765    -1
+    s029      GC6802    -1
+    s029      GC6877    -1
+    s029      GC6914    -1
+    s029      GC6951    -1
+    s029      GC6988    -1
+    s029      GC7025    -1
+    s029      GC7062    -1
+    s029      GC7099    -1
+    s029      GC7136    -1
+    s029      GC7173    -1
+    f029      R29       1
+    f029      GC112     1
+    f029      GC113     1
+    f029      GC114     1
+    f029      GC115     1
+    f029      GC6812    1
+    f029      GC6813    1
+    f029      GC6814    1
+    f029      GC6815    1
+    f029      GC6816    1
+    f029      GC6817    1
+    f029      GC6818    1
+    f029      GC6819    1
+    f029      GC6820    1
+    f029      GC6821    1
+    f029      GC6822    1
+    f029      GC6823    1
+    f029      GC6824    1
+    f029      GC6825    1
+    f029      GC6826    1
+    f029      GC6827    1
+    f029      GC6828    1
+    f029      GC6829    1
+    f029      GC6830    1
+    f029      GC6831    1
+    f029      GC6832    1
+    f029      GC6833    1
+    f029      GC6834    1
+    f029      GC6835    1
+    f029      GC6836    1
+    f029      GC6837    1
+    f029      GC6838    1
+    f029      GC6839    1
+    f029      GC6840    1
+    f029      GC6841    1
+    f029      GC6842    1
+    f029      GC6843    1
+    f029      GC6844    1
+    f029      GC6845    1
+    f029      GC6846    1
+    f029      GC6847    1
+    f029      GC6848    1
+    s030      OBJ       0
+    s030      GC116     -1
+    s030      GC117     -1
+    s030      GC118     -1
+    s030      GC119     -1
+    s030      GC5804    -1
+    s030      GC5841    -1
+    s030      GC5878    -1
+    s030      GC5915    -1
+    s030      GC5952    -1
+    s030      GC5989    -1
+    s030      GC6026    -1
+    s030      GC6063    -1
+    s030      GC6100    -1
+    s030      GC6137    -1
+    s030      GC6174    -1
+    s030      GC6211    -1
+    s030      GC6248    -1
+    s030      GC6285    -1
+    s030      GC6322    -1
+    s030      GC6359    -1
+    s030      GC6396    -1
+    s030      GC6433    -1
+    s030      GC6470    -1
+    s030      GC6507    -1
+    s030      GC6544    -1
+    s030      GC6581    -1
+    s030      GC6618    -1
+    s030      GC6655    -1
+    s030      GC6692    -1
+    s030      GC6729    -1
+    s030      GC6766    -1
+    s030      GC6803    -1
+    s030      GC6840    -1
+    s030      GC6915    -1
+    s030      GC6952    -1
+    s030      GC6989    -1
+    s030      GC7026    -1
+    s030      GC7063    -1
+    s030      GC7100    -1
+    s030      GC7137    -1
+    s030      GC7174    -1
+    f030      R30       1
+    f030      GC116     1
+    f030      GC117     1
+    f030      GC118     1
+    f030      GC119     1
+    f030      GC6849    1
+    f030      GC6850    1
+    f030      GC6851    1
+    f030      GC6852    1
+    f030      GC6853    1
+    f030      GC6854    1
+    f030      GC6855    1
+    f030      GC6856    1
+    f030      GC6857    1
+    f030      GC6858    1
+    f030      GC6859    1
+    f030      GC6860    1
+    f030      GC6861    1
+    f030      GC6862    1
+    f030      GC6863    1
+    f030      GC6864    1
+    f030      GC6865    1
+    f030      GC6866    1
+    f030      GC6867    1
+    f030      GC6868    1
+    f030      GC6869    1
+    f030      GC6870    1
+    f030      GC6871    1
+    f030      GC6872    1
+    f030      GC6873    1
+    f030      GC6874    1
+    f030      GC6875    1
+    f030      GC6876    1
+    f030      GC6877    1
+    f030      GC6878    1
+    f030      GC6879    1
+    f030      GC6880    1
+    f030      GC6881    1
+    f030      GC6882    1
+    f030      GC6883    1
+    f030      GC6884    1
+    f030      GC6885    1
+    s031      OBJ       0
+    s031      GC120     -1
+    s031      GC121     -1
+    s031      GC122     -1
+    s031      GC123     -1
+    s031      GC5805    -1
+    s031      GC5842    -1
+    s031      GC5879    -1
+    s031      GC5916    -1
+    s031      GC5953    -1
+    s031      GC5990    -1
+    s031      GC6027    -1
+    s031      GC6064    -1
+    s031      GC6101    -1
+    s031      GC6138    -1
+    s031      GC6175    -1
+    s031      GC6212    -1
+    s031      GC6249    -1
+    s031      GC6286    -1
+    s031      GC6323    -1
+    s031      GC6360    -1
+    s031      GC6397    -1
+    s031      GC6434    -1
+    s031      GC6471    -1
+    s031      GC6508    -1
+    s031      GC6545    -1
+    s031      GC6582    -1
+    s031      GC6619    -1
+    s031      GC6656    -1
+    s031      GC6693    -1
+    s031      GC6730    -1
+    s031      GC6767    -1
+    s031      GC6804    -1
+    s031      GC6841    -1
+    s031      GC6878    -1
+    s031      GC6953    -1
+    s031      GC6990    -1
+    s031      GC7027    -1
+    s031      GC7064    -1
+    s031      GC7101    -1
+    s031      GC7138    -1
+    s031      GC7175    -1
+    f031      R31       1
+    f031      GC120     1
+    f031      GC121     1
+    f031      GC122     1
+    f031      GC123     1
+    f031      GC6886    1
+    f031      GC6887    1
+    f031      GC6888    1
+    f031      GC6889    1
+    f031      GC6890    1
+    f031      GC6891    1
+    f031      GC6892    1
+    f031      GC6893    1
+    f031      GC6894    1
+    f031      GC6895    1
+    f031      GC6896    1
+    f031      GC6897    1
+    f031      GC6898    1
+    f031      GC6899    1
+    f031      GC6900    1
+    f031      GC6901    1
+    f031      GC6902    1
+    f031      GC6903    1
+    f031      GC6904    1
+    f031      GC6905    1
+    f031      GC6906    1
+    f031      GC6907    1
+    f031      GC6908    1
+    f031      GC6909    1
+    f031      GC6910    1
+    f031      GC6911    1
+    f031      GC6912    1
+    f031      GC6913    1
+    f031      GC6914    1
+    f031      GC6915    1
+    f031      GC6916    1
+    f031      GC6917    1
+    f031      GC6918    1
+    f031      GC6919    1
+    f031      GC6920    1
+    f031      GC6921    1
+    f031      GC6922    1
+    s032      R52       1
+    s032      GC124     -1
+    s032      GC125     -1
+    s032      GC126     -1
+    s032      GC127     -1
+    s032      GC5806    -1
+    s032      GC5843    -1
+    s032      GC5880    -1
+    s032      GC5917    -1
+    s032      GC5954    -1
+    s032      GC5991    -1
+    s032      GC6028    -1
+    s032      GC6065    -1
+    s032      GC6102    -1
+    s032      GC6139    -1
+    s032      GC6176    -1
+    s032      GC6213    -1
+    s032      GC6250    -1
+    s032      GC6287    -1
+    s032      GC6324    -1
+    s032      GC6361    -1
+    s032      GC6398    -1
+    s032      GC6435    -1
+    s032      GC6472    -1
+    s032      GC6509    -1
+    s032      GC6546    -1
+    s032      GC6583    -1
+    s032      GC6620    -1
+    s032      GC6657    -1
+    s032      GC6694    -1
+    s032      GC6731    -1
+    s032      GC6768    -1
+    s032      GC6805    -1
+    s032      GC6842    -1
+    s032      GC6879    -1
+    s032      GC6916    -1
+    s032      GC6991    -1
+    s032      GC7028    -1
+    s032      GC7065    -1
+    s032      GC7102    -1
+    s032      GC7139    -1
+    s032      GC7176    -1
+    f032      R32       1
+    f032      GC124     1
+    f032      GC125     1
+    f032      GC126     1
+    f032      GC127     1
+    f032      GC6923    1
+    f032      GC6924    1
+    f032      GC6925    1
+    f032      GC6926    1
+    f032      GC6927    1
+    f032      GC6928    1
+    f032      GC6929    1
+    f032      GC6930    1
+    f032      GC6931    1
+    f032      GC6932    1
+    f032      GC6933    1
+    f032      GC6934    1
+    f032      GC6935    1
+    f032      GC6936    1
+    f032      GC6937    1
+    f032      GC6938    1
+    f032      GC6939    1
+    f032      GC6940    1
+    f032      GC6941    1
+    f032      GC6942    1
+    f032      GC6943    1
+    f032      GC6944    1
+    f032      GC6945    1
+    f032      GC6946    1
+    f032      GC6947    1
+    f032      GC6948    1
+    f032      GC6949    1
+    f032      GC6950    1
+    f032      GC6951    1
+    f032      GC6952    1
+    f032      GC6953    1
+    f032      GC6954    1
+    f032      GC6955    1
+    f032      GC6956    1
+    f032      GC6957    1
+    f032      GC6958    1
+    f032      GC6959    1
+    s033      OBJ       0
+    s033      GC128     -1
+    s033      GC129     -1
+    s033      GC130     -1
+    s033      GC131     -1
+    s033      GC5807    -1
+    s033      GC5844    -1
+    s033      GC5881    -1
+    s033      GC5918    -1
+    s033      GC5955    -1
+    s033      GC5992    -1
+    s033      GC6029    -1
+    s033      GC6066    -1
+    s033      GC6103    -1
+    s033      GC6140    -1
+    s033      GC6177    -1
+    s033      GC6214    -1
+    s033      GC6251    -1
+    s033      GC6288    -1
+    s033      GC6325    -1
+    s033      GC6362    -1
+    s033      GC6399    -1
+    s033      GC6436    -1
+    s033      GC6473    -1
+    s033      GC6510    -1
+    s033      GC6547    -1
+    s033      GC6584    -1
+    s033      GC6621    -1
+    s033      GC6658    -1
+    s033      GC6695    -1
+    s033      GC6732    -1
+    s033      GC6769    -1
+    s033      GC6806    -1
+    s033      GC6843    -1
+    s033      GC6880    -1
+    s033      GC6917    -1
+    s033      GC6954    -1
+    s033      GC7029    -1
+    s033      GC7066    -1
+    s033      GC7103    -1
+    s033      GC7140    -1
+    s033      GC7177    -1
+    f033      R33       1
+    f033      R42       1
+    f033      GC128     1
+    f033      GC129     1
+    f033      GC130     1
+    f033      GC131     1
+    f033      GC6960    1
+    f033      GC6961    1
+    f033      GC6962    1
+    f033      GC6963    1
+    f033      GC6964    1
+    f033      GC6965    1
+    f033      GC6966    1
+    f033      GC6967    1
+    f033      GC6968    1
+    f033      GC6969    1
+    f033      GC6970    1
+    f033      GC6971    1
+    f033      GC6972    1
+    f033      GC6973    1
+    f033      GC6974    1
+    f033      GC6975    1
+    f033      GC6976    1
+    f033      GC6977    1
+    f033      GC6978    1
+    f033      GC6979    1
+    f033      GC6980    1
+    f033      GC6981    1
+    f033      GC6982    1
+    f033      GC6983    1
+    f033      GC6984    1
+    f033      GC6985    1
+    f033      GC6986    1
+    f033      GC6987    1
+    f033      GC6988    1
+    f033      GC6989    1
+    f033      GC6990    1
+    f033      GC6991    1
+    f033      GC6992    1
+    f033      GC6993    1
+    f033      GC6994    1
+    f033      GC6995    1
+    f033      GC6996    1
+    s034      OBJ       0
+    s034      GC132     -1
+    s034      GC133     -1
+    s034      GC134     -1
+    s034      GC135     -1
+    s034      GC5808    -1
+    s034      GC5845    -1
+    s034      GC5882    -1
+    s034      GC5919    -1
+    s034      GC5956    -1
+    s034      GC5993    -1
+    s034      GC6030    -1
+    s034      GC6067    -1
+    s034      GC6104    -1
+    s034      GC6141    -1
+    s034      GC6178    -1
+    s034      GC6215    -1
+    s034      GC6252    -1
+    s034      GC6289    -1
+    s034      GC6326    -1
+    s034      GC6363    -1
+    s034      GC6400    -1
+    s034      GC6437    -1
+    s034      GC6474    -1
+    s034      GC6511    -1
+    s034      GC6548    -1
+    s034      GC6585    -1
+    s034      GC6622    -1
+    s034      GC6659    -1
+    s034      GC6696    -1
+    s034      GC6733    -1
+    s034      GC6770    -1
+    s034      GC6807    -1
+    s034      GC6844    -1
+    s034      GC6881    -1
+    s034      GC6918    -1
+    s034      GC6955    -1
+    s034      GC6992    -1
+    s034      GC7067    -1
+    s034      GC7104    -1
+    s034      GC7141    -1
+    s034      GC7178    -1
+    f034      R34       1
+    f034      GC132     1
+    f034      GC133     1
+    f034      GC134     1
+    f034      GC135     1
+    f034      GC6997    1
+    f034      GC6998    1
+    f034      GC6999    1
+    f034      GC7000    1
+    f034      GC7001    1
+    f034      GC7002    1
+    f034      GC7003    1
+    f034      GC7004    1
+    f034      GC7005    1
+    f034      GC7006    1
+    f034      GC7007    1
+    f034      GC7008    1
+    f034      GC7009    1
+    f034      GC7010    1
+    f034      GC7011    1
+    f034      GC7012    1
+    f034      GC7013    1
+    f034      GC7014    1
+    f034      GC7015    1
+    f034      GC7016    1
+    f034      GC7017    1
+    f034      GC7018    1
+    f034      GC7019    1
+    f034      GC7020    1
+    f034      GC7021    1
+    f034      GC7022    1
+    f034      GC7023    1
+    f034      GC7024    1
+    f034      GC7025    1
+    f034      GC7026    1
+    f034      GC7027    1
+    f034      GC7028    1
+    f034      GC7029    1
+    f034      GC7030    1
+    f034      GC7031    1
+    f034      GC7032    1
+    f034      GC7033    1
+    s035      OBJ       0
+    s035      GC136     -1
+    s035      GC137     -1
+    s035      GC138     -1
+    s035      GC139     -1
+    s035      GC5809    -1
+    s035      GC5846    -1
+    s035      GC5883    -1
+    s035      GC5920    -1
+    s035      GC5957    -1
+    s035      GC5994    -1
+    s035      GC6031    -1
+    s035      GC6068    -1
+    s035      GC6105    -1
+    s035      GC6142    -1
+    s035      GC6179    -1
+    s035      GC6216    -1
+    s035      GC6253    -1
+    s035      GC6290    -1
+    s035      GC6327    -1
+    s035      GC6364    -1
+    s035      GC6401    -1
+    s035      GC6438    -1
+    s035      GC6475    -1
+    s035      GC6512    -1
+    s035      GC6549    -1
+    s035      GC6586    -1
+    s035      GC6623    -1
+    s035      GC6660    -1
+    s035      GC6697    -1
+    s035      GC6734    -1
+    s035      GC6771    -1
+    s035      GC6808    -1
+    s035      GC6845    -1
+    s035      GC6882    -1
+    s035      GC6919    -1
+    s035      GC6956    -1
+    s035      GC6993    -1
+    s035      GC7030    -1
+    s035      GC7105    -1
+    s035      GC7142    -1
+    s035      GC7179    -1
+    f035      R35       1
+    f035      GC136     1
+    f035      GC137     1
+    f035      GC138     1
+    f035      GC139     1
+    f035      GC7034    1
+    f035      GC7035    1
+    f035      GC7036    1
+    f035      GC7037    1
+    f035      GC7038    1
+    f035      GC7039    1
+    f035      GC7040    1
+    f035      GC7041    1
+    f035      GC7042    1
+    f035      GC7043    1
+    f035      GC7044    1
+    f035      GC7045    1
+    f035      GC7046    1
+    f035      GC7047    1
+    f035      GC7048    1
+    f035      GC7049    1
+    f035      GC7050    1
+    f035      GC7051    1
+    f035      GC7052    1
+    f035      GC7053    1
+    f035      GC7054    1
+    f035      GC7055    1
+    f035      GC7056    1
+    f035      GC7057    1
+    f035      GC7058    1
+    f035      GC7059    1
+    f035      GC7060    1
+    f035      GC7061    1
+    f035      GC7062    1
+    f035      GC7063    1
+    f035      GC7064    1
+    f035      GC7065    1
+    f035      GC7066    1
+    f035      GC7067    1
+    f035      GC7068    1
+    f035      GC7069    1
+    f035      GC7070    1
+    s036      OBJ       0
+    s036      GC140     -1
+    s036      GC141     -1
+    s036      GC142     -1
+    s036      GC143     -1
+    s036      GC5810    -1
+    s036      GC5847    -1
+    s036      GC5884    -1
+    s036      GC5921    -1
+    s036      GC5958    -1
+    s036      GC5995    -1
+    s036      GC6032    -1
+    s036      GC6069    -1
+    s036      GC6106    -1
+    s036      GC6143    -1
+    s036      GC6180    -1
+    s036      GC6217    -1
+    s036      GC6254    -1
+    s036      GC6291    -1
+    s036      GC6328    -1
+    s036      GC6365    -1
+    s036      GC6402    -1
+    s036      GC6439    -1
+    s036      GC6476    -1
+    s036      GC6513    -1
+    s036      GC6550    -1
+    s036      GC6587    -1
+    s036      GC6624    -1
+    s036      GC6661    -1
+    s036      GC6698    -1
+    s036      GC6735    -1
+    s036      GC6772    -1
+    s036      GC6809    -1
+    s036      GC6846    -1
+    s036      GC6883    -1
+    s036      GC6920    -1
+    s036      GC6957    -1
+    s036      GC6994    -1
+    s036      GC7031    -1
+    s036      GC7068    -1
+    s036      GC7143    -1
+    s036      GC7180    -1
+    f036      R36       1
+    f036      R43       1
+    f036      GC140     1
+    f036      GC141     1
+    f036      GC142     1
+    f036      GC143     1
+    f036      GC7071    1
+    f036      GC7072    1
+    f036      GC7073    1
+    f036      GC7074    1
+    f036      GC7075    1
+    f036      GC7076    1
+    f036      GC7077    1
+    f036      GC7078    1
+    f036      GC7079    1
+    f036      GC7080    1
+    f036      GC7081    1
+    f036      GC7082    1
+    f036      GC7083    1
+    f036      GC7084    1
+    f036      GC7085    1
+    f036      GC7086    1
+    f036      GC7087    1
+    f036      GC7088    1
+    f036      GC7089    1
+    f036      GC7090    1
+    f036      GC7091    1
+    f036      GC7092    1
+    f036      GC7093    1
+    f036      GC7094    1
+    f036      GC7095    1
+    f036      GC7096    1
+    f036      GC7097    1
+    f036      GC7098    1
+    f036      GC7099    1
+    f036      GC7100    1
+    f036      GC7101    1
+    f036      GC7102    1
+    f036      GC7103    1
+    f036      GC7104    1
+    f036      GC7105    1
+    f036      GC7106    1
+    f036      GC7107    1
+    s037      OBJ       0
+    s037      GC144     -1
+    s037      GC145     -1
+    s037      GC146     -1
+    s037      GC147     -1
+    s037      GC5811    -1
+    s037      GC5848    -1
+    s037      GC5885    -1
+    s037      GC5922    -1
+    s037      GC5959    -1
+    s037      GC5996    -1
+    s037      GC6033    -1
+    s037      GC6070    -1
+    s037      GC6107    -1
+    s037      GC6144    -1
+    s037      GC6181    -1
+    s037      GC6218    -1
+    s037      GC6255    -1
+    s037      GC6292    -1
+    s037      GC6329    -1
+    s037      GC6366    -1
+    s037      GC6403    -1
+    s037      GC6440    -1
+    s037      GC6477    -1
+    s037      GC6514    -1
+    s037      GC6551    -1
+    s037      GC6588    -1
+    s037      GC6625    -1
+    s037      GC6662    -1
+    s037      GC6699    -1
+    s037      GC6736    -1
+    s037      GC6773    -1
+    s037      GC6810    -1
+    s037      GC6847    -1
+    s037      GC6884    -1
+    s037      GC6921    -1
+    s037      GC6958    -1
+    s037      GC6995    -1
+    s037      GC7032    -1
+    s037      GC7069    -1
+    s037      GC7106    -1
+    s037      GC7181    -1
+    f037      R37       1
+    f037      R44       1
+    f037      GC144     1
+    f037      GC145     1
+    f037      GC146     1
+    f037      GC147     1
+    f037      GC7108    1
+    f037      GC7109    1
+    f037      GC7110    1
+    f037      GC7111    1
+    f037      GC7112    1
+    f037      GC7113    1
+    f037      GC7114    1
+    f037      GC7115    1
+    f037      GC7116    1
+    f037      GC7117    1
+    f037      GC7118    1
+    f037      GC7119    1
+    f037      GC7120    1
+    f037      GC7121    1
+    f037      GC7122    1
+    f037      GC7123    1
+    f037      GC7124    1
+    f037      GC7125    1
+    f037      GC7126    1
+    f037      GC7127    1
+    f037      GC7128    1
+    f037      GC7129    1
+    f037      GC7130    1
+    f037      GC7131    1
+    f037      GC7132    1
+    f037      GC7133    1
+    f037      GC7134    1
+    f037      GC7135    1
+    f037      GC7136    1
+    f037      GC7137    1
+    f037      GC7138    1
+    f037      GC7139    1
+    f037      GC7140    1
+    f037      GC7141    1
+    f037      GC7142    1
+    f037      GC7143    1
+    f037      GC7144    1
+    s038      OBJ       0
+    s038      GC148     -1
+    s038      GC149     -1
+    s038      GC150     -1
+    s038      GC151     -1
+    s038      GC5812    -1
+    s038      GC5849    -1
+    s038      GC5886    -1
+    s038      GC5923    -1
+    s038      GC5960    -1
+    s038      GC5997    -1
+    s038      GC6034    -1
+    s038      GC6071    -1
+    s038      GC6108    -1
+    s038      GC6145    -1
+    s038      GC6182    -1
+    s038      GC6219    -1
+    s038      GC6256    -1
+    s038      GC6293    -1
+    s038      GC6330    -1
+    s038      GC6367    -1
+    s038      GC6404    -1
+    s038      GC6441    -1
+    s038      GC6478    -1
+    s038      GC6515    -1
+    s038      GC6552    -1
+    s038      GC6589    -1
+    s038      GC6626    -1
+    s038      GC6663    -1
+    s038      GC6700    -1
+    s038      GC6737    -1
+    s038      GC6774    -1
+    s038      GC6811    -1
+    s038      GC6848    -1
+    s038      GC6885    -1
+    s038      GC6922    -1
+    s038      GC6959    -1
+    s038      GC6996    -1
+    s038      GC7033    -1
+    s038      GC7070    -1
+    s038      GC7107    -1
+    s038      GC7144    -1
+    f038      R38       1
+    f038      R45       1
+    f038      GC148     1
+    f038      GC149     1
+    f038      GC150     1
+    f038      GC151     1
+    f038      GC7145    1
+    f038      GC7146    1
+    f038      GC7147    1
+    f038      GC7148    1
+    f038      GC7149    1
+    f038      GC7150    1
+    f038      GC7151    1
+    f038      GC7152    1
+    f038      GC7153    1
+    f038      GC7154    1
+    f038      GC7155    1
+    f038      GC7156    1
+    f038      GC7157    1
+    f038      GC7158    1
+    f038      GC7159    1
+    f038      GC7160    1
+    f038      GC7161    1
+    f038      GC7162    1
+    f038      GC7163    1
+    f038      GC7164    1
+    f038      GC7165    1
+    f038      GC7166    1
+    f038      GC7167    1
+    f038      GC7168    1
+    f038      GC7169    1
+    f038      GC7170    1
+    f038      GC7171    1
+    f038      GC7172    1
+    f038      GC7173    1
+    f038      GC7174    1
+    f038      GC7175    1
+    f038      GC7176    1
+    f038      GC7177    1
+    f038      GC7178    1
+    f038      GC7179    1
+    f038      GC7180    1
+    f038      GC7181    1
+    MARKER    'MARKER'                 'INTORG'
+    x001002   OBJ       0
+    x001002   GC153     1
+    x001002   GC1559    1
+    x001002   GC2965    1
+    x001002   GC4371    1
+    x001003   OBJ       0
+    x001003   GC155     1
+    x001003   GC1561    1
+    x001003   GC2967    1
+    x001003   GC4373    1
+    x001004   OBJ       0
+    x001004   GC157     1
+    x001004   GC1563    1
+    x001004   GC2969    1
+    x001004   GC4375    1
+    x001005   OBJ       0
+    x001005   GC159     1
+    x001005   GC1565    1
+    x001005   GC2971    1
+    x001005   GC4377    1
+    x001006   OBJ       0
+    x001006   GC161     1
+    x001006   GC1567    1
+    x001006   GC2973    1
+    x001006   GC4379    1
+    x001007   OBJ       0
+    x001007   GC163     1
+    x001007   GC1569    1
+    x001007   GC2975    1
+    x001007   GC4381    1
+    x001008   OBJ       0
+    x001008   GC165     1
+    x001008   GC1571    1
+    x001008   GC2977    1
+    x001008   GC4383    1
+    x001009   OBJ       0
+    x001009   GC167     1
+    x001009   GC1573    1
+    x001009   GC2979    1
+    x001009   GC4385    1
+    x001010   OBJ       0
+    x001010   GC169     1
+    x001010   GC1575    1
+    x001010   GC2981    1
+    x001010   GC4387    1
+    x001011   OBJ       0
+    x001011   GC171     1
+    x001011   GC1577    1
+    x001011   GC2983    1
+    x001011   GC4389    1
+    x001012   OBJ       0
+    x001012   GC173     1
+    x001012   GC1579    1
+    x001012   GC2985    1
+    x001012   GC4391    1
+    x001013   OBJ       0
+    x001013   GC175     1
+    x001013   GC1581    1
+    x001013   GC2987    1
+    x001013   GC4393    1
+    x001014   OBJ       0
+    x001014   GC177     1
+    x001014   GC1583    1
+    x001014   GC2989    1
+    x001014   GC4395    1
+    x001015   OBJ       0
+    x001015   GC179     1
+    x001015   GC1585    1
+    x001015   GC2991    1
+    x001015   GC4397    1
+    x001016   OBJ       0
+    x001016   GC181     1
+    x001016   GC1587    1
+    x001016   GC2993    1
+    x001016   GC4399    1
+    x001017   OBJ       0
+    x001017   GC183     1
+    x001017   GC1589    1
+    x001017   GC2995    1
+    x001017   GC4401    1
+    x001018   OBJ       0
+    x001018   GC185     1
+    x001018   GC1591    1
+    x001018   GC2997    1
+    x001018   GC4403    1
+    x001019   OBJ       0
+    x001019   GC187     1
+    x001019   GC1593    1
+    x001019   GC2999    1
+    x001019   GC4405    1
+    x001020   OBJ       0
+    x001020   GC189     1
+    x001020   GC1595    1
+    x001020   GC3001    1
+    x001020   GC4407    1
+    x001021   OBJ       0
+    x001021   GC191     1
+    x001021   GC1597    1
+    x001021   GC3003    1
+    x001021   GC4409    1
+    x001022   OBJ       0
+    x001022   GC193     1
+    x001022   GC1599    1
+    x001022   GC3005    1
+    x001022   GC4411    1
+    x001023   OBJ       0
+    x001023   GC195     1
+    x001023   GC1601    1
+    x001023   GC3007    1
+    x001023   GC4413    1
+    x001024   OBJ       0
+    x001024   GC197     1
+    x001024   GC1603    1
+    x001024   GC3009    1
+    x001024   GC4415    1
+    x001025   OBJ       0
+    x001025   GC199     1
+    x001025   GC1605    1
+    x001025   GC3011    1
+    x001025   GC4417    1
+    x001026   OBJ       0
+    x001026   GC201     1
+    x001026   GC1607    1
+    x001026   GC3013    1
+    x001026   GC4419    1
+    x001027   OBJ       0
+    x001027   GC203     1
+    x001027   GC1609    1
+    x001027   GC3015    1
+    x001027   GC4421    1
+    x001028   OBJ       0
+    x001028   GC205     1
+    x001028   GC1611    1
+    x001028   GC3017    1
+    x001028   GC4423    1
+    x001029   OBJ       0
+    x001029   GC207     1
+    x001029   GC1613    1
+    x001029   GC3019    1
+    x001029   GC4425    1
+    x001030   OBJ       0
+    x001030   GC209     1
+    x001030   GC1615    1
+    x001030   GC3021    1
+    x001030   GC4427    1
+    x001031   OBJ       0
+    x001031   GC211     1
+    x001031   GC1617    1
+    x001031   GC3023    1
+    x001031   GC4429    1
+    x001032   OBJ       0
+    x001032   GC213     1
+    x001032   GC1619    1
+    x001032   GC3025    1
+    x001032   GC4431    1
+    x001033   OBJ       0
+    x001033   GC215     1
+    x001033   GC1621    1
+    x001033   GC3027    1
+    x001033   GC4433    1
+    x001034   OBJ       0
+    x001034   GC217     1
+    x001034   GC1623    1
+    x001034   GC3029    1
+    x001034   GC4435    1
+    x001035   OBJ       0
+    x001035   GC219     1
+    x001035   GC1625    1
+    x001035   GC3031    1
+    x001035   GC4437    1
+    x001036   OBJ       0
+    x001036   GC221     1
+    x001036   GC1627    1
+    x001036   GC3033    1
+    x001036   GC4439    1
+    x001037   OBJ       0
+    x001037   GC223     1
+    x001037   GC1629    1
+    x001037   GC3035    1
+    x001037   GC4441    1
+    x001038   OBJ       0
+    x001038   GC225     1
+    x001038   GC1631    1
+    x001038   GC3037    1
+    x001038   GC4443    1
+    x002001   OBJ       0
+    x002001   GC153     1
+    x002001   GC1559    1
+    x002001   GC2965    1
+    x002001   GC4371    1
+    x002003   OBJ       0
+    x002003   GC227     1
+    x002003   GC1633    1
+    x002003   GC3039    1
+    x002003   GC4445    1
+    x002004   OBJ       0
+    x002004   GC229     1
+    x002004   GC1635    1
+    x002004   GC3041    1
+    x002004   GC4447    1
+    x002005   OBJ       0
+    x002005   GC231     1
+    x002005   GC1637    1
+    x002005   GC3043    1
+    x002005   GC4449    1
+    x002006   OBJ       0
+    x002006   GC233     1
+    x002006   GC1639    1
+    x002006   GC3045    1
+    x002006   GC4451    1
+    x002007   OBJ       0
+    x002007   GC235     1
+    x002007   GC1641    1
+    x002007   GC3047    1
+    x002007   GC4453    1
+    x002008   OBJ       0
+    x002008   GC237     1
+    x002008   GC1643    1
+    x002008   GC3049    1
+    x002008   GC4455    1
+    x002009   OBJ       0
+    x002009   GC239     1
+    x002009   GC1645    1
+    x002009   GC3051    1
+    x002009   GC4457    1
+    x002010   OBJ       0
+    x002010   GC241     1
+    x002010   GC1647    1
+    x002010   GC3053    1
+    x002010   GC4459    1
+    x002011   OBJ       0
+    x002011   GC243     1
+    x002011   GC1649    1
+    x002011   GC3055    1
+    x002011   GC4461    1
+    x002012   OBJ       0
+    x002012   GC245     1
+    x002012   GC1651    1
+    x002012   GC3057    1
+    x002012   GC4463    1
+    x002013   OBJ       0
+    x002013   GC247     1
+    x002013   GC1653    1
+    x002013   GC3059    1
+    x002013   GC4465    1
+    x002014   OBJ       0
+    x002014   GC249     1
+    x002014   GC1655    1
+    x002014   GC3061    1
+    x002014   GC4467    1
+    x002015   OBJ       0
+    x002015   GC251     1
+    x002015   GC1657    1
+    x002015   GC3063    1
+    x002015   GC4469    1
+    x002016   OBJ       0
+    x002016   GC253     1
+    x002016   GC1659    1
+    x002016   GC3065    1
+    x002016   GC4471    1
+    x002017   OBJ       0
+    x002017   GC255     1
+    x002017   GC1661    1
+    x002017   GC3067    1
+    x002017   GC4473    1
+    x002018   OBJ       0
+    x002018   GC257     1
+    x002018   GC1663    1
+    x002018   GC3069    1
+    x002018   GC4475    1
+    x002019   OBJ       0
+    x002019   GC259     1
+    x002019   GC1665    1
+    x002019   GC3071    1
+    x002019   GC4477    1
+    x002020   OBJ       0
+    x002020   GC261     1
+    x002020   GC1667    1
+    x002020   GC3073    1
+    x002020   GC4479    1
+    x002021   OBJ       0
+    x002021   GC263     1
+    x002021   GC1669    1
+    x002021   GC3075    1
+    x002021   GC4481    1
+    x002022   OBJ       0
+    x002022   GC265     1
+    x002022   GC1671    1
+    x002022   GC3077    1
+    x002022   GC4483    1
+    x002023   OBJ       0
+    x002023   GC267     1
+    x002023   GC1673    1
+    x002023   GC3079    1
+    x002023   GC4485    1
+    x002024   OBJ       0
+    x002024   GC269     1
+    x002024   GC1675    1
+    x002024   GC3081    1
+    x002024   GC4487    1
+    x002025   OBJ       0
+    x002025   GC271     1
+    x002025   GC1677    1
+    x002025   GC3083    1
+    x002025   GC4489    1
+    x002026   OBJ       0
+    x002026   GC273     1
+    x002026   GC1679    1
+    x002026   GC3085    1
+    x002026   GC4491    1
+    x002027   OBJ       0
+    x002027   GC275     1
+    x002027   GC1681    1
+    x002027   GC3087    1
+    x002027   GC4493    1
+    x002028   OBJ       0
+    x002028   GC277     1
+    x002028   GC1683    1
+    x002028   GC3089    1
+    x002028   GC4495    1
+    x002029   OBJ       0
+    x002029   GC279     1
+    x002029   GC1685    1
+    x002029   GC3091    1
+    x002029   GC4497    1
+    x002030   OBJ       0
+    x002030   GC281     1
+    x002030   GC1687    1
+    x002030   GC3093    1
+    x002030   GC4499    1
+    x002031   OBJ       0
+    x002031   GC283     1
+    x002031   GC1689    1
+    x002031   GC3095    1
+    x002031   GC4501    1
+    x002032   OBJ       0
+    x002032   GC285     1
+    x002032   GC1691    1
+    x002032   GC3097    1
+    x002032   GC4503    1
+    x002033   OBJ       0
+    x002033   GC287     1
+    x002033   GC1693    1
+    x002033   GC3099    1
+    x002033   GC4505    1
+    x002034   OBJ       0
+    x002034   GC289     1
+    x002034   GC1695    1
+    x002034   GC3101    1
+    x002034   GC4507    1
+    x002035   OBJ       0
+    x002035   GC291     1
+    x002035   GC1697    1
+    x002035   GC3103    1
+    x002035   GC4509    1
+    x002036   OBJ       0
+    x002036   GC293     1
+    x002036   GC1699    1
+    x002036   GC3105    1
+    x002036   GC4511    1
+    x002037   OBJ       0
+    x002037   GC295     1
+    x002037   GC1701    1
+    x002037   GC3107    1
+    x002037   GC4513    1
+    x002038   OBJ       0
+    x002038   GC297     1
+    x002038   GC1703    1
+    x002038   GC3109    1
+    x002038   GC4515    1
+    x003001   OBJ       0
+    x003001   GC155     1
+    x003001   GC1561    1
+    x003001   GC2967    1
+    x003001   GC4373    1
+    x003002   OBJ       0
+    x003002   GC227     1
+    x003002   GC1633    1
+    x003002   GC3039    1
+    x003002   GC4445    1
+    x003004   OBJ       0
+    x003004   GC299     1
+    x003004   GC1705    1
+    x003004   GC3111    1
+    x003004   GC4517    1
+    x003005   OBJ       0
+    x003005   GC301     1
+    x003005   GC1707    1
+    x003005   GC3113    1
+    x003005   GC4519    1
+    x003006   OBJ       0
+    x003006   GC303     1
+    x003006   GC1709    1
+    x003006   GC3115    1
+    x003006   GC4521    1
+    x003007   OBJ       0
+    x003007   GC305     1
+    x003007   GC1711    1
+    x003007   GC3117    1
+    x003007   GC4523    1
+    x003008   OBJ       0
+    x003008   GC307     1
+    x003008   GC1713    1
+    x003008   GC3119    1
+    x003008   GC4525    1
+    x003009   OBJ       0
+    x003009   GC309     1
+    x003009   GC1715    1
+    x003009   GC3121    1
+    x003009   GC4527    1
+    x003010   OBJ       0
+    x003010   GC311     1
+    x003010   GC1717    1
+    x003010   GC3123    1
+    x003010   GC4529    1
+    x003011   OBJ       0
+    x003011   GC313     1
+    x003011   GC1719    1
+    x003011   GC3125    1
+    x003011   GC4531    1
+    x003012   OBJ       0
+    x003012   GC315     1
+    x003012   GC1721    1
+    x003012   GC3127    1
+    x003012   GC4533    1
+    x003013   OBJ       0
+    x003013   GC317     1
+    x003013   GC1723    1
+    x003013   GC3129    1
+    x003013   GC4535    1
+    x003014   OBJ       0
+    x003014   GC319     1
+    x003014   GC1725    1
+    x003014   GC3131    1
+    x003014   GC4537    1
+    x003015   OBJ       0
+    x003015   GC321     1
+    x003015   GC1727    1
+    x003015   GC3133    1
+    x003015   GC4539    1
+    x003016   OBJ       0
+    x003016   GC323     1
+    x003016   GC1729    1
+    x003016   GC3135    1
+    x003016   GC4541    1
+    x003017   OBJ       0
+    x003017   GC325     1
+    x003017   GC1731    1
+    x003017   GC3137    1
+    x003017   GC4543    1
+    x003018   OBJ       0
+    x003018   GC327     1
+    x003018   GC1733    1
+    x003018   GC3139    1
+    x003018   GC4545    1
+    x003019   OBJ       0
+    x003019   GC329     1
+    x003019   GC1735    1
+    x003019   GC3141    1
+    x003019   GC4547    1
+    x003020   OBJ       0
+    x003020   GC331     1
+    x003020   GC1737    1
+    x003020   GC3143    1
+    x003020   GC4549    1
+    x003021   OBJ       0
+    x003021   GC333     1
+    x003021   GC1739    1
+    x003021   GC3145    1
+    x003021   GC4551    1
+    x003022   OBJ       0
+    x003022   GC335     1
+    x003022   GC1741    1
+    x003022   GC3147    1
+    x003022   GC4553    1
+    x003023   OBJ       0
+    x003023   GC337     1
+    x003023   GC1743    1
+    x003023   GC3149    1
+    x003023   GC4555    1
+    x003024   OBJ       0
+    x003024   GC339     1
+    x003024   GC1745    1
+    x003024   GC3151    1
+    x003024   GC4557    1
+    x003025   OBJ       0
+    x003025   GC341     1
+    x003025   GC1747    1
+    x003025   GC3153    1
+    x003025   GC4559    1
+    x003026   OBJ       0
+    x003026   GC343     1
+    x003026   GC1749    1
+    x003026   GC3155    1
+    x003026   GC4561    1
+    x003027   OBJ       0
+    x003027   GC345     1
+    x003027   GC1751    1
+    x003027   GC3157    1
+    x003027   GC4563    1
+    x003028   OBJ       0
+    x003028   GC347     1
+    x003028   GC1753    1
+    x003028   GC3159    1
+    x003028   GC4565    1
+    x003029   OBJ       0
+    x003029   GC349     1
+    x003029   GC1755    1
+    x003029   GC3161    1
+    x003029   GC4567    1
+    x003030   OBJ       0
+    x003030   GC351     1
+    x003030   GC1757    1
+    x003030   GC3163    1
+    x003030   GC4569    1
+    x003031   OBJ       0
+    x003031   GC353     1
+    x003031   GC1759    1
+    x003031   GC3165    1
+    x003031   GC4571    1
+    x003032   OBJ       0
+    x003032   GC355     1
+    x003032   GC1761    1
+    x003032   GC3167    1
+    x003032   GC4573    1
+    x003033   OBJ       0
+    x003033   GC357     1
+    x003033   GC1763    1
+    x003033   GC3169    1
+    x003033   GC4575    1
+    x003034   OBJ       0
+    x003034   GC359     1
+    x003034   GC1765    1
+    x003034   GC3171    1
+    x003034   GC4577    1
+    x003035   OBJ       0
+    x003035   GC361     1
+    x003035   GC1767    1
+    x003035   GC3173    1
+    x003035   GC4579    1
+    x003036   OBJ       0
+    x003036   GC363     1
+    x003036   GC1769    1
+    x003036   GC3175    1
+    x003036   GC4581    1
+    x003037   OBJ       0
+    x003037   GC365     1
+    x003037   GC1771    1
+    x003037   GC3177    1
+    x003037   GC4583    1
+    x003038   OBJ       0
+    x003038   GC367     1
+    x003038   GC1773    1
+    x003038   GC3179    1
+    x003038   GC4585    1
+    x004001   OBJ       0
+    x004001   GC157     1
+    x004001   GC1563    1
+    x004001   GC2969    1
+    x004001   GC4375    1
+    x004002   OBJ       0
+    x004002   GC229     1
+    x004002   GC1635    1
+    x004002   GC3041    1
+    x004002   GC4447    1
+    x004003   OBJ       0
+    x004003   GC299     1
+    x004003   GC1705    1
+    x004003   GC3111    1
+    x004003   GC4517    1
+    x004005   OBJ       0
+    x004005   GC369     1
+    x004005   GC1775    1
+    x004005   GC3181    1
+    x004005   GC4587    1
+    x004006   OBJ       0
+    x004006   GC371     1
+    x004006   GC1777    1
+    x004006   GC3183    1
+    x004006   GC4589    1
+    x004007   OBJ       0
+    x004007   GC373     1
+    x004007   GC1779    1
+    x004007   GC3185    1
+    x004007   GC4591    1
+    x004008   OBJ       0
+    x004008   GC375     1
+    x004008   GC1781    1
+    x004008   GC3187    1
+    x004008   GC4593    1
+    x004009   OBJ       0
+    x004009   GC377     1
+    x004009   GC1783    1
+    x004009   GC3189    1
+    x004009   GC4595    1
+    x004010   OBJ       0
+    x004010   GC379     1
+    x004010   GC1785    1
+    x004010   GC3191    1
+    x004010   GC4597    1
+    x004011   OBJ       0
+    x004011   GC381     1
+    x004011   GC1787    1
+    x004011   GC3193    1
+    x004011   GC4599    1
+    x004012   OBJ       0
+    x004012   GC383     1
+    x004012   GC1789    1
+    x004012   GC3195    1
+    x004012   GC4601    1
+    x004013   OBJ       0
+    x004013   GC385     1
+    x004013   GC1791    1
+    x004013   GC3197    1
+    x004013   GC4603    1
+    x004014   OBJ       0
+    x004014   GC387     1
+    x004014   GC1793    1
+    x004014   GC3199    1
+    x004014   GC4605    1
+    x004015   OBJ       0
+    x004015   GC389     1
+    x004015   GC1795    1
+    x004015   GC3201    1
+    x004015   GC4607    1
+    x004016   OBJ       0
+    x004016   GC391     1
+    x004016   GC1797    1
+    x004016   GC3203    1
+    x004016   GC4609    1
+    x004017   OBJ       0
+    x004017   GC393     1
+    x004017   GC1799    1
+    x004017   GC3205    1
+    x004017   GC4611    1
+    x004018   OBJ       0
+    x004018   GC395     1
+    x004018   GC1801    1
+    x004018   GC3207    1
+    x004018   GC4613    1
+    x004019   OBJ       0
+    x004019   GC397     1
+    x004019   GC1803    1
+    x004019   GC3209    1
+    x004019   GC4615    1
+    x004020   OBJ       0
+    x004020   GC399     1
+    x004020   GC1805    1
+    x004020   GC3211    1
+    x004020   GC4617    1
+    x004021   OBJ       0
+    x004021   GC401     1
+    x004021   GC1807    1
+    x004021   GC3213    1
+    x004021   GC4619    1
+    x004022   OBJ       0
+    x004022   GC403     1
+    x004022   GC1809    1
+    x004022   GC3215    1
+    x004022   GC4621    1
+    x004023   OBJ       0
+    x004023   GC405     1
+    x004023   GC1811    1
+    x004023   GC3217    1
+    x004023   GC4623    1
+    x004024   OBJ       0
+    x004024   GC407     1
+    x004024   GC1813    1
+    x004024   GC3219    1
+    x004024   GC4625    1
+    x004025   OBJ       0
+    x004025   GC409     1
+    x004025   GC1815    1
+    x004025   GC3221    1
+    x004025   GC4627    1
+    x004026   OBJ       0
+    x004026   GC411     1
+    x004026   GC1817    1
+    x004026   GC3223    1
+    x004026   GC4629    1
+    x004027   OBJ       0
+    x004027   GC413     1
+    x004027   GC1819    1
+    x004027   GC3225    1
+    x004027   GC4631    1
+    x004028   OBJ       0
+    x004028   GC415     1
+    x004028   GC1821    1
+    x004028   GC3227    1
+    x004028   GC4633    1
+    x004029   OBJ       0
+    x004029   GC417     1
+    x004029   GC1823    1
+    x004029   GC3229    1
+    x004029   GC4635    1
+    x004030   OBJ       0
+    x004030   GC419     1
+    x004030   GC1825    1
+    x004030   GC3231    1
+    x004030   GC4637    1
+    x004031   OBJ       0
+    x004031   GC421     1
+    x004031   GC1827    1
+    x004031   GC3233    1
+    x004031   GC4639    1
+    x004032   OBJ       0
+    x004032   GC423     1
+    x004032   GC1829    1
+    x004032   GC3235    1
+    x004032   GC4641    1
+    x004033   OBJ       0
+    x004033   GC425     1
+    x004033   GC1831    1
+    x004033   GC3237    1
+    x004033   GC4643    1
+    x004034   OBJ       0
+    x004034   GC427     1
+    x004034   GC1833    1
+    x004034   GC3239    1
+    x004034   GC4645    1
+    x004035   OBJ       0
+    x004035   GC429     1
+    x004035   GC1835    1
+    x004035   GC3241    1
+    x004035   GC4647    1
+    x004036   OBJ       0
+    x004036   GC431     1
+    x004036   GC1837    1
+    x004036   GC3243    1
+    x004036   GC4649    1
+    x004037   OBJ       0
+    x004037   GC433     1
+    x004037   GC1839    1
+    x004037   GC3245    1
+    x004037   GC4651    1
+    x004038   OBJ       0
+    x004038   GC435     1
+    x004038   GC1841    1
+    x004038   GC3247    1
+    x004038   GC4653    1
+    x005001   OBJ       0
+    x005001   GC159     1
+    x005001   GC1565    1
+    x005001   GC2971    1
+    x005001   GC4377    1
+    x005002   OBJ       0
+    x005002   GC231     1
+    x005002   GC1637    1
+    x005002   GC3043    1
+    x005002   GC4449    1
+    x005003   OBJ       0
+    x005003   GC301     1
+    x005003   GC1707    1
+    x005003   GC3113    1
+    x005003   GC4519    1
+    x005004   OBJ       0
+    x005004   GC369     1
+    x005004   GC1775    1
+    x005004   GC3181    1
+    x005004   GC4587    1
+    x005006   OBJ       0
+    x005006   GC437     1
+    x005006   GC1843    1
+    x005006   GC3249    1
+    x005006   GC4655    1
+    x005007   OBJ       0
+    x005007   GC439     1
+    x005007   GC1845    1
+    x005007   GC3251    1
+    x005007   GC4657    1
+    x005008   OBJ       0
+    x005008   GC441     1
+    x005008   GC1847    1
+    x005008   GC3253    1
+    x005008   GC4659    1
+    x005009   OBJ       0
+    x005009   GC443     1
+    x005009   GC1849    1
+    x005009   GC3255    1
+    x005009   GC4661    1
+    x005010   OBJ       0
+    x005010   GC445     1
+    x005010   GC1851    1
+    x005010   GC3257    1
+    x005010   GC4663    1
+    x005011   OBJ       0
+    x005011   GC447     1
+    x005011   GC1853    1
+    x005011   GC3259    1
+    x005011   GC4665    1
+    x005012   OBJ       0
+    x005012   GC449     1
+    x005012   GC1855    1
+    x005012   GC3261    1
+    x005012   GC4667    1
+    x005013   OBJ       0
+    x005013   GC451     1
+    x005013   GC1857    1
+    x005013   GC3263    1
+    x005013   GC4669    1
+    x005014   OBJ       0
+    x005014   GC453     1
+    x005014   GC1859    1
+    x005014   GC3265    1
+    x005014   GC4671    1
+    x005015   OBJ       0
+    x005015   GC455     1
+    x005015   GC1861    1
+    x005015   GC3267    1
+    x005015   GC4673    1
+    x005016   OBJ       0
+    x005016   GC457     1
+    x005016   GC1863    1
+    x005016   GC3269    1
+    x005016   GC4675    1
+    x005017   OBJ       0
+    x005017   GC459     1
+    x005017   GC1865    1
+    x005017   GC3271    1
+    x005017   GC4677    1
+    x005018   OBJ       0
+    x005018   GC461     1
+    x005018   GC1867    1
+    x005018   GC3273    1
+    x005018   GC4679    1
+    x005019   OBJ       0
+    x005019   GC463     1
+    x005019   GC1869    1
+    x005019   GC3275    1
+    x005019   GC4681    1
+    x005020   OBJ       0
+    x005020   GC465     1
+    x005020   GC1871    1
+    x005020   GC3277    1
+    x005020   GC4683    1
+    x005021   OBJ       0
+    x005021   GC467     1
+    x005021   GC1873    1
+    x005021   GC3279    1
+    x005021   GC4685    1
+    x005022   OBJ       0
+    x005022   GC469     1
+    x005022   GC1875    1
+    x005022   GC3281    1
+    x005022   GC4687    1
+    x005023   OBJ       0
+    x005023   GC471     1
+    x005023   GC1877    1
+    x005023   GC3283    1
+    x005023   GC4689    1
+    x005024   OBJ       0
+    x005024   GC473     1
+    x005024   GC1879    1
+    x005024   GC3285    1
+    x005024   GC4691    1
+    x005025   OBJ       0
+    x005025   GC475     1
+    x005025   GC1881    1
+    x005025   GC3287    1
+    x005025   GC4693    1
+    x005026   OBJ       0
+    x005026   GC477     1
+    x005026   GC1883    1
+    x005026   GC3289    1
+    x005026   GC4695    1
+    x005027   OBJ       0
+    x005027   GC479     1
+    x005027   GC1885    1
+    x005027   GC3291    1
+    x005027   GC4697    1
+    x005028   OBJ       0
+    x005028   GC481     1
+    x005028   GC1887    1
+    x005028   GC3293    1
+    x005028   GC4699    1
+    x005029   OBJ       0
+    x005029   GC483     1
+    x005029   GC1889    1
+    x005029   GC3295    1
+    x005029   GC4701    1
+    x005030   OBJ       0
+    x005030   GC485     1
+    x005030   GC1891    1
+    x005030   GC3297    1
+    x005030   GC4703    1
+    x005031   OBJ       0
+    x005031   GC487     1
+    x005031   GC1893    1
+    x005031   GC3299    1
+    x005031   GC4705    1
+    x005032   OBJ       0
+    x005032   GC489     1
+    x005032   GC1895    1
+    x005032   GC3301    1
+    x005032   GC4707    1
+    x005033   OBJ       0
+    x005033   GC491     1
+    x005033   GC1897    1
+    x005033   GC3303    1
+    x005033   GC4709    1
+    x005034   OBJ       0
+    x005034   GC493     1
+    x005034   GC1899    1
+    x005034   GC3305    1
+    x005034   GC4711    1
+    x005035   OBJ       0
+    x005035   GC495     1
+    x005035   GC1901    1
+    x005035   GC3307    1
+    x005035   GC4713    1
+    x005036   OBJ       0
+    x005036   GC497     1
+    x005036   GC1903    1
+    x005036   GC3309    1
+    x005036   GC4715    1
+    x005037   OBJ       0
+    x005037   GC499     1
+    x005037   GC1905    1
+    x005037   GC3311    1
+    x005037   GC4717    1
+    x005038   OBJ       0
+    x005038   GC501     1
+    x005038   GC1907    1
+    x005038   GC3313    1
+    x005038   GC4719    1
+    x006001   OBJ       0
+    x006001   GC161     1
+    x006001   GC1567    1
+    x006001   GC2973    1
+    x006001   GC4379    1
+    x006002   OBJ       0
+    x006002   GC233     1
+    x006002   GC1639    1
+    x006002   GC3045    1
+    x006002   GC4451    1
+    x006003   OBJ       0
+    x006003   GC303     1
+    x006003   GC1709    1
+    x006003   GC3115    1
+    x006003   GC4521    1
+    x006004   OBJ       0
+    x006004   GC371     1
+    x006004   GC1777    1
+    x006004   GC3183    1
+    x006004   GC4589    1
+    x006005   OBJ       0
+    x006005   GC437     1
+    x006005   GC1843    1
+    x006005   GC3249    1
+    x006005   GC4655    1
+    x006007   OBJ       0
+    x006007   GC503     1
+    x006007   GC1909    1
+    x006007   GC3315    1
+    x006007   GC4721    1
+    x006008   OBJ       0
+    x006008   GC505     1
+    x006008   GC1911    1
+    x006008   GC3317    1
+    x006008   GC4723    1
+    x006009   OBJ       0
+    x006009   GC507     1
+    x006009   GC1913    1
+    x006009   GC3319    1
+    x006009   GC4725    1
+    x006010   OBJ       0
+    x006010   GC509     1
+    x006010   GC1915    1
+    x006010   GC3321    1
+    x006010   GC4727    1
+    x006011   OBJ       0
+    x006011   GC511     1
+    x006011   GC1917    1
+    x006011   GC3323    1
+    x006011   GC4729    1
+    x006012   OBJ       0
+    x006012   GC513     1
+    x006012   GC1919    1
+    x006012   GC3325    1
+    x006012   GC4731    1
+    x006013   OBJ       0
+    x006013   GC515     1
+    x006013   GC1921    1
+    x006013   GC3327    1
+    x006013   GC4733    1
+    x006014   OBJ       0
+    x006014   GC517     1
+    x006014   GC1923    1
+    x006014   GC3329    1
+    x006014   GC4735    1
+    x006015   OBJ       0
+    x006015   GC519     1
+    x006015   GC1925    1
+    x006015   GC3331    1
+    x006015   GC4737    1
+    x006016   OBJ       0
+    x006016   GC521     1
+    x006016   GC1927    1
+    x006016   GC3333    1
+    x006016   GC4739    1
+    x006017   OBJ       0
+    x006017   GC523     1
+    x006017   GC1929    1
+    x006017   GC3335    1
+    x006017   GC4741    1
+    x006018   OBJ       0
+    x006018   GC525     1
+    x006018   GC1931    1
+    x006018   GC3337    1
+    x006018   GC4743    1
+    x006019   OBJ       0
+    x006019   GC527     1
+    x006019   GC1933    1
+    x006019   GC3339    1
+    x006019   GC4745    1
+    x006020   OBJ       0
+    x006020   GC529     1
+    x006020   GC1935    1
+    x006020   GC3341    1
+    x006020   GC4747    1
+    x006021   OBJ       0
+    x006021   GC531     1
+    x006021   GC1937    1
+    x006021   GC3343    1
+    x006021   GC4749    1
+    x006022   OBJ       0
+    x006022   GC533     1
+    x006022   GC1939    1
+    x006022   GC3345    1
+    x006022   GC4751    1
+    x006023   OBJ       0
+    x006023   GC535     1
+    x006023   GC1941    1
+    x006023   GC3347    1
+    x006023   GC4753    1
+    x006024   OBJ       0
+    x006024   GC537     1
+    x006024   GC1943    1
+    x006024   GC3349    1
+    x006024   GC4755    1
+    x006025   OBJ       0
+    x006025   GC539     1
+    x006025   GC1945    1
+    x006025   GC3351    1
+    x006025   GC4757    1
+    x006026   OBJ       0
+    x006026   GC541     1
+    x006026   GC1947    1
+    x006026   GC3353    1
+    x006026   GC4759    1
+    x006027   OBJ       0
+    x006027   GC543     1
+    x006027   GC1949    1
+    x006027   GC3355    1
+    x006027   GC4761    1
+    x006028   OBJ       0
+    x006028   GC545     1
+    x006028   GC1951    1
+    x006028   GC3357    1
+    x006028   GC4763    1
+    x006029   OBJ       0
+    x006029   GC547     1
+    x006029   GC1953    1
+    x006029   GC3359    1
+    x006029   GC4765    1
+    x006030   OBJ       0
+    x006030   GC549     1
+    x006030   GC1955    1
+    x006030   GC3361    1
+    x006030   GC4767    1
+    x006031   OBJ       0
+    x006031   GC551     1
+    x006031   GC1957    1
+    x006031   GC3363    1
+    x006031   GC4769    1
+    x006032   OBJ       0
+    x006032   GC553     1
+    x006032   GC1959    1
+    x006032   GC3365    1
+    x006032   GC4771    1
+    x006033   OBJ       0
+    x006033   GC555     1
+    x006033   GC1961    1
+    x006033   GC3367    1
+    x006033   GC4773    1
+    x006034   OBJ       0
+    x006034   GC557     1
+    x006034   GC1963    1
+    x006034   GC3369    1
+    x006034   GC4775    1
+    x006035   OBJ       0
+    x006035   GC559     1
+    x006035   GC1965    1
+    x006035   GC3371    1
+    x006035   GC4777    1
+    x006036   OBJ       0
+    x006036   GC561     1
+    x006036   GC1967    1
+    x006036   GC3373    1
+    x006036   GC4779    1
+    x006037   OBJ       0
+    x006037   GC563     1
+    x006037   GC1969    1
+    x006037   GC3375    1
+    x006037   GC4781    1
+    x006038   OBJ       0
+    x006038   GC565     1
+    x006038   GC1971    1
+    x006038   GC3377    1
+    x006038   GC4783    1
+    x007001   OBJ       0
+    x007001   GC163     1
+    x007001   GC1569    1
+    x007001   GC2975    1
+    x007001   GC4381    1
+    x007002   OBJ       0
+    x007002   GC235     1
+    x007002   GC1641    1
+    x007002   GC3047    1
+    x007002   GC4453    1
+    x007003   OBJ       0
+    x007003   GC305     1
+    x007003   GC1711    1
+    x007003   GC3117    1
+    x007003   GC4523    1
+    x007004   OBJ       0
+    x007004   GC373     1
+    x007004   GC1779    1
+    x007004   GC3185    1
+    x007004   GC4591    1
+    x007005   OBJ       0
+    x007005   GC439     1
+    x007005   GC1845    1
+    x007005   GC3251    1
+    x007005   GC4657    1
+    x007006   OBJ       0
+    x007006   GC503     1
+    x007006   GC1909    1
+    x007006   GC3315    1
+    x007006   GC4721    1
+    x007008   OBJ       0
+    x007008   GC567     1
+    x007008   GC1973    1
+    x007008   GC3379    1
+    x007008   GC4785    1
+    x007009   OBJ       0
+    x007009   GC569     1
+    x007009   GC1975    1
+    x007009   GC3381    1
+    x007009   GC4787    1
+    x007010   OBJ       0
+    x007010   GC571     1
+    x007010   GC1977    1
+    x007010   GC3383    1
+    x007010   GC4789    1
+    x007011   OBJ       0
+    x007011   GC573     1
+    x007011   GC1979    1
+    x007011   GC3385    1
+    x007011   GC4791    1
+    x007012   OBJ       0
+    x007012   GC575     1
+    x007012   GC1981    1
+    x007012   GC3387    1
+    x007012   GC4793    1
+    x007013   OBJ       0
+    x007013   GC577     1
+    x007013   GC1983    1
+    x007013   GC3389    1
+    x007013   GC4795    1
+    x007014   OBJ       0
+    x007014   GC579     1
+    x007014   GC1985    1
+    x007014   GC3391    1
+    x007014   GC4797    1
+    x007015   OBJ       0
+    x007015   GC581     1
+    x007015   GC1987    1
+    x007015   GC3393    1
+    x007015   GC4799    1
+    x007016   OBJ       0
+    x007016   GC583     1
+    x007016   GC1989    1
+    x007016   GC3395    1
+    x007016   GC4801    1
+    x007017   OBJ       0
+    x007017   GC585     1
+    x007017   GC1991    1
+    x007017   GC3397    1
+    x007017   GC4803    1
+    x007018   OBJ       0
+    x007018   GC587     1
+    x007018   GC1993    1
+    x007018   GC3399    1
+    x007018   GC4805    1
+    x007019   OBJ       0
+    x007019   GC589     1
+    x007019   GC1995    1
+    x007019   GC3401    1
+    x007019   GC4807    1
+    x007020   OBJ       0
+    x007020   GC591     1
+    x007020   GC1997    1
+    x007020   GC3403    1
+    x007020   GC4809    1
+    x007021   OBJ       0
+    x007021   GC593     1
+    x007021   GC1999    1
+    x007021   GC3405    1
+    x007021   GC4811    1
+    x007022   OBJ       0
+    x007022   GC595     1
+    x007022   GC2001    1
+    x007022   GC3407    1
+    x007022   GC4813    1
+    x007023   OBJ       0
+    x007023   GC597     1
+    x007023   GC2003    1
+    x007023   GC3409    1
+    x007023   GC4815    1
+    x007024   OBJ       0
+    x007024   GC599     1
+    x007024   GC2005    1
+    x007024   GC3411    1
+    x007024   GC4817    1
+    x007025   OBJ       0
+    x007025   GC601     1
+    x007025   GC2007    1
+    x007025   GC3413    1
+    x007025   GC4819    1
+    x007026   OBJ       0
+    x007026   GC603     1
+    x007026   GC2009    1
+    x007026   GC3415    1
+    x007026   GC4821    1
+    x007027   OBJ       0
+    x007027   GC605     1
+    x007027   GC2011    1
+    x007027   GC3417    1
+    x007027   GC4823    1
+    x007028   OBJ       0
+    x007028   GC607     1
+    x007028   GC2013    1
+    x007028   GC3419    1
+    x007028   GC4825    1
+    x007029   OBJ       0
+    x007029   GC609     1
+    x007029   GC2015    1
+    x007029   GC3421    1
+    x007029   GC4827    1
+    x007030   OBJ       0
+    x007030   GC611     1
+    x007030   GC2017    1
+    x007030   GC3423    1
+    x007030   GC4829    1
+    x007031   OBJ       0
+    x007031   GC613     1
+    x007031   GC2019    1
+    x007031   GC3425    1
+    x007031   GC4831    1
+    x007032   OBJ       0
+    x007032   GC615     1
+    x007032   GC2021    1
+    x007032   GC3427    1
+    x007032   GC4833    1
+    x007033   OBJ       0
+    x007033   GC617     1
+    x007033   GC2023    1
+    x007033   GC3429    1
+    x007033   GC4835    1
+    x007034   OBJ       0
+    x007034   GC619     1
+    x007034   GC2025    1
+    x007034   GC3431    1
+    x007034   GC4837    1
+    x007035   OBJ       0
+    x007035   GC621     1
+    x007035   GC2027    1
+    x007035   GC3433    1
+    x007035   GC4839    1
+    x007036   OBJ       0
+    x007036   GC623     1
+    x007036   GC2029    1
+    x007036   GC3435    1
+    x007036   GC4841    1
+    x007037   OBJ       0
+    x007037   GC625     1
+    x007037   GC2031    1
+    x007037   GC3437    1
+    x007037   GC4843    1
+    x007038   OBJ       0
+    x007038   GC627     1
+    x007038   GC2033    1
+    x007038   GC3439    1
+    x007038   GC4845    1
+    x008001   OBJ       0
+    x008001   GC165     1
+    x008001   GC1571    1
+    x008001   GC2977    1
+    x008001   GC4383    1
+    x008002   OBJ       0
+    x008002   GC237     1
+    x008002   GC1643    1
+    x008002   GC3049    1
+    x008002   GC4455    1
+    x008003   OBJ       0
+    x008003   GC307     1
+    x008003   GC1713    1
+    x008003   GC3119    1
+    x008003   GC4525    1
+    x008004   OBJ       0
+    x008004   GC375     1
+    x008004   GC1781    1
+    x008004   GC3187    1
+    x008004   GC4593    1
+    x008005   OBJ       0
+    x008005   GC441     1
+    x008005   GC1847    1
+    x008005   GC3253    1
+    x008005   GC4659    1
+    x008006   OBJ       0
+    x008006   GC505     1
+    x008006   GC1911    1
+    x008006   GC3317    1
+    x008006   GC4723    1
+    x008007   OBJ       0
+    x008007   GC567     1
+    x008007   GC1973    1
+    x008007   GC3379    1
+    x008007   GC4785    1
+    x008009   OBJ       0
+    x008009   GC629     1
+    x008009   GC2035    1
+    x008009   GC3441    1
+    x008009   GC4847    1
+    x008010   OBJ       0
+    x008010   GC631     1
+    x008010   GC2037    1
+    x008010   GC3443    1
+    x008010   GC4849    1
+    x008011   OBJ       0
+    x008011   GC633     1
+    x008011   GC2039    1
+    x008011   GC3445    1
+    x008011   GC4851    1
+    x008012   OBJ       0
+    x008012   GC635     1
+    x008012   GC2041    1
+    x008012   GC3447    1
+    x008012   GC4853    1
+    x008013   OBJ       0
+    x008013   GC637     1
+    x008013   GC2043    1
+    x008013   GC3449    1
+    x008013   GC4855    1
+    x008014   OBJ       0
+    x008014   GC639     1
+    x008014   GC2045    1
+    x008014   GC3451    1
+    x008014   GC4857    1
+    x008015   OBJ       0
+    x008015   GC641     1
+    x008015   GC2047    1
+    x008015   GC3453    1
+    x008015   GC4859    1
+    x008016   OBJ       0
+    x008016   GC643     1
+    x008016   GC2049    1
+    x008016   GC3455    1
+    x008016   GC4861    1
+    x008017   OBJ       0
+    x008017   GC645     1
+    x008017   GC2051    1
+    x008017   GC3457    1
+    x008017   GC4863    1
+    x008018   OBJ       0
+    x008018   GC647     1
+    x008018   GC2053    1
+    x008018   GC3459    1
+    x008018   GC4865    1
+    x008019   OBJ       0
+    x008019   GC649     1
+    x008019   GC2055    1
+    x008019   GC3461    1
+    x008019   GC4867    1
+    x008020   OBJ       0
+    x008020   GC651     1
+    x008020   GC2057    1
+    x008020   GC3463    1
+    x008020   GC4869    1
+    x008021   OBJ       0
+    x008021   GC653     1
+    x008021   GC2059    1
+    x008021   GC3465    1
+    x008021   GC4871    1
+    x008022   OBJ       0
+    x008022   GC655     1
+    x008022   GC2061    1
+    x008022   GC3467    1
+    x008022   GC4873    1
+    x008023   OBJ       0
+    x008023   GC657     1
+    x008023   GC2063    1
+    x008023   GC3469    1
+    x008023   GC4875    1
+    x008024   OBJ       0
+    x008024   GC659     1
+    x008024   GC2065    1
+    x008024   GC3471    1
+    x008024   GC4877    1
+    x008025   OBJ       0
+    x008025   GC661     1
+    x008025   GC2067    1
+    x008025   GC3473    1
+    x008025   GC4879    1
+    x008026   OBJ       0
+    x008026   GC663     1
+    x008026   GC2069    1
+    x008026   GC3475    1
+    x008026   GC4881    1
+    x008027   OBJ       0
+    x008027   GC665     1
+    x008027   GC2071    1
+    x008027   GC3477    1
+    x008027   GC4883    1
+    x008028   OBJ       0
+    x008028   GC667     1
+    x008028   GC2073    1
+    x008028   GC3479    1
+    x008028   GC4885    1
+    x008029   OBJ       0
+    x008029   GC669     1
+    x008029   GC2075    1
+    x008029   GC3481    1
+    x008029   GC4887    1
+    x008030   OBJ       0
+    x008030   GC671     1
+    x008030   GC2077    1
+    x008030   GC3483    1
+    x008030   GC4889    1
+    x008031   OBJ       0
+    x008031   GC673     1
+    x008031   GC2079    1
+    x008031   GC3485    1
+    x008031   GC4891    1
+    x008032   OBJ       0
+    x008032   GC675     1
+    x008032   GC2081    1
+    x008032   GC3487    1
+    x008032   GC4893    1
+    x008033   OBJ       0
+    x008033   GC677     1
+    x008033   GC2083    1
+    x008033   GC3489    1
+    x008033   GC4895    1
+    x008034   OBJ       0
+    x008034   GC679     1
+    x008034   GC2085    1
+    x008034   GC3491    1
+    x008034   GC4897    1
+    x008035   OBJ       0
+    x008035   GC681     1
+    x008035   GC2087    1
+    x008035   GC3493    1
+    x008035   GC4899    1
+    x008036   OBJ       0
+    x008036   GC683     1
+    x008036   GC2089    1
+    x008036   GC3495    1
+    x008036   GC4901    1
+    x008037   OBJ       0
+    x008037   GC685     1
+    x008037   GC2091    1
+    x008037   GC3497    1
+    x008037   GC4903    1
+    x008038   OBJ       0
+    x008038   GC687     1
+    x008038   GC2093    1
+    x008038   GC3499    1
+    x008038   GC4905    1
+    x009001   OBJ       0
+    x009001   GC167     1
+    x009001   GC1573    1
+    x009001   GC2979    1
+    x009001   GC4385    1
+    x009002   OBJ       0
+    x009002   GC239     1
+    x009002   GC1645    1
+    x009002   GC3051    1
+    x009002   GC4457    1
+    x009003   OBJ       0
+    x009003   GC309     1
+    x009003   GC1715    1
+    x009003   GC3121    1
+    x009003   GC4527    1
+    x009004   OBJ       0
+    x009004   GC377     1
+    x009004   GC1783    1
+    x009004   GC3189    1
+    x009004   GC4595    1
+    x009005   OBJ       0
+    x009005   GC443     1
+    x009005   GC1849    1
+    x009005   GC3255    1
+    x009005   GC4661    1
+    x009006   OBJ       0
+    x009006   GC507     1
+    x009006   GC1913    1
+    x009006   GC3319    1
+    x009006   GC4725    1
+    x009007   OBJ       0
+    x009007   GC569     1
+    x009007   GC1975    1
+    x009007   GC3381    1
+    x009007   GC4787    1
+    x009008   OBJ       0
+    x009008   GC629     1
+    x009008   GC2035    1
+    x009008   GC3441    1
+    x009008   GC4847    1
+    x009010   OBJ       0
+    x009010   GC689     1
+    x009010   GC2095    1
+    x009010   GC3501    1
+    x009010   GC4907    1
+    x009011   OBJ       0
+    x009011   GC691     1
+    x009011   GC2097    1
+    x009011   GC3503    1
+    x009011   GC4909    1
+    x009012   OBJ       0
+    x009012   GC693     1
+    x009012   GC2099    1
+    x009012   GC3505    1
+    x009012   GC4911    1
+    x009013   OBJ       0
+    x009013   GC695     1
+    x009013   GC2101    1
+    x009013   GC3507    1
+    x009013   GC4913    1
+    x009014   OBJ       0
+    x009014   GC697     1
+    x009014   GC2103    1
+    x009014   GC3509    1
+    x009014   GC4915    1
+    x009015   OBJ       0
+    x009015   GC699     1
+    x009015   GC2105    1
+    x009015   GC3511    1
+    x009015   GC4917    1
+    x009016   OBJ       0
+    x009016   GC701     1
+    x009016   GC2107    1
+    x009016   GC3513    1
+    x009016   GC4919    1
+    x009017   OBJ       0
+    x009017   GC703     1
+    x009017   GC2109    1
+    x009017   GC3515    1
+    x009017   GC4921    1
+    x009018   OBJ       0
+    x009018   GC705     1
+    x009018   GC2111    1
+    x009018   GC3517    1
+    x009018   GC4923    1
+    x009019   OBJ       0
+    x009019   GC707     1
+    x009019   GC2113    1
+    x009019   GC3519    1
+    x009019   GC4925    1
+    x009020   OBJ       0
+    x009020   GC709     1
+    x009020   GC2115    1
+    x009020   GC3521    1
+    x009020   GC4927    1
+    x009021   OBJ       0
+    x009021   GC711     1
+    x009021   GC2117    1
+    x009021   GC3523    1
+    x009021   GC4929    1
+    x009022   OBJ       0
+    x009022   GC713     1
+    x009022   GC2119    1
+    x009022   GC3525    1
+    x009022   GC4931    1
+    x009023   OBJ       0
+    x009023   GC715     1
+    x009023   GC2121    1
+    x009023   GC3527    1
+    x009023   GC4933    1
+    x009024   OBJ       0
+    x009024   GC717     1
+    x009024   GC2123    1
+    x009024   GC3529    1
+    x009024   GC4935    1
+    x009025   OBJ       0
+    x009025   GC719     1
+    x009025   GC2125    1
+    x009025   GC3531    1
+    x009025   GC4937    1
+    x009026   OBJ       0
+    x009026   GC721     1
+    x009026   GC2127    1
+    x009026   GC3533    1
+    x009026   GC4939    1
+    x009027   OBJ       0
+    x009027   GC723     1
+    x009027   GC2129    1
+    x009027   GC3535    1
+    x009027   GC4941    1
+    x009028   OBJ       0
+    x009028   GC725     1
+    x009028   GC2131    1
+    x009028   GC3537    1
+    x009028   GC4943    1
+    x009029   OBJ       0
+    x009029   GC727     1
+    x009029   GC2133    1
+    x009029   GC3539    1
+    x009029   GC4945    1
+    x009030   OBJ       0
+    x009030   GC729     1
+    x009030   GC2135    1
+    x009030   GC3541    1
+    x009030   GC4947    1
+    x009031   OBJ       0
+    x009031   GC731     1
+    x009031   GC2137    1
+    x009031   GC3543    1
+    x009031   GC4949    1
+    x009032   OBJ       0
+    x009032   GC733     1
+    x009032   GC2139    1
+    x009032   GC3545    1
+    x009032   GC4951    1
+    x009033   OBJ       0
+    x009033   GC735     1
+    x009033   GC2141    1
+    x009033   GC3547    1
+    x009033   GC4953    1
+    x009034   OBJ       0
+    x009034   GC737     1
+    x009034   GC2143    1
+    x009034   GC3549    1
+    x009034   GC4955    1
+    x009035   OBJ       0
+    x009035   GC739     1
+    x009035   GC2145    1
+    x009035   GC3551    1
+    x009035   GC4957    1
+    x009036   OBJ       0
+    x009036   GC741     1
+    x009036   GC2147    1
+    x009036   GC3553    1
+    x009036   GC4959    1
+    x009037   OBJ       0
+    x009037   GC743     1
+    x009037   GC2149    1
+    x009037   GC3555    1
+    x009037   GC4961    1
+    x009038   OBJ       0
+    x009038   GC745     1
+    x009038   GC2151    1
+    x009038   GC3557    1
+    x009038   GC4963    1
+    x010001   OBJ       0
+    x010001   GC169     1
+    x010001   GC1575    1
+    x010001   GC2981    1
+    x010001   GC4387    1
+    x010002   OBJ       0
+    x010002   GC241     1
+    x010002   GC1647    1
+    x010002   GC3053    1
+    x010002   GC4459    1
+    x010003   OBJ       0
+    x010003   GC311     1
+    x010003   GC1717    1
+    x010003   GC3123    1
+    x010003   GC4529    1
+    x010004   OBJ       0
+    x010004   GC379     1
+    x010004   GC1785    1
+    x010004   GC3191    1
+    x010004   GC4597    1
+    x010005   OBJ       0
+    x010005   GC445     1
+    x010005   GC1851    1
+    x010005   GC3257    1
+    x010005   GC4663    1
+    x010006   OBJ       0
+    x010006   GC509     1
+    x010006   GC1915    1
+    x010006   GC3321    1
+    x010006   GC4727    1
+    x010007   OBJ       0
+    x010007   GC571     1
+    x010007   GC1977    1
+    x010007   GC3383    1
+    x010007   GC4789    1
+    x010008   OBJ       0
+    x010008   GC631     1
+    x010008   GC2037    1
+    x010008   GC3443    1
+    x010008   GC4849    1
+    x010009   OBJ       0
+    x010009   GC689     1
+    x010009   GC2095    1
+    x010009   GC3501    1
+    x010009   GC4907    1
+    x010011   OBJ       0
+    x010011   GC747     1
+    x010011   GC2153    1
+    x010011   GC3559    1
+    x010011   GC4965    1
+    x010012   OBJ       0
+    x010012   GC749     1
+    x010012   GC2155    1
+    x010012   GC3561    1
+    x010012   GC4967    1
+    x010013   OBJ       0
+    x010013   GC751     1
+    x010013   GC2157    1
+    x010013   GC3563    1
+    x010013   GC4969    1
+    x010014   OBJ       0
+    x010014   GC753     1
+    x010014   GC2159    1
+    x010014   GC3565    1
+    x010014   GC4971    1
+    x010015   OBJ       0
+    x010015   GC755     1
+    x010015   GC2161    1
+    x010015   GC3567    1
+    x010015   GC4973    1
+    x010016   OBJ       0
+    x010016   GC757     1
+    x010016   GC2163    1
+    x010016   GC3569    1
+    x010016   GC4975    1
+    x010017   OBJ       0
+    x010017   GC759     1
+    x010017   GC2165    1
+    x010017   GC3571    1
+    x010017   GC4977    1
+    x010018   OBJ       0
+    x010018   GC761     1
+    x010018   GC2167    1
+    x010018   GC3573    1
+    x010018   GC4979    1
+    x010019   OBJ       0
+    x010019   GC763     1
+    x010019   GC2169    1
+    x010019   GC3575    1
+    x010019   GC4981    1
+    x010020   OBJ       0
+    x010020   GC765     1
+    x010020   GC2171    1
+    x010020   GC3577    1
+    x010020   GC4983    1
+    x010021   OBJ       0
+    x010021   GC767     1
+    x010021   GC2173    1
+    x010021   GC3579    1
+    x010021   GC4985    1
+    x010022   OBJ       0
+    x010022   GC769     1
+    x010022   GC2175    1
+    x010022   GC3581    1
+    x010022   GC4987    1
+    x010023   OBJ       0
+    x010023   GC771     1
+    x010023   GC2177    1
+    x010023   GC3583    1
+    x010023   GC4989    1
+    x010024   OBJ       0
+    x010024   GC773     1
+    x010024   GC2179    1
+    x010024   GC3585    1
+    x010024   GC4991    1
+    x010025   OBJ       0
+    x010025   GC775     1
+    x010025   GC2181    1
+    x010025   GC3587    1
+    x010025   GC4993    1
+    x010026   OBJ       0
+    x010026   GC777     1
+    x010026   GC2183    1
+    x010026   GC3589    1
+    x010026   GC4995    1
+    x010027   OBJ       0
+    x010027   GC779     1
+    x010027   GC2185    1
+    x010027   GC3591    1
+    x010027   GC4997    1
+    x010028   OBJ       0
+    x010028   GC781     1
+    x010028   GC2187    1
+    x010028   GC3593    1
+    x010028   GC4999    1
+    x010029   OBJ       0
+    x010029   GC783     1
+    x010029   GC2189    1
+    x010029   GC3595    1
+    x010029   GC5001    1
+    x010030   OBJ       0
+    x010030   GC785     1
+    x010030   GC2191    1
+    x010030   GC3597    1
+    x010030   GC5003    1
+    x010031   OBJ       0
+    x010031   GC787     1
+    x010031   GC2193    1
+    x010031   GC3599    1
+    x010031   GC5005    1
+    x010032   OBJ       0
+    x010032   GC789     1
+    x010032   GC2195    1
+    x010032   GC3601    1
+    x010032   GC5007    1
+    x010033   OBJ       0
+    x010033   GC791     1
+    x010033   GC2197    1
+    x010033   GC3603    1
+    x010033   GC5009    1
+    x010034   OBJ       0
+    x010034   GC793     1
+    x010034   GC2199    1
+    x010034   GC3605    1
+    x010034   GC5011    1
+    x010035   OBJ       0
+    x010035   GC795     1
+    x010035   GC2201    1
+    x010035   GC3607    1
+    x010035   GC5013    1
+    x010036   OBJ       0
+    x010036   GC797     1
+    x010036   GC2203    1
+    x010036   GC3609    1
+    x010036   GC5015    1
+    x010037   OBJ       0
+    x010037   GC799     1
+    x010037   GC2205    1
+    x010037   GC3611    1
+    x010037   GC5017    1
+    x010038   OBJ       0
+    x010038   GC801     1
+    x010038   GC2207    1
+    x010038   GC3613    1
+    x010038   GC5019    1
+    x011001   OBJ       0
+    x011001   GC171     1
+    x011001   GC1577    1
+    x011001   GC2983    1
+    x011001   GC4389    1
+    x011002   OBJ       0
+    x011002   GC243     1
+    x011002   GC1649    1
+    x011002   GC3055    1
+    x011002   GC4461    1
+    x011003   OBJ       0
+    x011003   GC313     1
+    x011003   GC1719    1
+    x011003   GC3125    1
+    x011003   GC4531    1
+    x011004   OBJ       0
+    x011004   GC381     1
+    x011004   GC1787    1
+    x011004   GC3193    1
+    x011004   GC4599    1
+    x011005   OBJ       0
+    x011005   GC447     1
+    x011005   GC1853    1
+    x011005   GC3259    1
+    x011005   GC4665    1
+    x011006   OBJ       0
+    x011006   GC511     1
+    x011006   GC1917    1
+    x011006   GC3323    1
+    x011006   GC4729    1
+    x011007   OBJ       0
+    x011007   GC573     1
+    x011007   GC1979    1
+    x011007   GC3385    1
+    x011007   GC4791    1
+    x011008   OBJ       0
+    x011008   GC633     1
+    x011008   GC2039    1
+    x011008   GC3445    1
+    x011008   GC4851    1
+    x011009   OBJ       0
+    x011009   GC691     1
+    x011009   GC2097    1
+    x011009   GC3503    1
+    x011009   GC4909    1
+    x011010   OBJ       0
+    x011010   GC747     1
+    x011010   GC2153    1
+    x011010   GC3559    1
+    x011010   GC4965    1
+    x011012   OBJ       0
+    x011012   GC803     1
+    x011012   GC2209    1
+    x011012   GC3615    1
+    x011012   GC5021    1
+    x011013   OBJ       0
+    x011013   GC805     1
+    x011013   GC2211    1
+    x011013   GC3617    1
+    x011013   GC5023    1
+    x011014   OBJ       0
+    x011014   GC807     1
+    x011014   GC2213    1
+    x011014   GC3619    1
+    x011014   GC5025    1
+    x011015   OBJ       0
+    x011015   GC809     1
+    x011015   GC2215    1
+    x011015   GC3621    1
+    x011015   GC5027    1
+    x011016   OBJ       0
+    x011016   GC811     1
+    x011016   GC2217    1
+    x011016   GC3623    1
+    x011016   GC5029    1
+    x011017   OBJ       0
+    x011017   GC813     1
+    x011017   GC2219    1
+    x011017   GC3625    1
+    x011017   GC5031    1
+    x011018   OBJ       0
+    x011018   GC815     1
+    x011018   GC2221    1
+    x011018   GC3627    1
+    x011018   GC5033    1
+    x011019   OBJ       0
+    x011019   GC817     1
+    x011019   GC2223    1
+    x011019   GC3629    1
+    x011019   GC5035    1
+    x011020   OBJ       0
+    x011020   GC819     1
+    x011020   GC2225    1
+    x011020   GC3631    1
+    x011020   GC5037    1
+    x011021   OBJ       0
+    x011021   GC821     1
+    x011021   GC2227    1
+    x011021   GC3633    1
+    x011021   GC5039    1
+    x011022   OBJ       0
+    x011022   GC823     1
+    x011022   GC2229    1
+    x011022   GC3635    1
+    x011022   GC5041    1
+    x011023   OBJ       0
+    x011023   GC825     1
+    x011023   GC2231    1
+    x011023   GC3637    1
+    x011023   GC5043    1
+    x011024   OBJ       0
+    x011024   GC827     1
+    x011024   GC2233    1
+    x011024   GC3639    1
+    x011024   GC5045    1
+    x011025   OBJ       0
+    x011025   GC829     1
+    x011025   GC2235    1
+    x011025   GC3641    1
+    x011025   GC5047    1
+    x011026   OBJ       0
+    x011026   GC831     1
+    x011026   GC2237    1
+    x011026   GC3643    1
+    x011026   GC5049    1
+    x011027   OBJ       0
+    x011027   GC833     1
+    x011027   GC2239    1
+    x011027   GC3645    1
+    x011027   GC5051    1
+    x011028   OBJ       0
+    x011028   GC835     1
+    x011028   GC2241    1
+    x011028   GC3647    1
+    x011028   GC5053    1
+    x011029   OBJ       0
+    x011029   GC837     1
+    x011029   GC2243    1
+    x011029   GC3649    1
+    x011029   GC5055    1
+    x011030   OBJ       0
+    x011030   GC839     1
+    x011030   GC2245    1
+    x011030   GC3651    1
+    x011030   GC5057    1
+    x011031   OBJ       0
+    x011031   GC841     1
+    x011031   GC2247    1
+    x011031   GC3653    1
+    x011031   GC5059    1
+    x011032   OBJ       0
+    x011032   GC843     1
+    x011032   GC2249    1
+    x011032   GC3655    1
+    x011032   GC5061    1
+    x011033   OBJ       0
+    x011033   GC845     1
+    x011033   GC2251    1
+    x011033   GC3657    1
+    x011033   GC5063    1
+    x011034   OBJ       0
+    x011034   GC847     1
+    x011034   GC2253    1
+    x011034   GC3659    1
+    x011034   GC5065    1
+    x011035   OBJ       0
+    x011035   GC849     1
+    x011035   GC2255    1
+    x011035   GC3661    1
+    x011035   GC5067    1
+    x011036   OBJ       0
+    x011036   GC851     1
+    x011036   GC2257    1
+    x011036   GC3663    1
+    x011036   GC5069    1
+    x011037   OBJ       0
+    x011037   GC853     1
+    x011037   GC2259    1
+    x011037   GC3665    1
+    x011037   GC5071    1
+    x011038   OBJ       0
+    x011038   GC855     1
+    x011038   GC2261    1
+    x011038   GC3667    1
+    x011038   GC5073    1
+    x012001   OBJ       0
+    x012001   GC173     1
+    x012001   GC1579    1
+    x012001   GC2985    1
+    x012001   GC4391    1
+    x012002   OBJ       0
+    x012002   GC245     1
+    x012002   GC1651    1
+    x012002   GC3057    1
+    x012002   GC4463    1
+    x012003   OBJ       0
+    x012003   GC315     1
+    x012003   GC1721    1
+    x012003   GC3127    1
+    x012003   GC4533    1
+    x012004   OBJ       0
+    x012004   GC383     1
+    x012004   GC1789    1
+    x012004   GC3195    1
+    x012004   GC4601    1
+    x012005   OBJ       0
+    x012005   GC449     1
+    x012005   GC1855    1
+    x012005   GC3261    1
+    x012005   GC4667    1
+    x012006   OBJ       0
+    x012006   GC513     1
+    x012006   GC1919    1
+    x012006   GC3325    1
+    x012006   GC4731    1
+    x012007   OBJ       0
+    x012007   GC575     1
+    x012007   GC1981    1
+    x012007   GC3387    1
+    x012007   GC4793    1
+    x012008   OBJ       0
+    x012008   GC635     1
+    x012008   GC2041    1
+    x012008   GC3447    1
+    x012008   GC4853    1
+    x012009   OBJ       0
+    x012009   GC693     1
+    x012009   GC2099    1
+    x012009   GC3505    1
+    x012009   GC4911    1
+    x012010   OBJ       0
+    x012010   GC749     1
+    x012010   GC2155    1
+    x012010   GC3561    1
+    x012010   GC4967    1
+    x012011   OBJ       0
+    x012011   GC803     1
+    x012011   GC2209    1
+    x012011   GC3615    1
+    x012011   GC5021    1
+    x012013   OBJ       0
+    x012013   GC857     1
+    x012013   GC2263    1
+    x012013   GC3669    1
+    x012013   GC5075    1
+    x012014   OBJ       0
+    x012014   GC859     1
+    x012014   GC2265    1
+    x012014   GC3671    1
+    x012014   GC5077    1
+    x012015   OBJ       0
+    x012015   GC861     1
+    x012015   GC2267    1
+    x012015   GC3673    1
+    x012015   GC5079    1
+    x012016   OBJ       0
+    x012016   GC863     1
+    x012016   GC2269    1
+    x012016   GC3675    1
+    x012016   GC5081    1
+    x012017   OBJ       0
+    x012017   GC865     1
+    x012017   GC2271    1
+    x012017   GC3677    1
+    x012017   GC5083    1
+    x012018   OBJ       0
+    x012018   GC867     1
+    x012018   GC2273    1
+    x012018   GC3679    1
+    x012018   GC5085    1
+    x012019   OBJ       0
+    x012019   GC869     1
+    x012019   GC2275    1
+    x012019   GC3681    1
+    x012019   GC5087    1
+    x012020   OBJ       0
+    x012020   GC871     1
+    x012020   GC2277    1
+    x012020   GC3683    1
+    x012020   GC5089    1
+    x012021   OBJ       0
+    x012021   GC873     1
+    x012021   GC2279    1
+    x012021   GC3685    1
+    x012021   GC5091    1
+    x012022   OBJ       0
+    x012022   GC875     1
+    x012022   GC2281    1
+    x012022   GC3687    1
+    x012022   GC5093    1
+    x012023   OBJ       0
+    x012023   GC877     1
+    x012023   GC2283    1
+    x012023   GC3689    1
+    x012023   GC5095    1
+    x012024   OBJ       0
+    x012024   GC879     1
+    x012024   GC2285    1
+    x012024   GC3691    1
+    x012024   GC5097    1
+    x012025   OBJ       0
+    x012025   GC881     1
+    x012025   GC2287    1
+    x012025   GC3693    1
+    x012025   GC5099    1
+    x012026   OBJ       0
+    x012026   GC883     1
+    x012026   GC2289    1
+    x012026   GC3695    1
+    x012026   GC5101    1
+    x012027   OBJ       0
+    x012027   GC885     1
+    x012027   GC2291    1
+    x012027   GC3697    1
+    x012027   GC5103    1
+    x012028   OBJ       0
+    x012028   GC887     1
+    x012028   GC2293    1
+    x012028   GC3699    1
+    x012028   GC5105    1
+    x012029   OBJ       0
+    x012029   GC889     1
+    x012029   GC2295    1
+    x012029   GC3701    1
+    x012029   GC5107    1
+    x012030   OBJ       0
+    x012030   GC891     1
+    x012030   GC2297    1
+    x012030   GC3703    1
+    x012030   GC5109    1
+    x012031   OBJ       0
+    x012031   GC893     1
+    x012031   GC2299    1
+    x012031   GC3705    1
+    x012031   GC5111    1
+    x012032   OBJ       0
+    x012032   GC895     1
+    x012032   GC2301    1
+    x012032   GC3707    1
+    x012032   GC5113    1
+    x012033   OBJ       0
+    x012033   GC897     1
+    x012033   GC2303    1
+    x012033   GC3709    1
+    x012033   GC5115    1
+    x012034   OBJ       0
+    x012034   GC899     1
+    x012034   GC2305    1
+    x012034   GC3711    1
+    x012034   GC5117    1
+    x012035   OBJ       0
+    x012035   GC901     1
+    x012035   GC2307    1
+    x012035   GC3713    1
+    x012035   GC5119    1
+    x012036   OBJ       0
+    x012036   GC903     1
+    x012036   GC2309    1
+    x012036   GC3715    1
+    x012036   GC5121    1
+    x012037   OBJ       0
+    x012037   GC905     1
+    x012037   GC2311    1
+    x012037   GC3717    1
+    x012037   GC5123    1
+    x012038   OBJ       0
+    x012038   GC907     1
+    x012038   GC2313    1
+    x012038   GC3719    1
+    x012038   GC5125    1
+    x013001   OBJ       0
+    x013001   GC175     1
+    x013001   GC1581    1
+    x013001   GC2987    1
+    x013001   GC4393    1
+    x013002   OBJ       0
+    x013002   GC247     1
+    x013002   GC1653    1
+    x013002   GC3059    1
+    x013002   GC4465    1
+    x013003   OBJ       0
+    x013003   GC317     1
+    x013003   GC1723    1
+    x013003   GC3129    1
+    x013003   GC4535    1
+    x013004   OBJ       0
+    x013004   GC385     1
+    x013004   GC1791    1
+    x013004   GC3197    1
+    x013004   GC4603    1
+    x013005   OBJ       0
+    x013005   GC451     1
+    x013005   GC1857    1
+    x013005   GC3263    1
+    x013005   GC4669    1
+    x013006   OBJ       0
+    x013006   GC515     1
+    x013006   GC1921    1
+    x013006   GC3327    1
+    x013006   GC4733    1
+    x013007   OBJ       0
+    x013007   GC577     1
+    x013007   GC1983    1
+    x013007   GC3389    1
+    x013007   GC4795    1
+    x013008   OBJ       0
+    x013008   GC637     1
+    x013008   GC2043    1
+    x013008   GC3449    1
+    x013008   GC4855    1
+    x013009   OBJ       0
+    x013009   GC695     1
+    x013009   GC2101    1
+    x013009   GC3507    1
+    x013009   GC4913    1
+    x013010   OBJ       0
+    x013010   GC751     1
+    x013010   GC2157    1
+    x013010   GC3563    1
+    x013010   GC4969    1
+    x013011   OBJ       0
+    x013011   GC805     1
+    x013011   GC2211    1
+    x013011   GC3617    1
+    x013011   GC5023    1
+    x013012   OBJ       0
+    x013012   GC857     1
+    x013012   GC2263    1
+    x013012   GC3669    1
+    x013012   GC5075    1
+    x013014   OBJ       0
+    x013014   GC909     1
+    x013014   GC2315    1
+    x013014   GC3721    1
+    x013014   GC5127    1
+    x013015   OBJ       0
+    x013015   GC911     1
+    x013015   GC2317    1
+    x013015   GC3723    1
+    x013015   GC5129    1
+    x013016   OBJ       0
+    x013016   GC913     1
+    x013016   GC2319    1
+    x013016   GC3725    1
+    x013016   GC5131    1
+    x013017   OBJ       0
+    x013017   GC915     1
+    x013017   GC2321    1
+    x013017   GC3727    1
+    x013017   GC5133    1
+    x013018   OBJ       0
+    x013018   GC917     1
+    x013018   GC2323    1
+    x013018   GC3729    1
+    x013018   GC5135    1
+    x013019   OBJ       0
+    x013019   GC919     1
+    x013019   GC2325    1
+    x013019   GC3731    1
+    x013019   GC5137    1
+    x013020   OBJ       0
+    x013020   GC921     1
+    x013020   GC2327    1
+    x013020   GC3733    1
+    x013020   GC5139    1
+    x013021   OBJ       0
+    x013021   GC923     1
+    x013021   GC2329    1
+    x013021   GC3735    1
+    x013021   GC5141    1
+    x013022   OBJ       0
+    x013022   GC925     1
+    x013022   GC2331    1
+    x013022   GC3737    1
+    x013022   GC5143    1
+    x013023   OBJ       0
+    x013023   GC927     1
+    x013023   GC2333    1
+    x013023   GC3739    1
+    x013023   GC5145    1
+    x013024   OBJ       0
+    x013024   GC929     1
+    x013024   GC2335    1
+    x013024   GC3741    1
+    x013024   GC5147    1
+    x013025   OBJ       0
+    x013025   GC931     1
+    x013025   GC2337    1
+    x013025   GC3743    1
+    x013025   GC5149    1
+    x013026   OBJ       0
+    x013026   GC933     1
+    x013026   GC2339    1
+    x013026   GC3745    1
+    x013026   GC5151    1
+    x013027   OBJ       0
+    x013027   GC935     1
+    x013027   GC2341    1
+    x013027   GC3747    1
+    x013027   GC5153    1
+    x013028   OBJ       0
+    x013028   GC937     1
+    x013028   GC2343    1
+    x013028   GC3749    1
+    x013028   GC5155    1
+    x013029   OBJ       0
+    x013029   GC939     1
+    x013029   GC2345    1
+    x013029   GC3751    1
+    x013029   GC5157    1
+    x013030   OBJ       0
+    x013030   GC941     1
+    x013030   GC2347    1
+    x013030   GC3753    1
+    x013030   GC5159    1
+    x013031   OBJ       0
+    x013031   GC943     1
+    x013031   GC2349    1
+    x013031   GC3755    1
+    x013031   GC5161    1
+    x013032   OBJ       0
+    x013032   GC945     1
+    x013032   GC2351    1
+    x013032   GC3757    1
+    x013032   GC5163    1
+    x013033   OBJ       0
+    x013033   GC947     1
+    x013033   GC2353    1
+    x013033   GC3759    1
+    x013033   GC5165    1
+    x013034   OBJ       0
+    x013034   GC949     1
+    x013034   GC2355    1
+    x013034   GC3761    1
+    x013034   GC5167    1
+    x013035   OBJ       0
+    x013035   GC951     1
+    x013035   GC2357    1
+    x013035   GC3763    1
+    x013035   GC5169    1
+    x013036   OBJ       0
+    x013036   GC953     1
+    x013036   GC2359    1
+    x013036   GC3765    1
+    x013036   GC5171    1
+    x013037   OBJ       0
+    x013037   GC955     1
+    x013037   GC2361    1
+    x013037   GC3767    1
+    x013037   GC5173    1
+    x013038   OBJ       0
+    x013038   GC957     1
+    x013038   GC2363    1
+    x013038   GC3769    1
+    x013038   GC5175    1
+    x014001   OBJ       0
+    x014001   GC177     1
+    x014001   GC1583    1
+    x014001   GC2989    1
+    x014001   GC4395    1
+    x014002   OBJ       0
+    x014002   GC249     1
+    x014002   GC1655    1
+    x014002   GC3061    1
+    x014002   GC4467    1
+    x014003   OBJ       0
+    x014003   GC319     1
+    x014003   GC1725    1
+    x014003   GC3131    1
+    x014003   GC4537    1
+    x014004   OBJ       0
+    x014004   GC387     1
+    x014004   GC1793    1
+    x014004   GC3199    1
+    x014004   GC4605    1
+    x014005   OBJ       0
+    x014005   GC453     1
+    x014005   GC1859    1
+    x014005   GC3265    1
+    x014005   GC4671    1
+    x014006   OBJ       0
+    x014006   GC517     1
+    x014006   GC1923    1
+    x014006   GC3329    1
+    x014006   GC4735    1
+    x014007   OBJ       0
+    x014007   GC579     1
+    x014007   GC1985    1
+    x014007   GC3391    1
+    x014007   GC4797    1
+    x014008   OBJ       0
+    x014008   GC639     1
+    x014008   GC2045    1
+    x014008   GC3451    1
+    x014008   GC4857    1
+    x014009   OBJ       0
+    x014009   GC697     1
+    x014009   GC2103    1
+    x014009   GC3509    1
+    x014009   GC4915    1
+    x014010   OBJ       0
+    x014010   GC753     1
+    x014010   GC2159    1
+    x014010   GC3565    1
+    x014010   GC4971    1
+    x014011   OBJ       0
+    x014011   GC807     1
+    x014011   GC2213    1
+    x014011   GC3619    1
+    x014011   GC5025    1
+    x014012   OBJ       0
+    x014012   GC859     1
+    x014012   GC2265    1
+    x014012   GC3671    1
+    x014012   GC5077    1
+    x014013   OBJ       0
+    x014013   GC909     1
+    x014013   GC2315    1
+    x014013   GC3721    1
+    x014013   GC5127    1
+    x014015   OBJ       0
+    x014015   GC959     1
+    x014015   GC2365    1
+    x014015   GC3771    1
+    x014015   GC5177    1
+    x014016   OBJ       0
+    x014016   GC961     1
+    x014016   GC2367    1
+    x014016   GC3773    1
+    x014016   GC5179    1
+    x014017   OBJ       0
+    x014017   GC963     1
+    x014017   GC2369    1
+    x014017   GC3775    1
+    x014017   GC5181    1
+    x014018   OBJ       0
+    x014018   GC965     1
+    x014018   GC2371    1
+    x014018   GC3777    1
+    x014018   GC5183    1
+    x014019   OBJ       0
+    x014019   GC967     1
+    x014019   GC2373    1
+    x014019   GC3779    1
+    x014019   GC5185    1
+    x014020   OBJ       0
+    x014020   GC969     1
+    x014020   GC2375    1
+    x014020   GC3781    1
+    x014020   GC5187    1
+    x014021   OBJ       0
+    x014021   GC971     1
+    x014021   GC2377    1
+    x014021   GC3783    1
+    x014021   GC5189    1
+    x014022   OBJ       0
+    x014022   GC973     1
+    x014022   GC2379    1
+    x014022   GC3785    1
+    x014022   GC5191    1
+    x014023   OBJ       0
+    x014023   GC975     1
+    x014023   GC2381    1
+    x014023   GC3787    1
+    x014023   GC5193    1
+    x014024   OBJ       0
+    x014024   GC977     1
+    x014024   GC2383    1
+    x014024   GC3789    1
+    x014024   GC5195    1
+    x014025   OBJ       0
+    x014025   GC979     1
+    x014025   GC2385    1
+    x014025   GC3791    1
+    x014025   GC5197    1
+    x014026   OBJ       0
+    x014026   GC981     1
+    x014026   GC2387    1
+    x014026   GC3793    1
+    x014026   GC5199    1
+    x014027   OBJ       0
+    x014027   GC983     1
+    x014027   GC2389    1
+    x014027   GC3795    1
+    x014027   GC5201    1
+    x014028   OBJ       0
+    x014028   GC985     1
+    x014028   GC2391    1
+    x014028   GC3797    1
+    x014028   GC5203    1
+    x014029   OBJ       0
+    x014029   GC987     1
+    x014029   GC2393    1
+    x014029   GC3799    1
+    x014029   GC5205    1
+    x014030   OBJ       0
+    x014030   GC989     1
+    x014030   GC2395    1
+    x014030   GC3801    1
+    x014030   GC5207    1
+    x014031   OBJ       0
+    x014031   GC991     1
+    x014031   GC2397    1
+    x014031   GC3803    1
+    x014031   GC5209    1
+    x014032   OBJ       0
+    x014032   GC993     1
+    x014032   GC2399    1
+    x014032   GC3805    1
+    x014032   GC5211    1
+    x014033   OBJ       0
+    x014033   GC995     1
+    x014033   GC2401    1
+    x014033   GC3807    1
+    x014033   GC5213    1
+    x014034   OBJ       0
+    x014034   GC997     1
+    x014034   GC2403    1
+    x014034   GC3809    1
+    x014034   GC5215    1
+    x014035   OBJ       0
+    x014035   GC999     1
+    x014035   GC2405    1
+    x014035   GC3811    1
+    x014035   GC5217    1
+    x014036   OBJ       0
+    x014036   GC1001    1
+    x014036   GC2407    1
+    x014036   GC3813    1
+    x014036   GC5219    1
+    x014037   OBJ       0
+    x014037   GC1003    1
+    x014037   GC2409    1
+    x014037   GC3815    1
+    x014037   GC5221    1
+    x014038   OBJ       0
+    x014038   GC1005    1
+    x014038   GC2411    1
+    x014038   GC3817    1
+    x014038   GC5223    1
+    x015001   OBJ       0
+    x015001   GC179     1
+    x015001   GC1585    1
+    x015001   GC2991    1
+    x015001   GC4397    1
+    x015002   OBJ       0
+    x015002   GC251     1
+    x015002   GC1657    1
+    x015002   GC3063    1
+    x015002   GC4469    1
+    x015003   OBJ       0
+    x015003   GC321     1
+    x015003   GC1727    1
+    x015003   GC3133    1
+    x015003   GC4539    1
+    x015004   OBJ       0
+    x015004   GC389     1
+    x015004   GC1795    1
+    x015004   GC3201    1
+    x015004   GC4607    1
+    x015005   OBJ       0
+    x015005   GC455     1
+    x015005   GC1861    1
+    x015005   GC3267    1
+    x015005   GC4673    1
+    x015006   OBJ       0
+    x015006   GC519     1
+    x015006   GC1925    1
+    x015006   GC3331    1
+    x015006   GC4737    1
+    x015007   OBJ       0
+    x015007   GC581     1
+    x015007   GC1987    1
+    x015007   GC3393    1
+    x015007   GC4799    1
+    x015008   OBJ       0
+    x015008   GC641     1
+    x015008   GC2047    1
+    x015008   GC3453    1
+    x015008   GC4859    1
+    x015009   OBJ       0
+    x015009   GC699     1
+    x015009   GC2105    1
+    x015009   GC3511    1
+    x015009   GC4917    1
+    x015010   OBJ       0
+    x015010   GC755     1
+    x015010   GC2161    1
+    x015010   GC3567    1
+    x015010   GC4973    1
+    x015011   OBJ       0
+    x015011   GC809     1
+    x015011   GC2215    1
+    x015011   GC3621    1
+    x015011   GC5027    1
+    x015012   OBJ       0
+    x015012   GC861     1
+    x015012   GC2267    1
+    x015012   GC3673    1
+    x015012   GC5079    1
+    x015013   OBJ       0
+    x015013   GC911     1
+    x015013   GC2317    1
+    x015013   GC3723    1
+    x015013   GC5129    1
+    x015014   OBJ       0
+    x015014   GC959     1
+    x015014   GC2365    1
+    x015014   GC3771    1
+    x015014   GC5177    1
+    x015016   OBJ       0
+    x015016   GC1007    1
+    x015016   GC2413    1
+    x015016   GC3819    1
+    x015016   GC5225    1
+    x015017   OBJ       0
+    x015017   GC1009    1
+    x015017   GC2415    1
+    x015017   GC3821    1
+    x015017   GC5227    1
+    x015018   OBJ       0
+    x015018   GC1011    1
+    x015018   GC2417    1
+    x015018   GC3823    1
+    x015018   GC5229    1
+    x015019   OBJ       0
+    x015019   GC1013    1
+    x015019   GC2419    1
+    x015019   GC3825    1
+    x015019   GC5231    1
+    x015020   OBJ       0
+    x015020   GC1015    1
+    x015020   GC2421    1
+    x015020   GC3827    1
+    x015020   GC5233    1
+    x015021   OBJ       0
+    x015021   GC1017    1
+    x015021   GC2423    1
+    x015021   GC3829    1
+    x015021   GC5235    1
+    x015022   OBJ       0
+    x015022   GC1019    1
+    x015022   GC2425    1
+    x015022   GC3831    1
+    x015022   GC5237    1
+    x015023   OBJ       0
+    x015023   GC1021    1
+    x015023   GC2427    1
+    x015023   GC3833    1
+    x015023   GC5239    1
+    x015024   OBJ       0
+    x015024   GC1023    1
+    x015024   GC2429    1
+    x015024   GC3835    1
+    x015024   GC5241    1
+    x015025   OBJ       0
+    x015025   GC1025    1
+    x015025   GC2431    1
+    x015025   GC3837    1
+    x015025   GC5243    1
+    x015026   OBJ       0
+    x015026   GC1027    1
+    x015026   GC2433    1
+    x015026   GC3839    1
+    x015026   GC5245    1
+    x015027   OBJ       0
+    x015027   GC1029    1
+    x015027   GC2435    1
+    x015027   GC3841    1
+    x015027   GC5247    1
+    x015028   OBJ       0
+    x015028   GC1031    1
+    x015028   GC2437    1
+    x015028   GC3843    1
+    x015028   GC5249    1
+    x015029   OBJ       0
+    x015029   GC1033    1
+    x015029   GC2439    1
+    x015029   GC3845    1
+    x015029   GC5251    1
+    x015030   OBJ       0
+    x015030   GC1035    1
+    x015030   GC2441    1
+    x015030   GC3847    1
+    x015030   GC5253    1
+    x015031   OBJ       0
+    x015031   GC1037    1
+    x015031   GC2443    1
+    x015031   GC3849    1
+    x015031   GC5255    1
+    x015032   OBJ       0
+    x015032   GC1039    1
+    x015032   GC2445    1
+    x015032   GC3851    1
+    x015032   GC5257    1
+    x015033   OBJ       0
+    x015033   GC1041    1
+    x015033   GC2447    1
+    x015033   GC3853    1
+    x015033   GC5259    1
+    x015034   OBJ       0
+    x015034   GC1043    1
+    x015034   GC2449    1
+    x015034   GC3855    1
+    x015034   GC5261    1
+    x015035   OBJ       0
+    x015035   GC1045    1
+    x015035   GC2451    1
+    x015035   GC3857    1
+    x015035   GC5263    1
+    x015036   OBJ       0
+    x015036   GC1047    1
+    x015036   GC2453    1
+    x015036   GC3859    1
+    x015036   GC5265    1
+    x015037   OBJ       0
+    x015037   GC1049    1
+    x015037   GC2455    1
+    x015037   GC3861    1
+    x015037   GC5267    1
+    x015038   OBJ       0
+    x015038   GC1051    1
+    x015038   GC2457    1
+    x015038   GC3863    1
+    x015038   GC5269    1
+    x016001   OBJ       0
+    x016001   GC181     1
+    x016001   GC1587    1
+    x016001   GC2993    1
+    x016001   GC4399    1
+    x016002   OBJ       0
+    x016002   GC253     1
+    x016002   GC1659    1
+    x016002   GC3065    1
+    x016002   GC4471    1
+    x016003   OBJ       0
+    x016003   GC323     1
+    x016003   GC1729    1
+    x016003   GC3135    1
+    x016003   GC4541    1
+    x016004   OBJ       0
+    x016004   GC391     1
+    x016004   GC1797    1
+    x016004   GC3203    1
+    x016004   GC4609    1
+    x016005   OBJ       0
+    x016005   GC457     1
+    x016005   GC1863    1
+    x016005   GC3269    1
+    x016005   GC4675    1
+    x016006   OBJ       0
+    x016006   GC521     1
+    x016006   GC1927    1
+    x016006   GC3333    1
+    x016006   GC4739    1
+    x016007   OBJ       0
+    x016007   GC583     1
+    x016007   GC1989    1
+    x016007   GC3395    1
+    x016007   GC4801    1
+    x016008   OBJ       0
+    x016008   GC643     1
+    x016008   GC2049    1
+    x016008   GC3455    1
+    x016008   GC4861    1
+    x016009   OBJ       0
+    x016009   GC701     1
+    x016009   GC2107    1
+    x016009   GC3513    1
+    x016009   GC4919    1
+    x016010   OBJ       0
+    x016010   GC757     1
+    x016010   GC2163    1
+    x016010   GC3569    1
+    x016010   GC4975    1
+    x016011   OBJ       0
+    x016011   GC811     1
+    x016011   GC2217    1
+    x016011   GC3623    1
+    x016011   GC5029    1
+    x016012   OBJ       0
+    x016012   GC863     1
+    x016012   GC2269    1
+    x016012   GC3675    1
+    x016012   GC5081    1
+    x016013   OBJ       0
+    x016013   GC913     1
+    x016013   GC2319    1
+    x016013   GC3725    1
+    x016013   GC5131    1
+    x016014   OBJ       0
+    x016014   GC961     1
+    x016014   GC2367    1
+    x016014   GC3773    1
+    x016014   GC5179    1
+    x016015   OBJ       0
+    x016015   GC1007    1
+    x016015   GC2413    1
+    x016015   GC3819    1
+    x016015   GC5225    1
+    x016017   OBJ       0
+    x016017   GC1053    1
+    x016017   GC2459    1
+    x016017   GC3865    1
+    x016017   GC5271    1
+    x016018   OBJ       0
+    x016018   GC1055    1
+    x016018   GC2461    1
+    x016018   GC3867    1
+    x016018   GC5273    1
+    x016019   OBJ       0
+    x016019   GC1057    1
+    x016019   GC2463    1
+    x016019   GC3869    1
+    x016019   GC5275    1
+    x016020   OBJ       0
+    x016020   GC1059    1
+    x016020   GC2465    1
+    x016020   GC3871    1
+    x016020   GC5277    1
+    x016021   OBJ       0
+    x016021   GC1061    1
+    x016021   GC2467    1
+    x016021   GC3873    1
+    x016021   GC5279    1
+    x016022   OBJ       0
+    x016022   GC1063    1
+    x016022   GC2469    1
+    x016022   GC3875    1
+    x016022   GC5281    1
+    x016023   OBJ       0
+    x016023   GC1065    1
+    x016023   GC2471    1
+    x016023   GC3877    1
+    x016023   GC5283    1
+    x016024   OBJ       0
+    x016024   GC1067    1
+    x016024   GC2473    1
+    x016024   GC3879    1
+    x016024   GC5285    1
+    x016025   OBJ       0
+    x016025   GC1069    1
+    x016025   GC2475    1
+    x016025   GC3881    1
+    x016025   GC5287    1
+    x016026   OBJ       0
+    x016026   GC1071    1
+    x016026   GC2477    1
+    x016026   GC3883    1
+    x016026   GC5289    1
+    x016027   OBJ       0
+    x016027   GC1073    1
+    x016027   GC2479    1
+    x016027   GC3885    1
+    x016027   GC5291    1
+    x016028   OBJ       0
+    x016028   GC1075    1
+    x016028   GC2481    1
+    x016028   GC3887    1
+    x016028   GC5293    1
+    x016029   OBJ       0
+    x016029   GC1077    1
+    x016029   GC2483    1
+    x016029   GC3889    1
+    x016029   GC5295    1
+    x016030   OBJ       0
+    x016030   GC1079    1
+    x016030   GC2485    1
+    x016030   GC3891    1
+    x016030   GC5297    1
+    x016031   OBJ       0
+    x016031   GC1081    1
+    x016031   GC2487    1
+    x016031   GC3893    1
+    x016031   GC5299    1
+    x016032   OBJ       0
+    x016032   GC1083    1
+    x016032   GC2489    1
+    x016032   GC3895    1
+    x016032   GC5301    1
+    x016033   OBJ       0
+    x016033   GC1085    1
+    x016033   GC2491    1
+    x016033   GC3897    1
+    x016033   GC5303    1
+    x016034   OBJ       0
+    x016034   GC1087    1
+    x016034   GC2493    1
+    x016034   GC3899    1
+    x016034   GC5305    1
+    x016035   OBJ       0
+    x016035   GC1089    1
+    x016035   GC2495    1
+    x016035   GC3901    1
+    x016035   GC5307    1
+    x016036   OBJ       0
+    x016036   GC1091    1
+    x016036   GC2497    1
+    x016036   GC3903    1
+    x016036   GC5309    1
+    x016037   OBJ       0
+    x016037   GC1093    1
+    x016037   GC2499    1
+    x016037   GC3905    1
+    x016037   GC5311    1
+    x016038   OBJ       0
+    x016038   GC1095    1
+    x016038   GC2501    1
+    x016038   GC3907    1
+    x016038   GC5313    1
+    x017001   OBJ       0
+    x017001   GC183     1
+    x017001   GC1589    1
+    x017001   GC2995    1
+    x017001   GC4401    1
+    x017002   OBJ       0
+    x017002   GC255     1
+    x017002   GC1661    1
+    x017002   GC3067    1
+    x017002   GC4473    1
+    x017003   OBJ       0
+    x017003   GC325     1
+    x017003   GC1731    1
+    x017003   GC3137    1
+    x017003   GC4543    1
+    x017004   OBJ       0
+    x017004   GC393     1
+    x017004   GC1799    1
+    x017004   GC3205    1
+    x017004   GC4611    1
+    x017005   OBJ       0
+    x017005   GC459     1
+    x017005   GC1865    1
+    x017005   GC3271    1
+    x017005   GC4677    1
+    x017006   OBJ       0
+    x017006   GC523     1
+    x017006   GC1929    1
+    x017006   GC3335    1
+    x017006   GC4741    1
+    x017007   OBJ       0
+    x017007   GC585     1
+    x017007   GC1991    1
+    x017007   GC3397    1
+    x017007   GC4803    1
+    x017008   OBJ       0
+    x017008   GC645     1
+    x017008   GC2051    1
+    x017008   GC3457    1
+    x017008   GC4863    1
+    x017009   OBJ       0
+    x017009   GC703     1
+    x017009   GC2109    1
+    x017009   GC3515    1
+    x017009   GC4921    1
+    x017010   OBJ       0
+    x017010   GC759     1
+    x017010   GC2165    1
+    x017010   GC3571    1
+    x017010   GC4977    1
+    x017011   OBJ       0
+    x017011   GC813     1
+    x017011   GC2219    1
+    x017011   GC3625    1
+    x017011   GC5031    1
+    x017012   OBJ       0
+    x017012   GC865     1
+    x017012   GC2271    1
+    x017012   GC3677    1
+    x017012   GC5083    1
+    x017013   OBJ       0
+    x017013   GC915     1
+    x017013   GC2321    1
+    x017013   GC3727    1
+    x017013   GC5133    1
+    x017014   OBJ       0
+    x017014   GC963     1
+    x017014   GC2369    1
+    x017014   GC3775    1
+    x017014   GC5181    1
+    x017015   OBJ       0
+    x017015   GC1009    1
+    x017015   GC2415    1
+    x017015   GC3821    1
+    x017015   GC5227    1
+    x017016   OBJ       0
+    x017016   GC1053    1
+    x017016   GC2459    1
+    x017016   GC3865    1
+    x017016   GC5271    1
+    x017018   OBJ       0
+    x017018   GC1097    1
+    x017018   GC2503    1
+    x017018   GC3909    1
+    x017018   GC5315    1
+    x017019   OBJ       0
+    x017019   GC1099    1
+    x017019   GC2505    1
+    x017019   GC3911    1
+    x017019   GC5317    1
+    x017020   OBJ       0
+    x017020   GC1101    1
+    x017020   GC2507    1
+    x017020   GC3913    1
+    x017020   GC5319    1
+    x017021   OBJ       0
+    x017021   GC1103    1
+    x017021   GC2509    1
+    x017021   GC3915    1
+    x017021   GC5321    1
+    x017022   OBJ       0
+    x017022   GC1105    1
+    x017022   GC2511    1
+    x017022   GC3917    1
+    x017022   GC5323    1
+    x017023   OBJ       0
+    x017023   GC1107    1
+    x017023   GC2513    1
+    x017023   GC3919    1
+    x017023   GC5325    1
+    x017024   OBJ       0
+    x017024   GC1109    1
+    x017024   GC2515    1
+    x017024   GC3921    1
+    x017024   GC5327    1
+    x017025   OBJ       0
+    x017025   GC1111    1
+    x017025   GC2517    1
+    x017025   GC3923    1
+    x017025   GC5329    1
+    x017026   OBJ       0
+    x017026   GC1113    1
+    x017026   GC2519    1
+    x017026   GC3925    1
+    x017026   GC5331    1
+    x017027   OBJ       0
+    x017027   GC1115    1
+    x017027   GC2521    1
+    x017027   GC3927    1
+    x017027   GC5333    1
+    x017028   OBJ       0
+    x017028   GC1117    1
+    x017028   GC2523    1
+    x017028   GC3929    1
+    x017028   GC5335    1
+    x017029   OBJ       0
+    x017029   GC1119    1
+    x017029   GC2525    1
+    x017029   GC3931    1
+    x017029   GC5337    1
+    x017030   OBJ       0
+    x017030   GC1121    1
+    x017030   GC2527    1
+    x017030   GC3933    1
+    x017030   GC5339    1
+    x017031   OBJ       0
+    x017031   GC1123    1
+    x017031   GC2529    1
+    x017031   GC3935    1
+    x017031   GC5341    1
+    x017032   OBJ       0
+    x017032   GC1125    1
+    x017032   GC2531    1
+    x017032   GC3937    1
+    x017032   GC5343    1
+    x017033   OBJ       0
+    x017033   GC1127    1
+    x017033   GC2533    1
+    x017033   GC3939    1
+    x017033   GC5345    1
+    x017034   OBJ       0
+    x017034   GC1129    1
+    x017034   GC2535    1
+    x017034   GC3941    1
+    x017034   GC5347    1
+    x017035   OBJ       0
+    x017035   GC1131    1
+    x017035   GC2537    1
+    x017035   GC3943    1
+    x017035   GC5349    1
+    x017036   OBJ       0
+    x017036   GC1133    1
+    x017036   GC2539    1
+    x017036   GC3945    1
+    x017036   GC5351    1
+    x017037   OBJ       0
+    x017037   GC1135    1
+    x017037   GC2541    1
+    x017037   GC3947    1
+    x017037   GC5353    1
+    x017038   OBJ       0
+    x017038   GC1137    1
+    x017038   GC2543    1
+    x017038   GC3949    1
+    x017038   GC5355    1
+    x018001   OBJ       0
+    x018001   GC185     1
+    x018001   GC1591    1
+    x018001   GC2997    1
+    x018001   GC4403    1
+    x018002   OBJ       0
+    x018002   GC257     1
+    x018002   GC1663    1
+    x018002   GC3069    1
+    x018002   GC4475    1
+    x018003   OBJ       0
+    x018003   GC327     1
+    x018003   GC1733    1
+    x018003   GC3139    1
+    x018003   GC4545    1
+    x018004   OBJ       0
+    x018004   GC395     1
+    x018004   GC1801    1
+    x018004   GC3207    1
+    x018004   GC4613    1
+    x018005   OBJ       0
+    x018005   GC461     1
+    x018005   GC1867    1
+    x018005   GC3273    1
+    x018005   GC4679    1
+    x018006   OBJ       0
+    x018006   GC525     1
+    x018006   GC1931    1
+    x018006   GC3337    1
+    x018006   GC4743    1
+    x018007   OBJ       0
+    x018007   GC587     1
+    x018007   GC1993    1
+    x018007   GC3399    1
+    x018007   GC4805    1
+    x018008   OBJ       0
+    x018008   GC647     1
+    x018008   GC2053    1
+    x018008   GC3459    1
+    x018008   GC4865    1
+    x018009   OBJ       0
+    x018009   GC705     1
+    x018009   GC2111    1
+    x018009   GC3517    1
+    x018009   GC4923    1
+    x018010   OBJ       0
+    x018010   GC761     1
+    x018010   GC2167    1
+    x018010   GC3573    1
+    x018010   GC4979    1
+    x018011   OBJ       0
+    x018011   GC815     1
+    x018011   GC2221    1
+    x018011   GC3627    1
+    x018011   GC5033    1
+    x018012   OBJ       0
+    x018012   GC867     1
+    x018012   GC2273    1
+    x018012   GC3679    1
+    x018012   GC5085    1
+    x018013   OBJ       0
+    x018013   GC917     1
+    x018013   GC2323    1
+    x018013   GC3729    1
+    x018013   GC5135    1
+    x018014   OBJ       0
+    x018014   GC965     1
+    x018014   GC2371    1
+    x018014   GC3777    1
+    x018014   GC5183    1
+    x018015   OBJ       0
+    x018015   GC1011    1
+    x018015   GC2417    1
+    x018015   GC3823    1
+    x018015   GC5229    1
+    x018016   OBJ       0
+    x018016   GC1055    1
+    x018016   GC2461    1
+    x018016   GC3867    1
+    x018016   GC5273    1
+    x018017   OBJ       0
+    x018017   GC1097    1
+    x018017   GC2503    1
+    x018017   GC3909    1
+    x018017   GC5315    1
+    x018019   OBJ       0
+    x018019   GC1139    1
+    x018019   GC2545    1
+    x018019   GC3951    1
+    x018019   GC5357    1
+    x018020   OBJ       0
+    x018020   GC1141    1
+    x018020   GC2547    1
+    x018020   GC3953    1
+    x018020   GC5359    1
+    x018021   OBJ       0
+    x018021   GC1143    1
+    x018021   GC2549    1
+    x018021   GC3955    1
+    x018021   GC5361    1
+    x018022   OBJ       0
+    x018022   GC1145    1
+    x018022   GC2551    1
+    x018022   GC3957    1
+    x018022   GC5363    1
+    x018023   OBJ       0
+    x018023   GC1147    1
+    x018023   GC2553    1
+    x018023   GC3959    1
+    x018023   GC5365    1
+    x018024   OBJ       0
+    x018024   GC1149    1
+    x018024   GC2555    1
+    x018024   GC3961    1
+    x018024   GC5367    1
+    x018025   OBJ       0
+    x018025   GC1151    1
+    x018025   GC2557    1
+    x018025   GC3963    1
+    x018025   GC5369    1
+    x018026   OBJ       0
+    x018026   GC1153    1
+    x018026   GC2559    1
+    x018026   GC3965    1
+    x018026   GC5371    1
+    x018027   OBJ       0
+    x018027   GC1155    1
+    x018027   GC2561    1
+    x018027   GC3967    1
+    x018027   GC5373    1
+    x018028   OBJ       0
+    x018028   GC1157    1
+    x018028   GC2563    1
+    x018028   GC3969    1
+    x018028   GC5375    1
+    x018029   OBJ       0
+    x018029   GC1159    1
+    x018029   GC2565    1
+    x018029   GC3971    1
+    x018029   GC5377    1
+    x018030   OBJ       0
+    x018030   GC1161    1
+    x018030   GC2567    1
+    x018030   GC3973    1
+    x018030   GC5379    1
+    x018031   OBJ       0
+    x018031   GC1163    1
+    x018031   GC2569    1
+    x018031   GC3975    1
+    x018031   GC5381    1
+    x018032   OBJ       0
+    x018032   GC1165    1
+    x018032   GC2571    1
+    x018032   GC3977    1
+    x018032   GC5383    1
+    x018033   OBJ       0
+    x018033   GC1167    1
+    x018033   GC2573    1
+    x018033   GC3979    1
+    x018033   GC5385    1
+    x018034   OBJ       0
+    x018034   GC1169    1
+    x018034   GC2575    1
+    x018034   GC3981    1
+    x018034   GC5387    1
+    x018035   OBJ       0
+    x018035   GC1171    1
+    x018035   GC2577    1
+    x018035   GC3983    1
+    x018035   GC5389    1
+    x018036   OBJ       0
+    x018036   GC1173    1
+    x018036   GC2579    1
+    x018036   GC3985    1
+    x018036   GC5391    1
+    x018037   OBJ       0
+    x018037   GC1175    1
+    x018037   GC2581    1
+    x018037   GC3987    1
+    x018037   GC5393    1
+    x018038   OBJ       0
+    x018038   GC1177    1
+    x018038   GC2583    1
+    x018038   GC3989    1
+    x018038   GC5395    1
+    x019001   OBJ       0
+    x019001   GC187     1
+    x019001   GC1593    1
+    x019001   GC2999    1
+    x019001   GC4405    1
+    x019002   OBJ       0
+    x019002   GC259     1
+    x019002   GC1665    1
+    x019002   GC3071    1
+    x019002   GC4477    1
+    x019003   OBJ       0
+    x019003   GC329     1
+    x019003   GC1735    1
+    x019003   GC3141    1
+    x019003   GC4547    1
+    x019004   OBJ       0
+    x019004   GC397     1
+    x019004   GC1803    1
+    x019004   GC3209    1
+    x019004   GC4615    1
+    x019005   OBJ       0
+    x019005   GC463     1
+    x019005   GC1869    1
+    x019005   GC3275    1
+    x019005   GC4681    1
+    x019006   OBJ       0
+    x019006   GC527     1
+    x019006   GC1933    1
+    x019006   GC3339    1
+    x019006   GC4745    1
+    x019007   OBJ       0
+    x019007   GC589     1
+    x019007   GC1995    1
+    x019007   GC3401    1
+    x019007   GC4807    1
+    x019008   OBJ       0
+    x019008   GC649     1
+    x019008   GC2055    1
+    x019008   GC3461    1
+    x019008   GC4867    1
+    x019009   OBJ       0
+    x019009   GC707     1
+    x019009   GC2113    1
+    x019009   GC3519    1
+    x019009   GC4925    1
+    x019010   OBJ       0
+    x019010   GC763     1
+    x019010   GC2169    1
+    x019010   GC3575    1
+    x019010   GC4981    1
+    x019011   OBJ       0
+    x019011   GC817     1
+    x019011   GC2223    1
+    x019011   GC3629    1
+    x019011   GC5035    1
+    x019012   OBJ       0
+    x019012   GC869     1
+    x019012   GC2275    1
+    x019012   GC3681    1
+    x019012   GC5087    1
+    x019013   OBJ       0
+    x019013   GC919     1
+    x019013   GC2325    1
+    x019013   GC3731    1
+    x019013   GC5137    1
+    x019014   OBJ       0
+    x019014   GC967     1
+    x019014   GC2373    1
+    x019014   GC3779    1
+    x019014   GC5185    1
+    x019015   OBJ       0
+    x019015   GC1013    1
+    x019015   GC2419    1
+    x019015   GC3825    1
+    x019015   GC5231    1
+    x019016   OBJ       0
+    x019016   GC1057    1
+    x019016   GC2463    1
+    x019016   GC3869    1
+    x019016   GC5275    1
+    x019017   OBJ       0
+    x019017   GC1099    1
+    x019017   GC2505    1
+    x019017   GC3911    1
+    x019017   GC5317    1
+    x019018   OBJ       0
+    x019018   GC1139    1
+    x019018   GC2545    1
+    x019018   GC3951    1
+    x019018   GC5357    1
+    x019020   OBJ       0
+    x019020   GC1179    1
+    x019020   GC2585    1
+    x019020   GC3991    1
+    x019020   GC5397    1
+    x019021   OBJ       0
+    x019021   GC1181    1
+    x019021   GC2587    1
+    x019021   GC3993    1
+    x019021   GC5399    1
+    x019022   OBJ       0
+    x019022   GC1183    1
+    x019022   GC2589    1
+    x019022   GC3995    1
+    x019022   GC5401    1
+    x019023   OBJ       0
+    x019023   GC1185    1
+    x019023   GC2591    1
+    x019023   GC3997    1
+    x019023   GC5403    1
+    x019024   OBJ       0
+    x019024   GC1187    1
+    x019024   GC2593    1
+    x019024   GC3999    1
+    x019024   GC5405    1
+    x019025   OBJ       0
+    x019025   GC1189    1
+    x019025   GC2595    1
+    x019025   GC4001    1
+    x019025   GC5407    1
+    x019026   OBJ       0
+    x019026   GC1191    1
+    x019026   GC2597    1
+    x019026   GC4003    1
+    x019026   GC5409    1
+    x019027   OBJ       0
+    x019027   GC1193    1
+    x019027   GC2599    1
+    x019027   GC4005    1
+    x019027   GC5411    1
+    x019028   OBJ       0
+    x019028   GC1195    1
+    x019028   GC2601    1
+    x019028   GC4007    1
+    x019028   GC5413    1
+    x019029   OBJ       0
+    x019029   GC1197    1
+    x019029   GC2603    1
+    x019029   GC4009    1
+    x019029   GC5415    1
+    x019030   OBJ       0
+    x019030   GC1199    1
+    x019030   GC2605    1
+    x019030   GC4011    1
+    x019030   GC5417    1
+    x019031   OBJ       0
+    x019031   GC1201    1
+    x019031   GC2607    1
+    x019031   GC4013    1
+    x019031   GC5419    1
+    x019032   OBJ       0
+    x019032   GC1203    1
+    x019032   GC2609    1
+    x019032   GC4015    1
+    x019032   GC5421    1
+    x019033   OBJ       0
+    x019033   GC1205    1
+    x019033   GC2611    1
+    x019033   GC4017    1
+    x019033   GC5423    1
+    x019034   OBJ       0
+    x019034   GC1207    1
+    x019034   GC2613    1
+    x019034   GC4019    1
+    x019034   GC5425    1
+    x019035   OBJ       0
+    x019035   GC1209    1
+    x019035   GC2615    1
+    x019035   GC4021    1
+    x019035   GC5427    1
+    x019036   OBJ       0
+    x019036   GC1211    1
+    x019036   GC2617    1
+    x019036   GC4023    1
+    x019036   GC5429    1
+    x019037   OBJ       0
+    x019037   GC1213    1
+    x019037   GC2619    1
+    x019037   GC4025    1
+    x019037   GC5431    1
+    x019038   OBJ       0
+    x019038   GC1215    1
+    x019038   GC2621    1
+    x019038   GC4027    1
+    x019038   GC5433    1
+    x020001   OBJ       0
+    x020001   GC189     1
+    x020001   GC1595    1
+    x020001   GC3001    1
+    x020001   GC4407    1
+    x020002   OBJ       0
+    x020002   GC261     1
+    x020002   GC1667    1
+    x020002   GC3073    1
+    x020002   GC4479    1
+    x020003   OBJ       0
+    x020003   GC331     1
+    x020003   GC1737    1
+    x020003   GC3143    1
+    x020003   GC4549    1
+    x020004   OBJ       0
+    x020004   GC399     1
+    x020004   GC1805    1
+    x020004   GC3211    1
+    x020004   GC4617    1
+    x020005   OBJ       0
+    x020005   GC465     1
+    x020005   GC1871    1
+    x020005   GC3277    1
+    x020005   GC4683    1
+    x020006   OBJ       0
+    x020006   GC529     1
+    x020006   GC1935    1
+    x020006   GC3341    1
+    x020006   GC4747    1
+    x020007   OBJ       0
+    x020007   GC591     1
+    x020007   GC1997    1
+    x020007   GC3403    1
+    x020007   GC4809    1
+    x020008   OBJ       0
+    x020008   GC651     1
+    x020008   GC2057    1
+    x020008   GC3463    1
+    x020008   GC4869    1
+    x020009   OBJ       0
+    x020009   GC709     1
+    x020009   GC2115    1
+    x020009   GC3521    1
+    x020009   GC4927    1
+    x020010   OBJ       0
+    x020010   GC765     1
+    x020010   GC2171    1
+    x020010   GC3577    1
+    x020010   GC4983    1
+    x020011   OBJ       0
+    x020011   GC819     1
+    x020011   GC2225    1
+    x020011   GC3631    1
+    x020011   GC5037    1
+    x020012   OBJ       0
+    x020012   GC871     1
+    x020012   GC2277    1
+    x020012   GC3683    1
+    x020012   GC5089    1
+    x020013   OBJ       0
+    x020013   GC921     1
+    x020013   GC2327    1
+    x020013   GC3733    1
+    x020013   GC5139    1
+    x020014   OBJ       0
+    x020014   GC969     1
+    x020014   GC2375    1
+    x020014   GC3781    1
+    x020014   GC5187    1
+    x020015   OBJ       0
+    x020015   GC1015    1
+    x020015   GC2421    1
+    x020015   GC3827    1
+    x020015   GC5233    1
+    x020016   OBJ       0
+    x020016   GC1059    1
+    x020016   GC2465    1
+    x020016   GC3871    1
+    x020016   GC5277    1
+    x020017   OBJ       0
+    x020017   GC1101    1
+    x020017   GC2507    1
+    x020017   GC3913    1
+    x020017   GC5319    1
+    x020018   OBJ       0
+    x020018   GC1141    1
+    x020018   GC2547    1
+    x020018   GC3953    1
+    x020018   GC5359    1
+    x020019   OBJ       0
+    x020019   GC1179    1
+    x020019   GC2585    1
+    x020019   GC3991    1
+    x020019   GC5397    1
+    x020021   OBJ       0
+    x020021   GC1217    1
+    x020021   GC2623    1
+    x020021   GC4029    1
+    x020021   GC5435    1
+    x020022   OBJ       0
+    x020022   GC1219    1
+    x020022   GC2625    1
+    x020022   GC4031    1
+    x020022   GC5437    1
+    x020023   OBJ       0
+    x020023   GC1221    1
+    x020023   GC2627    1
+    x020023   GC4033    1
+    x020023   GC5439    1
+    x020024   OBJ       0
+    x020024   GC1223    1
+    x020024   GC2629    1
+    x020024   GC4035    1
+    x020024   GC5441    1
+    x020025   OBJ       0
+    x020025   GC1225    1
+    x020025   GC2631    1
+    x020025   GC4037    1
+    x020025   GC5443    1
+    x020026   OBJ       0
+    x020026   GC1227    1
+    x020026   GC2633    1
+    x020026   GC4039    1
+    x020026   GC5445    1
+    x020027   OBJ       0
+    x020027   GC1229    1
+    x020027   GC2635    1
+    x020027   GC4041    1
+    x020027   GC5447    1
+    x020028   OBJ       0
+    x020028   GC1231    1
+    x020028   GC2637    1
+    x020028   GC4043    1
+    x020028   GC5449    1
+    x020029   OBJ       0
+    x020029   GC1233    1
+    x020029   GC2639    1
+    x020029   GC4045    1
+    x020029   GC5451    1
+    x020030   OBJ       0
+    x020030   GC1235    1
+    x020030   GC2641    1
+    x020030   GC4047    1
+    x020030   GC5453    1
+    x020031   OBJ       0
+    x020031   GC1237    1
+    x020031   GC2643    1
+    x020031   GC4049    1
+    x020031   GC5455    1
+    x020032   OBJ       0
+    x020032   GC1239    1
+    x020032   GC2645    1
+    x020032   GC4051    1
+    x020032   GC5457    1
+    x020033   OBJ       0
+    x020033   GC1241    1
+    x020033   GC2647    1
+    x020033   GC4053    1
+    x020033   GC5459    1
+    x020034   OBJ       0
+    x020034   GC1243    1
+    x020034   GC2649    1
+    x020034   GC4055    1
+    x020034   GC5461    1
+    x020035   OBJ       0
+    x020035   GC1245    1
+    x020035   GC2651    1
+    x020035   GC4057    1
+    x020035   GC5463    1
+    x020036   OBJ       0
+    x020036   GC1247    1
+    x020036   GC2653    1
+    x020036   GC4059    1
+    x020036   GC5465    1
+    x020037   OBJ       0
+    x020037   GC1249    1
+    x020037   GC2655    1
+    x020037   GC4061    1
+    x020037   GC5467    1
+    x020038   OBJ       0
+    x020038   GC1251    1
+    x020038   GC2657    1
+    x020038   GC4063    1
+    x020038   GC5469    1
+    x021001   OBJ       0
+    x021001   GC191     1
+    x021001   GC1597    1
+    x021001   GC3003    1
+    x021001   GC4409    1
+    x021002   OBJ       0
+    x021002   GC263     1
+    x021002   GC1669    1
+    x021002   GC3075    1
+    x021002   GC4481    1
+    x021003   OBJ       0
+    x021003   GC333     1
+    x021003   GC1739    1
+    x021003   GC3145    1
+    x021003   GC4551    1
+    x021004   OBJ       0
+    x021004   GC401     1
+    x021004   GC1807    1
+    x021004   GC3213    1
+    x021004   GC4619    1
+    x021005   OBJ       0
+    x021005   GC467     1
+    x021005   GC1873    1
+    x021005   GC3279    1
+    x021005   GC4685    1
+    x021006   OBJ       0
+    x021006   GC531     1
+    x021006   GC1937    1
+    x021006   GC3343    1
+    x021006   GC4749    1
+    x021007   OBJ       0
+    x021007   GC593     1
+    x021007   GC1999    1
+    x021007   GC3405    1
+    x021007   GC4811    1
+    x021008   OBJ       0
+    x021008   GC653     1
+    x021008   GC2059    1
+    x021008   GC3465    1
+    x021008   GC4871    1
+    x021009   OBJ       0
+    x021009   GC711     1
+    x021009   GC2117    1
+    x021009   GC3523    1
+    x021009   GC4929    1
+    x021010   OBJ       0
+    x021010   GC767     1
+    x021010   GC2173    1
+    x021010   GC3579    1
+    x021010   GC4985    1
+    x021011   OBJ       0
+    x021011   GC821     1
+    x021011   GC2227    1
+    x021011   GC3633    1
+    x021011   GC5039    1
+    x021012   OBJ       0
+    x021012   GC873     1
+    x021012   GC2279    1
+    x021012   GC3685    1
+    x021012   GC5091    1
+    x021013   OBJ       0
+    x021013   GC923     1
+    x021013   GC2329    1
+    x021013   GC3735    1
+    x021013   GC5141    1
+    x021014   OBJ       0
+    x021014   GC971     1
+    x021014   GC2377    1
+    x021014   GC3783    1
+    x021014   GC5189    1
+    x021015   OBJ       0
+    x021015   GC1017    1
+    x021015   GC2423    1
+    x021015   GC3829    1
+    x021015   GC5235    1
+    x021016   OBJ       0
+    x021016   GC1061    1
+    x021016   GC2467    1
+    x021016   GC3873    1
+    x021016   GC5279    1
+    x021017   OBJ       0
+    x021017   GC1103    1
+    x021017   GC2509    1
+    x021017   GC3915    1
+    x021017   GC5321    1
+    x021018   OBJ       0
+    x021018   GC1143    1
+    x021018   GC2549    1
+    x021018   GC3955    1
+    x021018   GC5361    1
+    x021019   OBJ       0
+    x021019   GC1181    1
+    x021019   GC2587    1
+    x021019   GC3993    1
+    x021019   GC5399    1
+    x021020   OBJ       0
+    x021020   GC1217    1
+    x021020   GC2623    1
+    x021020   GC4029    1
+    x021020   GC5435    1
+    x021022   OBJ       0
+    x021022   GC1253    1
+    x021022   GC2659    1
+    x021022   GC4065    1
+    x021022   GC5471    1
+    x021023   OBJ       0
+    x021023   GC1255    1
+    x021023   GC2661    1
+    x021023   GC4067    1
+    x021023   GC5473    1
+    x021024   OBJ       0
+    x021024   GC1257    1
+    x021024   GC2663    1
+    x021024   GC4069    1
+    x021024   GC5475    1
+    x021025   OBJ       0
+    x021025   GC1259    1
+    x021025   GC2665    1
+    x021025   GC4071    1
+    x021025   GC5477    1
+    x021026   OBJ       0
+    x021026   GC1261    1
+    x021026   GC2667    1
+    x021026   GC4073    1
+    x021026   GC5479    1
+    x021027   OBJ       0
+    x021027   GC1263    1
+    x021027   GC2669    1
+    x021027   GC4075    1
+    x021027   GC5481    1
+    x021028   OBJ       0
+    x021028   GC1265    1
+    x021028   GC2671    1
+    x021028   GC4077    1
+    x021028   GC5483    1
+    x021029   OBJ       0
+    x021029   GC1267    1
+    x021029   GC2673    1
+    x021029   GC4079    1
+    x021029   GC5485    1
+    x021030   OBJ       0
+    x021030   GC1269    1
+    x021030   GC2675    1
+    x021030   GC4081    1
+    x021030   GC5487    1
+    x021031   OBJ       0
+    x021031   GC1271    1
+    x021031   GC2677    1
+    x021031   GC4083    1
+    x021031   GC5489    1
+    x021032   OBJ       0
+    x021032   GC1273    1
+    x021032   GC2679    1
+    x021032   GC4085    1
+    x021032   GC5491    1
+    x021033   OBJ       0
+    x021033   GC1275    1
+    x021033   GC2681    1
+    x021033   GC4087    1
+    x021033   GC5493    1
+    x021034   OBJ       0
+    x021034   GC1277    1
+    x021034   GC2683    1
+    x021034   GC4089    1
+    x021034   GC5495    1
+    x021035   OBJ       0
+    x021035   GC1279    1
+    x021035   GC2685    1
+    x021035   GC4091    1
+    x021035   GC5497    1
+    x021036   OBJ       0
+    x021036   GC1281    1
+    x021036   GC2687    1
+    x021036   GC4093    1
+    x021036   GC5499    1
+    x021037   OBJ       0
+    x021037   GC1283    1
+    x021037   GC2689    1
+    x021037   GC4095    1
+    x021037   GC5501    1
+    x021038   OBJ       0
+    x021038   GC1285    1
+    x021038   GC2691    1
+    x021038   GC4097    1
+    x021038   GC5503    1
+    x022001   OBJ       0
+    x022001   GC193     1
+    x022001   GC1599    1
+    x022001   GC3005    1
+    x022001   GC4411    1
+    x022002   OBJ       0
+    x022002   GC265     1
+    x022002   GC1671    1
+    x022002   GC3077    1
+    x022002   GC4483    1
+    x022003   OBJ       0
+    x022003   GC335     1
+    x022003   GC1741    1
+    x022003   GC3147    1
+    x022003   GC4553    1
+    x022004   OBJ       0
+    x022004   GC403     1
+    x022004   GC1809    1
+    x022004   GC3215    1
+    x022004   GC4621    1
+    x022005   OBJ       0
+    x022005   GC469     1
+    x022005   GC1875    1
+    x022005   GC3281    1
+    x022005   GC4687    1
+    x022006   OBJ       0
+    x022006   GC533     1
+    x022006   GC1939    1
+    x022006   GC3345    1
+    x022006   GC4751    1
+    x022007   OBJ       0
+    x022007   GC595     1
+    x022007   GC2001    1
+    x022007   GC3407    1
+    x022007   GC4813    1
+    x022008   OBJ       0
+    x022008   GC655     1
+    x022008   GC2061    1
+    x022008   GC3467    1
+    x022008   GC4873    1
+    x022009   OBJ       0
+    x022009   GC713     1
+    x022009   GC2119    1
+    x022009   GC3525    1
+    x022009   GC4931    1
+    x022010   OBJ       0
+    x022010   GC769     1
+    x022010   GC2175    1
+    x022010   GC3581    1
+    x022010   GC4987    1
+    x022011   OBJ       0
+    x022011   GC823     1
+    x022011   GC2229    1
+    x022011   GC3635    1
+    x022011   GC5041    1
+    x022012   OBJ       0
+    x022012   GC875     1
+    x022012   GC2281    1
+    x022012   GC3687    1
+    x022012   GC5093    1
+    x022013   OBJ       0
+    x022013   GC925     1
+    x022013   GC2331    1
+    x022013   GC3737    1
+    x022013   GC5143    1
+    x022014   OBJ       0
+    x022014   GC973     1
+    x022014   GC2379    1
+    x022014   GC3785    1
+    x022014   GC5191    1
+    x022015   OBJ       0
+    x022015   GC1019    1
+    x022015   GC2425    1
+    x022015   GC3831    1
+    x022015   GC5237    1
+    x022016   OBJ       0
+    x022016   GC1063    1
+    x022016   GC2469    1
+    x022016   GC3875    1
+    x022016   GC5281    1
+    x022017   OBJ       0
+    x022017   GC1105    1
+    x022017   GC2511    1
+    x022017   GC3917    1
+    x022017   GC5323    1
+    x022018   OBJ       0
+    x022018   GC1145    1
+    x022018   GC2551    1
+    x022018   GC3957    1
+    x022018   GC5363    1
+    x022019   OBJ       0
+    x022019   GC1183    1
+    x022019   GC2589    1
+    x022019   GC3995    1
+    x022019   GC5401    1
+    x022020   OBJ       0
+    x022020   GC1219    1
+    x022020   GC2625    1
+    x022020   GC4031    1
+    x022020   GC5437    1
+    x022021   OBJ       0
+    x022021   GC1253    1
+    x022021   GC2659    1
+    x022021   GC4065    1
+    x022021   GC5471    1
+    x022023   OBJ       0
+    x022023   GC1287    1
+    x022023   GC2693    1
+    x022023   GC4099    1
+    x022023   GC5505    1
+    x022024   OBJ       0
+    x022024   GC1289    1
+    x022024   GC2695    1
+    x022024   GC4101    1
+    x022024   GC5507    1
+    x022025   OBJ       0
+    x022025   GC1291    1
+    x022025   GC2697    1
+    x022025   GC4103    1
+    x022025   GC5509    1
+    x022026   OBJ       0
+    x022026   GC1293    1
+    x022026   GC2699    1
+    x022026   GC4105    1
+    x022026   GC5511    1
+    x022027   OBJ       0
+    x022027   GC1295    1
+    x022027   GC2701    1
+    x022027   GC4107    1
+    x022027   GC5513    1
+    x022028   OBJ       0
+    x022028   GC1297    1
+    x022028   GC2703    1
+    x022028   GC4109    1
+    x022028   GC5515    1
+    x022029   OBJ       0
+    x022029   GC1299    1
+    x022029   GC2705    1
+    x022029   GC4111    1
+    x022029   GC5517    1
+    x022030   OBJ       0
+    x022030   GC1301    1
+    x022030   GC2707    1
+    x022030   GC4113    1
+    x022030   GC5519    1
+    x022031   OBJ       0
+    x022031   GC1303    1
+    x022031   GC2709    1
+    x022031   GC4115    1
+    x022031   GC5521    1
+    x022032   OBJ       0
+    x022032   GC1305    1
+    x022032   GC2711    1
+    x022032   GC4117    1
+    x022032   GC5523    1
+    x022033   OBJ       0
+    x022033   GC1307    1
+    x022033   GC2713    1
+    x022033   GC4119    1
+    x022033   GC5525    1
+    x022034   OBJ       0
+    x022034   GC1309    1
+    x022034   GC2715    1
+    x022034   GC4121    1
+    x022034   GC5527    1
+    x022035   OBJ       0
+    x022035   GC1311    1
+    x022035   GC2717    1
+    x022035   GC4123    1
+    x022035   GC5529    1
+    x022036   OBJ       0
+    x022036   GC1313    1
+    x022036   GC2719    1
+    x022036   GC4125    1
+    x022036   GC5531    1
+    x022037   OBJ       0
+    x022037   GC1315    1
+    x022037   GC2721    1
+    x022037   GC4127    1
+    x022037   GC5533    1
+    x022038   OBJ       0
+    x022038   GC1317    1
+    x022038   GC2723    1
+    x022038   GC4129    1
+    x022038   GC5535    1
+    x023001   OBJ       0
+    x023001   GC195     1
+    x023001   GC1601    1
+    x023001   GC3007    1
+    x023001   GC4413    1
+    x023002   OBJ       0
+    x023002   GC267     1
+    x023002   GC1673    1
+    x023002   GC3079    1
+    x023002   GC4485    1
+    x023003   OBJ       0
+    x023003   GC337     1
+    x023003   GC1743    1
+    x023003   GC3149    1
+    x023003   GC4555    1
+    x023004   OBJ       0
+    x023004   GC405     1
+    x023004   GC1811    1
+    x023004   GC3217    1
+    x023004   GC4623    1
+    x023005   OBJ       0
+    x023005   GC471     1
+    x023005   GC1877    1
+    x023005   GC3283    1
+    x023005   GC4689    1
+    x023006   OBJ       0
+    x023006   GC535     1
+    x023006   GC1941    1
+    x023006   GC3347    1
+    x023006   GC4753    1
+    x023007   OBJ       0
+    x023007   GC597     1
+    x023007   GC2003    1
+    x023007   GC3409    1
+    x023007   GC4815    1
+    x023008   OBJ       0
+    x023008   GC657     1
+    x023008   GC2063    1
+    x023008   GC3469    1
+    x023008   GC4875    1
+    x023009   OBJ       0
+    x023009   GC715     1
+    x023009   GC2121    1
+    x023009   GC3527    1
+    x023009   GC4933    1
+    x023010   OBJ       0
+    x023010   GC771     1
+    x023010   GC2177    1
+    x023010   GC3583    1
+    x023010   GC4989    1
+    x023011   OBJ       0
+    x023011   GC825     1
+    x023011   GC2231    1
+    x023011   GC3637    1
+    x023011   GC5043    1
+    x023012   OBJ       0
+    x023012   GC877     1
+    x023012   GC2283    1
+    x023012   GC3689    1
+    x023012   GC5095    1
+    x023013   OBJ       0
+    x023013   GC927     1
+    x023013   GC2333    1
+    x023013   GC3739    1
+    x023013   GC5145    1
+    x023014   OBJ       0
+    x023014   GC975     1
+    x023014   GC2381    1
+    x023014   GC3787    1
+    x023014   GC5193    1
+    x023015   OBJ       0
+    x023015   GC1021    1
+    x023015   GC2427    1
+    x023015   GC3833    1
+    x023015   GC5239    1
+    x023016   OBJ       0
+    x023016   GC1065    1
+    x023016   GC2471    1
+    x023016   GC3877    1
+    x023016   GC5283    1
+    x023017   OBJ       0
+    x023017   GC1107    1
+    x023017   GC2513    1
+    x023017   GC3919    1
+    x023017   GC5325    1
+    x023018   OBJ       0
+    x023018   GC1147    1
+    x023018   GC2553    1
+    x023018   GC3959    1
+    x023018   GC5365    1
+    x023019   OBJ       0
+    x023019   GC1185    1
+    x023019   GC2591    1
+    x023019   GC3997    1
+    x023019   GC5403    1
+    x023020   OBJ       0
+    x023020   GC1221    1
+    x023020   GC2627    1
+    x023020   GC4033    1
+    x023020   GC5439    1
+    x023021   OBJ       0
+    x023021   GC1255    1
+    x023021   GC2661    1
+    x023021   GC4067    1
+    x023021   GC5473    1
+    x023022   OBJ       0
+    x023022   GC1287    1
+    x023022   GC2693    1
+    x023022   GC4099    1
+    x023022   GC5505    1
+    x023024   OBJ       0
+    x023024   GC1319    1
+    x023024   GC2725    1
+    x023024   GC4131    1
+    x023024   GC5537    1
+    x023025   OBJ       0
+    x023025   GC1321    1
+    x023025   GC2727    1
+    x023025   GC4133    1
+    x023025   GC5539    1
+    x023026   OBJ       0
+    x023026   GC1323    1
+    x023026   GC2729    1
+    x023026   GC4135    1
+    x023026   GC5541    1
+    x023027   OBJ       0
+    x023027   GC1325    1
+    x023027   GC2731    1
+    x023027   GC4137    1
+    x023027   GC5543    1
+    x023028   OBJ       0
+    x023028   GC1327    1
+    x023028   GC2733    1
+    x023028   GC4139    1
+    x023028   GC5545    1
+    x023029   OBJ       0
+    x023029   GC1329    1
+    x023029   GC2735    1
+    x023029   GC4141    1
+    x023029   GC5547    1
+    x023030   OBJ       0
+    x023030   GC1331    1
+    x023030   GC2737    1
+    x023030   GC4143    1
+    x023030   GC5549    1
+    x023031   OBJ       0
+    x023031   GC1333    1
+    x023031   GC2739    1
+    x023031   GC4145    1
+    x023031   GC5551    1
+    x023032   OBJ       0
+    x023032   GC1335    1
+    x023032   GC2741    1
+    x023032   GC4147    1
+    x023032   GC5553    1
+    x023033   OBJ       0
+    x023033   GC1337    1
+    x023033   GC2743    1
+    x023033   GC4149    1
+    x023033   GC5555    1
+    x023034   OBJ       0
+    x023034   GC1339    1
+    x023034   GC2745    1
+    x023034   GC4151    1
+    x023034   GC5557    1
+    x023035   OBJ       0
+    x023035   GC1341    1
+    x023035   GC2747    1
+    x023035   GC4153    1
+    x023035   GC5559    1
+    x023036   OBJ       0
+    x023036   GC1343    1
+    x023036   GC2749    1
+    x023036   GC4155    1
+    x023036   GC5561    1
+    x023037   OBJ       0
+    x023037   GC1345    1
+    x023037   GC2751    1
+    x023037   GC4157    1
+    x023037   GC5563    1
+    x023038   OBJ       0
+    x023038   GC1347    1
+    x023038   GC2753    1
+    x023038   GC4159    1
+    x023038   GC5565    1
+    x024001   OBJ       0
+    x024001   GC197     1
+    x024001   GC1603    1
+    x024001   GC3009    1
+    x024001   GC4415    1
+    x024002   OBJ       0
+    x024002   GC269     1
+    x024002   GC1675    1
+    x024002   GC3081    1
+    x024002   GC4487    1
+    x024003   OBJ       0
+    x024003   GC339     1
+    x024003   GC1745    1
+    x024003   GC3151    1
+    x024003   GC4557    1
+    x024004   OBJ       0
+    x024004   GC407     1
+    x024004   GC1813    1
+    x024004   GC3219    1
+    x024004   GC4625    1
+    x024005   OBJ       0
+    x024005   GC473     1
+    x024005   GC1879    1
+    x024005   GC3285    1
+    x024005   GC4691    1
+    x024006   OBJ       0
+    x024006   GC537     1
+    x024006   GC1943    1
+    x024006   GC3349    1
+    x024006   GC4755    1
+    x024007   OBJ       0
+    x024007   GC599     1
+    x024007   GC2005    1
+    x024007   GC3411    1
+    x024007   GC4817    1
+    x024008   OBJ       0
+    x024008   GC659     1
+    x024008   GC2065    1
+    x024008   GC3471    1
+    x024008   GC4877    1
+    x024009   OBJ       0
+    x024009   GC717     1
+    x024009   GC2123    1
+    x024009   GC3529    1
+    x024009   GC4935    1
+    x024010   OBJ       0
+    x024010   GC773     1
+    x024010   GC2179    1
+    x024010   GC3585    1
+    x024010   GC4991    1
+    x024011   OBJ       0
+    x024011   GC827     1
+    x024011   GC2233    1
+    x024011   GC3639    1
+    x024011   GC5045    1
+    x024012   OBJ       0
+    x024012   GC879     1
+    x024012   GC2285    1
+    x024012   GC3691    1
+    x024012   GC5097    1
+    x024013   OBJ       0
+    x024013   GC929     1
+    x024013   GC2335    1
+    x024013   GC3741    1
+    x024013   GC5147    1
+    x024014   OBJ       0
+    x024014   GC977     1
+    x024014   GC2383    1
+    x024014   GC3789    1
+    x024014   GC5195    1
+    x024015   OBJ       0
+    x024015   GC1023    1
+    x024015   GC2429    1
+    x024015   GC3835    1
+    x024015   GC5241    1
+    x024016   OBJ       0
+    x024016   GC1067    1
+    x024016   GC2473    1
+    x024016   GC3879    1
+    x024016   GC5285    1
+    x024017   OBJ       0
+    x024017   GC1109    1
+    x024017   GC2515    1
+    x024017   GC3921    1
+    x024017   GC5327    1
+    x024018   OBJ       0
+    x024018   GC1149    1
+    x024018   GC2555    1
+    x024018   GC3961    1
+    x024018   GC5367    1
+    x024019   OBJ       0
+    x024019   GC1187    1
+    x024019   GC2593    1
+    x024019   GC3999    1
+    x024019   GC5405    1
+    x024020   OBJ       0
+    x024020   GC1223    1
+    x024020   GC2629    1
+    x024020   GC4035    1
+    x024020   GC5441    1
+    x024021   OBJ       0
+    x024021   GC1257    1
+    x024021   GC2663    1
+    x024021   GC4069    1
+    x024021   GC5475    1
+    x024022   OBJ       0
+    x024022   GC1289    1
+    x024022   GC2695    1
+    x024022   GC4101    1
+    x024022   GC5507    1
+    x024023   OBJ       0
+    x024023   GC1319    1
+    x024023   GC2725    1
+    x024023   GC4131    1
+    x024023   GC5537    1
+    x024025   OBJ       0
+    x024025   GC1349    1
+    x024025   GC2755    1
+    x024025   GC4161    1
+    x024025   GC5567    1
+    x024026   OBJ       0
+    x024026   GC1351    1
+    x024026   GC2757    1
+    x024026   GC4163    1
+    x024026   GC5569    1
+    x024027   OBJ       0
+    x024027   GC1353    1
+    x024027   GC2759    1
+    x024027   GC4165    1
+    x024027   GC5571    1
+    x024028   OBJ       0
+    x024028   GC1355    1
+    x024028   GC2761    1
+    x024028   GC4167    1
+    x024028   GC5573    1
+    x024029   OBJ       0
+    x024029   GC1357    1
+    x024029   GC2763    1
+    x024029   GC4169    1
+    x024029   GC5575    1
+    x024030   OBJ       0
+    x024030   GC1359    1
+    x024030   GC2765    1
+    x024030   GC4171    1
+    x024030   GC5577    1
+    x024031   OBJ       0
+    x024031   GC1361    1
+    x024031   GC2767    1
+    x024031   GC4173    1
+    x024031   GC5579    1
+    x024032   OBJ       0
+    x024032   GC1363    1
+    x024032   GC2769    1
+    x024032   GC4175    1
+    x024032   GC5581    1
+    x024033   OBJ       0
+    x024033   GC1365    1
+    x024033   GC2771    1
+    x024033   GC4177    1
+    x024033   GC5583    1
+    x024034   OBJ       0
+    x024034   GC1367    1
+    x024034   GC2773    1
+    x024034   GC4179    1
+    x024034   GC5585    1
+    x024035   OBJ       0
+    x024035   GC1369    1
+    x024035   GC2775    1
+    x024035   GC4181    1
+    x024035   GC5587    1
+    x024036   OBJ       0
+    x024036   GC1371    1
+    x024036   GC2777    1
+    x024036   GC4183    1
+    x024036   GC5589    1
+    x024037   OBJ       0
+    x024037   GC1373    1
+    x024037   GC2779    1
+    x024037   GC4185    1
+    x024037   GC5591    1
+    x024038   OBJ       0
+    x024038   GC1375    1
+    x024038   GC2781    1
+    x024038   GC4187    1
+    x024038   GC5593    1
+    x025001   OBJ       0
+    x025001   GC199     1
+    x025001   GC1605    1
+    x025001   GC3011    1
+    x025001   GC4417    1
+    x025002   OBJ       0
+    x025002   GC271     1
+    x025002   GC1677    1
+    x025002   GC3083    1
+    x025002   GC4489    1
+    x025003   OBJ       0
+    x025003   GC341     1
+    x025003   GC1747    1
+    x025003   GC3153    1
+    x025003   GC4559    1
+    x025004   OBJ       0
+    x025004   GC409     1
+    x025004   GC1815    1
+    x025004   GC3221    1
+    x025004   GC4627    1
+    x025005   OBJ       0
+    x025005   GC475     1
+    x025005   GC1881    1
+    x025005   GC3287    1
+    x025005   GC4693    1
+    x025006   OBJ       0
+    x025006   GC539     1
+    x025006   GC1945    1
+    x025006   GC3351    1
+    x025006   GC4757    1
+    x025007   OBJ       0
+    x025007   GC601     1
+    x025007   GC2007    1
+    x025007   GC3413    1
+    x025007   GC4819    1
+    x025008   OBJ       0
+    x025008   GC661     1
+    x025008   GC2067    1
+    x025008   GC3473    1
+    x025008   GC4879    1
+    x025009   OBJ       0
+    x025009   GC719     1
+    x025009   GC2125    1
+    x025009   GC3531    1
+    x025009   GC4937    1
+    x025010   OBJ       0
+    x025010   GC775     1
+    x025010   GC2181    1
+    x025010   GC3587    1
+    x025010   GC4993    1
+    x025011   OBJ       0
+    x025011   GC829     1
+    x025011   GC2235    1
+    x025011   GC3641    1
+    x025011   GC5047    1
+    x025012   OBJ       0
+    x025012   GC881     1
+    x025012   GC2287    1
+    x025012   GC3693    1
+    x025012   GC5099    1
+    x025013   OBJ       0
+    x025013   GC931     1
+    x025013   GC2337    1
+    x025013   GC3743    1
+    x025013   GC5149    1
+    x025014   OBJ       0
+    x025014   GC979     1
+    x025014   GC2385    1
+    x025014   GC3791    1
+    x025014   GC5197    1
+    x025015   OBJ       0
+    x025015   GC1025    1
+    x025015   GC2431    1
+    x025015   GC3837    1
+    x025015   GC5243    1
+    x025016   OBJ       0
+    x025016   GC1069    1
+    x025016   GC2475    1
+    x025016   GC3881    1
+    x025016   GC5287    1
+    x025017   OBJ       0
+    x025017   GC1111    1
+    x025017   GC2517    1
+    x025017   GC3923    1
+    x025017   GC5329    1
+    x025018   OBJ       0
+    x025018   GC1151    1
+    x025018   GC2557    1
+    x025018   GC3963    1
+    x025018   GC5369    1
+    x025019   OBJ       0
+    x025019   GC1189    1
+    x025019   GC2595    1
+    x025019   GC4001    1
+    x025019   GC5407    1
+    x025020   OBJ       0
+    x025020   GC1225    1
+    x025020   GC2631    1
+    x025020   GC4037    1
+    x025020   GC5443    1
+    x025021   OBJ       0
+    x025021   GC1259    1
+    x025021   GC2665    1
+    x025021   GC4071    1
+    x025021   GC5477    1
+    x025022   OBJ       0
+    x025022   GC1291    1
+    x025022   GC2697    1
+    x025022   GC4103    1
+    x025022   GC5509    1
+    x025023   OBJ       0
+    x025023   GC1321    1
+    x025023   GC2727    1
+    x025023   GC4133    1
+    x025023   GC5539    1
+    x025024   OBJ       0
+    x025024   GC1349    1
+    x025024   GC2755    1
+    x025024   GC4161    1
+    x025024   GC5567    1
+    x025026   OBJ       0
+    x025026   GC1377    1
+    x025026   GC2783    1
+    x025026   GC4189    1
+    x025026   GC5595    1
+    x025027   OBJ       0
+    x025027   GC1379    1
+    x025027   GC2785    1
+    x025027   GC4191    1
+    x025027   GC5597    1
+    x025028   OBJ       0
+    x025028   GC1381    1
+    x025028   GC2787    1
+    x025028   GC4193    1
+    x025028   GC5599    1
+    x025029   OBJ       0
+    x025029   GC1383    1
+    x025029   GC2789    1
+    x025029   GC4195    1
+    x025029   GC5601    1
+    x025030   OBJ       0
+    x025030   GC1385    1
+    x025030   GC2791    1
+    x025030   GC4197    1
+    x025030   GC5603    1
+    x025031   OBJ       0
+    x025031   GC1387    1
+    x025031   GC2793    1
+    x025031   GC4199    1
+    x025031   GC5605    1
+    x025032   OBJ       0
+    x025032   GC1389    1
+    x025032   GC2795    1
+    x025032   GC4201    1
+    x025032   GC5607    1
+    x025033   OBJ       0
+    x025033   GC1391    1
+    x025033   GC2797    1
+    x025033   GC4203    1
+    x025033   GC5609    1
+    x025034   OBJ       0
+    x025034   GC1393    1
+    x025034   GC2799    1
+    x025034   GC4205    1
+    x025034   GC5611    1
+    x025035   OBJ       0
+    x025035   GC1395    1
+    x025035   GC2801    1
+    x025035   GC4207    1
+    x025035   GC5613    1
+    x025036   OBJ       0
+    x025036   GC1397    1
+    x025036   GC2803    1
+    x025036   GC4209    1
+    x025036   GC5615    1
+    x025037   OBJ       0
+    x025037   GC1399    1
+    x025037   GC2805    1
+    x025037   GC4211    1
+    x025037   GC5617    1
+    x025038   OBJ       0
+    x025038   GC1401    1
+    x025038   GC2807    1
+    x025038   GC4213    1
+    x025038   GC5619    1
+    x026001   OBJ       0
+    x026001   GC201     1
+    x026001   GC1607    1
+    x026001   GC3013    1
+    x026001   GC4419    1
+    x026002   OBJ       0
+    x026002   GC273     1
+    x026002   GC1679    1
+    x026002   GC3085    1
+    x026002   GC4491    1
+    x026003   OBJ       0
+    x026003   GC343     1
+    x026003   GC1749    1
+    x026003   GC3155    1
+    x026003   GC4561    1
+    x026004   OBJ       0
+    x026004   GC411     1
+    x026004   GC1817    1
+    x026004   GC3223    1
+    x026004   GC4629    1
+    x026005   OBJ       0
+    x026005   GC477     1
+    x026005   GC1883    1
+    x026005   GC3289    1
+    x026005   GC4695    1
+    x026006   OBJ       0
+    x026006   GC541     1
+    x026006   GC1947    1
+    x026006   GC3353    1
+    x026006   GC4759    1
+    x026007   OBJ       0
+    x026007   GC603     1
+    x026007   GC2009    1
+    x026007   GC3415    1
+    x026007   GC4821    1
+    x026008   OBJ       0
+    x026008   GC663     1
+    x026008   GC2069    1
+    x026008   GC3475    1
+    x026008   GC4881    1
+    x026009   OBJ       0
+    x026009   GC721     1
+    x026009   GC2127    1
+    x026009   GC3533    1
+    x026009   GC4939    1
+    x026010   OBJ       0
+    x026010   GC777     1
+    x026010   GC2183    1
+    x026010   GC3589    1
+    x026010   GC4995    1
+    x026011   OBJ       0
+    x026011   GC831     1
+    x026011   GC2237    1
+    x026011   GC3643    1
+    x026011   GC5049    1
+    x026012   OBJ       0
+    x026012   GC883     1
+    x026012   GC2289    1
+    x026012   GC3695    1
+    x026012   GC5101    1
+    x026013   OBJ       0
+    x026013   GC933     1
+    x026013   GC2339    1
+    x026013   GC3745    1
+    x026013   GC5151    1
+    x026014   OBJ       0
+    x026014   GC981     1
+    x026014   GC2387    1
+    x026014   GC3793    1
+    x026014   GC5199    1
+    x026015   OBJ       0
+    x026015   GC1027    1
+    x026015   GC2433    1
+    x026015   GC3839    1
+    x026015   GC5245    1
+    x026016   OBJ       0
+    x026016   GC1071    1
+    x026016   GC2477    1
+    x026016   GC3883    1
+    x026016   GC5289    1
+    x026017   OBJ       0
+    x026017   GC1113    1
+    x026017   GC2519    1
+    x026017   GC3925    1
+    x026017   GC5331    1
+    x026018   OBJ       0
+    x026018   GC1153    1
+    x026018   GC2559    1
+    x026018   GC3965    1
+    x026018   GC5371    1
+    x026019   OBJ       0
+    x026019   GC1191    1
+    x026019   GC2597    1
+    x026019   GC4003    1
+    x026019   GC5409    1
+    x026020   OBJ       0
+    x026020   GC1227    1
+    x026020   GC2633    1
+    x026020   GC4039    1
+    x026020   GC5445    1
+    x026021   OBJ       0
+    x026021   GC1261    1
+    x026021   GC2667    1
+    x026021   GC4073    1
+    x026021   GC5479    1
+    x026022   OBJ       0
+    x026022   GC1293    1
+    x026022   GC2699    1
+    x026022   GC4105    1
+    x026022   GC5511    1
+    x026023   OBJ       0
+    x026023   GC1323    1
+    x026023   GC2729    1
+    x026023   GC4135    1
+    x026023   GC5541    1
+    x026024   OBJ       0
+    x026024   GC1351    1
+    x026024   GC2757    1
+    x026024   GC4163    1
+    x026024   GC5569    1
+    x026025   OBJ       0
+    x026025   GC1377    1
+    x026025   GC2783    1
+    x026025   GC4189    1
+    x026025   GC5595    1
+    x026027   OBJ       0
+    x026027   GC1403    1
+    x026027   GC2809    1
+    x026027   GC4215    1
+    x026027   GC5621    1
+    x026028   OBJ       0
+    x026028   GC1405    1
+    x026028   GC2811    1
+    x026028   GC4217    1
+    x026028   GC5623    1
+    x026029   OBJ       0
+    x026029   GC1407    1
+    x026029   GC2813    1
+    x026029   GC4219    1
+    x026029   GC5625    1
+    x026030   OBJ       0
+    x026030   GC1409    1
+    x026030   GC2815    1
+    x026030   GC4221    1
+    x026030   GC5627    1
+    x026031   OBJ       0
+    x026031   GC1411    1
+    x026031   GC2817    1
+    x026031   GC4223    1
+    x026031   GC5629    1
+    x026032   OBJ       0
+    x026032   GC1413    1
+    x026032   GC2819    1
+    x026032   GC4225    1
+    x026032   GC5631    1
+    x026033   OBJ       0
+    x026033   GC1415    1
+    x026033   GC2821    1
+    x026033   GC4227    1
+    x026033   GC5633    1
+    x026034   OBJ       0
+    x026034   GC1417    1
+    x026034   GC2823    1
+    x026034   GC4229    1
+    x026034   GC5635    1
+    x026035   OBJ       0
+    x026035   GC1419    1
+    x026035   GC2825    1
+    x026035   GC4231    1
+    x026035   GC5637    1
+    x026036   OBJ       0
+    x026036   GC1421    1
+    x026036   GC2827    1
+    x026036   GC4233    1
+    x026036   GC5639    1
+    x026037   OBJ       0
+    x026037   GC1423    1
+    x026037   GC2829    1
+    x026037   GC4235    1
+    x026037   GC5641    1
+    x026038   OBJ       0
+    x026038   GC1425    1
+    x026038   GC2831    1
+    x026038   GC4237    1
+    x026038   GC5643    1
+    x027001   OBJ       0
+    x027001   GC203     1
+    x027001   GC1609    1
+    x027001   GC3015    1
+    x027001   GC4421    1
+    x027002   OBJ       0
+    x027002   GC275     1
+    x027002   GC1681    1
+    x027002   GC3087    1
+    x027002   GC4493    1
+    x027003   OBJ       0
+    x027003   GC345     1
+    x027003   GC1751    1
+    x027003   GC3157    1
+    x027003   GC4563    1
+    x027004   OBJ       0
+    x027004   GC413     1
+    x027004   GC1819    1
+    x027004   GC3225    1
+    x027004   GC4631    1
+    x027005   OBJ       0
+    x027005   GC479     1
+    x027005   GC1885    1
+    x027005   GC3291    1
+    x027005   GC4697    1
+    x027006   OBJ       0
+    x027006   GC543     1
+    x027006   GC1949    1
+    x027006   GC3355    1
+    x027006   GC4761    1
+    x027007   OBJ       0
+    x027007   GC605     1
+    x027007   GC2011    1
+    x027007   GC3417    1
+    x027007   GC4823    1
+    x027008   OBJ       0
+    x027008   GC665     1
+    x027008   GC2071    1
+    x027008   GC3477    1
+    x027008   GC4883    1
+    x027009   OBJ       0
+    x027009   GC723     1
+    x027009   GC2129    1
+    x027009   GC3535    1
+    x027009   GC4941    1
+    x027010   OBJ       0
+    x027010   GC779     1
+    x027010   GC2185    1
+    x027010   GC3591    1
+    x027010   GC4997    1
+    x027011   OBJ       0
+    x027011   GC833     1
+    x027011   GC2239    1
+    x027011   GC3645    1
+    x027011   GC5051    1
+    x027012   OBJ       0
+    x027012   GC885     1
+    x027012   GC2291    1
+    x027012   GC3697    1
+    x027012   GC5103    1
+    x027013   OBJ       0
+    x027013   GC935     1
+    x027013   GC2341    1
+    x027013   GC3747    1
+    x027013   GC5153    1
+    x027014   OBJ       0
+    x027014   GC983     1
+    x027014   GC2389    1
+    x027014   GC3795    1
+    x027014   GC5201    1
+    x027015   OBJ       0
+    x027015   GC1029    1
+    x027015   GC2435    1
+    x027015   GC3841    1
+    x027015   GC5247    1
+    x027016   OBJ       0
+    x027016   GC1073    1
+    x027016   GC2479    1
+    x027016   GC3885    1
+    x027016   GC5291    1
+    x027017   OBJ       0
+    x027017   GC1115    1
+    x027017   GC2521    1
+    x027017   GC3927    1
+    x027017   GC5333    1
+    x027018   OBJ       0
+    x027018   GC1155    1
+    x027018   GC2561    1
+    x027018   GC3967    1
+    x027018   GC5373    1
+    x027019   OBJ       0
+    x027019   GC1193    1
+    x027019   GC2599    1
+    x027019   GC4005    1
+    x027019   GC5411    1
+    x027020   OBJ       0
+    x027020   GC1229    1
+    x027020   GC2635    1
+    x027020   GC4041    1
+    x027020   GC5447    1
+    x027021   OBJ       0
+    x027021   GC1263    1
+    x027021   GC2669    1
+    x027021   GC4075    1
+    x027021   GC5481    1
+    x027022   OBJ       0
+    x027022   GC1295    1
+    x027022   GC2701    1
+    x027022   GC4107    1
+    x027022   GC5513    1
+    x027023   OBJ       0
+    x027023   GC1325    1
+    x027023   GC2731    1
+    x027023   GC4137    1
+    x027023   GC5543    1
+    x027024   OBJ       0
+    x027024   GC1353    1
+    x027024   GC2759    1
+    x027024   GC4165    1
+    x027024   GC5571    1
+    x027025   OBJ       0
+    x027025   GC1379    1
+    x027025   GC2785    1
+    x027025   GC4191    1
+    x027025   GC5597    1
+    x027026   OBJ       0
+    x027026   GC1403    1
+    x027026   GC2809    1
+    x027026   GC4215    1
+    x027026   GC5621    1
+    x027028   OBJ       0
+    x027028   GC1427    1
+    x027028   GC2833    1
+    x027028   GC4239    1
+    x027028   GC5645    1
+    x027029   OBJ       0
+    x027029   GC1429    1
+    x027029   GC2835    1
+    x027029   GC4241    1
+    x027029   GC5647    1
+    x027030   OBJ       0
+    x027030   GC1431    1
+    x027030   GC2837    1
+    x027030   GC4243    1
+    x027030   GC5649    1
+    x027031   OBJ       0
+    x027031   GC1433    1
+    x027031   GC2839    1
+    x027031   GC4245    1
+    x027031   GC5651    1
+    x027032   OBJ       0
+    x027032   GC1435    1
+    x027032   GC2841    1
+    x027032   GC4247    1
+    x027032   GC5653    1
+    x027033   OBJ       0
+    x027033   GC1437    1
+    x027033   GC2843    1
+    x027033   GC4249    1
+    x027033   GC5655    1
+    x027034   OBJ       0
+    x027034   GC1439    1
+    x027034   GC2845    1
+    x027034   GC4251    1
+    x027034   GC5657    1
+    x027035   OBJ       0
+    x027035   GC1441    1
+    x027035   GC2847    1
+    x027035   GC4253    1
+    x027035   GC5659    1
+    x027036   OBJ       0
+    x027036   GC1443    1
+    x027036   GC2849    1
+    x027036   GC4255    1
+    x027036   GC5661    1
+    x027037   OBJ       0
+    x027037   GC1445    1
+    x027037   GC2851    1
+    x027037   GC4257    1
+    x027037   GC5663    1
+    x027038   OBJ       0
+    x027038   GC1447    1
+    x027038   GC2853    1
+    x027038   GC4259    1
+    x027038   GC5665    1
+    x028001   OBJ       0
+    x028001   GC205     1
+    x028001   GC1611    1
+    x028001   GC3017    1
+    x028001   GC4423    1
+    x028002   OBJ       0
+    x028002   GC277     1
+    x028002   GC1683    1
+    x028002   GC3089    1
+    x028002   GC4495    1
+    x028003   OBJ       0
+    x028003   GC347     1
+    x028003   GC1753    1
+    x028003   GC3159    1
+    x028003   GC4565    1
+    x028004   OBJ       0
+    x028004   GC415     1
+    x028004   GC1821    1
+    x028004   GC3227    1
+    x028004   GC4633    1
+    x028005   OBJ       0
+    x028005   GC481     1
+    x028005   GC1887    1
+    x028005   GC3293    1
+    x028005   GC4699    1
+    x028006   OBJ       0
+    x028006   GC545     1
+    x028006   GC1951    1
+    x028006   GC3357    1
+    x028006   GC4763    1
+    x028007   OBJ       0
+    x028007   GC607     1
+    x028007   GC2013    1
+    x028007   GC3419    1
+    x028007   GC4825    1
+    x028008   OBJ       0
+    x028008   GC667     1
+    x028008   GC2073    1
+    x028008   GC3479    1
+    x028008   GC4885    1
+    x028009   OBJ       0
+    x028009   GC725     1
+    x028009   GC2131    1
+    x028009   GC3537    1
+    x028009   GC4943    1
+    x028010   OBJ       0
+    x028010   GC781     1
+    x028010   GC2187    1
+    x028010   GC3593    1
+    x028010   GC4999    1
+    x028011   OBJ       0
+    x028011   GC835     1
+    x028011   GC2241    1
+    x028011   GC3647    1
+    x028011   GC5053    1
+    x028012   OBJ       0
+    x028012   GC887     1
+    x028012   GC2293    1
+    x028012   GC3699    1
+    x028012   GC5105    1
+    x028013   OBJ       0
+    x028013   GC937     1
+    x028013   GC2343    1
+    x028013   GC3749    1
+    x028013   GC5155    1
+    x028014   OBJ       0
+    x028014   GC985     1
+    x028014   GC2391    1
+    x028014   GC3797    1
+    x028014   GC5203    1
+    x028015   OBJ       0
+    x028015   GC1031    1
+    x028015   GC2437    1
+    x028015   GC3843    1
+    x028015   GC5249    1
+    x028016   OBJ       0
+    x028016   GC1075    1
+    x028016   GC2481    1
+    x028016   GC3887    1
+    x028016   GC5293    1
+    x028017   OBJ       0
+    x028017   GC1117    1
+    x028017   GC2523    1
+    x028017   GC3929    1
+    x028017   GC5335    1
+    x028018   OBJ       0
+    x028018   GC1157    1
+    x028018   GC2563    1
+    x028018   GC3969    1
+    x028018   GC5375    1
+    x028019   OBJ       0
+    x028019   GC1195    1
+    x028019   GC2601    1
+    x028019   GC4007    1
+    x028019   GC5413    1
+    x028020   OBJ       0
+    x028020   GC1231    1
+    x028020   GC2637    1
+    x028020   GC4043    1
+    x028020   GC5449    1
+    x028021   OBJ       0
+    x028021   GC1265    1
+    x028021   GC2671    1
+    x028021   GC4077    1
+    x028021   GC5483    1
+    x028022   OBJ       0
+    x028022   GC1297    1
+    x028022   GC2703    1
+    x028022   GC4109    1
+    x028022   GC5515    1
+    x028023   OBJ       0
+    x028023   GC1327    1
+    x028023   GC2733    1
+    x028023   GC4139    1
+    x028023   GC5545    1
+    x028024   OBJ       0
+    x028024   GC1355    1
+    x028024   GC2761    1
+    x028024   GC4167    1
+    x028024   GC5573    1
+    x028025   OBJ       0
+    x028025   GC1381    1
+    x028025   GC2787    1
+    x028025   GC4193    1
+    x028025   GC5599    1
+    x028026   OBJ       0
+    x028026   GC1405    1
+    x028026   GC2811    1
+    x028026   GC4217    1
+    x028026   GC5623    1
+    x028027   OBJ       0
+    x028027   GC1427    1
+    x028027   GC2833    1
+    x028027   GC4239    1
+    x028027   GC5645    1
+    x028029   OBJ       0
+    x028029   GC1449    1
+    x028029   GC2855    1
+    x028029   GC4261    1
+    x028029   GC5667    1
+    x028030   OBJ       0
+    x028030   GC1451    1
+    x028030   GC2857    1
+    x028030   GC4263    1
+    x028030   GC5669    1
+    x028031   OBJ       0
+    x028031   GC1453    1
+    x028031   GC2859    1
+    x028031   GC4265    1
+    x028031   GC5671    1
+    x028032   OBJ       0
+    x028032   GC1455    1
+    x028032   GC2861    1
+    x028032   GC4267    1
+    x028032   GC5673    1
+    x028033   OBJ       0
+    x028033   GC1457    1
+    x028033   GC2863    1
+    x028033   GC4269    1
+    x028033   GC5675    1
+    x028034   OBJ       0
+    x028034   GC1459    1
+    x028034   GC2865    1
+    x028034   GC4271    1
+    x028034   GC5677    1
+    x028035   OBJ       0
+    x028035   GC1461    1
+    x028035   GC2867    1
+    x028035   GC4273    1
+    x028035   GC5679    1
+    x028036   OBJ       0
+    x028036   GC1463    1
+    x028036   GC2869    1
+    x028036   GC4275    1
+    x028036   GC5681    1
+    x028037   OBJ       0
+    x028037   GC1465    1
+    x028037   GC2871    1
+    x028037   GC4277    1
+    x028037   GC5683    1
+    x028038   OBJ       0
+    x028038   GC1467    1
+    x028038   GC2873    1
+    x028038   GC4279    1
+    x028038   GC5685    1
+    x029001   OBJ       0
+    x029001   GC207     1
+    x029001   GC1613    1
+    x029001   GC3019    1
+    x029001   GC4425    1
+    x029002   OBJ       0
+    x029002   GC279     1
+    x029002   GC1685    1
+    x029002   GC3091    1
+    x029002   GC4497    1
+    x029003   OBJ       0
+    x029003   GC349     1
+    x029003   GC1755    1
+    x029003   GC3161    1
+    x029003   GC4567    1
+    x029004   OBJ       0
+    x029004   GC417     1
+    x029004   GC1823    1
+    x029004   GC3229    1
+    x029004   GC4635    1
+    x029005   OBJ       0
+    x029005   GC483     1
+    x029005   GC1889    1
+    x029005   GC3295    1
+    x029005   GC4701    1
+    x029006   OBJ       0
+    x029006   GC547     1
+    x029006   GC1953    1
+    x029006   GC3359    1
+    x029006   GC4765    1
+    x029007   OBJ       0
+    x029007   GC609     1
+    x029007   GC2015    1
+    x029007   GC3421    1
+    x029007   GC4827    1
+    x029008   OBJ       0
+    x029008   GC669     1
+    x029008   GC2075    1
+    x029008   GC3481    1
+    x029008   GC4887    1
+    x029009   OBJ       0
+    x029009   GC727     1
+    x029009   GC2133    1
+    x029009   GC3539    1
+    x029009   GC4945    1
+    x029010   OBJ       0
+    x029010   GC783     1
+    x029010   GC2189    1
+    x029010   GC3595    1
+    x029010   GC5001    1
+    x029011   OBJ       0
+    x029011   GC837     1
+    x029011   GC2243    1
+    x029011   GC3649    1
+    x029011   GC5055    1
+    x029012   OBJ       0
+    x029012   GC889     1
+    x029012   GC2295    1
+    x029012   GC3701    1
+    x029012   GC5107    1
+    x029013   OBJ       0
+    x029013   GC939     1
+    x029013   GC2345    1
+    x029013   GC3751    1
+    x029013   GC5157    1
+    x029014   OBJ       0
+    x029014   GC987     1
+    x029014   GC2393    1
+    x029014   GC3799    1
+    x029014   GC5205    1
+    x029015   OBJ       0
+    x029015   GC1033    1
+    x029015   GC2439    1
+    x029015   GC3845    1
+    x029015   GC5251    1
+    x029016   OBJ       0
+    x029016   GC1077    1
+    x029016   GC2483    1
+    x029016   GC3889    1
+    x029016   GC5295    1
+    x029017   OBJ       0
+    x029017   GC1119    1
+    x029017   GC2525    1
+    x029017   GC3931    1
+    x029017   GC5337    1
+    x029018   OBJ       0
+    x029018   GC1159    1
+    x029018   GC2565    1
+    x029018   GC3971    1
+    x029018   GC5377    1
+    x029019   OBJ       0
+    x029019   GC1197    1
+    x029019   GC2603    1
+    x029019   GC4009    1
+    x029019   GC5415    1
+    x029020   OBJ       0
+    x029020   GC1233    1
+    x029020   GC2639    1
+    x029020   GC4045    1
+    x029020   GC5451    1
+    x029021   OBJ       0
+    x029021   GC1267    1
+    x029021   GC2673    1
+    x029021   GC4079    1
+    x029021   GC5485    1
+    x029022   OBJ       0
+    x029022   GC1299    1
+    x029022   GC2705    1
+    x029022   GC4111    1
+    x029022   GC5517    1
+    x029023   OBJ       0
+    x029023   GC1329    1
+    x029023   GC2735    1
+    x029023   GC4141    1
+    x029023   GC5547    1
+    x029024   OBJ       0
+    x029024   GC1357    1
+    x029024   GC2763    1
+    x029024   GC4169    1
+    x029024   GC5575    1
+    x029025   OBJ       0
+    x029025   GC1383    1
+    x029025   GC2789    1
+    x029025   GC4195    1
+    x029025   GC5601    1
+    x029026   OBJ       0
+    x029026   GC1407    1
+    x029026   GC2813    1
+    x029026   GC4219    1
+    x029026   GC5625    1
+    x029027   OBJ       0
+    x029027   GC1429    1
+    x029027   GC2835    1
+    x029027   GC4241    1
+    x029027   GC5647    1
+    x029028   OBJ       0
+    x029028   GC1449    1
+    x029028   GC2855    1
+    x029028   GC4261    1
+    x029028   GC5667    1
+    x029030   OBJ       0
+    x029030   GC1469    1
+    x029030   GC2875    1
+    x029030   GC4281    1
+    x029030   GC5687    1
+    x029031   OBJ       0
+    x029031   GC1471    1
+    x029031   GC2877    1
+    x029031   GC4283    1
+    x029031   GC5689    1
+    x029032   OBJ       0
+    x029032   GC1473    1
+    x029032   GC2879    1
+    x029032   GC4285    1
+    x029032   GC5691    1
+    x029033   OBJ       0
+    x029033   GC1475    1
+    x029033   GC2881    1
+    x029033   GC4287    1
+    x029033   GC5693    1
+    x029034   OBJ       0
+    x029034   GC1477    1
+    x029034   GC2883    1
+    x029034   GC4289    1
+    x029034   GC5695    1
+    x029035   OBJ       0
+    x029035   GC1479    1
+    x029035   GC2885    1
+    x029035   GC4291    1
+    x029035   GC5697    1
+    x029036   OBJ       0
+    x029036   GC1481    1
+    x029036   GC2887    1
+    x029036   GC4293    1
+    x029036   GC5699    1
+    x029037   OBJ       0
+    x029037   GC1483    1
+    x029037   GC2889    1
+    x029037   GC4295    1
+    x029037   GC5701    1
+    x029038   OBJ       0
+    x029038   GC1485    1
+    x029038   GC2891    1
+    x029038   GC4297    1
+    x029038   GC5703    1
+    x030001   OBJ       0
+    x030001   GC209     1
+    x030001   GC1615    1
+    x030001   GC3021    1
+    x030001   GC4427    1
+    x030002   OBJ       0
+    x030002   GC281     1
+    x030002   GC1687    1
+    x030002   GC3093    1
+    x030002   GC4499    1
+    x030003   OBJ       0
+    x030003   GC351     1
+    x030003   GC1757    1
+    x030003   GC3163    1
+    x030003   GC4569    1
+    x030004   OBJ       0
+    x030004   GC419     1
+    x030004   GC1825    1
+    x030004   GC3231    1
+    x030004   GC4637    1
+    x030005   OBJ       0
+    x030005   GC485     1
+    x030005   GC1891    1
+    x030005   GC3297    1
+    x030005   GC4703    1
+    x030006   OBJ       0
+    x030006   GC549     1
+    x030006   GC1955    1
+    x030006   GC3361    1
+    x030006   GC4767    1
+    x030007   OBJ       0
+    x030007   GC611     1
+    x030007   GC2017    1
+    x030007   GC3423    1
+    x030007   GC4829    1
+    x030008   OBJ       0
+    x030008   GC671     1
+    x030008   GC2077    1
+    x030008   GC3483    1
+    x030008   GC4889    1
+    x030009   OBJ       0
+    x030009   GC729     1
+    x030009   GC2135    1
+    x030009   GC3541    1
+    x030009   GC4947    1
+    x030010   OBJ       0
+    x030010   GC785     1
+    x030010   GC2191    1
+    x030010   GC3597    1
+    x030010   GC5003    1
+    x030011   OBJ       0
+    x030011   GC839     1
+    x030011   GC2245    1
+    x030011   GC3651    1
+    x030011   GC5057    1
+    x030012   OBJ       0
+    x030012   GC891     1
+    x030012   GC2297    1
+    x030012   GC3703    1
+    x030012   GC5109    1
+    x030013   OBJ       0
+    x030013   GC941     1
+    x030013   GC2347    1
+    x030013   GC3753    1
+    x030013   GC5159    1
+    x030014   OBJ       0
+    x030014   GC989     1
+    x030014   GC2395    1
+    x030014   GC3801    1
+    x030014   GC5207    1
+    x030015   OBJ       0
+    x030015   GC1035    1
+    x030015   GC2441    1
+    x030015   GC3847    1
+    x030015   GC5253    1
+    x030016   OBJ       0
+    x030016   GC1079    1
+    x030016   GC2485    1
+    x030016   GC3891    1
+    x030016   GC5297    1
+    x030017   OBJ       0
+    x030017   GC1121    1
+    x030017   GC2527    1
+    x030017   GC3933    1
+    x030017   GC5339    1
+    x030018   OBJ       0
+    x030018   GC1161    1
+    x030018   GC2567    1
+    x030018   GC3973    1
+    x030018   GC5379    1
+    x030019   OBJ       0
+    x030019   GC1199    1
+    x030019   GC2605    1
+    x030019   GC4011    1
+    x030019   GC5417    1
+    x030020   OBJ       0
+    x030020   GC1235    1
+    x030020   GC2641    1
+    x030020   GC4047    1
+    x030020   GC5453    1
+    x030021   OBJ       0
+    x030021   GC1269    1
+    x030021   GC2675    1
+    x030021   GC4081    1
+    x030021   GC5487    1
+    x030022   OBJ       0
+    x030022   GC1301    1
+    x030022   GC2707    1
+    x030022   GC4113    1
+    x030022   GC5519    1
+    x030023   OBJ       0
+    x030023   GC1331    1
+    x030023   GC2737    1
+    x030023   GC4143    1
+    x030023   GC5549    1
+    x030024   OBJ       0
+    x030024   GC1359    1
+    x030024   GC2765    1
+    x030024   GC4171    1
+    x030024   GC5577    1
+    x030025   OBJ       0
+    x030025   GC1385    1
+    x030025   GC2791    1
+    x030025   GC4197    1
+    x030025   GC5603    1
+    x030026   OBJ       0
+    x030026   GC1409    1
+    x030026   GC2815    1
+    x030026   GC4221    1
+    x030026   GC5627    1
+    x030027   OBJ       0
+    x030027   GC1431    1
+    x030027   GC2837    1
+    x030027   GC4243    1
+    x030027   GC5649    1
+    x030028   OBJ       0
+    x030028   GC1451    1
+    x030028   GC2857    1
+    x030028   GC4263    1
+    x030028   GC5669    1
+    x030029   OBJ       0
+    x030029   GC1469    1
+    x030029   GC2875    1
+    x030029   GC4281    1
+    x030029   GC5687    1
+    x030031   OBJ       0
+    x030031   GC1487    1
+    x030031   GC2893    1
+    x030031   GC4299    1
+    x030031   GC5705    1
+    x030032   OBJ       0
+    x030032   GC1489    1
+    x030032   GC2895    1
+    x030032   GC4301    1
+    x030032   GC5707    1
+    x030033   OBJ       0
+    x030033   GC1491    1
+    x030033   GC2897    1
+    x030033   GC4303    1
+    x030033   GC5709    1
+    x030034   OBJ       0
+    x030034   GC1493    1
+    x030034   GC2899    1
+    x030034   GC4305    1
+    x030034   GC5711    1
+    x030035   OBJ       0
+    x030035   GC1495    1
+    x030035   GC2901    1
+    x030035   GC4307    1
+    x030035   GC5713    1
+    x030036   OBJ       0
+    x030036   GC1497    1
+    x030036   GC2903    1
+    x030036   GC4309    1
+    x030036   GC5715    1
+    x030037   OBJ       0
+    x030037   GC1499    1
+    x030037   GC2905    1
+    x030037   GC4311    1
+    x030037   GC5717    1
+    x030038   OBJ       0
+    x030038   GC1501    1
+    x030038   GC2907    1
+    x030038   GC4313    1
+    x030038   GC5719    1
+    x031001   OBJ       0
+    x031001   GC211     1
+    x031001   GC1617    1
+    x031001   GC3023    1
+    x031001   GC4429    1
+    x031002   OBJ       0
+    x031002   GC283     1
+    x031002   GC1689    1
+    x031002   GC3095    1
+    x031002   GC4501    1
+    x031003   OBJ       0
+    x031003   GC353     1
+    x031003   GC1759    1
+    x031003   GC3165    1
+    x031003   GC4571    1
+    x031004   OBJ       0
+    x031004   GC421     1
+    x031004   GC1827    1
+    x031004   GC3233    1
+    x031004   GC4639    1
+    x031005   OBJ       0
+    x031005   GC487     1
+    x031005   GC1893    1
+    x031005   GC3299    1
+    x031005   GC4705    1
+    x031006   OBJ       0
+    x031006   GC551     1
+    x031006   GC1957    1
+    x031006   GC3363    1
+    x031006   GC4769    1
+    x031007   OBJ       0
+    x031007   GC613     1
+    x031007   GC2019    1
+    x031007   GC3425    1
+    x031007   GC4831    1
+    x031008   OBJ       0
+    x031008   GC673     1
+    x031008   GC2079    1
+    x031008   GC3485    1
+    x031008   GC4891    1
+    x031009   OBJ       0
+    x031009   GC731     1
+    x031009   GC2137    1
+    x031009   GC3543    1
+    x031009   GC4949    1
+    x031010   OBJ       0
+    x031010   GC787     1
+    x031010   GC2193    1
+    x031010   GC3599    1
+    x031010   GC5005    1
+    x031011   OBJ       0
+    x031011   GC841     1
+    x031011   GC2247    1
+    x031011   GC3653    1
+    x031011   GC5059    1
+    x031012   OBJ       0
+    x031012   GC893     1
+    x031012   GC2299    1
+    x031012   GC3705    1
+    x031012   GC5111    1
+    x031013   OBJ       0
+    x031013   GC943     1
+    x031013   GC2349    1
+    x031013   GC3755    1
+    x031013   GC5161    1
+    x031014   OBJ       0
+    x031014   GC991     1
+    x031014   GC2397    1
+    x031014   GC3803    1
+    x031014   GC5209    1
+    x031015   OBJ       0
+    x031015   GC1037    1
+    x031015   GC2443    1
+    x031015   GC3849    1
+    x031015   GC5255    1
+    x031016   OBJ       0
+    x031016   GC1081    1
+    x031016   GC2487    1
+    x031016   GC3893    1
+    x031016   GC5299    1
+    x031017   OBJ       0
+    x031017   GC1123    1
+    x031017   GC2529    1
+    x031017   GC3935    1
+    x031017   GC5341    1
+    x031018   OBJ       0
+    x031018   GC1163    1
+    x031018   GC2569    1
+    x031018   GC3975    1
+    x031018   GC5381    1
+    x031019   OBJ       0
+    x031019   GC1201    1
+    x031019   GC2607    1
+    x031019   GC4013    1
+    x031019   GC5419    1
+    x031020   OBJ       0
+    x031020   GC1237    1
+    x031020   GC2643    1
+    x031020   GC4049    1
+    x031020   GC5455    1
+    x031021   OBJ       0
+    x031021   GC1271    1
+    x031021   GC2677    1
+    x031021   GC4083    1
+    x031021   GC5489    1
+    x031022   OBJ       0
+    x031022   GC1303    1
+    x031022   GC2709    1
+    x031022   GC4115    1
+    x031022   GC5521    1
+    x031023   OBJ       0
+    x031023   GC1333    1
+    x031023   GC2739    1
+    x031023   GC4145    1
+    x031023   GC5551    1
+    x031024   OBJ       0
+    x031024   GC1361    1
+    x031024   GC2767    1
+    x031024   GC4173    1
+    x031024   GC5579    1
+    x031025   OBJ       0
+    x031025   GC1387    1
+    x031025   GC2793    1
+    x031025   GC4199    1
+    x031025   GC5605    1
+    x031026   OBJ       0
+    x031026   GC1411    1
+    x031026   GC2817    1
+    x031026   GC4223    1
+    x031026   GC5629    1
+    x031027   OBJ       0
+    x031027   GC1433    1
+    x031027   GC2839    1
+    x031027   GC4245    1
+    x031027   GC5651    1
+    x031028   OBJ       0
+    x031028   GC1453    1
+    x031028   GC2859    1
+    x031028   GC4265    1
+    x031028   GC5671    1
+    x031029   OBJ       0
+    x031029   GC1471    1
+    x031029   GC2877    1
+    x031029   GC4283    1
+    x031029   GC5689    1
+    x031030   OBJ       0
+    x031030   GC1487    1
+    x031030   GC2893    1
+    x031030   GC4299    1
+    x031030   GC5705    1
+    x031032   OBJ       0
+    x031032   GC1503    1
+    x031032   GC2909    1
+    x031032   GC4315    1
+    x031032   GC5721    1
+    x031033   OBJ       0
+    x031033   GC1505    1
+    x031033   GC2911    1
+    x031033   GC4317    1
+    x031033   GC5723    1
+    x031034   OBJ       0
+    x031034   GC1507    1
+    x031034   GC2913    1
+    x031034   GC4319    1
+    x031034   GC5725    1
+    x031035   OBJ       0
+    x031035   GC1509    1
+    x031035   GC2915    1
+    x031035   GC4321    1
+    x031035   GC5727    1
+    x031036   OBJ       0
+    x031036   GC1511    1
+    x031036   GC2917    1
+    x031036   GC4323    1
+    x031036   GC5729    1
+    x031037   OBJ       0
+    x031037   GC1513    1
+    x031037   GC2919    1
+    x031037   GC4325    1
+    x031037   GC5731    1
+    x031038   OBJ       0
+    x031038   GC1515    1
+    x031038   GC2921    1
+    x031038   GC4327    1
+    x031038   GC5733    1
+    x032001   OBJ       0
+    x032001   GC213     1
+    x032001   GC1619    1
+    x032001   GC3025    1
+    x032001   GC4431    1
+    x032002   OBJ       0
+    x032002   GC285     1
+    x032002   GC1691    1
+    x032002   GC3097    1
+    x032002   GC4503    1
+    x032003   OBJ       0
+    x032003   GC355     1
+    x032003   GC1761    1
+    x032003   GC3167    1
+    x032003   GC4573    1
+    x032004   OBJ       0
+    x032004   GC423     1
+    x032004   GC1829    1
+    x032004   GC3235    1
+    x032004   GC4641    1
+    x032005   OBJ       0
+    x032005   GC489     1
+    x032005   GC1895    1
+    x032005   GC3301    1
+    x032005   GC4707    1
+    x032006   OBJ       0
+    x032006   GC553     1
+    x032006   GC1959    1
+    x032006   GC3365    1
+    x032006   GC4771    1
+    x032007   OBJ       0
+    x032007   GC615     1
+    x032007   GC2021    1
+    x032007   GC3427    1
+    x032007   GC4833    1
+    x032008   OBJ       0
+    x032008   GC675     1
+    x032008   GC2081    1
+    x032008   GC3487    1
+    x032008   GC4893    1
+    x032009   OBJ       0
+    x032009   GC733     1
+    x032009   GC2139    1
+    x032009   GC3545    1
+    x032009   GC4951    1
+    x032010   OBJ       0
+    x032010   GC789     1
+    x032010   GC2195    1
+    x032010   GC3601    1
+    x032010   GC5007    1
+    x032011   OBJ       0
+    x032011   GC843     1
+    x032011   GC2249    1
+    x032011   GC3655    1
+    x032011   GC5061    1
+    x032012   OBJ       0
+    x032012   GC895     1
+    x032012   GC2301    1
+    x032012   GC3707    1
+    x032012   GC5113    1
+    x032013   OBJ       0
+    x032013   GC945     1
+    x032013   GC2351    1
+    x032013   GC3757    1
+    x032013   GC5163    1
+    x032014   OBJ       0
+    x032014   GC993     1
+    x032014   GC2399    1
+    x032014   GC3805    1
+    x032014   GC5211    1
+    x032015   OBJ       0
+    x032015   GC1039    1
+    x032015   GC2445    1
+    x032015   GC3851    1
+    x032015   GC5257    1
+    x032016   OBJ       0
+    x032016   GC1083    1
+    x032016   GC2489    1
+    x032016   GC3895    1
+    x032016   GC5301    1
+    x032017   OBJ       0
+    x032017   GC1125    1
+    x032017   GC2531    1
+    x032017   GC3937    1
+    x032017   GC5343    1
+    x032018   OBJ       0
+    x032018   GC1165    1
+    x032018   GC2571    1
+    x032018   GC3977    1
+    x032018   GC5383    1
+    x032019   OBJ       0
+    x032019   GC1203    1
+    x032019   GC2609    1
+    x032019   GC4015    1
+    x032019   GC5421    1
+    x032020   OBJ       0
+    x032020   GC1239    1
+    x032020   GC2645    1
+    x032020   GC4051    1
+    x032020   GC5457    1
+    x032021   OBJ       0
+    x032021   GC1273    1
+    x032021   GC2679    1
+    x032021   GC4085    1
+    x032021   GC5491    1
+    x032022   OBJ       0
+    x032022   GC1305    1
+    x032022   GC2711    1
+    x032022   GC4117    1
+    x032022   GC5523    1
+    x032023   OBJ       0
+    x032023   GC1335    1
+    x032023   GC2741    1
+    x032023   GC4147    1
+    x032023   GC5553    1
+    x032024   OBJ       0
+    x032024   GC1363    1
+    x032024   GC2769    1
+    x032024   GC4175    1
+    x032024   GC5581    1
+    x032025   OBJ       0
+    x032025   GC1389    1
+    x032025   GC2795    1
+    x032025   GC4201    1
+    x032025   GC5607    1
+    x032026   OBJ       0
+    x032026   GC1413    1
+    x032026   GC2819    1
+    x032026   GC4225    1
+    x032026   GC5631    1
+    x032027   OBJ       0
+    x032027   GC1435    1
+    x032027   GC2841    1
+    x032027   GC4247    1
+    x032027   GC5653    1
+    x032028   OBJ       0
+    x032028   GC1455    1
+    x032028   GC2861    1
+    x032028   GC4267    1
+    x032028   GC5673    1
+    x032029   OBJ       0
+    x032029   GC1473    1
+    x032029   GC2879    1
+    x032029   GC4285    1
+    x032029   GC5691    1
+    x032030   OBJ       0
+    x032030   GC1489    1
+    x032030   GC2895    1
+    x032030   GC4301    1
+    x032030   GC5707    1
+    x032031   OBJ       0
+    x032031   GC1503    1
+    x032031   GC2909    1
+    x032031   GC4315    1
+    x032031   GC5721    1
+    x032033   OBJ       0
+    x032033   GC1517    1
+    x032033   GC2923    1
+    x032033   GC4329    1
+    x032033   GC5735    1
+    x032034   OBJ       0
+    x032034   GC1519    1
+    x032034   GC2925    1
+    x032034   GC4331    1
+    x032034   GC5737    1
+    x032035   OBJ       0
+    x032035   GC1521    1
+    x032035   GC2927    1
+    x032035   GC4333    1
+    x032035   GC5739    1
+    x032036   OBJ       0
+    x032036   GC1523    1
+    x032036   GC2929    1
+    x032036   GC4335    1
+    x032036   GC5741    1
+    x032037   OBJ       0
+    x032037   GC1525    1
+    x032037   GC2931    1
+    x032037   GC4337    1
+    x032037   GC5743    1
+    x032038   OBJ       0
+    x032038   GC1527    1
+    x032038   GC2933    1
+    x032038   GC4339    1
+    x032038   GC5745    1
+    x033001   OBJ       0
+    x033001   GC215     1
+    x033001   GC1621    1
+    x033001   GC3027    1
+    x033001   GC4433    1
+    x033002   OBJ       0
+    x033002   GC287     1
+    x033002   GC1693    1
+    x033002   GC3099    1
+    x033002   GC4505    1
+    x033003   OBJ       0
+    x033003   GC357     1
+    x033003   GC1763    1
+    x033003   GC3169    1
+    x033003   GC4575    1
+    x033004   OBJ       0
+    x033004   GC425     1
+    x033004   GC1831    1
+    x033004   GC3237    1
+    x033004   GC4643    1
+    x033005   OBJ       0
+    x033005   GC491     1
+    x033005   GC1897    1
+    x033005   GC3303    1
+    x033005   GC4709    1
+    x033006   OBJ       0
+    x033006   GC555     1
+    x033006   GC1961    1
+    x033006   GC3367    1
+    x033006   GC4773    1
+    x033007   OBJ       0
+    x033007   GC617     1
+    x033007   GC2023    1
+    x033007   GC3429    1
+    x033007   GC4835    1
+    x033008   OBJ       0
+    x033008   GC677     1
+    x033008   GC2083    1
+    x033008   GC3489    1
+    x033008   GC4895    1
+    x033009   OBJ       0
+    x033009   GC735     1
+    x033009   GC2141    1
+    x033009   GC3547    1
+    x033009   GC4953    1
+    x033010   OBJ       0
+    x033010   GC791     1
+    x033010   GC2197    1
+    x033010   GC3603    1
+    x033010   GC5009    1
+    x033011   OBJ       0
+    x033011   GC845     1
+    x033011   GC2251    1
+    x033011   GC3657    1
+    x033011   GC5063    1
+    x033012   OBJ       0
+    x033012   GC897     1
+    x033012   GC2303    1
+    x033012   GC3709    1
+    x033012   GC5115    1
+    x033013   OBJ       0
+    x033013   GC947     1
+    x033013   GC2353    1
+    x033013   GC3759    1
+    x033013   GC5165    1
+    x033014   OBJ       0
+    x033014   GC995     1
+    x033014   GC2401    1
+    x033014   GC3807    1
+    x033014   GC5213    1
+    x033015   OBJ       0
+    x033015   GC1041    1
+    x033015   GC2447    1
+    x033015   GC3853    1
+    x033015   GC5259    1
+    x033016   OBJ       0
+    x033016   GC1085    1
+    x033016   GC2491    1
+    x033016   GC3897    1
+    x033016   GC5303    1
+    x033017   OBJ       0
+    x033017   GC1127    1
+    x033017   GC2533    1
+    x033017   GC3939    1
+    x033017   GC5345    1
+    x033018   OBJ       0
+    x033018   GC1167    1
+    x033018   GC2573    1
+    x033018   GC3979    1
+    x033018   GC5385    1
+    x033019   OBJ       0
+    x033019   GC1205    1
+    x033019   GC2611    1
+    x033019   GC4017    1
+    x033019   GC5423    1
+    x033020   OBJ       0
+    x033020   GC1241    1
+    x033020   GC2647    1
+    x033020   GC4053    1
+    x033020   GC5459    1
+    x033021   OBJ       0
+    x033021   GC1275    1
+    x033021   GC2681    1
+    x033021   GC4087    1
+    x033021   GC5493    1
+    x033022   OBJ       0
+    x033022   GC1307    1
+    x033022   GC2713    1
+    x033022   GC4119    1
+    x033022   GC5525    1
+    x033023   OBJ       0
+    x033023   GC1337    1
+    x033023   GC2743    1
+    x033023   GC4149    1
+    x033023   GC5555    1
+    x033024   OBJ       0
+    x033024   GC1365    1
+    x033024   GC2771    1
+    x033024   GC4177    1
+    x033024   GC5583    1
+    x033025   OBJ       0
+    x033025   GC1391    1
+    x033025   GC2797    1
+    x033025   GC4203    1
+    x033025   GC5609    1
+    x033026   OBJ       0
+    x033026   GC1415    1
+    x033026   GC2821    1
+    x033026   GC4227    1
+    x033026   GC5633    1
+    x033027   OBJ       0
+    x033027   GC1437    1
+    x033027   GC2843    1
+    x033027   GC4249    1
+    x033027   GC5655    1
+    x033028   OBJ       0
+    x033028   GC1457    1
+    x033028   GC2863    1
+    x033028   GC4269    1
+    x033028   GC5675    1
+    x033029   OBJ       0
+    x033029   GC1475    1
+    x033029   GC2881    1
+    x033029   GC4287    1
+    x033029   GC5693    1
+    x033030   OBJ       0
+    x033030   GC1491    1
+    x033030   GC2897    1
+    x033030   GC4303    1
+    x033030   GC5709    1
+    x033031   OBJ       0
+    x033031   GC1505    1
+    x033031   GC2911    1
+    x033031   GC4317    1
+    x033031   GC5723    1
+    x033032   OBJ       0
+    x033032   GC1517    1
+    x033032   GC2923    1
+    x033032   GC4329    1
+    x033032   GC5735    1
+    x033034   OBJ       0
+    x033034   GC1529    1
+    x033034   GC2935    1
+    x033034   GC4341    1
+    x033034   GC5747    1
+    x033035   OBJ       0
+    x033035   GC1531    1
+    x033035   GC2937    1
+    x033035   GC4343    1
+    x033035   GC5749    1
+    x033036   OBJ       0
+    x033036   GC1533    1
+    x033036   GC2939    1
+    x033036   GC4345    1
+    x033036   GC5751    1
+    x033037   OBJ       0
+    x033037   GC1535    1
+    x033037   GC2941    1
+    x033037   GC4347    1
+    x033037   GC5753    1
+    x033038   OBJ       0
+    x033038   GC1537    1
+    x033038   GC2943    1
+    x033038   GC4349    1
+    x033038   GC5755    1
+    x034001   OBJ       0
+    x034001   GC217     1
+    x034001   GC1623    1
+    x034001   GC3029    1
+    x034001   GC4435    1
+    x034002   OBJ       0
+    x034002   GC289     1
+    x034002   GC1695    1
+    x034002   GC3101    1
+    x034002   GC4507    1
+    x034003   OBJ       0
+    x034003   GC359     1
+    x034003   GC1765    1
+    x034003   GC3171    1
+    x034003   GC4577    1
+    x034004   OBJ       0
+    x034004   GC427     1
+    x034004   GC1833    1
+    x034004   GC3239    1
+    x034004   GC4645    1
+    x034005   OBJ       0
+    x034005   GC493     1
+    x034005   GC1899    1
+    x034005   GC3305    1
+    x034005   GC4711    1
+    x034006   OBJ       0
+    x034006   GC557     1
+    x034006   GC1963    1
+    x034006   GC3369    1
+    x034006   GC4775    1
+    x034007   OBJ       0
+    x034007   GC619     1
+    x034007   GC2025    1
+    x034007   GC3431    1
+    x034007   GC4837    1
+    x034008   OBJ       0
+    x034008   GC679     1
+    x034008   GC2085    1
+    x034008   GC3491    1
+    x034008   GC4897    1
+    x034009   OBJ       0
+    x034009   GC737     1
+    x034009   GC2143    1
+    x034009   GC3549    1
+    x034009   GC4955    1
+    x034010   OBJ       0
+    x034010   GC793     1
+    x034010   GC2199    1
+    x034010   GC3605    1
+    x034010   GC5011    1
+    x034011   OBJ       0
+    x034011   GC847     1
+    x034011   GC2253    1
+    x034011   GC3659    1
+    x034011   GC5065    1
+    x034012   OBJ       0
+    x034012   GC899     1
+    x034012   GC2305    1
+    x034012   GC3711    1
+    x034012   GC5117    1
+    x034013   OBJ       0
+    x034013   GC949     1
+    x034013   GC2355    1
+    x034013   GC3761    1
+    x034013   GC5167    1
+    x034014   OBJ       0
+    x034014   GC997     1
+    x034014   GC2403    1
+    x034014   GC3809    1
+    x034014   GC5215    1
+    x034015   OBJ       0
+    x034015   GC1043    1
+    x034015   GC2449    1
+    x034015   GC3855    1
+    x034015   GC5261    1
+    x034016   OBJ       0
+    x034016   GC1087    1
+    x034016   GC2493    1
+    x034016   GC3899    1
+    x034016   GC5305    1
+    x034017   OBJ       0
+    x034017   GC1129    1
+    x034017   GC2535    1
+    x034017   GC3941    1
+    x034017   GC5347    1
+    x034018   OBJ       0
+    x034018   GC1169    1
+    x034018   GC2575    1
+    x034018   GC3981    1
+    x034018   GC5387    1
+    x034019   OBJ       0
+    x034019   GC1207    1
+    x034019   GC2613    1
+    x034019   GC4019    1
+    x034019   GC5425    1
+    x034020   OBJ       0
+    x034020   GC1243    1
+    x034020   GC2649    1
+    x034020   GC4055    1
+    x034020   GC5461    1
+    x034021   OBJ       0
+    x034021   GC1277    1
+    x034021   GC2683    1
+    x034021   GC4089    1
+    x034021   GC5495    1
+    x034022   OBJ       0
+    x034022   GC1309    1
+    x034022   GC2715    1
+    x034022   GC4121    1
+    x034022   GC5527    1
+    x034023   OBJ       0
+    x034023   GC1339    1
+    x034023   GC2745    1
+    x034023   GC4151    1
+    x034023   GC5557    1
+    x034024   OBJ       0
+    x034024   GC1367    1
+    x034024   GC2773    1
+    x034024   GC4179    1
+    x034024   GC5585    1
+    x034025   OBJ       0
+    x034025   GC1393    1
+    x034025   GC2799    1
+    x034025   GC4205    1
+    x034025   GC5611    1
+    x034026   OBJ       0
+    x034026   GC1417    1
+    x034026   GC2823    1
+    x034026   GC4229    1
+    x034026   GC5635    1
+    x034027   OBJ       0
+    x034027   GC1439    1
+    x034027   GC2845    1
+    x034027   GC4251    1
+    x034027   GC5657    1
+    x034028   OBJ       0
+    x034028   GC1459    1
+    x034028   GC2865    1
+    x034028   GC4271    1
+    x034028   GC5677    1
+    x034029   OBJ       0
+    x034029   GC1477    1
+    x034029   GC2883    1
+    x034029   GC4289    1
+    x034029   GC5695    1
+    x034030   OBJ       0
+    x034030   GC1493    1
+    x034030   GC2899    1
+    x034030   GC4305    1
+    x034030   GC5711    1
+    x034031   OBJ       0
+    x034031   GC1507    1
+    x034031   GC2913    1
+    x034031   GC4319    1
+    x034031   GC5725    1
+    x034032   OBJ       0
+    x034032   GC1519    1
+    x034032   GC2925    1
+    x034032   GC4331    1
+    x034032   GC5737    1
+    x034033   OBJ       0
+    x034033   GC1529    1
+    x034033   GC2935    1
+    x034033   GC4341    1
+    x034033   GC5747    1
+    x034035   OBJ       0
+    x034035   GC1539    1
+    x034035   GC2945    1
+    x034035   GC4351    1
+    x034035   GC5757    1
+    x034036   OBJ       0
+    x034036   GC1541    1
+    x034036   GC2947    1
+    x034036   GC4353    1
+    x034036   GC5759    1
+    x034037   OBJ       0
+    x034037   GC1543    1
+    x034037   GC2949    1
+    x034037   GC4355    1
+    x034037   GC5761    1
+    x034038   OBJ       0
+    x034038   GC1545    1
+    x034038   GC2951    1
+    x034038   GC4357    1
+    x034038   GC5763    1
+    x035001   OBJ       0
+    x035001   GC219     1
+    x035001   GC1625    1
+    x035001   GC3031    1
+    x035001   GC4437    1
+    x035002   OBJ       0
+    x035002   GC291     1
+    x035002   GC1697    1
+    x035002   GC3103    1
+    x035002   GC4509    1
+    x035003   OBJ       0
+    x035003   GC361     1
+    x035003   GC1767    1
+    x035003   GC3173    1
+    x035003   GC4579    1
+    x035004   OBJ       0
+    x035004   GC429     1
+    x035004   GC1835    1
+    x035004   GC3241    1
+    x035004   GC4647    1
+    x035005   OBJ       0
+    x035005   GC495     1
+    x035005   GC1901    1
+    x035005   GC3307    1
+    x035005   GC4713    1
+    x035006   OBJ       0
+    x035006   GC559     1
+    x035006   GC1965    1
+    x035006   GC3371    1
+    x035006   GC4777    1
+    x035007   OBJ       0
+    x035007   GC621     1
+    x035007   GC2027    1
+    x035007   GC3433    1
+    x035007   GC4839    1
+    x035008   OBJ       0
+    x035008   GC681     1
+    x035008   GC2087    1
+    x035008   GC3493    1
+    x035008   GC4899    1
+    x035009   OBJ       0
+    x035009   GC739     1
+    x035009   GC2145    1
+    x035009   GC3551    1
+    x035009   GC4957    1
+    x035010   OBJ       0
+    x035010   GC795     1
+    x035010   GC2201    1
+    x035010   GC3607    1
+    x035010   GC5013    1
+    x035011   OBJ       0
+    x035011   GC849     1
+    x035011   GC2255    1
+    x035011   GC3661    1
+    x035011   GC5067    1
+    x035012   OBJ       0
+    x035012   GC901     1
+    x035012   GC2307    1
+    x035012   GC3713    1
+    x035012   GC5119    1
+    x035013   OBJ       0
+    x035013   GC951     1
+    x035013   GC2357    1
+    x035013   GC3763    1
+    x035013   GC5169    1
+    x035014   OBJ       0
+    x035014   GC999     1
+    x035014   GC2405    1
+    x035014   GC3811    1
+    x035014   GC5217    1
+    x035015   OBJ       0
+    x035015   GC1045    1
+    x035015   GC2451    1
+    x035015   GC3857    1
+    x035015   GC5263    1
+    x035016   OBJ       0
+    x035016   GC1089    1
+    x035016   GC2495    1
+    x035016   GC3901    1
+    x035016   GC5307    1
+    x035017   OBJ       0
+    x035017   GC1131    1
+    x035017   GC2537    1
+    x035017   GC3943    1
+    x035017   GC5349    1
+    x035018   OBJ       0
+    x035018   GC1171    1
+    x035018   GC2577    1
+    x035018   GC3983    1
+    x035018   GC5389    1
+    x035019   OBJ       0
+    x035019   GC1209    1
+    x035019   GC2615    1
+    x035019   GC4021    1
+    x035019   GC5427    1
+    x035020   OBJ       0
+    x035020   GC1245    1
+    x035020   GC2651    1
+    x035020   GC4057    1
+    x035020   GC5463    1
+    x035021   OBJ       0
+    x035021   GC1279    1
+    x035021   GC2685    1
+    x035021   GC4091    1
+    x035021   GC5497    1
+    x035022   OBJ       0
+    x035022   GC1311    1
+    x035022   GC2717    1
+    x035022   GC4123    1
+    x035022   GC5529    1
+    x035023   OBJ       0
+    x035023   GC1341    1
+    x035023   GC2747    1
+    x035023   GC4153    1
+    x035023   GC5559    1
+    x035024   OBJ       0
+    x035024   GC1369    1
+    x035024   GC2775    1
+    x035024   GC4181    1
+    x035024   GC5587    1
+    x035025   OBJ       0
+    x035025   GC1395    1
+    x035025   GC2801    1
+    x035025   GC4207    1
+    x035025   GC5613    1
+    x035026   OBJ       0
+    x035026   GC1419    1
+    x035026   GC2825    1
+    x035026   GC4231    1
+    x035026   GC5637    1
+    x035027   OBJ       0
+    x035027   GC1441    1
+    x035027   GC2847    1
+    x035027   GC4253    1
+    x035027   GC5659    1
+    x035028   OBJ       0
+    x035028   GC1461    1
+    x035028   GC2867    1
+    x035028   GC4273    1
+    x035028   GC5679    1
+    x035029   OBJ       0
+    x035029   GC1479    1
+    x035029   GC2885    1
+    x035029   GC4291    1
+    x035029   GC5697    1
+    x035030   OBJ       0
+    x035030   GC1495    1
+    x035030   GC2901    1
+    x035030   GC4307    1
+    x035030   GC5713    1
+    x035031   OBJ       0
+    x035031   GC1509    1
+    x035031   GC2915    1
+    x035031   GC4321    1
+    x035031   GC5727    1
+    x035032   OBJ       0
+    x035032   GC1521    1
+    x035032   GC2927    1
+    x035032   GC4333    1
+    x035032   GC5739    1
+    x035033   OBJ       0
+    x035033   GC1531    1
+    x035033   GC2937    1
+    x035033   GC4343    1
+    x035033   GC5749    1
+    x035034   OBJ       0
+    x035034   GC1539    1
+    x035034   GC2945    1
+    x035034   GC4351    1
+    x035034   GC5757    1
+    x035036   OBJ       0
+    x035036   GC1547    1
+    x035036   GC2953    1
+    x035036   GC4359    1
+    x035036   GC5765    1
+    x035037   OBJ       0
+    x035037   GC1549    1
+    x035037   GC2955    1
+    x035037   GC4361    1
+    x035037   GC5767    1
+    x035038   OBJ       0
+    x035038   GC1551    1
+    x035038   GC2957    1
+    x035038   GC4363    1
+    x035038   GC5769    1
+    x036001   OBJ       0
+    x036001   GC221     1
+    x036001   GC1627    1
+    x036001   GC3033    1
+    x036001   GC4439    1
+    x036002   OBJ       0
+    x036002   GC293     1
+    x036002   GC1699    1
+    x036002   GC3105    1
+    x036002   GC4511    1
+    x036003   OBJ       0
+    x036003   GC363     1
+    x036003   GC1769    1
+    x036003   GC3175    1
+    x036003   GC4581    1
+    x036004   OBJ       0
+    x036004   GC431     1
+    x036004   GC1837    1
+    x036004   GC3243    1
+    x036004   GC4649    1
+    x036005   OBJ       0
+    x036005   GC497     1
+    x036005   GC1903    1
+    x036005   GC3309    1
+    x036005   GC4715    1
+    x036006   OBJ       0
+    x036006   GC561     1
+    x036006   GC1967    1
+    x036006   GC3373    1
+    x036006   GC4779    1
+    x036007   OBJ       0
+    x036007   GC623     1
+    x036007   GC2029    1
+    x036007   GC3435    1
+    x036007   GC4841    1
+    x036008   OBJ       0
+    x036008   GC683     1
+    x036008   GC2089    1
+    x036008   GC3495    1
+    x036008   GC4901    1
+    x036009   OBJ       0
+    x036009   GC741     1
+    x036009   GC2147    1
+    x036009   GC3553    1
+    x036009   GC4959    1
+    x036010   OBJ       0
+    x036010   GC797     1
+    x036010   GC2203    1
+    x036010   GC3609    1
+    x036010   GC5015    1
+    x036011   OBJ       0
+    x036011   GC851     1
+    x036011   GC2257    1
+    x036011   GC3663    1
+    x036011   GC5069    1
+    x036012   OBJ       0
+    x036012   GC903     1
+    x036012   GC2309    1
+    x036012   GC3715    1
+    x036012   GC5121    1
+    x036013   OBJ       0
+    x036013   GC953     1
+    x036013   GC2359    1
+    x036013   GC3765    1
+    x036013   GC5171    1
+    x036014   OBJ       0
+    x036014   GC1001    1
+    x036014   GC2407    1
+    x036014   GC3813    1
+    x036014   GC5219    1
+    x036015   OBJ       0
+    x036015   GC1047    1
+    x036015   GC2453    1
+    x036015   GC3859    1
+    x036015   GC5265    1
+    x036016   OBJ       0
+    x036016   GC1091    1
+    x036016   GC2497    1
+    x036016   GC3903    1
+    x036016   GC5309    1
+    x036017   OBJ       0
+    x036017   GC1133    1
+    x036017   GC2539    1
+    x036017   GC3945    1
+    x036017   GC5351    1
+    x036018   OBJ       0
+    x036018   GC1173    1
+    x036018   GC2579    1
+    x036018   GC3985    1
+    x036018   GC5391    1
+    x036019   OBJ       0
+    x036019   GC1211    1
+    x036019   GC2617    1
+    x036019   GC4023    1
+    x036019   GC5429    1
+    x036020   OBJ       0
+    x036020   GC1247    1
+    x036020   GC2653    1
+    x036020   GC4059    1
+    x036020   GC5465    1
+    x036021   OBJ       0
+    x036021   GC1281    1
+    x036021   GC2687    1
+    x036021   GC4093    1
+    x036021   GC5499    1
+    x036022   OBJ       0
+    x036022   GC1313    1
+    x036022   GC2719    1
+    x036022   GC4125    1
+    x036022   GC5531    1
+    x036023   OBJ       0
+    x036023   GC1343    1
+    x036023   GC2749    1
+    x036023   GC4155    1
+    x036023   GC5561    1
+    x036024   OBJ       0
+    x036024   GC1371    1
+    x036024   GC2777    1
+    x036024   GC4183    1
+    x036024   GC5589    1
+    x036025   OBJ       0
+    x036025   GC1397    1
+    x036025   GC2803    1
+    x036025   GC4209    1
+    x036025   GC5615    1
+    x036026   OBJ       0
+    x036026   GC1421    1
+    x036026   GC2827    1
+    x036026   GC4233    1
+    x036026   GC5639    1
+    x036027   OBJ       0
+    x036027   GC1443    1
+    x036027   GC2849    1
+    x036027   GC4255    1
+    x036027   GC5661    1
+    x036028   OBJ       0
+    x036028   GC1463    1
+    x036028   GC2869    1
+    x036028   GC4275    1
+    x036028   GC5681    1
+    x036029   OBJ       0
+    x036029   GC1481    1
+    x036029   GC2887    1
+    x036029   GC4293    1
+    x036029   GC5699    1
+    x036030   OBJ       0
+    x036030   GC1497    1
+    x036030   GC2903    1
+    x036030   GC4309    1
+    x036030   GC5715    1
+    x036031   OBJ       0
+    x036031   GC1511    1
+    x036031   GC2917    1
+    x036031   GC4323    1
+    x036031   GC5729    1
+    x036032   OBJ       0
+    x036032   GC1523    1
+    x036032   GC2929    1
+    x036032   GC4335    1
+    x036032   GC5741    1
+    x036033   OBJ       0
+    x036033   GC1533    1
+    x036033   GC2939    1
+    x036033   GC4345    1
+    x036033   GC5751    1
+    x036034   OBJ       0
+    x036034   GC1541    1
+    x036034   GC2947    1
+    x036034   GC4353    1
+    x036034   GC5759    1
+    x036035   OBJ       0
+    x036035   GC1547    1
+    x036035   GC2953    1
+    x036035   GC4359    1
+    x036035   GC5765    1
+    x036037   OBJ       0
+    x036037   GC1553    1
+    x036037   GC2959    1
+    x036037   GC4365    1
+    x036037   GC5771    1
+    x036038   OBJ       0
+    x036038   GC1555    1
+    x036038   GC2961    1
+    x036038   GC4367    1
+    x036038   GC5773    1
+    x037001   OBJ       0
+    x037001   GC223     1
+    x037001   GC1629    1
+    x037001   GC3035    1
+    x037001   GC4441    1
+    x037002   OBJ       0
+    x037002   GC295     1
+    x037002   GC1701    1
+    x037002   GC3107    1
+    x037002   GC4513    1
+    x037003   OBJ       0
+    x037003   GC365     1
+    x037003   GC1771    1
+    x037003   GC3177    1
+    x037003   GC4583    1
+    x037004   OBJ       0
+    x037004   GC433     1
+    x037004   GC1839    1
+    x037004   GC3245    1
+    x037004   GC4651    1
+    x037005   OBJ       0
+    x037005   GC499     1
+    x037005   GC1905    1
+    x037005   GC3311    1
+    x037005   GC4717    1
+    x037006   OBJ       0
+    x037006   GC563     1
+    x037006   GC1969    1
+    x037006   GC3375    1
+    x037006   GC4781    1
+    x037007   OBJ       0
+    x037007   GC625     1
+    x037007   GC2031    1
+    x037007   GC3437    1
+    x037007   GC4843    1
+    x037008   OBJ       0
+    x037008   GC685     1
+    x037008   GC2091    1
+    x037008   GC3497    1
+    x037008   GC4903    1
+    x037009   OBJ       0
+    x037009   GC743     1
+    x037009   GC2149    1
+    x037009   GC3555    1
+    x037009   GC4961    1
+    x037010   OBJ       0
+    x037010   GC799     1
+    x037010   GC2205    1
+    x037010   GC3611    1
+    x037010   GC5017    1
+    x037011   OBJ       0
+    x037011   GC853     1
+    x037011   GC2259    1
+    x037011   GC3665    1
+    x037011   GC5071    1
+    x037012   OBJ       0
+    x037012   GC905     1
+    x037012   GC2311    1
+    x037012   GC3717    1
+    x037012   GC5123    1
+    x037013   OBJ       0
+    x037013   GC955     1
+    x037013   GC2361    1
+    x037013   GC3767    1
+    x037013   GC5173    1
+    x037014   OBJ       0
+    x037014   GC1003    1
+    x037014   GC2409    1
+    x037014   GC3815    1
+    x037014   GC5221    1
+    x037015   OBJ       0
+    x037015   GC1049    1
+    x037015   GC2455    1
+    x037015   GC3861    1
+    x037015   GC5267    1
+    x037016   OBJ       0
+    x037016   GC1093    1
+    x037016   GC2499    1
+    x037016   GC3905    1
+    x037016   GC5311    1
+    x037017   OBJ       0
+    x037017   GC1135    1
+    x037017   GC2541    1
+    x037017   GC3947    1
+    x037017   GC5353    1
+    x037018   OBJ       0
+    x037018   GC1175    1
+    x037018   GC2581    1
+    x037018   GC3987    1
+    x037018   GC5393    1
+    x037019   OBJ       0
+    x037019   GC1213    1
+    x037019   GC2619    1
+    x037019   GC4025    1
+    x037019   GC5431    1
+    x037020   OBJ       0
+    x037020   GC1249    1
+    x037020   GC2655    1
+    x037020   GC4061    1
+    x037020   GC5467    1
+    x037021   OBJ       0
+    x037021   GC1283    1
+    x037021   GC2689    1
+    x037021   GC4095    1
+    x037021   GC5501    1
+    x037022   OBJ       0
+    x037022   GC1315    1
+    x037022   GC2721    1
+    x037022   GC4127    1
+    x037022   GC5533    1
+    x037023   OBJ       0
+    x037023   GC1345    1
+    x037023   GC2751    1
+    x037023   GC4157    1
+    x037023   GC5563    1
+    x037024   OBJ       0
+    x037024   GC1373    1
+    x037024   GC2779    1
+    x037024   GC4185    1
+    x037024   GC5591    1
+    x037025   OBJ       0
+    x037025   GC1399    1
+    x037025   GC2805    1
+    x037025   GC4211    1
+    x037025   GC5617    1
+    x037026   OBJ       0
+    x037026   GC1423    1
+    x037026   GC2829    1
+    x037026   GC4235    1
+    x037026   GC5641    1
+    x037027   OBJ       0
+    x037027   GC1445    1
+    x037027   GC2851    1
+    x037027   GC4257    1
+    x037027   GC5663    1
+    x037028   OBJ       0
+    x037028   GC1465    1
+    x037028   GC2871    1
+    x037028   GC4277    1
+    x037028   GC5683    1
+    x037029   OBJ       0
+    x037029   GC1483    1
+    x037029   GC2889    1
+    x037029   GC4295    1
+    x037029   GC5701    1
+    x037030   OBJ       0
+    x037030   GC1499    1
+    x037030   GC2905    1
+    x037030   GC4311    1
+    x037030   GC5717    1
+    x037031   OBJ       0
+    x037031   GC1513    1
+    x037031   GC2919    1
+    x037031   GC4325    1
+    x037031   GC5731    1
+    x037032   OBJ       0
+    x037032   GC1525    1
+    x037032   GC2931    1
+    x037032   GC4337    1
+    x037032   GC5743    1
+    x037033   OBJ       0
+    x037033   GC1535    1
+    x037033   GC2941    1
+    x037033   GC4347    1
+    x037033   GC5753    1
+    x037034   OBJ       0
+    x037034   GC1543    1
+    x037034   GC2949    1
+    x037034   GC4355    1
+    x037034   GC5761    1
+    x037035   OBJ       0
+    x037035   GC1549    1
+    x037035   GC2955    1
+    x037035   GC4361    1
+    x037035   GC5767    1
+    x037036   OBJ       0
+    x037036   GC1553    1
+    x037036   GC2959    1
+    x037036   GC4365    1
+    x037036   GC5771    1
+    x037038   OBJ       0
+    x037038   GC1557    1
+    x037038   GC2963    1
+    x037038   GC4369    1
+    x037038   GC5775    1
+    x038001   OBJ       0
+    x038001   GC225     1
+    x038001   GC1631    1
+    x038001   GC3037    1
+    x038001   GC4443    1
+    x038002   OBJ       0
+    x038002   GC297     1
+    x038002   GC1703    1
+    x038002   GC3109    1
+    x038002   GC4515    1
+    x038003   OBJ       0
+    x038003   GC367     1
+    x038003   GC1773    1
+    x038003   GC3179    1
+    x038003   GC4585    1
+    x038004   OBJ       0
+    x038004   GC435     1
+    x038004   GC1841    1
+    x038004   GC3247    1
+    x038004   GC4653    1
+    x038005   OBJ       0
+    x038005   GC501     1
+    x038005   GC1907    1
+    x038005   GC3313    1
+    x038005   GC4719    1
+    x038006   OBJ       0
+    x038006   GC565     1
+    x038006   GC1971    1
+    x038006   GC3377    1
+    x038006   GC4783    1
+    x038007   OBJ       0
+    x038007   GC627     1
+    x038007   GC2033    1
+    x038007   GC3439    1
+    x038007   GC4845    1
+    x038008   OBJ       0
+    x038008   GC687     1
+    x038008   GC2093    1
+    x038008   GC3499    1
+    x038008   GC4905    1
+    x038009   OBJ       0
+    x038009   GC745     1
+    x038009   GC2151    1
+    x038009   GC3557    1
+    x038009   GC4963    1
+    x038010   OBJ       0
+    x038010   GC801     1
+    x038010   GC2207    1
+    x038010   GC3613    1
+    x038010   GC5019    1
+    x038011   OBJ       0
+    x038011   GC855     1
+    x038011   GC2261    1
+    x038011   GC3667    1
+    x038011   GC5073    1
+    x038012   OBJ       0
+    x038012   GC907     1
+    x038012   GC2313    1
+    x038012   GC3719    1
+    x038012   GC5125    1
+    x038013   OBJ       0
+    x038013   GC957     1
+    x038013   GC2363    1
+    x038013   GC3769    1
+    x038013   GC5175    1
+    x038014   OBJ       0
+    x038014   GC1005    1
+    x038014   GC2411    1
+    x038014   GC3817    1
+    x038014   GC5223    1
+    x038015   OBJ       0
+    x038015   GC1051    1
+    x038015   GC2457    1
+    x038015   GC3863    1
+    x038015   GC5269    1
+    x038016   OBJ       0
+    x038016   GC1095    1
+    x038016   GC2501    1
+    x038016   GC3907    1
+    x038016   GC5313    1
+    x038017   OBJ       0
+    x038017   GC1137    1
+    x038017   GC2543    1
+    x038017   GC3949    1
+    x038017   GC5355    1
+    x038018   OBJ       0
+    x038018   GC1177    1
+    x038018   GC2583    1
+    x038018   GC3989    1
+    x038018   GC5395    1
+    x038019   OBJ       0
+    x038019   GC1215    1
+    x038019   GC2621    1
+    x038019   GC4027    1
+    x038019   GC5433    1
+    x038020   OBJ       0
+    x038020   GC1251    1
+    x038020   GC2657    1
+    x038020   GC4063    1
+    x038020   GC5469    1
+    x038021   OBJ       0
+    x038021   GC1285    1
+    x038021   GC2691    1
+    x038021   GC4097    1
+    x038021   GC5503    1
+    x038022   OBJ       0
+    x038022   GC1317    1
+    x038022   GC2723    1
+    x038022   GC4129    1
+    x038022   GC5535    1
+    x038023   OBJ       0
+    x038023   GC1347    1
+    x038023   GC2753    1
+    x038023   GC4159    1
+    x038023   GC5565    1
+    x038024   OBJ       0
+    x038024   GC1375    1
+    x038024   GC2781    1
+    x038024   GC4187    1
+    x038024   GC5593    1
+    x038025   OBJ       0
+    x038025   GC1401    1
+    x038025   GC2807    1
+    x038025   GC4213    1
+    x038025   GC5619    1
+    x038026   OBJ       0
+    x038026   GC1425    1
+    x038026   GC2831    1
+    x038026   GC4237    1
+    x038026   GC5643    1
+    x038027   OBJ       0
+    x038027   GC1447    1
+    x038027   GC2853    1
+    x038027   GC4259    1
+    x038027   GC5665    1
+    x038028   OBJ       0
+    x038028   GC1467    1
+    x038028   GC2873    1
+    x038028   GC4279    1
+    x038028   GC5685    1
+    x038029   OBJ       0
+    x038029   GC1485    1
+    x038029   GC2891    1
+    x038029   GC4297    1
+    x038029   GC5703    1
+    x038030   OBJ       0
+    x038030   GC1501    1
+    x038030   GC2907    1
+    x038030   GC4313    1
+    x038030   GC5719    1
+    x038031   OBJ       0
+    x038031   GC1515    1
+    x038031   GC2921    1
+    x038031   GC4327    1
+    x038031   GC5733    1
+    x038032   OBJ       0
+    x038032   GC1527    1
+    x038032   GC2933    1
+    x038032   GC4339    1
+    x038032   GC5745    1
+    x038033   OBJ       0
+    x038033   GC1537    1
+    x038033   GC2943    1
+    x038033   GC4349    1
+    x038033   GC5755    1
+    x038034   OBJ       0
+    x038034   GC1545    1
+    x038034   GC2951    1
+    x038034   GC4357    1
+    x038034   GC5763    1
+    x038035   OBJ       0
+    x038035   GC1551    1
+    x038035   GC2957    1
+    x038035   GC4363    1
+    x038035   GC5769    1
+    x038036   OBJ       0
+    x038036   GC1555    1
+    x038036   GC2961    1
+    x038036   GC4367    1
+    x038036   GC5773    1
+    x038037   OBJ       0
+    x038037   GC1557    1
+    x038037   GC2963    1
+    x038037   GC4369    1
+    x038037   GC5775    1
+    A000001   R53       1
+    A000002   R54       1
+    A000003   R55       1
+    A000004   R56       1
+    A000005   R57       1
+    A000006   R58       1
+    A000007   R59       1
+    A000008   R60       1
+    A000009   R61       1
+    A000010   R62       1
+    A000011   R63       1
+    A000012   R64       1
+    A000013   R65       1
+    A000014   R66       1
+    A000015   R67       1
+    A000016   R68       1
+    A000017   R69       1
+    A000018   R70       1
+    A000019   R71       1
+    A000020   R72       1
+    A000021   R73       1
+    A000022   R74       1
+    A000023   R75       1
+    A000024   R76       1
+    A000025   R77       1
+    A000026   R78       1
+    A000027   R79       1
+    A000028   R80       1
+    A000029   R81       1
+    A000030   R82       1
+    A000031   R83       1
+    A000032   R84       1
+    A000033   R85       1
+    A000034   R86       1
+    A000035   R87       1
+    A000036   R88       1
+    A000037   R89       1
+    A000038   R90       1
+    A001001   R53       1
+    A001002   R54       1
+    A001003   R55       1
+    A001004   R56       1
+    A001005   R57       1
+    A001006   R58       1
+    A001007   R59       1
+    A001008   R60       1
+    A001009   R61       1
+    A001010   R62       1
+    A001011   R63       1
+    A001012   R64       1
+    A001013   R65       1
+    A001014   R66       1
+    A001015   R67       1
+    A001016   R68       1
+    A001017   R69       1
+    A001018   R70       1
+    A001019   R71       1
+    A001020   R72       1
+    A001021   R73       1
+    A001022   R74       1
+    A001023   R75       1
+    A001024   R76       1
+    A001025   R77       1
+    A001026   R78       1
+    A001027   R79       1
+    A001028   R80       1
+    A001029   R81       1
+    A001030   R82       1
+    A001031   R83       1
+    A001032   R84       1
+    A001033   R85       1
+    A001034   R86       1
+    A001035   R87       1
+    A001036   R88       1
+    A001037   R89       1
+    A001038   R90       1
+    A002001   R53       1
+    A002002   R54       1
+    A002003   R55       1
+    A002004   R56       1
+    A002005   R57       1
+    A002006   R58       1
+    A002007   R59       1
+    A002008   R60       1
+    A002009   R61       1
+    A002010   R62       1
+    A002011   R63       1
+    A002012   R64       1
+    A002013   R65       1
+    A002014   R66       1
+    A002015   R67       1
+    A002016   R68       1
+    A002017   R69       1
+    A002018   R70       1
+    A002019   R71       1
+    A002020   R72       1
+    A002021   R73       1
+    A002022   R74       1
+    A002023   R75       1
+    A002024   R76       1
+    A002025   R77       1
+    A002026   R78       1
+    A002027   R79       1
+    A002028   R80       1
+    A002029   R81       1
+    A002030   R82       1
+    A002031   R83       1
+    A002032   R84       1
+    A002033   R85       1
+    A002034   R86       1
+    A002035   R87       1
+    A002036   R88       1
+    A002037   R89       1
+    A002038   R90       1
+    A003001   R53       1
+    A003002   R54       1
+    A003003   R55       1
+    A003004   R56       1
+    A003005   R57       1
+    A003006   R58       1
+    A003007   R59       1
+    A003008   R60       1
+    A003009   R61       1
+    A003010   R62       1
+    A003011   R63       1
+    A003012   R64       1
+    A003013   R65       1
+    A003014   R66       1
+    A003015   R67       1
+    A003016   R68       1
+    A003017   R69       1
+    A003018   R70       1
+    A003019   R71       1
+    A003020   R72       1
+    A003021   R73       1
+    A003022   R74       1
+    A003023   R75       1
+    A003024   R76       1
+    A003025   R77       1
+    A003026   R78       1
+    A003027   R79       1
+    A003028   R80       1
+    A003029   R81       1
+    A003030   R82       1
+    A003031   R83       1
+    A003032   R84       1
+    A003033   R85       1
+    A003034   R86       1
+    A003035   R87       1
+    A003036   R88       1
+    A003037   R89       1
+    A003038   R90       1
+    A000001002  OBJ       0
+    A000001003  OBJ       0
+    A000001004  OBJ       0
+    A000001005  OBJ       0
+    A000001006  OBJ       0
+    A000001007  OBJ       0
+    A000001008  OBJ       0
+    A000001009  OBJ       0
+    A000001010  OBJ       0
+    A000001011  OBJ       0
+    A000001012  OBJ       0
+    A000001013  OBJ       0
+    A000001014  OBJ       0
+    A000001015  OBJ       0
+    A000001016  OBJ       0
+    A000001017  OBJ       0
+    A000001018  OBJ       0
+    A000001019  OBJ       0
+    A000001020  OBJ       0
+    A000001021  OBJ       0
+    A000001022  OBJ       0
+    A000001023  OBJ       0
+    A000001024  OBJ       0
+    A000001025  OBJ       0
+    A000001026  OBJ       0
+    A000001027  OBJ       0
+    A000001028  OBJ       0
+    A000001029  OBJ       0
+    A000001030  OBJ       0
+    A000001031  OBJ       0
+    A000001032  OBJ       0
+    A000001033  OBJ       0
+    A000001034  OBJ       0
+    A000001035  OBJ       0
+    A000001036  OBJ       0
+    A000001037  OBJ       0
+    A000001038  OBJ       0
+    A000002003  OBJ       0
+    A000002004  OBJ       0
+    A000002005  OBJ       0
+    A000002006  OBJ       0
+    A000002007  OBJ       0
+    A000002008  OBJ       0
+    A000002009  OBJ       0
+    A000002010  OBJ       0
+    A000002011  OBJ       0
+    A000002012  OBJ       0
+    A000002013  OBJ       0
+    A000002014  OBJ       0
+    A000002015  OBJ       0
+    A000002016  OBJ       0
+    A000002017  OBJ       0
+    A000002018  OBJ       0
+    A000002019  OBJ       0
+    A000002020  OBJ       0
+    A000002021  OBJ       0
+    A000002022  OBJ       0
+    A000002023  OBJ       0
+    A000002024  OBJ       0
+    A000002025  OBJ       0
+    A000002026  OBJ       0
+    A000002027  OBJ       0
+    A000002028  OBJ       0
+    A000002029  OBJ       0
+    A000002030  OBJ       0
+    A000002031  OBJ       0
+    A000002032  OBJ       0
+    A000002033  OBJ       0
+    A000002034  OBJ       0
+    A000002035  OBJ       0
+    A000002036  OBJ       0
+    A000002037  OBJ       0
+    A000002038  OBJ       0
+    A000003004  OBJ       0
+    A000003005  OBJ       0
+    A000003006  OBJ       0
+    A000003007  OBJ       0
+    A000003008  OBJ       0
+    A000003009  OBJ       0
+    A000003010  OBJ       0
+    A000003011  OBJ       0
+    A000003012  OBJ       0
+    A000003013  OBJ       0
+    A000003014  OBJ       0
+    A000003015  OBJ       0
+    A000003016  OBJ       0
+    A000003017  OBJ       0
+    A000003018  OBJ       0
+    A000003019  OBJ       0
+    A000003020  OBJ       0
+    A000003021  OBJ       0
+    A000003022  OBJ       0
+    A000003023  OBJ       0
+    A000003024  OBJ       0
+    A000003025  OBJ       0
+    A000003026  OBJ       0
+    A000003027  OBJ       0
+    A000003028  OBJ       0
+    A000003029  OBJ       0
+    A000003030  OBJ       0
+    A000003031  OBJ       0
+    A000003032  OBJ       0
+    A000003033  OBJ       0
+    A000003034  OBJ       0
+    A000003035  OBJ       0
+    A000003036  OBJ       0
+    A000003037  OBJ       0
+    A000003038  OBJ       0
+    A000004005  OBJ       0
+    A000004006  OBJ       0
+    A000004007  OBJ       0
+    A000004008  OBJ       0
+    A000004009  OBJ       0
+    A000004010  OBJ       0
+    A000004011  OBJ       0
+    A000004012  OBJ       0
+    A000004013  OBJ       0
+    A000004014  OBJ       0
+    A000004015  OBJ       0
+    A000004016  OBJ       0
+    A000004017  OBJ       0
+    A000004018  OBJ       0
+    A000004019  OBJ       0
+    A000004020  OBJ       0
+    A000004021  OBJ       0
+    A000004022  OBJ       0
+    A000004023  OBJ       0
+    A000004024  OBJ       0
+    A000004025  OBJ       0
+    A000004026  OBJ       0
+    A000004027  OBJ       0
+    A000004028  OBJ       0
+    A000004029  OBJ       0
+    A000004030  OBJ       0
+    A000004031  OBJ       0
+    A000004032  OBJ       0
+    A000004033  OBJ       0
+    A000004034  OBJ       0
+    A000004035  OBJ       0
+    A000004036  OBJ       0
+    A000004037  OBJ       0
+    A000004038  OBJ       0
+    A000005006  OBJ       0
+    A000005007  OBJ       0
+    A000005008  OBJ       0
+    A000005009  OBJ       0
+    A000005010  OBJ       0
+    A000005011  OBJ       0
+    A000005012  OBJ       0
+    A000005013  OBJ       0
+    A000005014  OBJ       0
+    A000005015  OBJ       0
+    A000005016  OBJ       0
+    A000005017  OBJ       0
+    A000005018  OBJ       0
+    A000005019  OBJ       0
+    A000005020  OBJ       0
+    A000005021  OBJ       0
+    A000005022  OBJ       0
+    A000005023  OBJ       0
+    A000005024  OBJ       0
+    A000005025  OBJ       0
+    A000005026  OBJ       0
+    A000005027  OBJ       0
+    A000005028  OBJ       0
+    A000005029  OBJ       0
+    A000005030  OBJ       0
+    A000005031  OBJ       0
+    A000005032  OBJ       0
+    A000005033  OBJ       0
+    A000005034  OBJ       0
+    A000005035  OBJ       0
+    A000005036  OBJ       0
+    A000005037  OBJ       0
+    A000005038  OBJ       0
+    A000006007  OBJ       0
+    A000006008  OBJ       0
+    A000006009  OBJ       0
+    A000006010  OBJ       0
+    A000006011  OBJ       0
+    A000006012  OBJ       0
+    A000006013  OBJ       0
+    A000006014  OBJ       0
+    A000006015  OBJ       0
+    A000006016  OBJ       0
+    A000006017  OBJ       0
+    A000006018  OBJ       0
+    A000006019  OBJ       0
+    A000006020  OBJ       0
+    A000006021  OBJ       0
+    A000006022  OBJ       0
+    A000006023  OBJ       0
+    A000006024  OBJ       0
+    A000006025  OBJ       0
+    A000006026  OBJ       0
+    A000006027  OBJ       0
+    A000006028  OBJ       0
+    A000006029  OBJ       0
+    A000006030  OBJ       0
+    A000006031  OBJ       0
+    A000006032  OBJ       0
+    A000006033  OBJ       0
+    A000006034  OBJ       0
+    A000006035  OBJ       0
+    A000006036  OBJ       0
+    A000006037  OBJ       0
+    A000006038  OBJ       0
+    A000007008  OBJ       0
+    A000007009  OBJ       0
+    A000007010  OBJ       0
+    A000007011  OBJ       0
+    A000007012  OBJ       0
+    A000007013  OBJ       0
+    A000007014  OBJ       0
+    A000007015  OBJ       0
+    A000007016  OBJ       0
+    A000007017  OBJ       0
+    A000007018  OBJ       0
+    A000007019  OBJ       0
+    A000007020  OBJ       0
+    A000007021  OBJ       0
+    A000007022  OBJ       0
+    A000007023  OBJ       0
+    A000007024  OBJ       0
+    A000007025  OBJ       0
+    A000007026  OBJ       0
+    A000007027  OBJ       0
+    A000007028  OBJ       0
+    A000007029  OBJ       0
+    A000007030  OBJ       0
+    A000007031  OBJ       0
+    A000007032  OBJ       0
+    A000007033  OBJ       0
+    A000007034  OBJ       0
+    A000007035  OBJ       0
+    A000007036  OBJ       0
+    A000007037  OBJ       0
+    A000007038  OBJ       0
+    A000008009  OBJ       0
+    A000008010  OBJ       0
+    A000008011  OBJ       0
+    A000008012  OBJ       0
+    A000008013  OBJ       0
+    A000008014  OBJ       0
+    A000008015  OBJ       0
+    A000008016  OBJ       0
+    A000008017  OBJ       0
+    A000008018  OBJ       0
+    A000008019  OBJ       0
+    A000008020  OBJ       0
+    A000008021  OBJ       0
+    A000008022  OBJ       0
+    A000008023  OBJ       0
+    A000008024  OBJ       0
+    A000008025  OBJ       0
+    A000008026  OBJ       0
+    A000008027  OBJ       0
+    A000008028  OBJ       0
+    A000008029  OBJ       0
+    A000008030  OBJ       0
+    A000008031  OBJ       0
+    A000008032  OBJ       0
+    A000008033  OBJ       0
+    A000008034  OBJ       0
+    A000008035  OBJ       0
+    A000008036  OBJ       0
+    A000008037  OBJ       0
+    A000008038  OBJ       0
+    A000009010  OBJ       0
+    A000009011  OBJ       0
+    A000009012  OBJ       0
+    A000009013  OBJ       0
+    A000009014  OBJ       0
+    A000009015  OBJ       0
+    A000009016  OBJ       0
+    A000009017  OBJ       0
+    A000009018  OBJ       0
+    A000009019  OBJ       0
+    A000009020  OBJ       0
+    A000009021  OBJ       0
+    A000009022  OBJ       0
+    A000009023  OBJ       0
+    A000009024  OBJ       0
+    A000009025  OBJ       0
+    A000009026  OBJ       0
+    A000009027  OBJ       0
+    A000009028  OBJ       0
+    A000009029  OBJ       0
+    A000009030  OBJ       0
+    A000009031  OBJ       0
+    A000009032  OBJ       0
+    A000009033  OBJ       0
+    A000009034  OBJ       0
+    A000009035  OBJ       0
+    A000009036  OBJ       0
+    A000009037  OBJ       0
+    A000009038  OBJ       0
+    A000010011  OBJ       0
+    A000010012  OBJ       0
+    A000010013  OBJ       0
+    A000010014  OBJ       0
+    A000010015  OBJ       0
+    A000010016  OBJ       0
+    A000010017  OBJ       0
+    A000010018  OBJ       0
+    A000010019  OBJ       0
+    A000010020  OBJ       0
+    A000010021  OBJ       0
+    A000010022  OBJ       0
+    A000010023  OBJ       0
+    A000010024  OBJ       0
+    A000010025  OBJ       0
+    A000010026  OBJ       0
+    A000010027  OBJ       0
+    A000010028  OBJ       0
+    A000010029  OBJ       0
+    A000010030  OBJ       0
+    A000010031  OBJ       0
+    A000010032  OBJ       0
+    A000010033  OBJ       0
+    A000010034  OBJ       0
+    A000010035  OBJ       0
+    A000010036  OBJ       0
+    A000010037  OBJ       0
+    A000010038  OBJ       0
+    A000011012  OBJ       0
+    A000011013  OBJ       0
+    A000011014  OBJ       0
+    A000011015  OBJ       0
+    A000011016  OBJ       0
+    A000011017  OBJ       0
+    A000011018  OBJ       0
+    A000011019  OBJ       0
+    A000011020  OBJ       0
+    A000011021  OBJ       0
+    A000011022  OBJ       0
+    A000011023  OBJ       0
+    A000011024  OBJ       0
+    A000011025  OBJ       0
+    A000011026  OBJ       0
+    A000011027  OBJ       0
+    A000011028  OBJ       0
+    A000011029  OBJ       0
+    A000011030  OBJ       0
+    A000011031  OBJ       0
+    A000011032  OBJ       0
+    A000011033  OBJ       0
+    A000011034  OBJ       0
+    A000011035  OBJ       0
+    A000011036  OBJ       0
+    A000011037  OBJ       0
+    A000011038  OBJ       0
+    A000012013  OBJ       0
+    A000012014  OBJ       0
+    A000012015  OBJ       0
+    A000012016  OBJ       0
+    A000012017  OBJ       0
+    A000012018  OBJ       0
+    A000012019  OBJ       0
+    A000012020  OBJ       0
+    A000012021  OBJ       0
+    A000012022  OBJ       0
+    A000012023  OBJ       0
+    A000012024  OBJ       0
+    A000012025  OBJ       0
+    A000012026  OBJ       0
+    A000012027  OBJ       0
+    A000012028  OBJ       0
+    A000012029  OBJ       0
+    A000012030  OBJ       0
+    A000012031  OBJ       0
+    A000012032  OBJ       0
+    A000012033  OBJ       0
+    A000012034  OBJ       0
+    A000012035  OBJ       0
+    A000012036  OBJ       0
+    A000012037  OBJ       0
+    A000012038  OBJ       0
+    A000013014  OBJ       0
+    A000013015  OBJ       0
+    A000013016  OBJ       0
+    A000013017  OBJ       0
+    A000013018  OBJ       0
+    A000013019  OBJ       0
+    A000013020  OBJ       0
+    A000013021  OBJ       0
+    A000013022  OBJ       0
+    A000013023  OBJ       0
+    A000013024  OBJ       0
+    A000013025  OBJ       0
+    A000013026  OBJ       0
+    A000013027  OBJ       0
+    A000013028  OBJ       0
+    A000013029  OBJ       0
+    A000013030  OBJ       0
+    A000013031  OBJ       0
+    A000013032  OBJ       0
+    A000013033  OBJ       0
+    A000013034  OBJ       0
+    A000013035  OBJ       0
+    A000013036  OBJ       0
+    A000013037  OBJ       0
+    A000013038  OBJ       0
+    A000014015  OBJ       0
+    A000014016  OBJ       0
+    A000014017  OBJ       0
+    A000014018  OBJ       0
+    A000014019  OBJ       0
+    A000014020  OBJ       0
+    A000014021  OBJ       0
+    A000014022  OBJ       0
+    A000014023  OBJ       0
+    A000014024  OBJ       0
+    A000014025  OBJ       0
+    A000014026  OBJ       0
+    A000014027  OBJ       0
+    A000014028  OBJ       0
+    A000014029  OBJ       0
+    A000014030  OBJ       0
+    A000014031  OBJ       0
+    A000014032  OBJ       0
+    A000014033  OBJ       0
+    A000014034  OBJ       0
+    A000014035  OBJ       0
+    A000014036  OBJ       0
+    A000014037  OBJ       0
+    A000014038  OBJ       0
+    A000015016  OBJ       0
+    A000015017  OBJ       0
+    A000015018  OBJ       0
+    A000015019  OBJ       0
+    A000015020  OBJ       0
+    A000015021  OBJ       0
+    A000015022  OBJ       0
+    A000015023  OBJ       0
+    A000015024  OBJ       0
+    A000015025  OBJ       0
+    A000015026  OBJ       0
+    A000015027  OBJ       0
+    A000015028  OBJ       0
+    A000015029  OBJ       0
+    A000015030  OBJ       0
+    A000015031  OBJ       0
+    A000015032  OBJ       0
+    A000015033  OBJ       0
+    A000015034  OBJ       0
+    A000015035  OBJ       0
+    A000015036  OBJ       0
+    A000015037  OBJ       0
+    A000015038  OBJ       0
+    A000016017  OBJ       0
+    A000016018  OBJ       0
+    A000016019  OBJ       0
+    A000016020  OBJ       0
+    A000016021  OBJ       0
+    A000016022  OBJ       0
+    A000016023  OBJ       0
+    A000016024  OBJ       0
+    A000016025  OBJ       0
+    A000016026  OBJ       0
+    A000016027  OBJ       0
+    A000016028  OBJ       0
+    A000016029  OBJ       0
+    A000016030  OBJ       0
+    A000016031  OBJ       0
+    A000016032  OBJ       0
+    A000016033  OBJ       0
+    A000016034  OBJ       0
+    A000016035  OBJ       0
+    A000016036  OBJ       0
+    A000016037  OBJ       0
+    A000016038  OBJ       0
+    A000017018  OBJ       0
+    A000017019  OBJ       0
+    A000017020  OBJ       0
+    A000017021  OBJ       0
+    A000017022  OBJ       0
+    A000017023  OBJ       0
+    A000017024  OBJ       0
+    A000017025  OBJ       0
+    A000017026  OBJ       0
+    A000017027  OBJ       0
+    A000017028  OBJ       0
+    A000017029  OBJ       0
+    A000017030  OBJ       0
+    A000017031  OBJ       0
+    A000017032  OBJ       0
+    A000017033  OBJ       0
+    A000017034  OBJ       0
+    A000017035  OBJ       0
+    A000017036  OBJ       0
+    A000017037  OBJ       0
+    A000017038  OBJ       0
+    A000018019  OBJ       0
+    A000018020  OBJ       0
+    A000018021  OBJ       0
+    A000018022  OBJ       0
+    A000018023  OBJ       0
+    A000018024  OBJ       0
+    A000018025  OBJ       0
+    A000018026  OBJ       0
+    A000018027  OBJ       0
+    A000018028  OBJ       0
+    A000018029  OBJ       0
+    A000018030  OBJ       0
+    A000018031  OBJ       0
+    A000018032  OBJ       0
+    A000018033  OBJ       0
+    A000018034  OBJ       0
+    A000018035  OBJ       0
+    A000018036  OBJ       0
+    A000018037  OBJ       0
+    A000018038  OBJ       0
+    A000019020  OBJ       0
+    A000019021  OBJ       0
+    A000019022  OBJ       0
+    A000019023  OBJ       0
+    A000019024  OBJ       0
+    A000019025  OBJ       0
+    A000019026  OBJ       0
+    A000019027  OBJ       0
+    A000019028  OBJ       0
+    A000019029  OBJ       0
+    A000019030  OBJ       0
+    A000019031  OBJ       0
+    A000019032  OBJ       0
+    A000019033  OBJ       0
+    A000019034  OBJ       0
+    A000019035  OBJ       0
+    A000019036  OBJ       0
+    A000019037  OBJ       0
+    A000019038  OBJ       0
+    A000020021  OBJ       0
+    A000020022  OBJ       0
+    A000020023  OBJ       0
+    A000020024  OBJ       0
+    A000020025  OBJ       0
+    A000020026  OBJ       0
+    A000020027  OBJ       0
+    A000020028  OBJ       0
+    A000020029  OBJ       0
+    A000020030  OBJ       0
+    A000020031  OBJ       0
+    A000020032  OBJ       0
+    A000020033  OBJ       0
+    A000020034  OBJ       0
+    A000020035  OBJ       0
+    A000020036  OBJ       0
+    A000020037  OBJ       0
+    A000020038  OBJ       0
+    A000021022  OBJ       0
+    A000021023  OBJ       0
+    A000021024  OBJ       0
+    A000021025  OBJ       0
+    A000021026  OBJ       0
+    A000021027  OBJ       0
+    A000021028  OBJ       0
+    A000021029  OBJ       0
+    A000021030  OBJ       0
+    A000021031  OBJ       0
+    A000021032  OBJ       0
+    A000021033  OBJ       0
+    A000021034  OBJ       0
+    A000021035  OBJ       0
+    A000021036  OBJ       0
+    A000021037  OBJ       0
+    A000021038  OBJ       0
+    A000022023  OBJ       0
+    A000022024  OBJ       0
+    A000022025  OBJ       0
+    A000022026  OBJ       0
+    A000022027  OBJ       0
+    A000022028  OBJ       0
+    A000022029  OBJ       0
+    A000022030  OBJ       0
+    A000022031  OBJ       0
+    A000022032  OBJ       0
+    A000022033  OBJ       0
+    A000022034  OBJ       0
+    A000022035  OBJ       0
+    A000022036  OBJ       0
+    A000022037  OBJ       0
+    A000022038  OBJ       0
+    A000023024  OBJ       0
+    A000023025  OBJ       0
+    A000023026  OBJ       0
+    A000023027  OBJ       0
+    A000023028  OBJ       0
+    A000023029  OBJ       0
+    A000023030  OBJ       0
+    A000023031  OBJ       0
+    A000023032  OBJ       0
+    A000023033  OBJ       0
+    A000023034  OBJ       0
+    A000023035  OBJ       0
+    A000023036  OBJ       0
+    A000023037  OBJ       0
+    A000023038  OBJ       0
+    A000024025  OBJ       0
+    A000024026  OBJ       0
+    A000024027  OBJ       0
+    A000024028  OBJ       0
+    A000024029  OBJ       0
+    A000024030  OBJ       0
+    A000024031  OBJ       0
+    A000024032  OBJ       0
+    A000024033  OBJ       0
+    A000024034  OBJ       0
+    A000024035  OBJ       0
+    A000024036  OBJ       0
+    A000024037  OBJ       0
+    A000024038  OBJ       0
+    A000025026  OBJ       0
+    A000025027  OBJ       0
+    A000025028  OBJ       0
+    A000025029  OBJ       0
+    A000025030  OBJ       0
+    A000025031  OBJ       0
+    A000025032  OBJ       0
+    A000025033  OBJ       0
+    A000025034  OBJ       0
+    A000025035  OBJ       0
+    A000025036  OBJ       0
+    A000025037  OBJ       0
+    A000025038  OBJ       0
+    A000026027  OBJ       0
+    A000026028  OBJ       0
+    A000026029  OBJ       0
+    A000026030  OBJ       0
+    A000026031  OBJ       0
+    A000026032  OBJ       0
+    A000026033  OBJ       0
+    A000026034  OBJ       0
+    A000026035  OBJ       0
+    A000026036  OBJ       0
+    A000026037  OBJ       0
+    A000026038  OBJ       0
+    A000027028  OBJ       0
+    A000027029  OBJ       0
+    A000027030  OBJ       0
+    A000027031  OBJ       0
+    A000027032  OBJ       0
+    A000027033  OBJ       0
+    A000027034  OBJ       0
+    A000027035  OBJ       0
+    A000027036  OBJ       0
+    A000027037  OBJ       0
+    A000027038  OBJ       0
+    A000028029  OBJ       0
+    A000028030  OBJ       0
+    A000028031  OBJ       0
+    A000028032  OBJ       0
+    A000028033  OBJ       0
+    A000028034  OBJ       0
+    A000028035  OBJ       0
+    A000028036  OBJ       0
+    A000028037  OBJ       0
+    A000028038  OBJ       0
+    A000029030  OBJ       0
+    A000029031  OBJ       0
+    A000029032  OBJ       0
+    A000029033  OBJ       0
+    A000029034  OBJ       0
+    A000029035  OBJ       0
+    A000029036  OBJ       0
+    A000029037  OBJ       0
+    A000029038  OBJ       0
+    A000030031  OBJ       0
+    A000030032  OBJ       0
+    A000030033  OBJ       0
+    A000030034  OBJ       0
+    A000030035  OBJ       0
+    A000030036  OBJ       0
+    A000030037  OBJ       0
+    A000030038  OBJ       0
+    A000031032  OBJ       0
+    A000031033  OBJ       0
+    A000031034  OBJ       0
+    A000031035  OBJ       0
+    A000031036  OBJ       0
+    A000031037  OBJ       0
+    A000031038  OBJ       0
+    A000032033  OBJ       0
+    A000032034  OBJ       0
+    A000032035  OBJ       0
+    A000032036  OBJ       0
+    A000032037  OBJ       0
+    A000032038  OBJ       0
+    A000033034  OBJ       0
+    A000033035  OBJ       0
+    A000033036  OBJ       0
+    A000033037  OBJ       0
+    A000033038  OBJ       0
+    A000034035  OBJ       0
+    A000034036  OBJ       0
+    A000034037  OBJ       0
+    A000034038  OBJ       0
+    A000035036  OBJ       0
+    A000035037  OBJ       0
+    A000035038  OBJ       0
+    A000036037  OBJ       0
+    A000036038  OBJ       0
+    A000037038  OBJ       0
+    A001001002  OBJ       0
+    A001001003  OBJ       0
+    A001001004  OBJ       0
+    A001001005  OBJ       0
+    A001001006  OBJ       0
+    A001001007  OBJ       0
+    A001001008  OBJ       0
+    A001001009  OBJ       0
+    A001001010  OBJ       0
+    A001001011  OBJ       0
+    A001001012  OBJ       0
+    A001001013  OBJ       0
+    A001001014  OBJ       0
+    A001001015  OBJ       0
+    A001001016  OBJ       0
+    A001001017  OBJ       0
+    A001001018  OBJ       0
+    A001001019  OBJ       0
+    A001001020  OBJ       0
+    A001001021  OBJ       0
+    A001001022  OBJ       0
+    A001001023  OBJ       0
+    A001001024  OBJ       0
+    A001001025  OBJ       0
+    A001001026  OBJ       0
+    A001001027  OBJ       0
+    A001001028  OBJ       0
+    A001001029  OBJ       0
+    A001001030  OBJ       0
+    A001001031  OBJ       0
+    A001001032  OBJ       0
+    A001001033  OBJ       0
+    A001001034  OBJ       0
+    A001001035  OBJ       0
+    A001001036  OBJ       0
+    A001001037  OBJ       0
+    A001001038  OBJ       0
+    A001002003  OBJ       0
+    A001002004  OBJ       0
+    A001002005  OBJ       0
+    A001002006  OBJ       0
+    A001002007  OBJ       0
+    A001002008  OBJ       0
+    A001002009  OBJ       0
+    A001002010  OBJ       0
+    A001002011  OBJ       0
+    A001002012  OBJ       0
+    A001002013  OBJ       0
+    A001002014  OBJ       0
+    A001002015  OBJ       0
+    A001002016  OBJ       0
+    A001002017  OBJ       0
+    A001002018  OBJ       0
+    A001002019  OBJ       0
+    A001002020  OBJ       0
+    A001002021  OBJ       0
+    A001002022  OBJ       0
+    A001002023  OBJ       0
+    A001002024  OBJ       0
+    A001002025  OBJ       0
+    A001002026  OBJ       0
+    A001002027  OBJ       0
+    A001002028  OBJ       0
+    A001002029  OBJ       0
+    A001002030  OBJ       0
+    A001002031  OBJ       0
+    A001002032  OBJ       0
+    A001002033  OBJ       0
+    A001002034  OBJ       0
+    A001002035  OBJ       0
+    A001002036  OBJ       0
+    A001002037  OBJ       0
+    A001002038  OBJ       0
+    A001003004  OBJ       0
+    A001003005  OBJ       0
+    A001003006  OBJ       0
+    A001003007  OBJ       0
+    A001003008  OBJ       0
+    A001003009  OBJ       0
+    A001003010  OBJ       0
+    A001003011  OBJ       0
+    A001003012  OBJ       0
+    A001003013  OBJ       0
+    A001003014  OBJ       0
+    A001003015  OBJ       0
+    A001003016  OBJ       0
+    A001003017  OBJ       0
+    A001003018  OBJ       0
+    A001003019  OBJ       0
+    A001003020  OBJ       0
+    A001003021  OBJ       0
+    A001003022  OBJ       0
+    A001003023  OBJ       0
+    A001003024  OBJ       0
+    A001003025  OBJ       0
+    A001003026  OBJ       0
+    A001003027  OBJ       0
+    A001003028  OBJ       0
+    A001003029  OBJ       0
+    A001003030  OBJ       0
+    A001003031  OBJ       0
+    A001003032  OBJ       0
+    A001003033  OBJ       0
+    A001003034  OBJ       0
+    A001003035  OBJ       0
+    A001003036  OBJ       0
+    A001003037  OBJ       0
+    A001003038  OBJ       0
+    A001004005  OBJ       0
+    A001004006  OBJ       0
+    A001004007  OBJ       0
+    A001004008  OBJ       0
+    A001004009  OBJ       0
+    A001004010  OBJ       0
+    A001004011  OBJ       0
+    A001004012  OBJ       0
+    A001004013  OBJ       0
+    A001004014  OBJ       0
+    A001004015  OBJ       0
+    A001004016  OBJ       0
+    A001004017  OBJ       0
+    A001004018  OBJ       0
+    A001004019  OBJ       0
+    A001004020  OBJ       0
+    A001004021  OBJ       0
+    A001004022  OBJ       0
+    A001004023  OBJ       0
+    A001004024  OBJ       0
+    A001004025  OBJ       0
+    A001004026  OBJ       0
+    A001004027  OBJ       0
+    A001004028  OBJ       0
+    A001004029  OBJ       0
+    A001004030  OBJ       0
+    A001004031  OBJ       0
+    A001004032  OBJ       0
+    A001004033  OBJ       0
+    A001004034  OBJ       0
+    A001004035  OBJ       0
+    A001004036  OBJ       0
+    A001004037  OBJ       0
+    A001004038  OBJ       0
+    A001005006  OBJ       0
+    A001005007  OBJ       0
+    A001005008  OBJ       0
+    A001005009  OBJ       0
+    A001005010  OBJ       0
+    A001005011  OBJ       0
+    A001005012  OBJ       0
+    A001005013  OBJ       0
+    A001005014  OBJ       0
+    A001005015  OBJ       0
+    A001005016  OBJ       0
+    A001005017  OBJ       0
+    A001005018  OBJ       0
+    A001005019  OBJ       0
+    A001005020  OBJ       0
+    A001005021  OBJ       0
+    A001005022  OBJ       0
+    A001005023  OBJ       0
+    A001005024  OBJ       0
+    A001005025  OBJ       0
+    A001005026  OBJ       0
+    A001005027  OBJ       0
+    A001005028  OBJ       0
+    A001005029  OBJ       0
+    A001005030  OBJ       0
+    A001005031  OBJ       0
+    A001005032  OBJ       0
+    A001005033  OBJ       0
+    A001005034  OBJ       0
+    A001005035  OBJ       0
+    A001005036  OBJ       0
+    A001005037  OBJ       0
+    A001005038  OBJ       0
+    A001006007  OBJ       0
+    A001006008  OBJ       0
+    A001006009  OBJ       0
+    A001006010  OBJ       0
+    A001006011  OBJ       0
+    A001006012  OBJ       0
+    A001006013  OBJ       0
+    A001006014  OBJ       0
+    A001006015  OBJ       0
+    A001006016  OBJ       0
+    A001006017  OBJ       0
+    A001006018  OBJ       0
+    A001006019  OBJ       0
+    A001006020  OBJ       0
+    A001006021  OBJ       0
+    A001006022  OBJ       0
+    A001006023  OBJ       0
+    A001006024  OBJ       0
+    A001006025  OBJ       0
+    A001006026  OBJ       0
+    A001006027  OBJ       0
+    A001006028  OBJ       0
+    A001006029  OBJ       0
+    A001006030  OBJ       0
+    A001006031  OBJ       0
+    A001006032  OBJ       0
+    A001006033  OBJ       0
+    A001006034  OBJ       0
+    A001006035  OBJ       0
+    A001006036  OBJ       0
+    A001006037  OBJ       0
+    A001006038  OBJ       0
+    A001007008  OBJ       0
+    A001007009  OBJ       0
+    A001007010  OBJ       0
+    A001007011  OBJ       0
+    A001007012  OBJ       0
+    A001007013  OBJ       0
+    A001007014  OBJ       0
+    A001007015  OBJ       0
+    A001007016  OBJ       0
+    A001007017  OBJ       0
+    A001007018  OBJ       0
+    A001007019  OBJ       0
+    A001007020  OBJ       0
+    A001007021  OBJ       0
+    A001007022  OBJ       0
+    A001007023  OBJ       0
+    A001007024  OBJ       0
+    A001007025  OBJ       0
+    A001007026  OBJ       0
+    A001007027  OBJ       0
+    A001007028  OBJ       0
+    A001007029  OBJ       0
+    A001007030  OBJ       0
+    A001007031  OBJ       0
+    A001007032  OBJ       0
+    A001007033  OBJ       0
+    A001007034  OBJ       0
+    A001007035  OBJ       0
+    A001007036  OBJ       0
+    A001007037  OBJ       0
+    A001007038  OBJ       0
+    A001008009  OBJ       0
+    A001008010  OBJ       0
+    A001008011  OBJ       0
+    A001008012  OBJ       0
+    A001008013  OBJ       0
+    A001008014  OBJ       0
+    A001008015  OBJ       0
+    A001008016  OBJ       0
+    A001008017  OBJ       0
+    A001008018  OBJ       0
+    A001008019  OBJ       0
+    A001008020  OBJ       0
+    A001008021  OBJ       0
+    A001008022  OBJ       0
+    A001008023  OBJ       0
+    A001008024  OBJ       0
+    A001008025  OBJ       0
+    A001008026  OBJ       0
+    A001008027  OBJ       0
+    A001008028  OBJ       0
+    A001008029  OBJ       0
+    A001008030  OBJ       0
+    A001008031  OBJ       0
+    A001008032  OBJ       0
+    A001008033  OBJ       0
+    A001008034  OBJ       0
+    A001008035  OBJ       0
+    A001008036  OBJ       0
+    A001008037  OBJ       0
+    A001008038  OBJ       0
+    A001009010  OBJ       0
+    A001009011  OBJ       0
+    A001009012  OBJ       0
+    A001009013  OBJ       0
+    A001009014  OBJ       0
+    A001009015  OBJ       0
+    A001009016  OBJ       0
+    A001009017  OBJ       0
+    A001009018  OBJ       0
+    A001009019  OBJ       0
+    A001009020  OBJ       0
+    A001009021  OBJ       0
+    A001009022  OBJ       0
+    A001009023  OBJ       0
+    A001009024  OBJ       0
+    A001009025  OBJ       0
+    A001009026  OBJ       0
+    A001009027  OBJ       0
+    A001009028  OBJ       0
+    A001009029  OBJ       0
+    A001009030  OBJ       0
+    A001009031  OBJ       0
+    A001009032  OBJ       0
+    A001009033  OBJ       0
+    A001009034  OBJ       0
+    A001009035  OBJ       0
+    A001009036  OBJ       0
+    A001009037  OBJ       0
+    A001009038  OBJ       0
+    A001010011  OBJ       0
+    A001010012  OBJ       0
+    A001010013  OBJ       0
+    A001010014  OBJ       0
+    A001010015  OBJ       0
+    A001010016  OBJ       0
+    A001010017  OBJ       0
+    A001010018  OBJ       0
+    A001010019  OBJ       0
+    A001010020  OBJ       0
+    A001010021  OBJ       0
+    A001010022  OBJ       0
+    A001010023  OBJ       0
+    A001010024  OBJ       0
+    A001010025  OBJ       0
+    A001010026  OBJ       0
+    A001010027  OBJ       0
+    A001010028  OBJ       0
+    A001010029  OBJ       0
+    A001010030  OBJ       0
+    A001010031  OBJ       0
+    A001010032  OBJ       0
+    A001010033  OBJ       0
+    A001010034  OBJ       0
+    A001010035  OBJ       0
+    A001010036  OBJ       0
+    A001010037  OBJ       0
+    A001010038  OBJ       0
+    A001011012  OBJ       0
+    A001011013  OBJ       0
+    A001011014  OBJ       0
+    A001011015  OBJ       0
+    A001011016  OBJ       0
+    A001011017  OBJ       0
+    A001011018  OBJ       0
+    A001011019  OBJ       0
+    A001011020  OBJ       0
+    A001011021  OBJ       0
+    A001011022  OBJ       0
+    A001011023  OBJ       0
+    A001011024  OBJ       0
+    A001011025  OBJ       0
+    A001011026  OBJ       0
+    A001011027  OBJ       0
+    A001011028  OBJ       0
+    A001011029  OBJ       0
+    A001011030  OBJ       0
+    A001011031  OBJ       0
+    A001011032  OBJ       0
+    A001011033  OBJ       0
+    A001011034  OBJ       0
+    A001011035  OBJ       0
+    A001011036  OBJ       0
+    A001011037  OBJ       0
+    A001011038  OBJ       0
+    A001012013  OBJ       0
+    A001012014  OBJ       0
+    A001012015  OBJ       0
+    A001012016  OBJ       0
+    A001012017  OBJ       0
+    A001012018  OBJ       0
+    A001012019  OBJ       0
+    A001012020  OBJ       0
+    A001012021  OBJ       0
+    A001012022  OBJ       0
+    A001012023  OBJ       0
+    A001012024  OBJ       0
+    A001012025  OBJ       0
+    A001012026  OBJ       0
+    A001012027  OBJ       0
+    A001012028  OBJ       0
+    A001012029  OBJ       0
+    A001012030  OBJ       0
+    A001012031  OBJ       0
+    A001012032  OBJ       0
+    A001012033  OBJ       0
+    A001012034  OBJ       0
+    A001012035  OBJ       0
+    A001012036  OBJ       0
+    A001012037  OBJ       0
+    A001012038  OBJ       0
+    A001013014  OBJ       0
+    A001013015  OBJ       0
+    A001013016  OBJ       0
+    A001013017  OBJ       0
+    A001013018  OBJ       0
+    A001013019  OBJ       0
+    A001013020  OBJ       0
+    A001013021  OBJ       0
+    A001013022  OBJ       0
+    A001013023  OBJ       0
+    A001013024  OBJ       0
+    A001013025  OBJ       0
+    A001013026  OBJ       0
+    A001013027  OBJ       0
+    A001013028  OBJ       0
+    A001013029  OBJ       0
+    A001013030  OBJ       0
+    A001013031  OBJ       0
+    A001013032  OBJ       0
+    A001013033  OBJ       0
+    A001013034  OBJ       0
+    A001013035  OBJ       0
+    A001013036  OBJ       0
+    A001013037  OBJ       0
+    A001013038  OBJ       0
+    A001014015  OBJ       0
+    A001014016  OBJ       0
+    A001014017  OBJ       0
+    A001014018  OBJ       0
+    A001014019  OBJ       0
+    A001014020  OBJ       0
+    A001014021  OBJ       0
+    A001014022  OBJ       0
+    A001014023  OBJ       0
+    A001014024  OBJ       0
+    A001014025  OBJ       0
+    A001014026  OBJ       0
+    A001014027  OBJ       0
+    A001014028  OBJ       0
+    A001014029  OBJ       0
+    A001014030  OBJ       0
+    A001014031  OBJ       0
+    A001014032  OBJ       0
+    A001014033  OBJ       0
+    A001014034  OBJ       0
+    A001014035  OBJ       0
+    A001014036  OBJ       0
+    A001014037  OBJ       0
+    A001014038  OBJ       0
+    A001015016  OBJ       0
+    A001015017  OBJ       0
+    A001015018  OBJ       0
+    A001015019  OBJ       0
+    A001015020  OBJ       0
+    A001015021  OBJ       0
+    A001015022  OBJ       0
+    A001015023  OBJ       0
+    A001015024  OBJ       0
+    A001015025  OBJ       0
+    A001015026  OBJ       0
+    A001015027  OBJ       0
+    A001015028  OBJ       0
+    A001015029  OBJ       0
+    A001015030  OBJ       0
+    A001015031  OBJ       0
+    A001015032  OBJ       0
+    A001015033  OBJ       0
+    A001015034  OBJ       0
+    A001015035  OBJ       0
+    A001015036  OBJ       0
+    A001015037  OBJ       0
+    A001015038  OBJ       0
+    A001016017  OBJ       0
+    A001016018  OBJ       0
+    A001016019  OBJ       0
+    A001016020  OBJ       0
+    A001016021  OBJ       0
+    A001016022  OBJ       0
+    A001016023  OBJ       0
+    A001016024  OBJ       0
+    A001016025  OBJ       0
+    A001016026  OBJ       0
+    A001016027  OBJ       0
+    A001016028  OBJ       0
+    A001016029  OBJ       0
+    A001016030  OBJ       0
+    A001016031  OBJ       0
+    A001016032  OBJ       0
+    A001016033  OBJ       0
+    A001016034  OBJ       0
+    A001016035  OBJ       0
+    A001016036  OBJ       0
+    A001016037  OBJ       0
+    A001016038  OBJ       0
+    A001017018  OBJ       0
+    A001017019  OBJ       0
+    A001017020  OBJ       0
+    A001017021  OBJ       0
+    A001017022  OBJ       0
+    A001017023  OBJ       0
+    A001017024  OBJ       0
+    A001017025  OBJ       0
+    A001017026  OBJ       0
+    A001017027  OBJ       0
+    A001017028  OBJ       0
+    A001017029  OBJ       0
+    A001017030  OBJ       0
+    A001017031  OBJ       0
+    A001017032  OBJ       0
+    A001017033  OBJ       0
+    A001017034  OBJ       0
+    A001017035  OBJ       0
+    A001017036  OBJ       0
+    A001017037  OBJ       0
+    A001017038  OBJ       0
+    A001018019  OBJ       0
+    A001018020  OBJ       0
+    A001018021  OBJ       0
+    A001018022  OBJ       0
+    A001018023  OBJ       0
+    A001018024  OBJ       0
+    A001018025  OBJ       0
+    A001018026  OBJ       0
+    A001018027  OBJ       0
+    A001018028  OBJ       0
+    A001018029  OBJ       0
+    A001018030  OBJ       0
+    A001018031  OBJ       0
+    A001018032  OBJ       0
+    A001018033  OBJ       0
+    A001018034  OBJ       0
+    A001018035  OBJ       0
+    A001018036  OBJ       0
+    A001018037  OBJ       0
+    A001018038  OBJ       0
+    A001019020  OBJ       0
+    A001019021  OBJ       0
+    A001019022  OBJ       0
+    A001019023  OBJ       0
+    A001019024  OBJ       0
+    A001019025  OBJ       0
+    A001019026  OBJ       0
+    A001019027  OBJ       0
+    A001019028  OBJ       0
+    A001019029  OBJ       0
+    A001019030  OBJ       0
+    A001019031  OBJ       0
+    A001019032  OBJ       0
+    A001019033  OBJ       0
+    A001019034  OBJ       0
+    A001019035  OBJ       0
+    A001019036  OBJ       0
+    A001019037  OBJ       0
+    A001019038  OBJ       0
+    A001020021  OBJ       0
+    A001020022  OBJ       0
+    A001020023  OBJ       0
+    A001020024  OBJ       0
+    A001020025  OBJ       0
+    A001020026  OBJ       0
+    A001020027  OBJ       0
+    A001020028  OBJ       0
+    A001020029  OBJ       0
+    A001020030  OBJ       0
+    A001020031  OBJ       0
+    A001020032  OBJ       0
+    A001020033  OBJ       0
+    A001020034  OBJ       0
+    A001020035  OBJ       0
+    A001020036  OBJ       0
+    A001020037  OBJ       0
+    A001020038  OBJ       0
+    A001021022  OBJ       0
+    A001021023  OBJ       0
+    A001021024  OBJ       0
+    A001021025  OBJ       0
+    A001021026  OBJ       0
+    A001021027  OBJ       0
+    A001021028  OBJ       0
+    A001021029  OBJ       0
+    A001021030  OBJ       0
+    A001021031  OBJ       0
+    A001021032  OBJ       0
+    A001021033  OBJ       0
+    A001021034  OBJ       0
+    A001021035  OBJ       0
+    A001021036  OBJ       0
+    A001021037  OBJ       0
+    A001021038  OBJ       0
+    A001022023  OBJ       0
+    A001022024  OBJ       0
+    A001022025  OBJ       0
+    A001022026  OBJ       0
+    A001022027  OBJ       0
+    A001022028  OBJ       0
+    A001022029  OBJ       0
+    A001022030  OBJ       0
+    A001022031  OBJ       0
+    A001022032  OBJ       0
+    A001022033  OBJ       0
+    A001022034  OBJ       0
+    A001022035  OBJ       0
+    A001022036  OBJ       0
+    A001022037  OBJ       0
+    A001022038  OBJ       0
+    A001023024  OBJ       0
+    A001023025  OBJ       0
+    A001023026  OBJ       0
+    A001023027  OBJ       0
+    A001023028  OBJ       0
+    A001023029  OBJ       0
+    A001023030  OBJ       0
+    A001023031  OBJ       0
+    A001023032  OBJ       0
+    A001023033  OBJ       0
+    A001023034  OBJ       0
+    A001023035  OBJ       0
+    A001023036  OBJ       0
+    A001023037  OBJ       0
+    A001023038  OBJ       0
+    A001024025  OBJ       0
+    A001024026  OBJ       0
+    A001024027  OBJ       0
+    A001024028  OBJ       0
+    A001024029  OBJ       0
+    A001024030  OBJ       0
+    A001024031  OBJ       0
+    A001024032  OBJ       0
+    A001024033  OBJ       0
+    A001024034  OBJ       0
+    A001024035  OBJ       0
+    A001024036  OBJ       0
+    A001024037  OBJ       0
+    A001024038  OBJ       0
+    A001025026  OBJ       0
+    A001025027  OBJ       0
+    A001025028  OBJ       0
+    A001025029  OBJ       0
+    A001025030  OBJ       0
+    A001025031  OBJ       0
+    A001025032  OBJ       0
+    A001025033  OBJ       0
+    A001025034  OBJ       0
+    A001025035  OBJ       0
+    A001025036  OBJ       0
+    A001025037  OBJ       0
+    A001025038  OBJ       0
+    A001026027  OBJ       0
+    A001026028  OBJ       0
+    A001026029  OBJ       0
+    A001026030  OBJ       0
+    A001026031  OBJ       0
+    A001026032  OBJ       0
+    A001026033  OBJ       0
+    A001026034  OBJ       0
+    A001026035  OBJ       0
+    A001026036  OBJ       0
+    A001026037  OBJ       0
+    A001026038  OBJ       0
+    A001027028  OBJ       0
+    A001027029  OBJ       0
+    A001027030  OBJ       0
+    A001027031  OBJ       0
+    A001027032  OBJ       0
+    A001027033  OBJ       0
+    A001027034  OBJ       0
+    A001027035  OBJ       0
+    A001027036  OBJ       0
+    A001027037  OBJ       0
+    A001027038  OBJ       0
+    A001028029  OBJ       0
+    A001028030  OBJ       0
+    A001028031  OBJ       0
+    A001028032  OBJ       0
+    A001028033  OBJ       0
+    A001028034  OBJ       0
+    A001028035  OBJ       0
+    A001028036  OBJ       0
+    A001028037  OBJ       0
+    A001028038  OBJ       0
+    A001029030  OBJ       0
+    A001029031  OBJ       0
+    A001029032  OBJ       0
+    A001029033  OBJ       0
+    A001029034  OBJ       0
+    A001029035  OBJ       0
+    A001029036  OBJ       0
+    A001029037  OBJ       0
+    A001029038  OBJ       0
+    A001030031  OBJ       0
+    A001030032  OBJ       0
+    A001030033  OBJ       0
+    A001030034  OBJ       0
+    A001030035  OBJ       0
+    A001030036  OBJ       0
+    A001030037  OBJ       0
+    A001030038  OBJ       0
+    A001031032  OBJ       0
+    A001031033  OBJ       0
+    A001031034  OBJ       0
+    A001031035  OBJ       0
+    A001031036  OBJ       0
+    A001031037  OBJ       0
+    A001031038  OBJ       0
+    A001032033  OBJ       0
+    A001032034  OBJ       0
+    A001032035  OBJ       0
+    A001032036  OBJ       0
+    A001032037  OBJ       0
+    A001032038  OBJ       0
+    A001033034  OBJ       0
+    A001033035  OBJ       0
+    A001033036  OBJ       0
+    A001033037  OBJ       0
+    A001033038  OBJ       0
+    A001034035  OBJ       0
+    A001034036  OBJ       0
+    A001034037  OBJ       0
+    A001034038  OBJ       0
+    A001035036  OBJ       0
+    A001035037  OBJ       0
+    A001035038  OBJ       0
+    A001036037  OBJ       0
+    A001036038  OBJ       0
+    A001037038  OBJ       0
+    A002001002  OBJ       0
+    A002001003  OBJ       0
+    A002001004  OBJ       0
+    A002001005  OBJ       0
+    A002001006  OBJ       0
+    A002001007  OBJ       0
+    A002001008  OBJ       0
+    A002001009  OBJ       0
+    A002001010  OBJ       0
+    A002001011  OBJ       0
+    A002001012  OBJ       0
+    A002001013  OBJ       0
+    A002001014  OBJ       0
+    A002001015  OBJ       0
+    A002001016  OBJ       0
+    A002001017  OBJ       0
+    A002001018  OBJ       0
+    A002001019  OBJ       0
+    A002001020  OBJ       0
+    A002001021  OBJ       0
+    A002001022  OBJ       0
+    A002001023  OBJ       0
+    A002001024  OBJ       0
+    A002001025  OBJ       0
+    A002001026  OBJ       0
+    A002001027  OBJ       0
+    A002001028  OBJ       0
+    A002001029  OBJ       0
+    A002001030  OBJ       0
+    A002001031  OBJ       0
+    A002001032  OBJ       0
+    A002001033  OBJ       0
+    A002001034  OBJ       0
+    A002001035  OBJ       0
+    A002001036  OBJ       0
+    A002001037  OBJ       0
+    A002001038  OBJ       0
+    A002002003  OBJ       0
+    A002002004  OBJ       0
+    A002002005  OBJ       0
+    A002002006  OBJ       0
+    A002002007  OBJ       0
+    A002002008  OBJ       0
+    A002002009  OBJ       0
+    A002002010  OBJ       0
+    A002002011  OBJ       0
+    A002002012  OBJ       0
+    A002002013  OBJ       0
+    A002002014  OBJ       0
+    A002002015  OBJ       0
+    A002002016  OBJ       0
+    A002002017  OBJ       0
+    A002002018  OBJ       0
+    A002002019  OBJ       0
+    A002002020  OBJ       0
+    A002002021  OBJ       0
+    A002002022  OBJ       0
+    A002002023  OBJ       0
+    A002002024  OBJ       0
+    A002002025  OBJ       0
+    A002002026  OBJ       0
+    A002002027  OBJ       0
+    A002002028  OBJ       0
+    A002002029  OBJ       0
+    A002002030  OBJ       0
+    A002002031  OBJ       0
+    A002002032  OBJ       0
+    A002002033  OBJ       0
+    A002002034  OBJ       0
+    A002002035  OBJ       0
+    A002002036  OBJ       0
+    A002002037  OBJ       0
+    A002002038  OBJ       0
+    A002003004  OBJ       0
+    A002003005  OBJ       0
+    A002003006  OBJ       0
+    A002003007  OBJ       0
+    A002003008  OBJ       0
+    A002003009  OBJ       0
+    A002003010  OBJ       0
+    A002003011  OBJ       0
+    A002003012  OBJ       0
+    A002003013  OBJ       0
+    A002003014  OBJ       0
+    A002003015  OBJ       0
+    A002003016  OBJ       0
+    A002003017  OBJ       0
+    A002003018  OBJ       0
+    A002003019  OBJ       0
+    A002003020  OBJ       0
+    A002003021  OBJ       0
+    A002003022  OBJ       0
+    A002003023  OBJ       0
+    A002003024  OBJ       0
+    A002003025  OBJ       0
+    A002003026  OBJ       0
+    A002003027  OBJ       0
+    A002003028  OBJ       0
+    A002003029  OBJ       0
+    A002003030  OBJ       0
+    A002003031  OBJ       0
+    A002003032  OBJ       0
+    A002003033  OBJ       0
+    A002003034  OBJ       0
+    A002003035  OBJ       0
+    A002003036  OBJ       0
+    A002003037  OBJ       0
+    A002003038  OBJ       0
+    A002004005  OBJ       0
+    A002004006  OBJ       0
+    A002004007  OBJ       0
+    A002004008  OBJ       0
+    A002004009  OBJ       0
+    A002004010  OBJ       0
+    A002004011  OBJ       0
+    A002004012  OBJ       0
+    A002004013  OBJ       0
+    A002004014  OBJ       0
+    A002004015  OBJ       0
+    A002004016  OBJ       0
+    A002004017  OBJ       0
+    A002004018  OBJ       0
+    A002004019  OBJ       0
+    A002004020  OBJ       0
+    A002004021  OBJ       0
+    A002004022  OBJ       0
+    A002004023  OBJ       0
+    A002004024  OBJ       0
+    A002004025  OBJ       0
+    A002004026  OBJ       0
+    A002004027  OBJ       0
+    A002004028  OBJ       0
+    A002004029  OBJ       0
+    A002004030  OBJ       0
+    A002004031  OBJ       0
+    A002004032  OBJ       0
+    A002004033  OBJ       0
+    A002004034  OBJ       0
+    A002004035  OBJ       0
+    A002004036  OBJ       0
+    A002004037  OBJ       0
+    A002004038  OBJ       0
+    A002005006  OBJ       0
+    A002005007  OBJ       0
+    A002005008  OBJ       0
+    A002005009  OBJ       0
+    A002005010  OBJ       0
+    A002005011  OBJ       0
+    A002005012  OBJ       0
+    A002005013  OBJ       0
+    A002005014  OBJ       0
+    A002005015  OBJ       0
+    A002005016  OBJ       0
+    A002005017  OBJ       0
+    A002005018  OBJ       0
+    A002005019  OBJ       0
+    A002005020  OBJ       0
+    A002005021  OBJ       0
+    A002005022  OBJ       0
+    A002005023  OBJ       0
+    A002005024  OBJ       0
+    A002005025  OBJ       0
+    A002005026  OBJ       0
+    A002005027  OBJ       0
+    A002005028  OBJ       0
+    A002005029  OBJ       0
+    A002005030  OBJ       0
+    A002005031  OBJ       0
+    A002005032  OBJ       0
+    A002005033  OBJ       0
+    A002005034  OBJ       0
+    A002005035  OBJ       0
+    A002005036  OBJ       0
+    A002005037  OBJ       0
+    A002005038  OBJ       0
+    A002006007  OBJ       0
+    A002006008  OBJ       0
+    A002006009  OBJ       0
+    A002006010  OBJ       0
+    A002006011  OBJ       0
+    A002006012  OBJ       0
+    A002006013  OBJ       0
+    A002006014  OBJ       0
+    A002006015  OBJ       0
+    A002006016  OBJ       0
+    A002006017  OBJ       0
+    A002006018  OBJ       0
+    A002006019  OBJ       0
+    A002006020  OBJ       0
+    A002006021  OBJ       0
+    A002006022  OBJ       0
+    A002006023  OBJ       0
+    A002006024  OBJ       0
+    A002006025  OBJ       0
+    A002006026  OBJ       0
+    A002006027  OBJ       0
+    A002006028  OBJ       0
+    A002006029  OBJ       0
+    A002006030  OBJ       0
+    A002006031  OBJ       0
+    A002006032  OBJ       0
+    A002006033  OBJ       0
+    A002006034  OBJ       0
+    A002006035  OBJ       0
+    A002006036  OBJ       0
+    A002006037  OBJ       0
+    A002006038  OBJ       0
+    A002007008  OBJ       0
+    A002007009  OBJ       0
+    A002007010  OBJ       0
+    A002007011  OBJ       0
+    A002007012  OBJ       0
+    A002007013  OBJ       0
+    A002007014  OBJ       0
+    A002007015  OBJ       0
+    A002007016  OBJ       0
+    A002007017  OBJ       0
+    A002007018  OBJ       0
+    A002007019  OBJ       0
+    A002007020  OBJ       0
+    A002007021  OBJ       0
+    A002007022  OBJ       0
+    A002007023  OBJ       0
+    A002007024  OBJ       0
+    A002007025  OBJ       0
+    A002007026  OBJ       0
+    A002007027  OBJ       0
+    A002007028  OBJ       0
+    A002007029  OBJ       0
+    A002007030  OBJ       0
+    A002007031  OBJ       0
+    A002007032  OBJ       0
+    A002007033  OBJ       0
+    A002007034  OBJ       0
+    A002007035  OBJ       0
+    A002007036  OBJ       0
+    A002007037  OBJ       0
+    A002007038  OBJ       0
+    A002008009  OBJ       0
+    A002008010  OBJ       0
+    A002008011  OBJ       0
+    A002008012  OBJ       0
+    A002008013  OBJ       0
+    A002008014  OBJ       0
+    A002008015  OBJ       0
+    A002008016  OBJ       0
+    A002008017  OBJ       0
+    A002008018  OBJ       0
+    A002008019  OBJ       0
+    A002008020  OBJ       0
+    A002008021  OBJ       0
+    A002008022  OBJ       0
+    A002008023  OBJ       0
+    A002008024  OBJ       0
+    A002008025  OBJ       0
+    A002008026  OBJ       0
+    A002008027  OBJ       0
+    A002008028  OBJ       0
+    A002008029  OBJ       0
+    A002008030  OBJ       0
+    A002008031  OBJ       0
+    A002008032  OBJ       0
+    A002008033  OBJ       0
+    A002008034  OBJ       0
+    A002008035  OBJ       0
+    A002008036  OBJ       0
+    A002008037  OBJ       0
+    A002008038  OBJ       0
+    A002009010  OBJ       0
+    A002009011  OBJ       0
+    A002009012  OBJ       0
+    A002009013  OBJ       0
+    A002009014  OBJ       0
+    A002009015  OBJ       0
+    A002009016  OBJ       0
+    A002009017  OBJ       0
+    A002009018  OBJ       0
+    A002009019  OBJ       0
+    A002009020  OBJ       0
+    A002009021  OBJ       0
+    A002009022  OBJ       0
+    A002009023  OBJ       0
+    A002009024  OBJ       0
+    A002009025  OBJ       0
+    A002009026  OBJ       0
+    A002009027  OBJ       0
+    A002009028  OBJ       0
+    A002009029  OBJ       0
+    A002009030  OBJ       0
+    A002009031  OBJ       0
+    A002009032  OBJ       0
+    A002009033  OBJ       0
+    A002009034  OBJ       0
+    A002009035  OBJ       0
+    A002009036  OBJ       0
+    A002009037  OBJ       0
+    A002009038  OBJ       0
+    A002010011  OBJ       0
+    A002010012  OBJ       0
+    A002010013  OBJ       0
+    A002010014  OBJ       0
+    A002010015  OBJ       0
+    A002010016  OBJ       0
+    A002010017  OBJ       0
+    A002010018  OBJ       0
+    A002010019  OBJ       0
+    A002010020  OBJ       0
+    A002010021  OBJ       0
+    A002010022  OBJ       0
+    A002010023  OBJ       0
+    A002010024  OBJ       0
+    A002010025  OBJ       0
+    A002010026  OBJ       0
+    A002010027  OBJ       0
+    A002010028  OBJ       0
+    A002010029  OBJ       0
+    A002010030  OBJ       0
+    A002010031  OBJ       0
+    A002010032  OBJ       0
+    A002010033  OBJ       0
+    A002010034  OBJ       0
+    A002010035  OBJ       0
+    A002010036  OBJ       0
+    A002010037  OBJ       0
+    A002010038  OBJ       0
+    A002011012  OBJ       0
+    A002011013  OBJ       0
+    A002011014  OBJ       0
+    A002011015  OBJ       0
+    A002011016  OBJ       0
+    A002011017  OBJ       0
+    A002011018  OBJ       0
+    A002011019  OBJ       0
+    A002011020  OBJ       0
+    A002011021  OBJ       0
+    A002011022  OBJ       0
+    A002011023  OBJ       0
+    A002011024  OBJ       0
+    A002011025  OBJ       0
+    A002011026  OBJ       0
+    A002011027  OBJ       0
+    A002011028  OBJ       0
+    A002011029  OBJ       0
+    A002011030  OBJ       0
+    A002011031  OBJ       0
+    A002011032  OBJ       0
+    A002011033  OBJ       0
+    A002011034  OBJ       0
+    A002011035  OBJ       0
+    A002011036  OBJ       0
+    A002011037  OBJ       0
+    A002011038  OBJ       0
+    A002012013  OBJ       0
+    A002012014  OBJ       0
+    A002012015  OBJ       0
+    A002012016  OBJ       0
+    A002012017  OBJ       0
+    A002012018  OBJ       0
+    A002012019  OBJ       0
+    A002012020  OBJ       0
+    A002012021  OBJ       0
+    A002012022  OBJ       0
+    A002012023  OBJ       0
+    A002012024  OBJ       0
+    A002012025  OBJ       0
+    A002012026  OBJ       0
+    A002012027  OBJ       0
+    A002012028  OBJ       0
+    A002012029  OBJ       0
+    A002012030  OBJ       0
+    A002012031  OBJ       0
+    A002012032  OBJ       0
+    A002012033  OBJ       0
+    A002012034  OBJ       0
+    A002012035  OBJ       0
+    A002012036  OBJ       0
+    A002012037  OBJ       0
+    A002012038  OBJ       0
+    A002013014  OBJ       0
+    A002013015  OBJ       0
+    A002013016  OBJ       0
+    A002013017  OBJ       0
+    A002013018  OBJ       0
+    A002013019  OBJ       0
+    A002013020  OBJ       0
+    A002013021  OBJ       0
+    A002013022  OBJ       0
+    A002013023  OBJ       0
+    A002013024  OBJ       0
+    A002013025  OBJ       0
+    A002013026  OBJ       0
+    A002013027  OBJ       0
+    A002013028  OBJ       0
+    A002013029  OBJ       0
+    A002013030  OBJ       0
+    A002013031  OBJ       0
+    A002013032  OBJ       0
+    A002013033  OBJ       0
+    A002013034  OBJ       0
+    A002013035  OBJ       0
+    A002013036  OBJ       0
+    A002013037  OBJ       0
+    A002013038  OBJ       0
+    A002014015  OBJ       0
+    A002014016  OBJ       0
+    A002014017  OBJ       0
+    A002014018  OBJ       0
+    A002014019  OBJ       0
+    A002014020  OBJ       0
+    A002014021  OBJ       0
+    A002014022  OBJ       0
+    A002014023  OBJ       0
+    A002014024  OBJ       0
+    A002014025  OBJ       0
+    A002014026  OBJ       0
+    A002014027  OBJ       0
+    A002014028  OBJ       0
+    A002014029  OBJ       0
+    A002014030  OBJ       0
+    A002014031  OBJ       0
+    A002014032  OBJ       0
+    A002014033  OBJ       0
+    A002014034  OBJ       0
+    A002014035  OBJ       0
+    A002014036  OBJ       0
+    A002014037  OBJ       0
+    A002014038  OBJ       0
+    A002015016  OBJ       0
+    A002015017  OBJ       0
+    A002015018  OBJ       0
+    A002015019  OBJ       0
+    A002015020  OBJ       0
+    A002015021  OBJ       0
+    A002015022  OBJ       0
+    A002015023  OBJ       0
+    A002015024  OBJ       0
+    A002015025  OBJ       0
+    A002015026  OBJ       0
+    A002015027  OBJ       0
+    A002015028  OBJ       0
+    A002015029  OBJ       0
+    A002015030  OBJ       0
+    A002015031  OBJ       0
+    A002015032  OBJ       0
+    A002015033  OBJ       0
+    A002015034  OBJ       0
+    A002015035  OBJ       0
+    A002015036  OBJ       0
+    A002015037  OBJ       0
+    A002015038  OBJ       0
+    A002016017  OBJ       0
+    A002016018  OBJ       0
+    A002016019  OBJ       0
+    A002016020  OBJ       0
+    A002016021  OBJ       0
+    A002016022  OBJ       0
+    A002016023  OBJ       0
+    A002016024  OBJ       0
+    A002016025  OBJ       0
+    A002016026  OBJ       0
+    A002016027  OBJ       0
+    A002016028  OBJ       0
+    A002016029  OBJ       0
+    A002016030  OBJ       0
+    A002016031  OBJ       0
+    A002016032  OBJ       0
+    A002016033  OBJ       0
+    A002016034  OBJ       0
+    A002016035  OBJ       0
+    A002016036  OBJ       0
+    A002016037  OBJ       0
+    A002016038  OBJ       0
+    A002017018  OBJ       0
+    A002017019  OBJ       0
+    A002017020  OBJ       0
+    A002017021  OBJ       0
+    A002017022  OBJ       0
+    A002017023  OBJ       0
+    A002017024  OBJ       0
+    A002017025  OBJ       0
+    A002017026  OBJ       0
+    A002017027  OBJ       0
+    A002017028  OBJ       0
+    A002017029  OBJ       0
+    A002017030  OBJ       0
+    A002017031  OBJ       0
+    A002017032  OBJ       0
+    A002017033  OBJ       0
+    A002017034  OBJ       0
+    A002017035  OBJ       0
+    A002017036  OBJ       0
+    A002017037  OBJ       0
+    A002017038  OBJ       0
+    A002018019  OBJ       0
+    A002018020  OBJ       0
+    A002018021  OBJ       0
+    A002018022  OBJ       0
+    A002018023  OBJ       0
+    A002018024  OBJ       0
+    A002018025  OBJ       0
+    A002018026  OBJ       0
+    A002018027  OBJ       0
+    A002018028  OBJ       0
+    A002018029  OBJ       0
+    A002018030  OBJ       0
+    A002018031  OBJ       0
+    A002018032  OBJ       0
+    A002018033  OBJ       0
+    A002018034  OBJ       0
+    A002018035  OBJ       0
+    A002018036  OBJ       0
+    A002018037  OBJ       0
+    A002018038  OBJ       0
+    A002019020  OBJ       0
+    A002019021  OBJ       0
+    A002019022  OBJ       0
+    A002019023  OBJ       0
+    A002019024  OBJ       0
+    A002019025  OBJ       0
+    A002019026  OBJ       0
+    A002019027  OBJ       0
+    A002019028  OBJ       0
+    A002019029  OBJ       0
+    A002019030  OBJ       0
+    A002019031  OBJ       0
+    A002019032  OBJ       0
+    A002019033  OBJ       0
+    A002019034  OBJ       0
+    A002019035  OBJ       0
+    A002019036  OBJ       0
+    A002019037  OBJ       0
+    A002019038  OBJ       0
+    A002020021  OBJ       0
+    A002020022  OBJ       0
+    A002020023  OBJ       0
+    A002020024  OBJ       0
+    A002020025  OBJ       0
+    A002020026  OBJ       0
+    A002020027  OBJ       0
+    A002020028  OBJ       0
+    A002020029  OBJ       0
+    A002020030  OBJ       0
+    A002020031  OBJ       0
+    A002020032  OBJ       0
+    A002020033  OBJ       0
+    A002020034  OBJ       0
+    A002020035  OBJ       0
+    A002020036  OBJ       0
+    A002020037  OBJ       0
+    A002020038  OBJ       0
+    A002021022  OBJ       0
+    A002021023  OBJ       0
+    A002021024  OBJ       0
+    A002021025  OBJ       0
+    A002021026  OBJ       0
+    A002021027  OBJ       0
+    A002021028  OBJ       0
+    A002021029  OBJ       0
+    A002021030  OBJ       0
+    A002021031  OBJ       0
+    A002021032  OBJ       0
+    A002021033  OBJ       0
+    A002021034  OBJ       0
+    A002021035  OBJ       0
+    A002021036  OBJ       0
+    A002021037  OBJ       0
+    A002021038  OBJ       0
+    A002022023  OBJ       0
+    A002022024  OBJ       0
+    A002022025  OBJ       0
+    A002022026  OBJ       0
+    A002022027  OBJ       0
+    A002022028  OBJ       0
+    A002022029  OBJ       0
+    A002022030  OBJ       0
+    A002022031  OBJ       0
+    A002022032  OBJ       0
+    A002022033  OBJ       0
+    A002022034  OBJ       0
+    A002022035  OBJ       0
+    A002022036  OBJ       0
+    A002022037  OBJ       0
+    A002022038  OBJ       0
+    A002023024  OBJ       0
+    A002023025  OBJ       0
+    A002023026  OBJ       0
+    A002023027  OBJ       0
+    A002023028  OBJ       0
+    A002023029  OBJ       0
+    A002023030  OBJ       0
+    A002023031  OBJ       0
+    A002023032  OBJ       0
+    A002023033  OBJ       0
+    A002023034  OBJ       0
+    A002023035  OBJ       0
+    A002023036  OBJ       0
+    A002023037  OBJ       0
+    A002023038  OBJ       0
+    A002024025  OBJ       0
+    A002024026  OBJ       0
+    A002024027  OBJ       0
+    A002024028  OBJ       0
+    A002024029  OBJ       0
+    A002024030  OBJ       0
+    A002024031  OBJ       0
+    A002024032  OBJ       0
+    A002024033  OBJ       0
+    A002024034  OBJ       0
+    A002024035  OBJ       0
+    A002024036  OBJ       0
+    A002024037  OBJ       0
+    A002024038  OBJ       0
+    A002025026  OBJ       0
+    A002025027  OBJ       0
+    A002025028  OBJ       0
+    A002025029  OBJ       0
+    A002025030  OBJ       0
+    A002025031  OBJ       0
+    A002025032  OBJ       0
+    A002025033  OBJ       0
+    A002025034  OBJ       0
+    A002025035  OBJ       0
+    A002025036  OBJ       0
+    A002025037  OBJ       0
+    A002025038  OBJ       0
+    A002026027  OBJ       0
+    A002026028  OBJ       0
+    A002026029  OBJ       0
+    A002026030  OBJ       0
+    A002026031  OBJ       0
+    A002026032  OBJ       0
+    A002026033  OBJ       0
+    A002026034  OBJ       0
+    A002026035  OBJ       0
+    A002026036  OBJ       0
+    A002026037  OBJ       0
+    A002026038  OBJ       0
+    A002027028  OBJ       0
+    A002027029  OBJ       0
+    A002027030  OBJ       0
+    A002027031  OBJ       0
+    A002027032  OBJ       0
+    A002027033  OBJ       0
+    A002027034  OBJ       0
+    A002027035  OBJ       0
+    A002027036  OBJ       0
+    A002027037  OBJ       0
+    A002027038  OBJ       0
+    A002028029  OBJ       0
+    A002028030  OBJ       0
+    A002028031  OBJ       0
+    A002028032  OBJ       0
+    A002028033  OBJ       0
+    A002028034  OBJ       0
+    A002028035  OBJ       0
+    A002028036  OBJ       0
+    A002028037  OBJ       0
+    A002028038  OBJ       0
+    A002029030  OBJ       0
+    A002029031  OBJ       0
+    A002029032  OBJ       0
+    A002029033  OBJ       0
+    A002029034  OBJ       0
+    A002029035  OBJ       0
+    A002029036  OBJ       0
+    A002029037  OBJ       0
+    A002029038  OBJ       0
+    A002030031  OBJ       0
+    A002030032  OBJ       0
+    A002030033  OBJ       0
+    A002030034  OBJ       0
+    A002030035  OBJ       0
+    A002030036  OBJ       0
+    A002030037  OBJ       0
+    A002030038  OBJ       0
+    A002031032  OBJ       0
+    A002031033  OBJ       0
+    A002031034  OBJ       0
+    A002031035  OBJ       0
+    A002031036  OBJ       0
+    A002031037  OBJ       0
+    A002031038  OBJ       0
+    A002032033  OBJ       0
+    A002032034  OBJ       0
+    A002032035  OBJ       0
+    A002032036  OBJ       0
+    A002032037  OBJ       0
+    A002032038  OBJ       0
+    A002033034  OBJ       0
+    A002033035  OBJ       0
+    A002033036  OBJ       0
+    A002033037  OBJ       0
+    A002033038  OBJ       0
+    A002034035  OBJ       0
+    A002034036  OBJ       0
+    A002034037  OBJ       0
+    A002034038  OBJ       0
+    A002035036  OBJ       0
+    A002035037  OBJ       0
+    A002035038  OBJ       0
+    A002036037  OBJ       0
+    A002036038  OBJ       0
+    A002037038  OBJ       0
+    A003001002  OBJ       0
+    A003001003  OBJ       0
+    A003001004  OBJ       0
+    A003001005  OBJ       0
+    A003001006  OBJ       0
+    A003001007  OBJ       0
+    A003001008  OBJ       0
+    A003001009  OBJ       0
+    A003001010  OBJ       0
+    A003001011  OBJ       0
+    A003001012  OBJ       0
+    A003001013  OBJ       0
+    A003001014  OBJ       0
+    A003001015  OBJ       0
+    A003001016  OBJ       0
+    A003001017  OBJ       0
+    A003001018  OBJ       0
+    A003001019  OBJ       0
+    A003001020  OBJ       0
+    A003001021  OBJ       0
+    A003001022  OBJ       0
+    A003001023  OBJ       0
+    A003001024  OBJ       0
+    A003001025  OBJ       0
+    A003001026  OBJ       0
+    A003001027  OBJ       0
+    A003001028  OBJ       0
+    A003001029  OBJ       0
+    A003001030  OBJ       0
+    A003001031  OBJ       0
+    A003001032  OBJ       0
+    A003001033  OBJ       0
+    A003001034  OBJ       0
+    A003001035  OBJ       0
+    A003001036  OBJ       0
+    A003001037  OBJ       0
+    A003001038  OBJ       0
+    A003002003  OBJ       0
+    A003002004  OBJ       0
+    A003002005  OBJ       0
+    A003002006  OBJ       0
+    A003002007  OBJ       0
+    A003002008  OBJ       0
+    A003002009  OBJ       0
+    A003002010  OBJ       0
+    A003002011  OBJ       0
+    A003002012  OBJ       0
+    A003002013  OBJ       0
+    A003002014  OBJ       0
+    A003002015  OBJ       0
+    A003002016  OBJ       0
+    A003002017  OBJ       0
+    A003002018  OBJ       0
+    A003002019  OBJ       0
+    A003002020  OBJ       0
+    A003002021  OBJ       0
+    A003002022  OBJ       0
+    A003002023  OBJ       0
+    A003002024  OBJ       0
+    A003002025  OBJ       0
+    A003002026  OBJ       0
+    A003002027  OBJ       0
+    A003002028  OBJ       0
+    A003002029  OBJ       0
+    A003002030  OBJ       0
+    A003002031  OBJ       0
+    A003002032  OBJ       0
+    A003002033  OBJ       0
+    A003002034  OBJ       0
+    A003002035  OBJ       0
+    A003002036  OBJ       0
+    A003002037  OBJ       0
+    A003002038  OBJ       0
+    A003003004  OBJ       0
+    A003003005  OBJ       0
+    A003003006  OBJ       0
+    A003003007  OBJ       0
+    A003003008  OBJ       0
+    A003003009  OBJ       0
+    A003003010  OBJ       0
+    A003003011  OBJ       0
+    A003003012  OBJ       0
+    A003003013  OBJ       0
+    A003003014  OBJ       0
+    A003003015  OBJ       0
+    A003003016  OBJ       0
+    A003003017  OBJ       0
+    A003003018  OBJ       0
+    A003003019  OBJ       0
+    A003003020  OBJ       0
+    A003003021  OBJ       0
+    A003003022  OBJ       0
+    A003003023  OBJ       0
+    A003003024  OBJ       0
+    A003003025  OBJ       0
+    A003003026  OBJ       0
+    A003003027  OBJ       0
+    A003003028  OBJ       0
+    A003003029  OBJ       0
+    A003003030  OBJ       0
+    A003003031  OBJ       0
+    A003003032  OBJ       0
+    A003003033  OBJ       0
+    A003003034  OBJ       0
+    A003003035  OBJ       0
+    A003003036  OBJ       0
+    A003003037  OBJ       0
+    A003003038  OBJ       0
+    A003004005  OBJ       0
+    A003004006  OBJ       0
+    A003004007  OBJ       0
+    A003004008  OBJ       0
+    A003004009  OBJ       0
+    A003004010  OBJ       0
+    A003004011  OBJ       0
+    A003004012  OBJ       0
+    A003004013  OBJ       0
+    A003004014  OBJ       0
+    A003004015  OBJ       0
+    A003004016  OBJ       0
+    A003004017  OBJ       0
+    A003004018  OBJ       0
+    A003004019  OBJ       0
+    A003004020  OBJ       0
+    A003004021  OBJ       0
+    A003004022  OBJ       0
+    A003004023  OBJ       0
+    A003004024  OBJ       0
+    A003004025  OBJ       0
+    A003004026  OBJ       0
+    A003004027  OBJ       0
+    A003004028  OBJ       0
+    A003004029  OBJ       0
+    A003004030  OBJ       0
+    A003004031  OBJ       0
+    A003004032  OBJ       0
+    A003004033  OBJ       0
+    A003004034  OBJ       0
+    A003004035  OBJ       0
+    A003004036  OBJ       0
+    A003004037  OBJ       0
+    A003004038  OBJ       0
+    A003005006  OBJ       0
+    A003005007  OBJ       0
+    A003005008  OBJ       0
+    A003005009  OBJ       0
+    A003005010  OBJ       0
+    A003005011  OBJ       0
+    A003005012  OBJ       0
+    A003005013  OBJ       0
+    A003005014  OBJ       0
+    A003005015  OBJ       0
+    A003005016  OBJ       0
+    A003005017  OBJ       0
+    A003005018  OBJ       0
+    A003005019  OBJ       0
+    A003005020  OBJ       0
+    A003005021  OBJ       0
+    A003005022  OBJ       0
+    A003005023  OBJ       0
+    A003005024  OBJ       0
+    A003005025  OBJ       0
+    A003005026  OBJ       0
+    A003005027  OBJ       0
+    A003005028  OBJ       0
+    A003005029  OBJ       0
+    A003005030  OBJ       0
+    A003005031  OBJ       0
+    A003005032  OBJ       0
+    A003005033  OBJ       0
+    A003005034  OBJ       0
+    A003005035  OBJ       0
+    A003005036  OBJ       0
+    A003005037  OBJ       0
+    A003005038  OBJ       0
+    A003006007  OBJ       0
+    A003006008  OBJ       0
+    A003006009  OBJ       0
+    A003006010  OBJ       0
+    A003006011  OBJ       0
+    A003006012  OBJ       0
+    A003006013  OBJ       0
+    A003006014  OBJ       0
+    A003006015  OBJ       0
+    A003006016  OBJ       0
+    A003006017  OBJ       0
+    A003006018  OBJ       0
+    A003006019  OBJ       0
+    A003006020  OBJ       0
+    A003006021  OBJ       0
+    A003006022  OBJ       0
+    A003006023  OBJ       0
+    A003006024  OBJ       0
+    A003006025  OBJ       0
+    A003006026  OBJ       0
+    A003006027  OBJ       0
+    A003006028  OBJ       0
+    A003006029  OBJ       0
+    A003006030  OBJ       0
+    A003006031  OBJ       0
+    A003006032  OBJ       0
+    A003006033  OBJ       0
+    A003006034  OBJ       0
+    A003006035  OBJ       0
+    A003006036  OBJ       0
+    A003006037  OBJ       0
+    A003006038  OBJ       0
+    A003007008  OBJ       0
+    A003007009  OBJ       0
+    A003007010  OBJ       0
+    A003007011  OBJ       0
+    A003007012  OBJ       0
+    A003007013  OBJ       0
+    A003007014  OBJ       0
+    A003007015  OBJ       0
+    A003007016  OBJ       0
+    A003007017  OBJ       0
+    A003007018  OBJ       0
+    A003007019  OBJ       0
+    A003007020  OBJ       0
+    A003007021  OBJ       0
+    A003007022  OBJ       0
+    A003007023  OBJ       0
+    A003007024  OBJ       0
+    A003007025  OBJ       0
+    A003007026  OBJ       0
+    A003007027  OBJ       0
+    A003007028  OBJ       0
+    A003007029  OBJ       0
+    A003007030  OBJ       0
+    A003007031  OBJ       0
+    A003007032  OBJ       0
+    A003007033  OBJ       0
+    A003007034  OBJ       0
+    A003007035  OBJ       0
+    A003007036  OBJ       0
+    A003007037  OBJ       0
+    A003007038  OBJ       0
+    A003008009  OBJ       0
+    A003008010  OBJ       0
+    A003008011  OBJ       0
+    A003008012  OBJ       0
+    A003008013  OBJ       0
+    A003008014  OBJ       0
+    A003008015  OBJ       0
+    A003008016  OBJ       0
+    A003008017  OBJ       0
+    A003008018  OBJ       0
+    A003008019  OBJ       0
+    A003008020  OBJ       0
+    A003008021  OBJ       0
+    A003008022  OBJ       0
+    A003008023  OBJ       0
+    A003008024  OBJ       0
+    A003008025  OBJ       0
+    A003008026  OBJ       0
+    A003008027  OBJ       0
+    A003008028  OBJ       0
+    A003008029  OBJ       0
+    A003008030  OBJ       0
+    A003008031  OBJ       0
+    A003008032  OBJ       0
+    A003008033  OBJ       0
+    A003008034  OBJ       0
+    A003008035  OBJ       0
+    A003008036  OBJ       0
+    A003008037  OBJ       0
+    A003008038  OBJ       0
+    A003009010  OBJ       0
+    A003009011  OBJ       0
+    A003009012  OBJ       0
+    A003009013  OBJ       0
+    A003009014  OBJ       0
+    A003009015  OBJ       0
+    A003009016  OBJ       0
+    A003009017  OBJ       0
+    A003009018  OBJ       0
+    A003009019  OBJ       0
+    A003009020  OBJ       0
+    A003009021  OBJ       0
+    A003009022  OBJ       0
+    A003009023  OBJ       0
+    A003009024  OBJ       0
+    A003009025  OBJ       0
+    A003009026  OBJ       0
+    A003009027  OBJ       0
+    A003009028  OBJ       0
+    A003009029  OBJ       0
+    A003009030  OBJ       0
+    A003009031  OBJ       0
+    A003009032  OBJ       0
+    A003009033  OBJ       0
+    A003009034  OBJ       0
+    A003009035  OBJ       0
+    A003009036  OBJ       0
+    A003009037  OBJ       0
+    A003009038  OBJ       0
+    A003010011  OBJ       0
+    A003010012  OBJ       0
+    A003010013  OBJ       0
+    A003010014  OBJ       0
+    A003010015  OBJ       0
+    A003010016  OBJ       0
+    A003010017  OBJ       0
+    A003010018  OBJ       0
+    A003010019  OBJ       0
+    A003010020  OBJ       0
+    A003010021  OBJ       0
+    A003010022  OBJ       0
+    A003010023  OBJ       0
+    A003010024  OBJ       0
+    A003010025  OBJ       0
+    A003010026  OBJ       0
+    A003010027  OBJ       0
+    A003010028  OBJ       0
+    A003010029  OBJ       0
+    A003010030  OBJ       0
+    A003010031  OBJ       0
+    A003010032  OBJ       0
+    A003010033  OBJ       0
+    A003010034  OBJ       0
+    A003010035  OBJ       0
+    A003010036  OBJ       0
+    A003010037  OBJ       0
+    A003010038  OBJ       0
+    A003011012  OBJ       0
+    A003011013  OBJ       0
+    A003011014  OBJ       0
+    A003011015  OBJ       0
+    A003011016  OBJ       0
+    A003011017  OBJ       0
+    A003011018  OBJ       0
+    A003011019  OBJ       0
+    A003011020  OBJ       0
+    A003011021  OBJ       0
+    A003011022  OBJ       0
+    A003011023  OBJ       0
+    A003011024  OBJ       0
+    A003011025  OBJ       0
+    A003011026  OBJ       0
+    A003011027  OBJ       0
+    A003011028  OBJ       0
+    A003011029  OBJ       0
+    A003011030  OBJ       0
+    A003011031  OBJ       0
+    A003011032  OBJ       0
+    A003011033  OBJ       0
+    A003011034  OBJ       0
+    A003011035  OBJ       0
+    A003011036  OBJ       0
+    A003011037  OBJ       0
+    A003011038  OBJ       0
+    A003012013  OBJ       0
+    A003012014  OBJ       0
+    A003012015  OBJ       0
+    A003012016  OBJ       0
+    A003012017  OBJ       0
+    A003012018  OBJ       0
+    A003012019  OBJ       0
+    A003012020  OBJ       0
+    A003012021  OBJ       0
+    A003012022  OBJ       0
+    A003012023  OBJ       0
+    A003012024  OBJ       0
+    A003012025  OBJ       0
+    A003012026  OBJ       0
+    A003012027  OBJ       0
+    A003012028  OBJ       0
+    A003012029  OBJ       0
+    A003012030  OBJ       0
+    A003012031  OBJ       0
+    A003012032  OBJ       0
+    A003012033  OBJ       0
+    A003012034  OBJ       0
+    A003012035  OBJ       0
+    A003012036  OBJ       0
+    A003012037  OBJ       0
+    A003012038  OBJ       0
+    A003013014  OBJ       0
+    A003013015  OBJ       0
+    A003013016  OBJ       0
+    A003013017  OBJ       0
+    A003013018  OBJ       0
+    A003013019  OBJ       0
+    A003013020  OBJ       0
+    A003013021  OBJ       0
+    A003013022  OBJ       0
+    A003013023  OBJ       0
+    A003013024  OBJ       0
+    A003013025  OBJ       0
+    A003013026  OBJ       0
+    A003013027  OBJ       0
+    A003013028  OBJ       0
+    A003013029  OBJ       0
+    A003013030  OBJ       0
+    A003013031  OBJ       0
+    A003013032  OBJ       0
+    A003013033  OBJ       0
+    A003013034  OBJ       0
+    A003013035  OBJ       0
+    A003013036  OBJ       0
+    A003013037  OBJ       0
+    A003013038  OBJ       0
+    A003014015  OBJ       0
+    A003014016  OBJ       0
+    A003014017  OBJ       0
+    A003014018  OBJ       0
+    A003014019  OBJ       0
+    A003014020  OBJ       0
+    A003014021  OBJ       0
+    A003014022  OBJ       0
+    A003014023  OBJ       0
+    A003014024  OBJ       0
+    A003014025  OBJ       0
+    A003014026  OBJ       0
+    A003014027  OBJ       0
+    A003014028  OBJ       0
+    A003014029  OBJ       0
+    A003014030  OBJ       0
+    A003014031  OBJ       0
+    A003014032  OBJ       0
+    A003014033  OBJ       0
+    A003014034  OBJ       0
+    A003014035  OBJ       0
+    A003014036  OBJ       0
+    A003014037  OBJ       0
+    A003014038  OBJ       0
+    A003015016  OBJ       0
+    A003015017  OBJ       0
+    A003015018  OBJ       0
+    A003015019  OBJ       0
+    A003015020  OBJ       0
+    A003015021  OBJ       0
+    A003015022  OBJ       0
+    A003015023  OBJ       0
+    A003015024  OBJ       0
+    A003015025  OBJ       0
+    A003015026  OBJ       0
+    A003015027  OBJ       0
+    A003015028  OBJ       0
+    A003015029  OBJ       0
+    A003015030  OBJ       0
+    A003015031  OBJ       0
+    A003015032  OBJ       0
+    A003015033  OBJ       0
+    A003015034  OBJ       0
+    A003015035  OBJ       0
+    A003015036  OBJ       0
+    A003015037  OBJ       0
+    A003015038  OBJ       0
+    A003016017  OBJ       0
+    A003016018  OBJ       0
+    A003016019  OBJ       0
+    A003016020  OBJ       0
+    A003016021  OBJ       0
+    A003016022  OBJ       0
+    A003016023  OBJ       0
+    A003016024  OBJ       0
+    A003016025  OBJ       0
+    A003016026  OBJ       0
+    A003016027  OBJ       0
+    A003016028  OBJ       0
+    A003016029  OBJ       0
+    A003016030  OBJ       0
+    A003016031  OBJ       0
+    A003016032  OBJ       0
+    A003016033  OBJ       0
+    A003016034  OBJ       0
+    A003016035  OBJ       0
+    A003016036  OBJ       0
+    A003016037  OBJ       0
+    A003016038  OBJ       0
+    A003017018  OBJ       0
+    A003017019  OBJ       0
+    A003017020  OBJ       0
+    A003017021  OBJ       0
+    A003017022  OBJ       0
+    A003017023  OBJ       0
+    A003017024  OBJ       0
+    A003017025  OBJ       0
+    A003017026  OBJ       0
+    A003017027  OBJ       0
+    A003017028  OBJ       0
+    A003017029  OBJ       0
+    A003017030  OBJ       0
+    A003017031  OBJ       0
+    A003017032  OBJ       0
+    A003017033  OBJ       0
+    A003017034  OBJ       0
+    A003017035  OBJ       0
+    A003017036  OBJ       0
+    A003017037  OBJ       0
+    A003017038  OBJ       0
+    A003018019  OBJ       0
+    A003018020  OBJ       0
+    A003018021  OBJ       0
+    A003018022  OBJ       0
+    A003018023  OBJ       0
+    A003018024  OBJ       0
+    A003018025  OBJ       0
+    A003018026  OBJ       0
+    A003018027  OBJ       0
+    A003018028  OBJ       0
+    A003018029  OBJ       0
+    A003018030  OBJ       0
+    A003018031  OBJ       0
+    A003018032  OBJ       0
+    A003018033  OBJ       0
+    A003018034  OBJ       0
+    A003018035  OBJ       0
+    A003018036  OBJ       0
+    A003018037  OBJ       0
+    A003018038  OBJ       0
+    A003019020  OBJ       0
+    A003019021  OBJ       0
+    A003019022  OBJ       0
+    A003019023  OBJ       0
+    A003019024  OBJ       0
+    A003019025  OBJ       0
+    A003019026  OBJ       0
+    A003019027  OBJ       0
+    A003019028  OBJ       0
+    A003019029  OBJ       0
+    A003019030  OBJ       0
+    A003019031  OBJ       0
+    A003019032  OBJ       0
+    A003019033  OBJ       0
+    A003019034  OBJ       0
+    A003019035  OBJ       0
+    A003019036  OBJ       0
+    A003019037  OBJ       0
+    A003019038  OBJ       0
+    A003020021  OBJ       0
+    A003020022  OBJ       0
+    A003020023  OBJ       0
+    A003020024  OBJ       0
+    A003020025  OBJ       0
+    A003020026  OBJ       0
+    A003020027  OBJ       0
+    A003020028  OBJ       0
+    A003020029  OBJ       0
+    A003020030  OBJ       0
+    A003020031  OBJ       0
+    A003020032  OBJ       0
+    A003020033  OBJ       0
+    A003020034  OBJ       0
+    A003020035  OBJ       0
+    A003020036  OBJ       0
+    A003020037  OBJ       0
+    A003020038  OBJ       0
+    A003021022  OBJ       0
+    A003021023  OBJ       0
+    A003021024  OBJ       0
+    A003021025  OBJ       0
+    A003021026  OBJ       0
+    A003021027  OBJ       0
+    A003021028  OBJ       0
+    A003021029  OBJ       0
+    A003021030  OBJ       0
+    A003021031  OBJ       0
+    A003021032  OBJ       0
+    A003021033  OBJ       0
+    A003021034  OBJ       0
+    A003021035  OBJ       0
+    A003021036  OBJ       0
+    A003021037  OBJ       0
+    A003021038  OBJ       0
+    A003022023  OBJ       0
+    A003022024  OBJ       0
+    A003022025  OBJ       0
+    A003022026  OBJ       0
+    A003022027  OBJ       0
+    A003022028  OBJ       0
+    A003022029  OBJ       0
+    A003022030  OBJ       0
+    A003022031  OBJ       0
+    A003022032  OBJ       0
+    A003022033  OBJ       0
+    A003022034  OBJ       0
+    A003022035  OBJ       0
+    A003022036  OBJ       0
+    A003022037  OBJ       0
+    A003022038  OBJ       0
+    A003023024  OBJ       0
+    A003023025  OBJ       0
+    A003023026  OBJ       0
+    A003023027  OBJ       0
+    A003023028  OBJ       0
+    A003023029  OBJ       0
+    A003023030  OBJ       0
+    A003023031  OBJ       0
+    A003023032  OBJ       0
+    A003023033  OBJ       0
+    A003023034  OBJ       0
+    A003023035  OBJ       0
+    A003023036  OBJ       0
+    A003023037  OBJ       0
+    A003023038  OBJ       0
+    A003024025  OBJ       0
+    A003024026  OBJ       0
+    A003024027  OBJ       0
+    A003024028  OBJ       0
+    A003024029  OBJ       0
+    A003024030  OBJ       0
+    A003024031  OBJ       0
+    A003024032  OBJ       0
+    A003024033  OBJ       0
+    A003024034  OBJ       0
+    A003024035  OBJ       0
+    A003024036  OBJ       0
+    A003024037  OBJ       0
+    A003024038  OBJ       0
+    A003025026  OBJ       0
+    A003025027  OBJ       0
+    A003025028  OBJ       0
+    A003025029  OBJ       0
+    A003025030  OBJ       0
+    A003025031  OBJ       0
+    A003025032  OBJ       0
+    A003025033  OBJ       0
+    A003025034  OBJ       0
+    A003025035  OBJ       0
+    A003025036  OBJ       0
+    A003025037  OBJ       0
+    A003025038  OBJ       0
+    A003026027  OBJ       0
+    A003026028  OBJ       0
+    A003026029  OBJ       0
+    A003026030  OBJ       0
+    A003026031  OBJ       0
+    A003026032  OBJ       0
+    A003026033  OBJ       0
+    A003026034  OBJ       0
+    A003026035  OBJ       0
+    A003026036  OBJ       0
+    A003026037  OBJ       0
+    A003026038  OBJ       0
+    A003027028  OBJ       0
+    A003027029  OBJ       0
+    A003027030  OBJ       0
+    A003027031  OBJ       0
+    A003027032  OBJ       0
+    A003027033  OBJ       0
+    A003027034  OBJ       0
+    A003027035  OBJ       0
+    A003027036  OBJ       0
+    A003027037  OBJ       0
+    A003027038  OBJ       0
+    A003028029  OBJ       0
+    A003028030  OBJ       0
+    A003028031  OBJ       0
+    A003028032  OBJ       0
+    A003028033  OBJ       0
+    A003028034  OBJ       0
+    A003028035  OBJ       0
+    A003028036  OBJ       0
+    A003028037  OBJ       0
+    A003028038  OBJ       0
+    A003029030  OBJ       0
+    A003029031  OBJ       0
+    A003029032  OBJ       0
+    A003029033  OBJ       0
+    A003029034  OBJ       0
+    A003029035  OBJ       0
+    A003029036  OBJ       0
+    A003029037  OBJ       0
+    A003029038  OBJ       0
+    A003030031  OBJ       0
+    A003030032  OBJ       0
+    A003030033  OBJ       0
+    A003030034  OBJ       0
+    A003030035  OBJ       0
+    A003030036  OBJ       0
+    A003030037  OBJ       0
+    A003030038  OBJ       0
+    A003031032  OBJ       0
+    A003031033  OBJ       0
+    A003031034  OBJ       0
+    A003031035  OBJ       0
+    A003031036  OBJ       0
+    A003031037  OBJ       0
+    A003031038  OBJ       0
+    A003032033  OBJ       0
+    A003032034  OBJ       0
+    A003032035  OBJ       0
+    A003032036  OBJ       0
+    A003032037  OBJ       0
+    A003032038  OBJ       0
+    A003033034  OBJ       0
+    A003033035  OBJ       0
+    A003033036  OBJ       0
+    A003033037  OBJ       0
+    A003033038  OBJ       0
+    A003034035  OBJ       0
+    A003034036  OBJ       0
+    A003034037  OBJ       0
+    A003034038  OBJ       0
+    A003035036  OBJ       0
+    A003035037  OBJ       0
+    A003035038  OBJ       0
+    A003036037  OBJ       0
+    A003036038  OBJ       0
+    A003037038  OBJ       0
+    MARKER    'MARKER'                 'INTEND'
+RHS
+    RHS1      R0        3800
+    RHS1      R39       142
+    RHS1      R40       186
+    RHS1      R41       128
+    RHS1      R42       51
+    RHS1      R43       36
+    RHS1      R44       134
+    RHS1      R45       138
+    RHS1      R46       6
+    RHS1      R47       7
+    RHS1      R48       2
+    RHS1      R49       5
+    RHS1      R50       1
+    RHS1      R51       4
+    RHS1      R52       2
+    RHS1      R53       1
+    RHS1      R54       1
+    RHS1      R55       1
+    RHS1      R56       1
+    RHS1      R57       1
+    RHS1      R58       1
+    RHS1      R59       1
+    RHS1      R60       1
+    RHS1      R61       1
+    RHS1      R62       1
+    RHS1      R63       1
+    RHS1      R64       1
+    RHS1      R65       1
+    RHS1      R66       1
+    RHS1      R67       1
+    RHS1      R68       1
+    RHS1      R69       1
+    RHS1      R70       1
+    RHS1      R71       1
+    RHS1      R72       1
+    RHS1      R73       1
+    RHS1      R74       1
+    RHS1      R75       1
+    RHS1      R76       1
+    RHS1      R77       1
+    RHS1      R78       1
+    RHS1      R79       1
+    RHS1      R80       1
+    RHS1      R81       1
+    RHS1      R82       1
+    RHS1      R83       1
+    RHS1      R84       1
+    RHS1      R85       1
+    RHS1      R86       1
+    RHS1      R87       1
+    RHS1      R88       1
+    RHS1      R89       1
+    RHS1      R90       1
+    RHS1      GC0       45
+    RHS1      GC1       50
+    RHS1      GC2       56
+    RHS1      GC3       55
+    RHS1      GC4       72
+    RHS1      GC5       37
+    RHS1      GC6       37
+    RHS1      GC7       64
+    RHS1      GC8       59
+    RHS1      GC9       56
+    RHS1      GC10      78
+    RHS1      GC11      48
+    RHS1      GC12      53
+    RHS1      GC13      66
+    RHS1      GC14      47
+    RHS1      GC15      93
+    RHS1      GC16      44
+    RHS1      GC17      58
+    RHS1      GC18      80
+    RHS1      GC19      28
+    RHS1      GC20      61
+    RHS1      GC21      63
+    RHS1      GC22      67
+    RHS1      GC23      49
+    RHS1      GC24      21
+    RHS1      GC25      97
+    RHS1      GC26      64
+    RHS1      GC27      19
+    RHS1      GC28      79
+    RHS1      GC29      69
+    RHS1      GC30      58
+    RHS1      GC31      60
+    RHS1      GC32      50
+    RHS1      GC33      55
+    RHS1      GC34      92
+    RHS1      GC35      41
+    RHS1      GC36      90
+    RHS1      GC37      84
+    RHS1      GC38      55
+    RHS1      GC39      67
+    RHS1      GC40      69
+    RHS1      GC41      83
+    RHS1      GC42      63
+    RHS1      GC43      61
+    RHS1      GC44      21
+    RHS1      GC45      30
+    RHS1      GC46      34
+    RHS1      GC47      34
+    RHS1      GC48      85
+    RHS1      GC49      82
+    RHS1      GC50      46
+    RHS1      GC51      39
+    RHS1      GC52      63
+    RHS1      GC53      96
+    RHS1      GC54      94
+    RHS1      GC55      79
+    RHS1      GC56      65
+    RHS1      GC57      35
+    RHS1      GC58      58
+    RHS1      GC59      35
+    RHS1      GC60      72
+    RHS1      GC61      74
+    RHS1      GC62      95
+    RHS1      GC63      58
+    RHS1      GC64      43
+    RHS1      GC65      64
+    RHS1      GC66      20
+    RHS1      GC67      19
+    RHS1      GC68      49
+    RHS1      GC69      44
+    RHS1      GC70      97
+    RHS1      GC71      34
+    RHS1      GC72      67
+    RHS1      GC73      71
+    RHS1      GC74      73
+    RHS1      GC75      40
+    RHS1      GC76      43
+    RHS1      GC77      34
+    RHS1      GC78      66
+    RHS1      GC79      38
+    RHS1      GC80      35
+    RHS1      GC81      47
+    RHS1      GC82      52
+    RHS1      GC83      97
+    RHS1      GC84      85
+    RHS1      GC85      79
+    RHS1      GC86      87
+    RHS1      GC87      92
+    RHS1      GC88      59
+    RHS1      GC89      100
+    RHS1      GC90      64
+    RHS1      GC91      75
+    RHS1      GC92      85
+    RHS1      GC93      93
+    RHS1      GC94      100
+    RHS1      GC95      35
+    RHS1      GC96      31
+    RHS1      GC97      49
+    RHS1      GC98      51
+    RHS1      GC99      20
+    RHS1      GC100     31
+    RHS1      GC101     75
+    RHS1      GC102     28
+    RHS1      GC103     96
+    RHS1      GC104     24
+    RHS1      GC105     21
+    RHS1      GC106     55
+    RHS1      GC107     89
+    RHS1      GC108     80
+    RHS1      GC109     92
+    RHS1      GC110     42
+    RHS1      GC111     43
+    RHS1      GC112     94
+    RHS1      GC113     49
+    RHS1      GC114     30
+    RHS1      GC115     87
+    RHS1      GC116     63
+    RHS1      GC117     94
+    RHS1      GC118     46
+    RHS1      GC119     23
+    RHS1      GC120     68
+    RHS1      GC121     58
+    RHS1      GC122     92
+    RHS1      GC123     20
+    RHS1      GC124     74
+    RHS1      GC125     90
+    RHS1      GC126     81
+    RHS1      GC127     54
+    RHS1      GC128     46
+    RHS1      GC129     24
+    RHS1      GC130     99
+    RHS1      GC131     75
+    RHS1      GC132     58
+    RHS1      GC133     48
+    RHS1      GC134     48
+    RHS1      GC135     38
+    RHS1      GC136     51
+    RHS1      GC137     46
+    RHS1      GC138     48
+    RHS1      GC139     33
+    RHS1      GC140     58
+    RHS1      GC141     65
+    RHS1      GC142     32
+    RHS1      GC143     58
+    RHS1      GC144     66
+    RHS1      GC145     70
+    RHS1      GC146     89
+    RHS1      GC147     48
+    RHS1      GC148     73
+    RHS1      GC149     72
+    RHS1      GC150     67
+    RHS1      GC151     74
+    RHS1      GC153     1
+    RHS1      GC155     1
+    RHS1      GC157     1
+    RHS1      GC159     1
+    RHS1      GC161     1
+    RHS1      GC163     1
+    RHS1      GC165     1
+    RHS1      GC167     1
+    RHS1      GC169     1
+    RHS1      GC171     1
+    RHS1      GC173     1
+    RHS1      GC175     1
+    RHS1      GC177     1
+    RHS1      GC179     1
+    RHS1      GC181     1
+    RHS1      GC183     1
+    RHS1      GC185     1
+    RHS1      GC187     1
+    RHS1      GC189     1
+    RHS1      GC191     1
+    RHS1      GC193     1
+    RHS1      GC195     1
+    RHS1      GC197     1
+    RHS1      GC199     1
+    RHS1      GC201     1
+    RHS1      GC203     1
+    RHS1      GC205     1
+    RHS1      GC207     1
+    RHS1      GC209     1
+    RHS1      GC211     1
+    RHS1      GC213     1
+    RHS1      GC215     1
+    RHS1      GC217     1
+    RHS1      GC219     1
+    RHS1      GC221     1
+    RHS1      GC223     1
+    RHS1      GC225     1
+    RHS1      GC227     1
+    RHS1      GC229     1
+    RHS1      GC231     1
+    RHS1      GC233     1
+    RHS1      GC235     1
+    RHS1      GC237     1
+    RHS1      GC239     1
+    RHS1      GC241     1
+    RHS1      GC243     1
+    RHS1      GC245     1
+    RHS1      GC247     1
+    RHS1      GC249     1
+    RHS1      GC251     1
+    RHS1      GC253     1
+    RHS1      GC255     1
+    RHS1      GC257     1
+    RHS1      GC259     1
+    RHS1      GC261     1
+    RHS1      GC263     1
+    RHS1      GC265     1
+    RHS1      GC267     1
+    RHS1      GC269     1
+    RHS1      GC271     1
+    RHS1      GC273     1
+    RHS1      GC275     1
+    RHS1      GC277     1
+    RHS1      GC279     1
+    RHS1      GC281     1
+    RHS1      GC283     1
+    RHS1      GC285     1
+    RHS1      GC287     1
+    RHS1      GC289     1
+    RHS1      GC291     1
+    RHS1      GC293     1
+    RHS1      GC295     1
+    RHS1      GC297     1
+    RHS1      GC299     1
+    RHS1      GC301     1
+    RHS1      GC303     1
+    RHS1      GC305     1
+    RHS1      GC307     1
+    RHS1      GC309     1
+    RHS1      GC311     1
+    RHS1      GC313     1
+    RHS1      GC315     1
+    RHS1      GC317     1
+    RHS1      GC319     1
+    RHS1      GC321     1
+    RHS1      GC323     1
+    RHS1      GC325     1
+    RHS1      GC327     1
+    RHS1      GC329     1
+    RHS1      GC331     1
+    RHS1      GC333     1
+    RHS1      GC335     1
+    RHS1      GC337     1
+    RHS1      GC339     1
+    RHS1      GC341     1
+    RHS1      GC343     1
+    RHS1      GC345     1
+    RHS1      GC347     1
+    RHS1      GC349     1
+    RHS1      GC351     1
+    RHS1      GC353     1
+    RHS1      GC355     1
+    RHS1      GC357     1
+    RHS1      GC359     1
+    RHS1      GC361     1
+    RHS1      GC363     1
+    RHS1      GC365     1
+    RHS1      GC367     1
+    RHS1      GC369     1
+    RHS1      GC371     1
+    RHS1      GC373     1
+    RHS1      GC375     1
+    RHS1      GC377     1
+    RHS1      GC379     1
+    RHS1      GC381     1
+    RHS1      GC383     1
+    RHS1      GC385     1
+    RHS1      GC387     1
+    RHS1      GC389     1
+    RHS1      GC391     1
+    RHS1      GC393     1
+    RHS1      GC395     1
+    RHS1      GC397     1
+    RHS1      GC399     1
+    RHS1      GC401     1
+    RHS1      GC403     1
+    RHS1      GC405     1
+    RHS1      GC407     1
+    RHS1      GC409     1
+    RHS1      GC411     1
+    RHS1      GC413     1
+    RHS1      GC415     1
+    RHS1      GC417     1
+    RHS1      GC419     1
+    RHS1      GC421     1
+    RHS1      GC423     1
+    RHS1      GC425     1
+    RHS1      GC427     1
+    RHS1      GC429     1
+    RHS1      GC431     1
+    RHS1      GC433     1
+    RHS1      GC435     1
+    RHS1      GC437     1
+    RHS1      GC439     1
+    RHS1      GC441     1
+    RHS1      GC443     1
+    RHS1      GC445     1
+    RHS1      GC447     1
+    RHS1      GC449     1
+    RHS1      GC451     1
+    RHS1      GC453     1
+    RHS1      GC455     1
+    RHS1      GC457     1
+    RHS1      GC459     1
+    RHS1      GC461     1
+    RHS1      GC463     1
+    RHS1      GC465     1
+    RHS1      GC467     1
+    RHS1      GC469     1
+    RHS1      GC471     1
+    RHS1      GC473     1
+    RHS1      GC475     1
+    RHS1      GC477     1
+    RHS1      GC479     1
+    RHS1      GC481     1
+    RHS1      GC483     1
+    RHS1      GC485     1
+    RHS1      GC487     1
+    RHS1      GC489     1
+    RHS1      GC491     1
+    RHS1      GC493     1
+    RHS1      GC495     1
+    RHS1      GC497     1
+    RHS1      GC499     1
+    RHS1      GC501     1
+    RHS1      GC503     1
+    RHS1      GC505     1
+    RHS1      GC507     1
+    RHS1      GC509     1
+    RHS1      GC511     1
+    RHS1      GC513     1
+    RHS1      GC515     1
+    RHS1      GC517     1
+    RHS1      GC519     1
+    RHS1      GC521     1
+    RHS1      GC523     1
+    RHS1      GC525     1
+    RHS1      GC527     1
+    RHS1      GC529     1
+    RHS1      GC531     1
+    RHS1      GC533     1
+    RHS1      GC535     1
+    RHS1      GC537     1
+    RHS1      GC539     1
+    RHS1      GC541     1
+    RHS1      GC543     1
+    RHS1      GC545     1
+    RHS1      GC547     1
+    RHS1      GC549     1
+    RHS1      GC551     1
+    RHS1      GC553     1
+    RHS1      GC555     1
+    RHS1      GC557     1
+    RHS1      GC559     1
+    RHS1      GC561     1
+    RHS1      GC563     1
+    RHS1      GC565     1
+    RHS1      GC567     1
+    RHS1      GC569     1
+    RHS1      GC571     1
+    RHS1      GC573     1
+    RHS1      GC575     1
+    RHS1      GC577     1
+    RHS1      GC579     1
+    RHS1      GC581     1
+    RHS1      GC583     1
+    RHS1      GC585     1
+    RHS1      GC587     1
+    RHS1      GC589     1
+    RHS1      GC591     1
+    RHS1      GC593     1
+    RHS1      GC595     1
+    RHS1      GC597     1
+    RHS1      GC599     1
+    RHS1      GC601     1
+    RHS1      GC603     1
+    RHS1      GC605     1
+    RHS1      GC607     1
+    RHS1      GC609     1
+    RHS1      GC611     1
+    RHS1      GC613     1
+    RHS1      GC615     1
+    RHS1      GC617     1
+    RHS1      GC619     1
+    RHS1      GC621     1
+    RHS1      GC623     1
+    RHS1      GC625     1
+    RHS1      GC627     1
+    RHS1      GC629     1
+    RHS1      GC631     1
+    RHS1      GC633     1
+    RHS1      GC635     1
+    RHS1      GC637     1
+    RHS1      GC639     1
+    RHS1      GC641     1
+    RHS1      GC643     1
+    RHS1      GC645     1
+    RHS1      GC647     1
+    RHS1      GC649     1
+    RHS1      GC651     1
+    RHS1      GC653     1
+    RHS1      GC655     1
+    RHS1      GC657     1
+    RHS1      GC659     1
+    RHS1      GC661     1
+    RHS1      GC663     1
+    RHS1      GC665     1
+    RHS1      GC667     1
+    RHS1      GC669     1
+    RHS1      GC671     1
+    RHS1      GC673     1
+    RHS1      GC675     1
+    RHS1      GC677     1
+    RHS1      GC679     1
+    RHS1      GC681     1
+    RHS1      GC683     1
+    RHS1      GC685     1
+    RHS1      GC687     1
+    RHS1      GC689     1
+    RHS1      GC691     1
+    RHS1      GC693     1
+    RHS1      GC695     1
+    RHS1      GC697     1
+    RHS1      GC699     1
+    RHS1      GC701     1
+    RHS1      GC703     1
+    RHS1      GC705     1
+    RHS1      GC707     1
+    RHS1      GC709     1
+    RHS1      GC711     1
+    RHS1      GC713     1
+    RHS1      GC715     1
+    RHS1      GC717     1
+    RHS1      GC719     1
+    RHS1      GC721     1
+    RHS1      GC723     1
+    RHS1      GC725     1
+    RHS1      GC727     1
+    RHS1      GC729     1
+    RHS1      GC731     1
+    RHS1      GC733     1
+    RHS1      GC735     1
+    RHS1      GC737     1
+    RHS1      GC739     1
+    RHS1      GC741     1
+    RHS1      GC743     1
+    RHS1      GC745     1
+    RHS1      GC747     1
+    RHS1      GC749     1
+    RHS1      GC751     1
+    RHS1      GC753     1
+    RHS1      GC755     1
+    RHS1      GC757     1
+    RHS1      GC759     1
+    RHS1      GC761     1
+    RHS1      GC763     1
+    RHS1      GC765     1
+    RHS1      GC767     1
+    RHS1      GC769     1
+    RHS1      GC771     1
+    RHS1      GC773     1
+    RHS1      GC775     1
+    RHS1      GC777     1
+    RHS1      GC779     1
+    RHS1      GC781     1
+    RHS1      GC783     1
+    RHS1      GC785     1
+    RHS1      GC787     1
+    RHS1      GC789     1
+    RHS1      GC791     1
+    RHS1      GC793     1
+    RHS1      GC795     1
+    RHS1      GC797     1
+    RHS1      GC799     1
+    RHS1      GC801     1
+    RHS1      GC803     1
+    RHS1      GC805     1
+    RHS1      GC807     1
+    RHS1      GC809     1
+    RHS1      GC811     1
+    RHS1      GC813     1
+    RHS1      GC815     1
+    RHS1      GC817     1
+    RHS1      GC819     1
+    RHS1      GC821     1
+    RHS1      GC823     1
+    RHS1      GC825     1
+    RHS1      GC827     1
+    RHS1      GC829     1
+    RHS1      GC831     1
+    RHS1      GC833     1
+    RHS1      GC835     1
+    RHS1      GC837     1
+    RHS1      GC839     1
+    RHS1      GC841     1
+    RHS1      GC843     1
+    RHS1      GC845     1
+    RHS1      GC847     1
+    RHS1      GC849     1
+    RHS1      GC851     1
+    RHS1      GC853     1
+    RHS1      GC855     1
+    RHS1      GC857     1
+    RHS1      GC859     1
+    RHS1      GC861     1
+    RHS1      GC863     1
+    RHS1      GC865     1
+    RHS1      GC867     1
+    RHS1      GC869     1
+    RHS1      GC871     1
+    RHS1      GC873     1
+    RHS1      GC875     1
+    RHS1      GC877     1
+    RHS1      GC879     1
+    RHS1      GC881     1
+    RHS1      GC883     1
+    RHS1      GC885     1
+    RHS1      GC887     1
+    RHS1      GC889     1
+    RHS1      GC891     1
+    RHS1      GC893     1
+    RHS1      GC895     1
+    RHS1      GC897     1
+    RHS1      GC899     1
+    RHS1      GC901     1
+    RHS1      GC903     1
+    RHS1      GC905     1
+    RHS1      GC907     1
+    RHS1      GC909     1
+    RHS1      GC911     1
+    RHS1      GC913     1
+    RHS1      GC915     1
+    RHS1      GC917     1
+    RHS1      GC919     1
+    RHS1      GC921     1
+    RHS1      GC923     1
+    RHS1      GC925     1
+    RHS1      GC927     1
+    RHS1      GC929     1
+    RHS1      GC931     1
+    RHS1      GC933     1
+    RHS1      GC935     1
+    RHS1      GC937     1
+    RHS1      GC939     1
+    RHS1      GC941     1
+    RHS1      GC943     1
+    RHS1      GC945     1
+    RHS1      GC947     1
+    RHS1      GC949     1
+    RHS1      GC951     1
+    RHS1      GC953     1
+    RHS1      GC955     1
+    RHS1      GC957     1
+    RHS1      GC959     1
+    RHS1      GC961     1
+    RHS1      GC963     1
+    RHS1      GC965     1
+    RHS1      GC967     1
+    RHS1      GC969     1
+    RHS1      GC971     1
+    RHS1      GC973     1
+    RHS1      GC975     1
+    RHS1      GC977     1
+    RHS1      GC979     1
+    RHS1      GC981     1
+    RHS1      GC983     1
+    RHS1      GC985     1
+    RHS1      GC987     1
+    RHS1      GC989     1
+    RHS1      GC991     1
+    RHS1      GC993     1
+    RHS1      GC995     1
+    RHS1      GC997     1
+    RHS1      GC999     1
+    RHS1      GC1001    1
+    RHS1      GC1003    1
+    RHS1      GC1005    1
+    RHS1      GC1007    1
+    RHS1      GC1009    1
+    RHS1      GC1011    1
+    RHS1      GC1013    1
+    RHS1      GC1015    1
+    RHS1      GC1017    1
+    RHS1      GC1019    1
+    RHS1      GC1021    1
+    RHS1      GC1023    1
+    RHS1      GC1025    1
+    RHS1      GC1027    1
+    RHS1      GC1029    1
+    RHS1      GC1031    1
+    RHS1      GC1033    1
+    RHS1      GC1035    1
+    RHS1      GC1037    1
+    RHS1      GC1039    1
+    RHS1      GC1041    1
+    RHS1      GC1043    1
+    RHS1      GC1045    1
+    RHS1      GC1047    1
+    RHS1      GC1049    1
+    RHS1      GC1051    1
+    RHS1      GC1053    1
+    RHS1      GC1055    1
+    RHS1      GC1057    1
+    RHS1      GC1059    1
+    RHS1      GC1061    1
+    RHS1      GC1063    1
+    RHS1      GC1065    1
+    RHS1      GC1067    1
+    RHS1      GC1069    1
+    RHS1      GC1071    1
+    RHS1      GC1073    1
+    RHS1      GC1075    1
+    RHS1      GC1077    1
+    RHS1      GC1079    1
+    RHS1      GC1081    1
+    RHS1      GC1083    1
+    RHS1      GC1085    1
+    RHS1      GC1087    1
+    RHS1      GC1089    1
+    RHS1      GC1091    1
+    RHS1      GC1093    1
+    RHS1      GC1095    1
+    RHS1      GC1097    1
+    RHS1      GC1099    1
+    RHS1      GC1101    1
+    RHS1      GC1103    1
+    RHS1      GC1105    1
+    RHS1      GC1107    1
+    RHS1      GC1109    1
+    RHS1      GC1111    1
+    RHS1      GC1113    1
+    RHS1      GC1115    1
+    RHS1      GC1117    1
+    RHS1      GC1119    1
+    RHS1      GC1121    1
+    RHS1      GC1123    1
+    RHS1      GC1125    1
+    RHS1      GC1127    1
+    RHS1      GC1129    1
+    RHS1      GC1131    1
+    RHS1      GC1133    1
+    RHS1      GC1135    1
+    RHS1      GC1137    1
+    RHS1      GC1139    1
+    RHS1      GC1141    1
+    RHS1      GC1143    1
+    RHS1      GC1145    1
+    RHS1      GC1147    1
+    RHS1      GC1149    1
+    RHS1      GC1151    1
+    RHS1      GC1153    1
+    RHS1      GC1155    1
+    RHS1      GC1157    1
+    RHS1      GC1159    1
+    RHS1      GC1161    1
+    RHS1      GC1163    1
+    RHS1      GC1165    1
+    RHS1      GC1167    1
+    RHS1      GC1169    1
+    RHS1      GC1171    1
+    RHS1      GC1173    1
+    RHS1      GC1175    1
+    RHS1      GC1177    1
+    RHS1      GC1179    1
+    RHS1      GC1181    1
+    RHS1      GC1183    1
+    RHS1      GC1185    1
+    RHS1      GC1187    1
+    RHS1      GC1189    1
+    RHS1      GC1191    1
+    RHS1      GC1193    1
+    RHS1      GC1195    1
+    RHS1      GC1197    1
+    RHS1      GC1199    1
+    RHS1      GC1201    1
+    RHS1      GC1203    1
+    RHS1      GC1205    1
+    RHS1      GC1207    1
+    RHS1      GC1209    1
+    RHS1      GC1211    1
+    RHS1      GC1213    1
+    RHS1      GC1215    1
+    RHS1      GC1217    1
+    RHS1      GC1219    1
+    RHS1      GC1221    1
+    RHS1      GC1223    1
+    RHS1      GC1225    1
+    RHS1      GC1227    1
+    RHS1      GC1229    1
+    RHS1      GC1231    1
+    RHS1      GC1233    1
+    RHS1      GC1235    1
+    RHS1      GC1237    1
+    RHS1      GC1239    1
+    RHS1      GC1241    1
+    RHS1      GC1243    1
+    RHS1      GC1245    1
+    RHS1      GC1247    1
+    RHS1      GC1249    1
+    RHS1      GC1251    1
+    RHS1      GC1253    1
+    RHS1      GC1255    1
+    RHS1      GC1257    1
+    RHS1      GC1259    1
+    RHS1      GC1261    1
+    RHS1      GC1263    1
+    RHS1      GC1265    1
+    RHS1      GC1267    1
+    RHS1      GC1269    1
+    RHS1      GC1271    1
+    RHS1      GC1273    1
+    RHS1      GC1275    1
+    RHS1      GC1277    1
+    RHS1      GC1279    1
+    RHS1      GC1281    1
+    RHS1      GC1283    1
+    RHS1      GC1285    1
+    RHS1      GC1287    1
+    RHS1      GC1289    1
+    RHS1      GC1291    1
+    RHS1      GC1293    1
+    RHS1      GC1295    1
+    RHS1      GC1297    1
+    RHS1      GC1299    1
+    RHS1      GC1301    1
+    RHS1      GC1303    1
+    RHS1      GC1305    1
+    RHS1      GC1307    1
+    RHS1      GC1309    1
+    RHS1      GC1311    1
+    RHS1      GC1313    1
+    RHS1      GC1315    1
+    RHS1      GC1317    1
+    RHS1      GC1319    1
+    RHS1      GC1321    1
+    RHS1      GC1323    1
+    RHS1      GC1325    1
+    RHS1      GC1327    1
+    RHS1      GC1329    1
+    RHS1      GC1331    1
+    RHS1      GC1333    1
+    RHS1      GC1335    1
+    RHS1      GC1337    1
+    RHS1      GC1339    1
+    RHS1      GC1341    1
+    RHS1      GC1343    1
+    RHS1      GC1345    1
+    RHS1      GC1347    1
+    RHS1      GC1349    1
+    RHS1      GC1351    1
+    RHS1      GC1353    1
+    RHS1      GC1355    1
+    RHS1      GC1357    1
+    RHS1      GC1359    1
+    RHS1      GC1361    1
+    RHS1      GC1363    1
+    RHS1      GC1365    1
+    RHS1      GC1367    1
+    RHS1      GC1369    1
+    RHS1      GC1371    1
+    RHS1      GC1373    1
+    RHS1      GC1375    1
+    RHS1      GC1377    1
+    RHS1      GC1379    1
+    RHS1      GC1381    1
+    RHS1      GC1383    1
+    RHS1      GC1385    1
+    RHS1      GC1387    1
+    RHS1      GC1389    1
+    RHS1      GC1391    1
+    RHS1      GC1393    1
+    RHS1      GC1395    1
+    RHS1      GC1397    1
+    RHS1      GC1399    1
+    RHS1      GC1401    1
+    RHS1      GC1403    1
+    RHS1      GC1405    1
+    RHS1      GC1407    1
+    RHS1      GC1409    1
+    RHS1      GC1411    1
+    RHS1      GC1413    1
+    RHS1      GC1415    1
+    RHS1      GC1417    1
+    RHS1      GC1419    1
+    RHS1      GC1421    1
+    RHS1      GC1423    1
+    RHS1      GC1425    1
+    RHS1      GC1427    1
+    RHS1      GC1429    1
+    RHS1      GC1431    1
+    RHS1      GC1433    1
+    RHS1      GC1435    1
+    RHS1      GC1437    1
+    RHS1      GC1439    1
+    RHS1      GC1441    1
+    RHS1      GC1443    1
+    RHS1      GC1445    1
+    RHS1      GC1447    1
+    RHS1      GC1449    1
+    RHS1      GC1451    1
+    RHS1      GC1453    1
+    RHS1      GC1455    1
+    RHS1      GC1457    1
+    RHS1      GC1459    1
+    RHS1      GC1461    1
+    RHS1      GC1463    1
+    RHS1      GC1465    1
+    RHS1      GC1467    1
+    RHS1      GC1469    1
+    RHS1      GC1471    1
+    RHS1      GC1473    1
+    RHS1      GC1475    1
+    RHS1      GC1477    1
+    RHS1      GC1479    1
+    RHS1      GC1481    1
+    RHS1      GC1483    1
+    RHS1      GC1485    1
+    RHS1      GC1487    1
+    RHS1      GC1489    1
+    RHS1      GC1491    1
+    RHS1      GC1493    1
+    RHS1      GC1495    1
+    RHS1      GC1497    1
+    RHS1      GC1499    1
+    RHS1      GC1501    1
+    RHS1      GC1503    1
+    RHS1      GC1505    1
+    RHS1      GC1507    1
+    RHS1      GC1509    1
+    RHS1      GC1511    1
+    RHS1      GC1513    1
+    RHS1      GC1515    1
+    RHS1      GC1517    1
+    RHS1      GC1519    1
+    RHS1      GC1521    1
+    RHS1      GC1523    1
+    RHS1      GC1525    1
+    RHS1      GC1527    1
+    RHS1      GC1529    1
+    RHS1      GC1531    1
+    RHS1      GC1533    1
+    RHS1      GC1535    1
+    RHS1      GC1537    1
+    RHS1      GC1539    1
+    RHS1      GC1541    1
+    RHS1      GC1543    1
+    RHS1      GC1545    1
+    RHS1      GC1547    1
+    RHS1      GC1549    1
+    RHS1      GC1551    1
+    RHS1      GC1553    1
+    RHS1      GC1555    1
+    RHS1      GC1557    1
+    RHS1      GC1559    1
+    RHS1      GC1561    1
+    RHS1      GC1563    1
+    RHS1      GC1565    1
+    RHS1      GC1567    1
+    RHS1      GC1569    1
+    RHS1      GC1571    1
+    RHS1      GC1573    1
+    RHS1      GC1575    1
+    RHS1      GC1577    1
+    RHS1      GC1579    1
+    RHS1      GC1581    1
+    RHS1      GC1583    1
+    RHS1      GC1585    1
+    RHS1      GC1587    1
+    RHS1      GC1589    1
+    RHS1      GC1591    1
+    RHS1      GC1593    1
+    RHS1      GC1595    1
+    RHS1      GC1597    1
+    RHS1      GC1599    1
+    RHS1      GC1601    1
+    RHS1      GC1603    1
+    RHS1      GC1605    1
+    RHS1      GC1607    1
+    RHS1      GC1609    1
+    RHS1      GC1611    1
+    RHS1      GC1613    1
+    RHS1      GC1615    1
+    RHS1      GC1617    1
+    RHS1      GC1619    1
+    RHS1      GC1621    1
+    RHS1      GC1623    1
+    RHS1      GC1625    1
+    RHS1      GC1627    1
+    RHS1      GC1629    1
+    RHS1      GC1631    1
+    RHS1      GC1633    1
+    RHS1      GC1635    1
+    RHS1      GC1637    1
+    RHS1      GC1639    1
+    RHS1      GC1641    1
+    RHS1      GC1643    1
+    RHS1      GC1645    1
+    RHS1      GC1647    1
+    RHS1      GC1649    1
+    RHS1      GC1651    1
+    RHS1      GC1653    1
+    RHS1      GC1655    1
+    RHS1      GC1657    1
+    RHS1      GC1659    1
+    RHS1      GC1661    1
+    RHS1      GC1663    1
+    RHS1      GC1665    1
+    RHS1      GC1667    1
+    RHS1      GC1669    1
+    RHS1      GC1671    1
+    RHS1      GC1673    1
+    RHS1      GC1675    1
+    RHS1      GC1677    1
+    RHS1      GC1679    1
+    RHS1      GC1681    1
+    RHS1      GC1683    1
+    RHS1      GC1685    1
+    RHS1      GC1687    1
+    RHS1      GC1689    1
+    RHS1      GC1691    1
+    RHS1      GC1693    1
+    RHS1      GC1695    1
+    RHS1      GC1697    1
+    RHS1      GC1699    1
+    RHS1      GC1701    1
+    RHS1      GC1703    1
+    RHS1      GC1705    1
+    RHS1      GC1707    1
+    RHS1      GC1709    1
+    RHS1      GC1711    1
+    RHS1      GC1713    1
+    RHS1      GC1715    1
+    RHS1      GC1717    1
+    RHS1      GC1719    1
+    RHS1      GC1721    1
+    RHS1      GC1723    1
+    RHS1      GC1725    1
+    RHS1      GC1727    1
+    RHS1      GC1729    1
+    RHS1      GC1731    1
+    RHS1      GC1733    1
+    RHS1      GC1735    1
+    RHS1      GC1737    1
+    RHS1      GC1739    1
+    RHS1      GC1741    1
+    RHS1      GC1743    1
+    RHS1      GC1745    1
+    RHS1      GC1747    1
+    RHS1      GC1749    1
+    RHS1      GC1751    1
+    RHS1      GC1753    1
+    RHS1      GC1755    1
+    RHS1      GC1757    1
+    RHS1      GC1759    1
+    RHS1      GC1761    1
+    RHS1      GC1763    1
+    RHS1      GC1765    1
+    RHS1      GC1767    1
+    RHS1      GC1769    1
+    RHS1      GC1771    1
+    RHS1      GC1773    1
+    RHS1      GC1775    1
+    RHS1      GC1777    1
+    RHS1      GC1779    1
+    RHS1      GC1781    1
+    RHS1      GC1783    1
+    RHS1      GC1785    1
+    RHS1      GC1787    1
+    RHS1      GC1789    1
+    RHS1      GC1791    1
+    RHS1      GC1793    1
+    RHS1      GC1795    1
+    RHS1      GC1797    1
+    RHS1      GC1799    1
+    RHS1      GC1801    1
+    RHS1      GC1803    1
+    RHS1      GC1805    1
+    RHS1      GC1807    1
+    RHS1      GC1809    1
+    RHS1      GC1811    1
+    RHS1      GC1813    1
+    RHS1      GC1815    1
+    RHS1      GC1817    1
+    RHS1      GC1819    1
+    RHS1      GC1821    1
+    RHS1      GC1823    1
+    RHS1      GC1825    1
+    RHS1      GC1827    1
+    RHS1      GC1829    1
+    RHS1      GC1831    1
+    RHS1      GC1833    1
+    RHS1      GC1835    1
+    RHS1      GC1837    1
+    RHS1      GC1839    1
+    RHS1      GC1841    1
+    RHS1      GC1843    1
+    RHS1      GC1845    1
+    RHS1      GC1847    1
+    RHS1      GC1849    1
+    RHS1      GC1851    1
+    RHS1      GC1853    1
+    RHS1      GC1855    1
+    RHS1      GC1857    1
+    RHS1      GC1859    1
+    RHS1      GC1861    1
+    RHS1      GC1863    1
+    RHS1      GC1865    1
+    RHS1      GC1867    1
+    RHS1      GC1869    1
+    RHS1      GC1871    1
+    RHS1      GC1873    1
+    RHS1      GC1875    1
+    RHS1      GC1877    1
+    RHS1      GC1879    1
+    RHS1      GC1881    1
+    RHS1      GC1883    1
+    RHS1      GC1885    1
+    RHS1      GC1887    1
+    RHS1      GC1889    1
+    RHS1      GC1891    1
+    RHS1      GC1893    1
+    RHS1      GC1895    1
+    RHS1      GC1897    1
+    RHS1      GC1899    1
+    RHS1      GC1901    1
+    RHS1      GC1903    1
+    RHS1      GC1905    1
+    RHS1      GC1907    1
+    RHS1      GC1909    1
+    RHS1      GC1911    1
+    RHS1      GC1913    1
+    RHS1      GC1915    1
+    RHS1      GC1917    1
+    RHS1      GC1919    1
+    RHS1      GC1921    1
+    RHS1      GC1923    1
+    RHS1      GC1925    1
+    RHS1      GC1927    1
+    RHS1      GC1929    1
+    RHS1      GC1931    1
+    RHS1      GC1933    1
+    RHS1      GC1935    1
+    RHS1      GC1937    1
+    RHS1      GC1939    1
+    RHS1      GC1941    1
+    RHS1      GC1943    1
+    RHS1      GC1945    1
+    RHS1      GC1947    1
+    RHS1      GC1949    1
+    RHS1      GC1951    1
+    RHS1      GC1953    1
+    RHS1      GC1955    1
+    RHS1      GC1957    1
+    RHS1      GC1959    1
+    RHS1      GC1961    1
+    RHS1      GC1963    1
+    RHS1      GC1965    1
+    RHS1      GC1967    1
+    RHS1      GC1969    1
+    RHS1      GC1971    1
+    RHS1      GC1973    1
+    RHS1      GC1975    1
+    RHS1      GC1977    1
+    RHS1      GC1979    1
+    RHS1      GC1981    1
+    RHS1      GC1983    1
+    RHS1      GC1985    1
+    RHS1      GC1987    1
+    RHS1      GC1989    1
+    RHS1      GC1991    1
+    RHS1      GC1993    1
+    RHS1      GC1995    1
+    RHS1      GC1997    1
+    RHS1      GC1999    1
+    RHS1      GC2001    1
+    RHS1      GC2003    1
+    RHS1      GC2005    1
+    RHS1      GC2007    1
+    RHS1      GC2009    1
+    RHS1      GC2011    1
+    RHS1      GC2013    1
+    RHS1      GC2015    1
+    RHS1      GC2017    1
+    RHS1      GC2019    1
+    RHS1      GC2021    1
+    RHS1      GC2023    1
+    RHS1      GC2025    1
+    RHS1      GC2027    1
+    RHS1      GC2029    1
+    RHS1      GC2031    1
+    RHS1      GC2033    1
+    RHS1      GC2035    1
+    RHS1      GC2037    1
+    RHS1      GC2039    1
+    RHS1      GC2041    1
+    RHS1      GC2043    1
+    RHS1      GC2045    1
+    RHS1      GC2047    1
+    RHS1      GC2049    1
+    RHS1      GC2051    1
+    RHS1      GC2053    1
+    RHS1      GC2055    1
+    RHS1      GC2057    1
+    RHS1      GC2059    1
+    RHS1      GC2061    1
+    RHS1      GC2063    1
+    RHS1      GC2065    1
+    RHS1      GC2067    1
+    RHS1      GC2069    1
+    RHS1      GC2071    1
+    RHS1      GC2073    1
+    RHS1      GC2075    1
+    RHS1      GC2077    1
+    RHS1      GC2079    1
+    RHS1      GC2081    1
+    RHS1      GC2083    1
+    RHS1      GC2085    1
+    RHS1      GC2087    1
+    RHS1      GC2089    1
+    RHS1      GC2091    1
+    RHS1      GC2093    1
+    RHS1      GC2095    1
+    RHS1      GC2097    1
+    RHS1      GC2099    1
+    RHS1      GC2101    1
+    RHS1      GC2103    1
+    RHS1      GC2105    1
+    RHS1      GC2107    1
+    RHS1      GC2109    1
+    RHS1      GC2111    1
+    RHS1      GC2113    1
+    RHS1      GC2115    1
+    RHS1      GC2117    1
+    RHS1      GC2119    1
+    RHS1      GC2121    1
+    RHS1      GC2123    1
+    RHS1      GC2125    1
+    RHS1      GC2127    1
+    RHS1      GC2129    1
+    RHS1      GC2131    1
+    RHS1      GC2133    1
+    RHS1      GC2135    1
+    RHS1      GC2137    1
+    RHS1      GC2139    1
+    RHS1      GC2141    1
+    RHS1      GC2143    1
+    RHS1      GC2145    1
+    RHS1      GC2147    1
+    RHS1      GC2149    1
+    RHS1      GC2151    1
+    RHS1      GC2153    1
+    RHS1      GC2155    1
+    RHS1      GC2157    1
+    RHS1      GC2159    1
+    RHS1      GC2161    1
+    RHS1      GC2163    1
+    RHS1      GC2165    1
+    RHS1      GC2167    1
+    RHS1      GC2169    1
+    RHS1      GC2171    1
+    RHS1      GC2173    1
+    RHS1      GC2175    1
+    RHS1      GC2177    1
+    RHS1      GC2179    1
+    RHS1      GC2181    1
+    RHS1      GC2183    1
+    RHS1      GC2185    1
+    RHS1      GC2187    1
+    RHS1      GC2189    1
+    RHS1      GC2191    1
+    RHS1      GC2193    1
+    RHS1      GC2195    1
+    RHS1      GC2197    1
+    RHS1      GC2199    1
+    RHS1      GC2201    1
+    RHS1      GC2203    1
+    RHS1      GC2205    1
+    RHS1      GC2207    1
+    RHS1      GC2209    1
+    RHS1      GC2211    1
+    RHS1      GC2213    1
+    RHS1      GC2215    1
+    RHS1      GC2217    1
+    RHS1      GC2219    1
+    RHS1      GC2221    1
+    RHS1      GC2223    1
+    RHS1      GC2225    1
+    RHS1      GC2227    1
+    RHS1      GC2229    1
+    RHS1      GC2231    1
+    RHS1      GC2233    1
+    RHS1      GC2235    1
+    RHS1      GC2237    1
+    RHS1      GC2239    1
+    RHS1      GC2241    1
+    RHS1      GC2243    1
+    RHS1      GC2245    1
+    RHS1      GC2247    1
+    RHS1      GC2249    1
+    RHS1      GC2251    1
+    RHS1      GC2253    1
+    RHS1      GC2255    1
+    RHS1      GC2257    1
+    RHS1      GC2259    1
+    RHS1      GC2261    1
+    RHS1      GC2263    1
+    RHS1      GC2265    1
+    RHS1      GC2267    1
+    RHS1      GC2269    1
+    RHS1      GC2271    1
+    RHS1      GC2273    1
+    RHS1      GC2275    1
+    RHS1      GC2277    1
+    RHS1      GC2279    1
+    RHS1      GC2281    1
+    RHS1      GC2283    1
+    RHS1      GC2285    1
+    RHS1      GC2287    1
+    RHS1      GC2289    1
+    RHS1      GC2291    1
+    RHS1      GC2293    1
+    RHS1      GC2295    1
+    RHS1      GC2297    1
+    RHS1      GC2299    1
+    RHS1      GC2301    1
+    RHS1      GC2303    1
+    RHS1      GC2305    1
+    RHS1      GC2307    1
+    RHS1      GC2309    1
+    RHS1      GC2311    1
+    RHS1      GC2313    1
+    RHS1      GC2315    1
+    RHS1      GC2317    1
+    RHS1      GC2319    1
+    RHS1      GC2321    1
+    RHS1      GC2323    1
+    RHS1      GC2325    1
+    RHS1      GC2327    1
+    RHS1      GC2329    1
+    RHS1      GC2331    1
+    RHS1      GC2333    1
+    RHS1      GC2335    1
+    RHS1      GC2337    1
+    RHS1      GC2339    1
+    RHS1      GC2341    1
+    RHS1      GC2343    1
+    RHS1      GC2345    1
+    RHS1      GC2347    1
+    RHS1      GC2349    1
+    RHS1      GC2351    1
+    RHS1      GC2353    1
+    RHS1      GC2355    1
+    RHS1      GC2357    1
+    RHS1      GC2359    1
+    RHS1      GC2361    1
+    RHS1      GC2363    1
+    RHS1      GC2365    1
+    RHS1      GC2367    1
+    RHS1      GC2369    1
+    RHS1      GC2371    1
+    RHS1      GC2373    1
+    RHS1      GC2375    1
+    RHS1      GC2377    1
+    RHS1      GC2379    1
+    RHS1      GC2381    1
+    RHS1      GC2383    1
+    RHS1      GC2385    1
+    RHS1      GC2387    1
+    RHS1      GC2389    1
+    RHS1      GC2391    1
+    RHS1      GC2393    1
+    RHS1      GC2395    1
+    RHS1      GC2397    1
+    RHS1      GC2399    1
+    RHS1      GC2401    1
+    RHS1      GC2403    1
+    RHS1      GC2405    1
+    RHS1      GC2407    1
+    RHS1      GC2409    1
+    RHS1      GC2411    1
+    RHS1      GC2413    1
+    RHS1      GC2415    1
+    RHS1      GC2417    1
+    RHS1      GC2419    1
+    RHS1      GC2421    1
+    RHS1      GC2423    1
+    RHS1      GC2425    1
+    RHS1      GC2427    1
+    RHS1      GC2429    1
+    RHS1      GC2431    1
+    RHS1      GC2433    1
+    RHS1      GC2435    1
+    RHS1      GC2437    1
+    RHS1      GC2439    1
+    RHS1      GC2441    1
+    RHS1      GC2443    1
+    RHS1      GC2445    1
+    RHS1      GC2447    1
+    RHS1      GC2449    1
+    RHS1      GC2451    1
+    RHS1      GC2453    1
+    RHS1      GC2455    1
+    RHS1      GC2457    1
+    RHS1      GC2459    1
+    RHS1      GC2461    1
+    RHS1      GC2463    1
+    RHS1      GC2465    1
+    RHS1      GC2467    1
+    RHS1      GC2469    1
+    RHS1      GC2471    1
+    RHS1      GC2473    1
+    RHS1      GC2475    1
+    RHS1      GC2477    1
+    RHS1      GC2479    1
+    RHS1      GC2481    1
+    RHS1      GC2483    1
+    RHS1      GC2485    1
+    RHS1      GC2487    1
+    RHS1      GC2489    1
+    RHS1      GC2491    1
+    RHS1      GC2493    1
+    RHS1      GC2495    1
+    RHS1      GC2497    1
+    RHS1      GC2499    1
+    RHS1      GC2501    1
+    RHS1      GC2503    1
+    RHS1      GC2505    1
+    RHS1      GC2507    1
+    RHS1      GC2509    1
+    RHS1      GC2511    1
+    RHS1      GC2513    1
+    RHS1      GC2515    1
+    RHS1      GC2517    1
+    RHS1      GC2519    1
+    RHS1      GC2521    1
+    RHS1      GC2523    1
+    RHS1      GC2525    1
+    RHS1      GC2527    1
+    RHS1      GC2529    1
+    RHS1      GC2531    1
+    RHS1      GC2533    1
+    RHS1      GC2535    1
+    RHS1      GC2537    1
+    RHS1      GC2539    1
+    RHS1      GC2541    1
+    RHS1      GC2543    1
+    RHS1      GC2545    1
+    RHS1      GC2547    1
+    RHS1      GC2549    1
+    RHS1      GC2551    1
+    RHS1      GC2553    1
+    RHS1      GC2555    1
+    RHS1      GC2557    1
+    RHS1      GC2559    1
+    RHS1      GC2561    1
+    RHS1      GC2563    1
+    RHS1      GC2565    1
+    RHS1      GC2567    1
+    RHS1      GC2569    1
+    RHS1      GC2571    1
+    RHS1      GC2573    1
+    RHS1      GC2575    1
+    RHS1      GC2577    1
+    RHS1      GC2579    1
+    RHS1      GC2581    1
+    RHS1      GC2583    1
+    RHS1      GC2585    1
+    RHS1      GC2587    1
+    RHS1      GC2589    1
+    RHS1      GC2591    1
+    RHS1      GC2593    1
+    RHS1      GC2595    1
+    RHS1      GC2597    1
+    RHS1      GC2599    1
+    RHS1      GC2601    1
+    RHS1      GC2603    1
+    RHS1      GC2605    1
+    RHS1      GC2607    1
+    RHS1      GC2609    1
+    RHS1      GC2611    1
+    RHS1      GC2613    1
+    RHS1      GC2615    1
+    RHS1      GC2617    1
+    RHS1      GC2619    1
+    RHS1      GC2621    1
+    RHS1      GC2623    1
+    RHS1      GC2625    1
+    RHS1      GC2627    1
+    RHS1      GC2629    1
+    RHS1      GC2631    1
+    RHS1      GC2633    1
+    RHS1      GC2635    1
+    RHS1      GC2637    1
+    RHS1      GC2639    1
+    RHS1      GC2641    1
+    RHS1      GC2643    1
+    RHS1      GC2645    1
+    RHS1      GC2647    1
+    RHS1      GC2649    1
+    RHS1      GC2651    1
+    RHS1      GC2653    1
+    RHS1      GC2655    1
+    RHS1      GC2657    1
+    RHS1      GC2659    1
+    RHS1      GC2661    1
+    RHS1      GC2663    1
+    RHS1      GC2665    1
+    RHS1      GC2667    1
+    RHS1      GC2669    1
+    RHS1      GC2671    1
+    RHS1      GC2673    1
+    RHS1      GC2675    1
+    RHS1      GC2677    1
+    RHS1      GC2679    1
+    RHS1      GC2681    1
+    RHS1      GC2683    1
+    RHS1      GC2685    1
+    RHS1      GC2687    1
+    RHS1      GC2689    1
+    RHS1      GC2691    1
+    RHS1      GC2693    1
+    RHS1      GC2695    1
+    RHS1      GC2697    1
+    RHS1      GC2699    1
+    RHS1      GC2701    1
+    RHS1      GC2703    1
+    RHS1      GC2705    1
+    RHS1      GC2707    1
+    RHS1      GC2709    1
+    RHS1      GC2711    1
+    RHS1      GC2713    1
+    RHS1      GC2715    1
+    RHS1      GC2717    1
+    RHS1      GC2719    1
+    RHS1      GC2721    1
+    RHS1      GC2723    1
+    RHS1      GC2725    1
+    RHS1      GC2727    1
+    RHS1      GC2729    1
+    RHS1      GC2731    1
+    RHS1      GC2733    1
+    RHS1      GC2735    1
+    RHS1      GC2737    1
+    RHS1      GC2739    1
+    RHS1      GC2741    1
+    RHS1      GC2743    1
+    RHS1      GC2745    1
+    RHS1      GC2747    1
+    RHS1      GC2749    1
+    RHS1      GC2751    1
+    RHS1      GC2753    1
+    RHS1      GC2755    1
+    RHS1      GC2757    1
+    RHS1      GC2759    1
+    RHS1      GC2761    1
+    RHS1      GC2763    1
+    RHS1      GC2765    1
+    RHS1      GC2767    1
+    RHS1      GC2769    1
+    RHS1      GC2771    1
+    RHS1      GC2773    1
+    RHS1      GC2775    1
+    RHS1      GC2777    1
+    RHS1      GC2779    1
+    RHS1      GC2781    1
+    RHS1      GC2783    1
+    RHS1      GC2785    1
+    RHS1      GC2787    1
+    RHS1      GC2789    1
+    RHS1      GC2791    1
+    RHS1      GC2793    1
+    RHS1      GC2795    1
+    RHS1      GC2797    1
+    RHS1      GC2799    1
+    RHS1      GC2801    1
+    RHS1      GC2803    1
+    RHS1      GC2805    1
+    RHS1      GC2807    1
+    RHS1      GC2809    1
+    RHS1      GC2811    1
+    RHS1      GC2813    1
+    RHS1      GC2815    1
+    RHS1      GC2817    1
+    RHS1      GC2819    1
+    RHS1      GC2821    1
+    RHS1      GC2823    1
+    RHS1      GC2825    1
+    RHS1      GC2827    1
+    RHS1      GC2829    1
+    RHS1      GC2831    1
+    RHS1      GC2833    1
+    RHS1      GC2835    1
+    RHS1      GC2837    1
+    RHS1      GC2839    1
+    RHS1      GC2841    1
+    RHS1      GC2843    1
+    RHS1      GC2845    1
+    RHS1      GC2847    1
+    RHS1      GC2849    1
+    RHS1      GC2851    1
+    RHS1      GC2853    1
+    RHS1      GC2855    1
+    RHS1      GC2857    1
+    RHS1      GC2859    1
+    RHS1      GC2861    1
+    RHS1      GC2863    1
+    RHS1      GC2865    1
+    RHS1      GC2867    1
+    RHS1      GC2869    1
+    RHS1      GC2871    1
+    RHS1      GC2873    1
+    RHS1      GC2875    1
+    RHS1      GC2877    1
+    RHS1      GC2879    1
+    RHS1      GC2881    1
+    RHS1      GC2883    1
+    RHS1      GC2885    1
+    RHS1      GC2887    1
+    RHS1      GC2889    1
+    RHS1      GC2891    1
+    RHS1      GC2893    1
+    RHS1      GC2895    1
+    RHS1      GC2897    1
+    RHS1      GC2899    1
+    RHS1      GC2901    1
+    RHS1      GC2903    1
+    RHS1      GC2905    1
+    RHS1      GC2907    1
+    RHS1      GC2909    1
+    RHS1      GC2911    1
+    RHS1      GC2913    1
+    RHS1      GC2915    1
+    RHS1      GC2917    1
+    RHS1      GC2919    1
+    RHS1      GC2921    1
+    RHS1      GC2923    1
+    RHS1      GC2925    1
+    RHS1      GC2927    1
+    RHS1      GC2929    1
+    RHS1      GC2931    1
+    RHS1      GC2933    1
+    RHS1      GC2935    1
+    RHS1      GC2937    1
+    RHS1      GC2939    1
+    RHS1      GC2941    1
+    RHS1      GC2943    1
+    RHS1      GC2945    1
+    RHS1      GC2947    1
+    RHS1      GC2949    1
+    RHS1      GC2951    1
+    RHS1      GC2953    1
+    RHS1      GC2955    1
+    RHS1      GC2957    1
+    RHS1      GC2959    1
+    RHS1      GC2961    1
+    RHS1      GC2963    1
+    RHS1      GC2965    1
+    RHS1      GC2967    1
+    RHS1      GC2969    1
+    RHS1      GC2971    1
+    RHS1      GC2973    1
+    RHS1      GC2975    1
+    RHS1      GC2977    1
+    RHS1      GC2979    1
+    RHS1      GC2981    1
+    RHS1      GC2983    1
+    RHS1      GC2985    1
+    RHS1      GC2987    1
+    RHS1      GC2989    1
+    RHS1      GC2991    1
+    RHS1      GC2993    1
+    RHS1      GC2995    1
+    RHS1      GC2997    1
+    RHS1      GC2999    1
+    RHS1      GC3001    1
+    RHS1      GC3003    1
+    RHS1      GC3005    1
+    RHS1      GC3007    1
+    RHS1      GC3009    1
+    RHS1      GC3011    1
+    RHS1      GC3013    1
+    RHS1      GC3015    1
+    RHS1      GC3017    1
+    RHS1      GC3019    1
+    RHS1      GC3021    1
+    RHS1      GC3023    1
+    RHS1      GC3025    1
+    RHS1      GC3027    1
+    RHS1      GC3029    1
+    RHS1      GC3031    1
+    RHS1      GC3033    1
+    RHS1      GC3035    1
+    RHS1      GC3037    1
+    RHS1      GC3039    1
+    RHS1      GC3041    1
+    RHS1      GC3043    1
+    RHS1      GC3045    1
+    RHS1      GC3047    1
+    RHS1      GC3049    1
+    RHS1      GC3051    1
+    RHS1      GC3053    1
+    RHS1      GC3055    1
+    RHS1      GC3057    1
+    RHS1      GC3059    1
+    RHS1      GC3061    1
+    RHS1      GC3063    1
+    RHS1      GC3065    1
+    RHS1      GC3067    1
+    RHS1      GC3069    1
+    RHS1      GC3071    1
+    RHS1      GC3073    1
+    RHS1      GC3075    1
+    RHS1      GC3077    1
+    RHS1      GC3079    1
+    RHS1      GC3081    1
+    RHS1      GC3083    1
+    RHS1      GC3085    1
+    RHS1      GC3087    1
+    RHS1      GC3089    1
+    RHS1      GC3091    1
+    RHS1      GC3093    1
+    RHS1      GC3095    1
+    RHS1      GC3097    1
+    RHS1      GC3099    1
+    RHS1      GC3101    1
+    RHS1      GC3103    1
+    RHS1      GC3105    1
+    RHS1      GC3107    1
+    RHS1      GC3109    1
+    RHS1      GC3111    1
+    RHS1      GC3113    1
+    RHS1      GC3115    1
+    RHS1      GC3117    1
+    RHS1      GC3119    1
+    RHS1      GC3121    1
+    RHS1      GC3123    1
+    RHS1      GC3125    1
+    RHS1      GC3127    1
+    RHS1      GC3129    1
+    RHS1      GC3131    1
+    RHS1      GC3133    1
+    RHS1      GC3135    1
+    RHS1      GC3137    1
+    RHS1      GC3139    1
+    RHS1      GC3141    1
+    RHS1      GC3143    1
+    RHS1      GC3145    1
+    RHS1      GC3147    1
+    RHS1      GC3149    1
+    RHS1      GC3151    1
+    RHS1      GC3153    1
+    RHS1      GC3155    1
+    RHS1      GC3157    1
+    RHS1      GC3159    1
+    RHS1      GC3161    1
+    RHS1      GC3163    1
+    RHS1      GC3165    1
+    RHS1      GC3167    1
+    RHS1      GC3169    1
+    RHS1      GC3171    1
+    RHS1      GC3173    1
+    RHS1      GC3175    1
+    RHS1      GC3177    1
+    RHS1      GC3179    1
+    RHS1      GC3181    1
+    RHS1      GC3183    1
+    RHS1      GC3185    1
+    RHS1      GC3187    1
+    RHS1      GC3189    1
+    RHS1      GC3191    1
+    RHS1      GC3193    1
+    RHS1      GC3195    1
+    RHS1      GC3197    1
+    RHS1      GC3199    1
+    RHS1      GC3201    1
+    RHS1      GC3203    1
+    RHS1      GC3205    1
+    RHS1      GC3207    1
+    RHS1      GC3209    1
+    RHS1      GC3211    1
+    RHS1      GC3213    1
+    RHS1      GC3215    1
+    RHS1      GC3217    1
+    RHS1      GC3219    1
+    RHS1      GC3221    1
+    RHS1      GC3223    1
+    RHS1      GC3225    1
+    RHS1      GC3227    1
+    RHS1      GC3229    1
+    RHS1      GC3231    1
+    RHS1      GC3233    1
+    RHS1      GC3235    1
+    RHS1      GC3237    1
+    RHS1      GC3239    1
+    RHS1      GC3241    1
+    RHS1      GC3243    1
+    RHS1      GC3245    1
+    RHS1      GC3247    1
+    RHS1      GC3249    1
+    RHS1      GC3251    1
+    RHS1      GC3253    1
+    RHS1      GC3255    1
+    RHS1      GC3257    1
+    RHS1      GC3259    1
+    RHS1      GC3261    1
+    RHS1      GC3263    1
+    RHS1      GC3265    1
+    RHS1      GC3267    1
+    RHS1      GC3269    1
+    RHS1      GC3271    1
+    RHS1      GC3273    1
+    RHS1      GC3275    1
+    RHS1      GC3277    1
+    RHS1      GC3279    1
+    RHS1      GC3281    1
+    RHS1      GC3283    1
+    RHS1      GC3285    1
+    RHS1      GC3287    1
+    RHS1      GC3289    1
+    RHS1      GC3291    1
+    RHS1      GC3293    1
+    RHS1      GC3295    1
+    RHS1      GC3297    1
+    RHS1      GC3299    1
+    RHS1      GC3301    1
+    RHS1      GC3303    1
+    RHS1      GC3305    1
+    RHS1      GC3307    1
+    RHS1      GC3309    1
+    RHS1      GC3311    1
+    RHS1      GC3313    1
+    RHS1      GC3315    1
+    RHS1      GC3317    1
+    RHS1      GC3319    1
+    RHS1      GC3321    1
+    RHS1      GC3323    1
+    RHS1      GC3325    1
+    RHS1      GC3327    1
+    RHS1      GC3329    1
+    RHS1      GC3331    1
+    RHS1      GC3333    1
+    RHS1      GC3335    1
+    RHS1      GC3337    1
+    RHS1      GC3339    1
+    RHS1      GC3341    1
+    RHS1      GC3343    1
+    RHS1      GC3345    1
+    RHS1      GC3347    1
+    RHS1      GC3349    1
+    RHS1      GC3351    1
+    RHS1      GC3353    1
+    RHS1      GC3355    1
+    RHS1      GC3357    1
+    RHS1      GC3359    1
+    RHS1      GC3361    1
+    RHS1      GC3363    1
+    RHS1      GC3365    1
+    RHS1      GC3367    1
+    RHS1      GC3369    1
+    RHS1      GC3371    1
+    RHS1      GC3373    1
+    RHS1      GC3375    1
+    RHS1      GC3377    1
+    RHS1      GC3379    1
+    RHS1      GC3381    1
+    RHS1      GC3383    1
+    RHS1      GC3385    1
+    RHS1      GC3387    1
+    RHS1      GC3389    1
+    RHS1      GC3391    1
+    RHS1      GC3393    1
+    RHS1      GC3395    1
+    RHS1      GC3397    1
+    RHS1      GC3399    1
+    RHS1      GC3401    1
+    RHS1      GC3403    1
+    RHS1      GC3405    1
+    RHS1      GC3407    1
+    RHS1      GC3409    1
+    RHS1      GC3411    1
+    RHS1      GC3413    1
+    RHS1      GC3415    1
+    RHS1      GC3417    1
+    RHS1      GC3419    1
+    RHS1      GC3421    1
+    RHS1      GC3423    1
+    RHS1      GC3425    1
+    RHS1      GC3427    1
+    RHS1      GC3429    1
+    RHS1      GC3431    1
+    RHS1      GC3433    1
+    RHS1      GC3435    1
+    RHS1      GC3437    1
+    RHS1      GC3439    1
+    RHS1      GC3441    1
+    RHS1      GC3443    1
+    RHS1      GC3445    1
+    RHS1      GC3447    1
+    RHS1      GC3449    1
+    RHS1      GC3451    1
+    RHS1      GC3453    1
+    RHS1      GC3455    1
+    RHS1      GC3457    1
+    RHS1      GC3459    1
+    RHS1      GC3461    1
+    RHS1      GC3463    1
+    RHS1      GC3465    1
+    RHS1      GC3467    1
+    RHS1      GC3469    1
+    RHS1      GC3471    1
+    RHS1      GC3473    1
+    RHS1      GC3475    1
+    RHS1      GC3477    1
+    RHS1      GC3479    1
+    RHS1      GC3481    1
+    RHS1      GC3483    1
+    RHS1      GC3485    1
+    RHS1      GC3487    1
+    RHS1      GC3489    1
+    RHS1      GC3491    1
+    RHS1      GC3493    1
+    RHS1      GC3495    1
+    RHS1      GC3497    1
+    RHS1      GC3499    1
+    RHS1      GC3501    1
+    RHS1      GC3503    1
+    RHS1      GC3505    1
+    RHS1      GC3507    1
+    RHS1      GC3509    1
+    RHS1      GC3511    1
+    RHS1      GC3513    1
+    RHS1      GC3515    1
+    RHS1      GC3517    1
+    RHS1      GC3519    1
+    RHS1      GC3521    1
+    RHS1      GC3523    1
+    RHS1      GC3525    1
+    RHS1      GC3527    1
+    RHS1      GC3529    1
+    RHS1      GC3531    1
+    RHS1      GC3533    1
+    RHS1      GC3535    1
+    RHS1      GC3537    1
+    RHS1      GC3539    1
+    RHS1      GC3541    1
+    RHS1      GC3543    1
+    RHS1      GC3545    1
+    RHS1      GC3547    1
+    RHS1      GC3549    1
+    RHS1      GC3551    1
+    RHS1      GC3553    1
+    RHS1      GC3555    1
+    RHS1      GC3557    1
+    RHS1      GC3559    1
+    RHS1      GC3561    1
+    RHS1      GC3563    1
+    RHS1      GC3565    1
+    RHS1      GC3567    1
+    RHS1      GC3569    1
+    RHS1      GC3571    1
+    RHS1      GC3573    1
+    RHS1      GC3575    1
+    RHS1      GC3577    1
+    RHS1      GC3579    1
+    RHS1      GC3581    1
+    RHS1      GC3583    1
+    RHS1      GC3585    1
+    RHS1      GC3587    1
+    RHS1      GC3589    1
+    RHS1      GC3591    1
+    RHS1      GC3593    1
+    RHS1      GC3595    1
+    RHS1      GC3597    1
+    RHS1      GC3599    1
+    RHS1      GC3601    1
+    RHS1      GC3603    1
+    RHS1      GC3605    1
+    RHS1      GC3607    1
+    RHS1      GC3609    1
+    RHS1      GC3611    1
+    RHS1      GC3613    1
+    RHS1      GC3615    1
+    RHS1      GC3617    1
+    RHS1      GC3619    1
+    RHS1      GC3621    1
+    RHS1      GC3623    1
+    RHS1      GC3625    1
+    RHS1      GC3627    1
+    RHS1      GC3629    1
+    RHS1      GC3631    1
+    RHS1      GC3633    1
+    RHS1      GC3635    1
+    RHS1      GC3637    1
+    RHS1      GC3639    1
+    RHS1      GC3641    1
+    RHS1      GC3643    1
+    RHS1      GC3645    1
+    RHS1      GC3647    1
+    RHS1      GC3649    1
+    RHS1      GC3651    1
+    RHS1      GC3653    1
+    RHS1      GC3655    1
+    RHS1      GC3657    1
+    RHS1      GC3659    1
+    RHS1      GC3661    1
+    RHS1      GC3663    1
+    RHS1      GC3665    1
+    RHS1      GC3667    1
+    RHS1      GC3669    1
+    RHS1      GC3671    1
+    RHS1      GC3673    1
+    RHS1      GC3675    1
+    RHS1      GC3677    1
+    RHS1      GC3679    1
+    RHS1      GC3681    1
+    RHS1      GC3683    1
+    RHS1      GC3685    1
+    RHS1      GC3687    1
+    RHS1      GC3689    1
+    RHS1      GC3691    1
+    RHS1      GC3693    1
+    RHS1      GC3695    1
+    RHS1      GC3697    1
+    RHS1      GC3699    1
+    RHS1      GC3701    1
+    RHS1      GC3703    1
+    RHS1      GC3705    1
+    RHS1      GC3707    1
+    RHS1      GC3709    1
+    RHS1      GC3711    1
+    RHS1      GC3713    1
+    RHS1      GC3715    1
+    RHS1      GC3717    1
+    RHS1      GC3719    1
+    RHS1      GC3721    1
+    RHS1      GC3723    1
+    RHS1      GC3725    1
+    RHS1      GC3727    1
+    RHS1      GC3729    1
+    RHS1      GC3731    1
+    RHS1      GC3733    1
+    RHS1      GC3735    1
+    RHS1      GC3737    1
+    RHS1      GC3739    1
+    RHS1      GC3741    1
+    RHS1      GC3743    1
+    RHS1      GC3745    1
+    RHS1      GC3747    1
+    RHS1      GC3749    1
+    RHS1      GC3751    1
+    RHS1      GC3753    1
+    RHS1      GC3755    1
+    RHS1      GC3757    1
+    RHS1      GC3759    1
+    RHS1      GC3761    1
+    RHS1      GC3763    1
+    RHS1      GC3765    1
+    RHS1      GC3767    1
+    RHS1      GC3769    1
+    RHS1      GC3771    1
+    RHS1      GC3773    1
+    RHS1      GC3775    1
+    RHS1      GC3777    1
+    RHS1      GC3779    1
+    RHS1      GC3781    1
+    RHS1      GC3783    1
+    RHS1      GC3785    1
+    RHS1      GC3787    1
+    RHS1      GC3789    1
+    RHS1      GC3791    1
+    RHS1      GC3793    1
+    RHS1      GC3795    1
+    RHS1      GC3797    1
+    RHS1      GC3799    1
+    RHS1      GC3801    1
+    RHS1      GC3803    1
+    RHS1      GC3805    1
+    RHS1      GC3807    1
+    RHS1      GC3809    1
+    RHS1      GC3811    1
+    RHS1      GC3813    1
+    RHS1      GC3815    1
+    RHS1      GC3817    1
+    RHS1      GC3819    1
+    RHS1      GC3821    1
+    RHS1      GC3823    1
+    RHS1      GC3825    1
+    RHS1      GC3827    1
+    RHS1      GC3829    1
+    RHS1      GC3831    1
+    RHS1      GC3833    1
+    RHS1      GC3835    1
+    RHS1      GC3837    1
+    RHS1      GC3839    1
+    RHS1      GC3841    1
+    RHS1      GC3843    1
+    RHS1      GC3845    1
+    RHS1      GC3847    1
+    RHS1      GC3849    1
+    RHS1      GC3851    1
+    RHS1      GC3853    1
+    RHS1      GC3855    1
+    RHS1      GC3857    1
+    RHS1      GC3859    1
+    RHS1      GC3861    1
+    RHS1      GC3863    1
+    RHS1      GC3865    1
+    RHS1      GC3867    1
+    RHS1      GC3869    1
+    RHS1      GC3871    1
+    RHS1      GC3873    1
+    RHS1      GC3875    1
+    RHS1      GC3877    1
+    RHS1      GC3879    1
+    RHS1      GC3881    1
+    RHS1      GC3883    1
+    RHS1      GC3885    1
+    RHS1      GC3887    1
+    RHS1      GC3889    1
+    RHS1      GC3891    1
+    RHS1      GC3893    1
+    RHS1      GC3895    1
+    RHS1      GC3897    1
+    RHS1      GC3899    1
+    RHS1      GC3901    1
+    RHS1      GC3903    1
+    RHS1      GC3905    1
+    RHS1      GC3907    1
+    RHS1      GC3909    1
+    RHS1      GC3911    1
+    RHS1      GC3913    1
+    RHS1      GC3915    1
+    RHS1      GC3917    1
+    RHS1      GC3919    1
+    RHS1      GC3921    1
+    RHS1      GC3923    1
+    RHS1      GC3925    1
+    RHS1      GC3927    1
+    RHS1      GC3929    1
+    RHS1      GC3931    1
+    RHS1      GC3933    1
+    RHS1      GC3935    1
+    RHS1      GC3937    1
+    RHS1      GC3939    1
+    RHS1      GC3941    1
+    RHS1      GC3943    1
+    RHS1      GC3945    1
+    RHS1      GC3947    1
+    RHS1      GC3949    1
+    RHS1      GC3951    1
+    RHS1      GC3953    1
+    RHS1      GC3955    1
+    RHS1      GC3957    1
+    RHS1      GC3959    1
+    RHS1      GC3961    1
+    RHS1      GC3963    1
+    RHS1      GC3965    1
+    RHS1      GC3967    1
+    RHS1      GC3969    1
+    RHS1      GC3971    1
+    RHS1      GC3973    1
+    RHS1      GC3975    1
+    RHS1      GC3977    1
+    RHS1      GC3979    1
+    RHS1      GC3981    1
+    RHS1      GC3983    1
+    RHS1      GC3985    1
+    RHS1      GC3987    1
+    RHS1      GC3989    1
+    RHS1      GC3991    1
+    RHS1      GC3993    1
+    RHS1      GC3995    1
+    RHS1      GC3997    1
+    RHS1      GC3999    1
+    RHS1      GC4001    1
+    RHS1      GC4003    1
+    RHS1      GC4005    1
+    RHS1      GC4007    1
+    RHS1      GC4009    1
+    RHS1      GC4011    1
+    RHS1      GC4013    1
+    RHS1      GC4015    1
+    RHS1      GC4017    1
+    RHS1      GC4019    1
+    RHS1      GC4021    1
+    RHS1      GC4023    1
+    RHS1      GC4025    1
+    RHS1      GC4027    1
+    RHS1      GC4029    1
+    RHS1      GC4031    1
+    RHS1      GC4033    1
+    RHS1      GC4035    1
+    RHS1      GC4037    1
+    RHS1      GC4039    1
+    RHS1      GC4041    1
+    RHS1      GC4043    1
+    RHS1      GC4045    1
+    RHS1      GC4047    1
+    RHS1      GC4049    1
+    RHS1      GC4051    1
+    RHS1      GC4053    1
+    RHS1      GC4055    1
+    RHS1      GC4057    1
+    RHS1      GC4059    1
+    RHS1      GC4061    1
+    RHS1      GC4063    1
+    RHS1      GC4065    1
+    RHS1      GC4067    1
+    RHS1      GC4069    1
+    RHS1      GC4071    1
+    RHS1      GC4073    1
+    RHS1      GC4075    1
+    RHS1      GC4077    1
+    RHS1      GC4079    1
+    RHS1      GC4081    1
+    RHS1      GC4083    1
+    RHS1      GC4085    1
+    RHS1      GC4087    1
+    RHS1      GC4089    1
+    RHS1      GC4091    1
+    RHS1      GC4093    1
+    RHS1      GC4095    1
+    RHS1      GC4097    1
+    RHS1      GC4099    1
+    RHS1      GC4101    1
+    RHS1      GC4103    1
+    RHS1      GC4105    1
+    RHS1      GC4107    1
+    RHS1      GC4109    1
+    RHS1      GC4111    1
+    RHS1      GC4113    1
+    RHS1      GC4115    1
+    RHS1      GC4117    1
+    RHS1      GC4119    1
+    RHS1      GC4121    1
+    RHS1      GC4123    1
+    RHS1      GC4125    1
+    RHS1      GC4127    1
+    RHS1      GC4129    1
+    RHS1      GC4131    1
+    RHS1      GC4133    1
+    RHS1      GC4135    1
+    RHS1      GC4137    1
+    RHS1      GC4139    1
+    RHS1      GC4141    1
+    RHS1      GC4143    1
+    RHS1      GC4145    1
+    RHS1      GC4147    1
+    RHS1      GC4149    1
+    RHS1      GC4151    1
+    RHS1      GC4153    1
+    RHS1      GC4155    1
+    RHS1      GC4157    1
+    RHS1      GC4159    1
+    RHS1      GC4161    1
+    RHS1      GC4163    1
+    RHS1      GC4165    1
+    RHS1      GC4167    1
+    RHS1      GC4169    1
+    RHS1      GC4171    1
+    RHS1      GC4173    1
+    RHS1      GC4175    1
+    RHS1      GC4177    1
+    RHS1      GC4179    1
+    RHS1      GC4181    1
+    RHS1      GC4183    1
+    RHS1      GC4185    1
+    RHS1      GC4187    1
+    RHS1      GC4189    1
+    RHS1      GC4191    1
+    RHS1      GC4193    1
+    RHS1      GC4195    1
+    RHS1      GC4197    1
+    RHS1      GC4199    1
+    RHS1      GC4201    1
+    RHS1      GC4203    1
+    RHS1      GC4205    1
+    RHS1      GC4207    1
+    RHS1      GC4209    1
+    RHS1      GC4211    1
+    RHS1      GC4213    1
+    RHS1      GC4215    1
+    RHS1      GC4217    1
+    RHS1      GC4219    1
+    RHS1      GC4221    1
+    RHS1      GC4223    1
+    RHS1      GC4225    1
+    RHS1      GC4227    1
+    RHS1      GC4229    1
+    RHS1      GC4231    1
+    RHS1      GC4233    1
+    RHS1      GC4235    1
+    RHS1      GC4237    1
+    RHS1      GC4239    1
+    RHS1      GC4241    1
+    RHS1      GC4243    1
+    RHS1      GC4245    1
+    RHS1      GC4247    1
+    RHS1      GC4249    1
+    RHS1      GC4251    1
+    RHS1      GC4253    1
+    RHS1      GC4255    1
+    RHS1      GC4257    1
+    RHS1      GC4259    1
+    RHS1      GC4261    1
+    RHS1      GC4263    1
+    RHS1      GC4265    1
+    RHS1      GC4267    1
+    RHS1      GC4269    1
+    RHS1      GC4271    1
+    RHS1      GC4273    1
+    RHS1      GC4275    1
+    RHS1      GC4277    1
+    RHS1      GC4279    1
+    RHS1      GC4281    1
+    RHS1      GC4283    1
+    RHS1      GC4285    1
+    RHS1      GC4287    1
+    RHS1      GC4289    1
+    RHS1      GC4291    1
+    RHS1      GC4293    1
+    RHS1      GC4295    1
+    RHS1      GC4297    1
+    RHS1      GC4299    1
+    RHS1      GC4301    1
+    RHS1      GC4303    1
+    RHS1      GC4305    1
+    RHS1      GC4307    1
+    RHS1      GC4309    1
+    RHS1      GC4311    1
+    RHS1      GC4313    1
+    RHS1      GC4315    1
+    RHS1      GC4317    1
+    RHS1      GC4319    1
+    RHS1      GC4321    1
+    RHS1      GC4323    1
+    RHS1      GC4325    1
+    RHS1      GC4327    1
+    RHS1      GC4329    1
+    RHS1      GC4331    1
+    RHS1      GC4333    1
+    RHS1      GC4335    1
+    RHS1      GC4337    1
+    RHS1      GC4339    1
+    RHS1      GC4341    1
+    RHS1      GC4343    1
+    RHS1      GC4345    1
+    RHS1      GC4347    1
+    RHS1      GC4349    1
+    RHS1      GC4351    1
+    RHS1      GC4353    1
+    RHS1      GC4355    1
+    RHS1      GC4357    1
+    RHS1      GC4359    1
+    RHS1      GC4361    1
+    RHS1      GC4363    1
+    RHS1      GC4365    1
+    RHS1      GC4367    1
+    RHS1      GC4369    1
+    RHS1      GC4371    1
+    RHS1      GC4373    1
+    RHS1      GC4375    1
+    RHS1      GC4377    1
+    RHS1      GC4379    1
+    RHS1      GC4381    1
+    RHS1      GC4383    1
+    RHS1      GC4385    1
+    RHS1      GC4387    1
+    RHS1      GC4389    1
+    RHS1      GC4391    1
+    RHS1      GC4393    1
+    RHS1      GC4395    1
+    RHS1      GC4397    1
+    RHS1      GC4399    1
+    RHS1      GC4401    1
+    RHS1      GC4403    1
+    RHS1      GC4405    1
+    RHS1      GC4407    1
+    RHS1      GC4409    1
+    RHS1      GC4411    1
+    RHS1      GC4413    1
+    RHS1      GC4415    1
+    RHS1      GC4417    1
+    RHS1      GC4419    1
+    RHS1      GC4421    1
+    RHS1      GC4423    1
+    RHS1      GC4425    1
+    RHS1      GC4427    1
+    RHS1      GC4429    1
+    RHS1      GC4431    1
+    RHS1      GC4433    1
+    RHS1      GC4435    1
+    RHS1      GC4437    1
+    RHS1      GC4439    1
+    RHS1      GC4441    1
+    RHS1      GC4443    1
+    RHS1      GC4445    1
+    RHS1      GC4447    1
+    RHS1      GC4449    1
+    RHS1      GC4451    1
+    RHS1      GC4453    1
+    RHS1      GC4455    1
+    RHS1      GC4457    1
+    RHS1      GC4459    1
+    RHS1      GC4461    1
+    RHS1      GC4463    1
+    RHS1      GC4465    1
+    RHS1      GC4467    1
+    RHS1      GC4469    1
+    RHS1      GC4471    1
+    RHS1      GC4473    1
+    RHS1      GC4475    1
+    RHS1      GC4477    1
+    RHS1      GC4479    1
+    RHS1      GC4481    1
+    RHS1      GC4483    1
+    RHS1      GC4485    1
+    RHS1      GC4487    1
+    RHS1      GC4489    1
+    RHS1      GC4491    1
+    RHS1      GC4493    1
+    RHS1      GC4495    1
+    RHS1      GC4497    1
+    RHS1      GC4499    1
+    RHS1      GC4501    1
+    RHS1      GC4503    1
+    RHS1      GC4505    1
+    RHS1      GC4507    1
+    RHS1      GC4509    1
+    RHS1      GC4511    1
+    RHS1      GC4513    1
+    RHS1      GC4515    1
+    RHS1      GC4517    1
+    RHS1      GC4519    1
+    RHS1      GC4521    1
+    RHS1      GC4523    1
+    RHS1      GC4525    1
+    RHS1      GC4527    1
+    RHS1      GC4529    1
+    RHS1      GC4531    1
+    RHS1      GC4533    1
+    RHS1      GC4535    1
+    RHS1      GC4537    1
+    RHS1      GC4539    1
+    RHS1      GC4541    1
+    RHS1      GC4543    1
+    RHS1      GC4545    1
+    RHS1      GC4547    1
+    RHS1      GC4549    1
+    RHS1      GC4551    1
+    RHS1      GC4553    1
+    RHS1      GC4555    1
+    RHS1      GC4557    1
+    RHS1      GC4559    1
+    RHS1      GC4561    1
+    RHS1      GC4563    1
+    RHS1      GC4565    1
+    RHS1      GC4567    1
+    RHS1      GC4569    1
+    RHS1      GC4571    1
+    RHS1      GC4573    1
+    RHS1      GC4575    1
+    RHS1      GC4577    1
+    RHS1      GC4579    1
+    RHS1      GC4581    1
+    RHS1      GC4583    1
+    RHS1      GC4585    1
+    RHS1      GC4587    1
+    RHS1      GC4589    1
+    RHS1      GC4591    1
+    RHS1      GC4593    1
+    RHS1      GC4595    1
+    RHS1      GC4597    1
+    RHS1      GC4599    1
+    RHS1      GC4601    1
+    RHS1      GC4603    1
+    RHS1      GC4605    1
+    RHS1      GC4607    1
+    RHS1      GC4609    1
+    RHS1      GC4611    1
+    RHS1      GC4613    1
+    RHS1      GC4615    1
+    RHS1      GC4617    1
+    RHS1      GC4619    1
+    RHS1      GC4621    1
+    RHS1      GC4623    1
+    RHS1      GC4625    1
+    RHS1      GC4627    1
+    RHS1      GC4629    1
+    RHS1      GC4631    1
+    RHS1      GC4633    1
+    RHS1      GC4635    1
+    RHS1      GC4637    1
+    RHS1      GC4639    1
+    RHS1      GC4641    1
+    RHS1      GC4643    1
+    RHS1      GC4645    1
+    RHS1      GC4647    1
+    RHS1      GC4649    1
+    RHS1      GC4651    1
+    RHS1      GC4653    1
+    RHS1      GC4655    1
+    RHS1      GC4657    1
+    RHS1      GC4659    1
+    RHS1      GC4661    1
+    RHS1      GC4663    1
+    RHS1      GC4665    1
+    RHS1      GC4667    1
+    RHS1      GC4669    1
+    RHS1      GC4671    1
+    RHS1      GC4673    1
+    RHS1      GC4675    1
+    RHS1      GC4677    1
+    RHS1      GC4679    1
+    RHS1      GC4681    1
+    RHS1      GC4683    1
+    RHS1      GC4685    1
+    RHS1      GC4687    1
+    RHS1      GC4689    1
+    RHS1      GC4691    1
+    RHS1      GC4693    1
+    RHS1      GC4695    1
+    RHS1      GC4697    1
+    RHS1      GC4699    1
+    RHS1      GC4701    1
+    RHS1      GC4703    1
+    RHS1      GC4705    1
+    RHS1      GC4707    1
+    RHS1      GC4709    1
+    RHS1      GC4711    1
+    RHS1      GC4713    1
+    RHS1      GC4715    1
+    RHS1      GC4717    1
+    RHS1      GC4719    1
+    RHS1      GC4721    1
+    RHS1      GC4723    1
+    RHS1      GC4725    1
+    RHS1      GC4727    1
+    RHS1      GC4729    1
+    RHS1      GC4731    1
+    RHS1      GC4733    1
+    RHS1      GC4735    1
+    RHS1      GC4737    1
+    RHS1      GC4739    1
+    RHS1      GC4741    1
+    RHS1      GC4743    1
+    RHS1      GC4745    1
+    RHS1      GC4747    1
+    RHS1      GC4749    1
+    RHS1      GC4751    1
+    RHS1      GC4753    1
+    RHS1      GC4755    1
+    RHS1      GC4757    1
+    RHS1      GC4759    1
+    RHS1      GC4761    1
+    RHS1      GC4763    1
+    RHS1      GC4765    1
+    RHS1      GC4767    1
+    RHS1      GC4769    1
+    RHS1      GC4771    1
+    RHS1      GC4773    1
+    RHS1      GC4775    1
+    RHS1      GC4777    1
+    RHS1      GC4779    1
+    RHS1      GC4781    1
+    RHS1      GC4783    1
+    RHS1      GC4785    1
+    RHS1      GC4787    1
+    RHS1      GC4789    1
+    RHS1      GC4791    1
+    RHS1      GC4793    1
+    RHS1      GC4795    1
+    RHS1      GC4797    1
+    RHS1      GC4799    1
+    RHS1      GC4801    1
+    RHS1      GC4803    1
+    RHS1      GC4805    1
+    RHS1      GC4807    1
+    RHS1      GC4809    1
+    RHS1      GC4811    1
+    RHS1      GC4813    1
+    RHS1      GC4815    1
+    RHS1      GC4817    1
+    RHS1      GC4819    1
+    RHS1      GC4821    1
+    RHS1      GC4823    1
+    RHS1      GC4825    1
+    RHS1      GC4827    1
+    RHS1      GC4829    1
+    RHS1      GC4831    1
+    RHS1      GC4833    1
+    RHS1      GC4835    1
+    RHS1      GC4837    1
+    RHS1      GC4839    1
+    RHS1      GC4841    1
+    RHS1      GC4843    1
+    RHS1      GC4845    1
+    RHS1      GC4847    1
+    RHS1      GC4849    1
+    RHS1      GC4851    1
+    RHS1      GC4853    1
+    RHS1      GC4855    1
+    RHS1      GC4857    1
+    RHS1      GC4859    1
+    RHS1      GC4861    1
+    RHS1      GC4863    1
+    RHS1      GC4865    1
+    RHS1      GC4867    1
+    RHS1      GC4869    1
+    RHS1      GC4871    1
+    RHS1      GC4873    1
+    RHS1      GC4875    1
+    RHS1      GC4877    1
+    RHS1      GC4879    1
+    RHS1      GC4881    1
+    RHS1      GC4883    1
+    RHS1      GC4885    1
+    RHS1      GC4887    1
+    RHS1      GC4889    1
+    RHS1      GC4891    1
+    RHS1      GC4893    1
+    RHS1      GC4895    1
+    RHS1      GC4897    1
+    RHS1      GC4899    1
+    RHS1      GC4901    1
+    RHS1      GC4903    1
+    RHS1      GC4905    1
+    RHS1      GC4907    1
+    RHS1      GC4909    1
+    RHS1      GC4911    1
+    RHS1      GC4913    1
+    RHS1      GC4915    1
+    RHS1      GC4917    1
+    RHS1      GC4919    1
+    RHS1      GC4921    1
+    RHS1      GC4923    1
+    RHS1      GC4925    1
+    RHS1      GC4927    1
+    RHS1      GC4929    1
+    RHS1      GC4931    1
+    RHS1      GC4933    1
+    RHS1      GC4935    1
+    RHS1      GC4937    1
+    RHS1      GC4939    1
+    RHS1      GC4941    1
+    RHS1      GC4943    1
+    RHS1      GC4945    1
+    RHS1      GC4947    1
+    RHS1      GC4949    1
+    RHS1      GC4951    1
+    RHS1      GC4953    1
+    RHS1      GC4955    1
+    RHS1      GC4957    1
+    RHS1      GC4959    1
+    RHS1      GC4961    1
+    RHS1      GC4963    1
+    RHS1      GC4965    1
+    RHS1      GC4967    1
+    RHS1      GC4969    1
+    RHS1      GC4971    1
+    RHS1      GC4973    1
+    RHS1      GC4975    1
+    RHS1      GC4977    1
+    RHS1      GC4979    1
+    RHS1      GC4981    1
+    RHS1      GC4983    1
+    RHS1      GC4985    1
+    RHS1      GC4987    1
+    RHS1      GC4989    1
+    RHS1      GC4991    1
+    RHS1      GC4993    1
+    RHS1      GC4995    1
+    RHS1      GC4997    1
+    RHS1      GC4999    1
+    RHS1      GC5001    1
+    RHS1      GC5003    1
+    RHS1      GC5005    1
+    RHS1      GC5007    1
+    RHS1      GC5009    1
+    RHS1      GC5011    1
+    RHS1      GC5013    1
+    RHS1      GC5015    1
+    RHS1      GC5017    1
+    RHS1      GC5019    1
+    RHS1      GC5021    1
+    RHS1      GC5023    1
+    RHS1      GC5025    1
+    RHS1      GC5027    1
+    RHS1      GC5029    1
+    RHS1      GC5031    1
+    RHS1      GC5033    1
+    RHS1      GC5035    1
+    RHS1      GC5037    1
+    RHS1      GC5039    1
+    RHS1      GC5041    1
+    RHS1      GC5043    1
+    RHS1      GC5045    1
+    RHS1      GC5047    1
+    RHS1      GC5049    1
+    RHS1      GC5051    1
+    RHS1      GC5053    1
+    RHS1      GC5055    1
+    RHS1      GC5057    1
+    RHS1      GC5059    1
+    RHS1      GC5061    1
+    RHS1      GC5063    1
+    RHS1      GC5065    1
+    RHS1      GC5067    1
+    RHS1      GC5069    1
+    RHS1      GC5071    1
+    RHS1      GC5073    1
+    RHS1      GC5075    1
+    RHS1      GC5077    1
+    RHS1      GC5079    1
+    RHS1      GC5081    1
+    RHS1      GC5083    1
+    RHS1      GC5085    1
+    RHS1      GC5087    1
+    RHS1      GC5089    1
+    RHS1      GC5091    1
+    RHS1      GC5093    1
+    RHS1      GC5095    1
+    RHS1      GC5097    1
+    RHS1      GC5099    1
+    RHS1      GC5101    1
+    RHS1      GC5103    1
+    RHS1      GC5105    1
+    RHS1      GC5107    1
+    RHS1      GC5109    1
+    RHS1      GC5111    1
+    RHS1      GC5113    1
+    RHS1      GC5115    1
+    RHS1      GC5117    1
+    RHS1      GC5119    1
+    RHS1      GC5121    1
+    RHS1      GC5123    1
+    RHS1      GC5125    1
+    RHS1      GC5127    1
+    RHS1      GC5129    1
+    RHS1      GC5131    1
+    RHS1      GC5133    1
+    RHS1      GC5135    1
+    RHS1      GC5137    1
+    RHS1      GC5139    1
+    RHS1      GC5141    1
+    RHS1      GC5143    1
+    RHS1      GC5145    1
+    RHS1      GC5147    1
+    RHS1      GC5149    1
+    RHS1      GC5151    1
+    RHS1      GC5153    1
+    RHS1      GC5155    1
+    RHS1      GC5157    1
+    RHS1      GC5159    1
+    RHS1      GC5161    1
+    RHS1      GC5163    1
+    RHS1      GC5165    1
+    RHS1      GC5167    1
+    RHS1      GC5169    1
+    RHS1      GC5171    1
+    RHS1      GC5173    1
+    RHS1      GC5175    1
+    RHS1      GC5177    1
+    RHS1      GC5179    1
+    RHS1      GC5181    1
+    RHS1      GC5183    1
+    RHS1      GC5185    1
+    RHS1      GC5187    1
+    RHS1      GC5189    1
+    RHS1      GC5191    1
+    RHS1      GC5193    1
+    RHS1      GC5195    1
+    RHS1      GC5197    1
+    RHS1      GC5199    1
+    RHS1      GC5201    1
+    RHS1      GC5203    1
+    RHS1      GC5205    1
+    RHS1      GC5207    1
+    RHS1      GC5209    1
+    RHS1      GC5211    1
+    RHS1      GC5213    1
+    RHS1      GC5215    1
+    RHS1      GC5217    1
+    RHS1      GC5219    1
+    RHS1      GC5221    1
+    RHS1      GC5223    1
+    RHS1      GC5225    1
+    RHS1      GC5227    1
+    RHS1      GC5229    1
+    RHS1      GC5231    1
+    RHS1      GC5233    1
+    RHS1      GC5235    1
+    RHS1      GC5237    1
+    RHS1      GC5239    1
+    RHS1      GC5241    1
+    RHS1      GC5243    1
+    RHS1      GC5245    1
+    RHS1      GC5247    1
+    RHS1      GC5249    1
+    RHS1      GC5251    1
+    RHS1      GC5253    1
+    RHS1      GC5255    1
+    RHS1      GC5257    1
+    RHS1      GC5259    1
+    RHS1      GC5261    1
+    RHS1      GC5263    1
+    RHS1      GC5265    1
+    RHS1      GC5267    1
+    RHS1      GC5269    1
+    RHS1      GC5271    1
+    RHS1      GC5273    1
+    RHS1      GC5275    1
+    RHS1      GC5277    1
+    RHS1      GC5279    1
+    RHS1      GC5281    1
+    RHS1      GC5283    1
+    RHS1      GC5285    1
+    RHS1      GC5287    1
+    RHS1      GC5289    1
+    RHS1      GC5291    1
+    RHS1      GC5293    1
+    RHS1      GC5295    1
+    RHS1      GC5297    1
+    RHS1      GC5299    1
+    RHS1      GC5301    1
+    RHS1      GC5303    1
+    RHS1      GC5305    1
+    RHS1      GC5307    1
+    RHS1      GC5309    1
+    RHS1      GC5311    1
+    RHS1      GC5313    1
+    RHS1      GC5315    1
+    RHS1      GC5317    1
+    RHS1      GC5319    1
+    RHS1      GC5321    1
+    RHS1      GC5323    1
+    RHS1      GC5325    1
+    RHS1      GC5327    1
+    RHS1      GC5329    1
+    RHS1      GC5331    1
+    RHS1      GC5333    1
+    RHS1      GC5335    1
+    RHS1      GC5337    1
+    RHS1      GC5339    1
+    RHS1      GC5341    1
+    RHS1      GC5343    1
+    RHS1      GC5345    1
+    RHS1      GC5347    1
+    RHS1      GC5349    1
+    RHS1      GC5351    1
+    RHS1      GC5353    1
+    RHS1      GC5355    1
+    RHS1      GC5357    1
+    RHS1      GC5359    1
+    RHS1      GC5361    1
+    RHS1      GC5363    1
+    RHS1      GC5365    1
+    RHS1      GC5367    1
+    RHS1      GC5369    1
+    RHS1      GC5371    1
+    RHS1      GC5373    1
+    RHS1      GC5375    1
+    RHS1      GC5377    1
+    RHS1      GC5379    1
+    RHS1      GC5381    1
+    RHS1      GC5383    1
+    RHS1      GC5385    1
+    RHS1      GC5387    1
+    RHS1      GC5389    1
+    RHS1      GC5391    1
+    RHS1      GC5393    1
+    RHS1      GC5395    1
+    RHS1      GC5397    1
+    RHS1      GC5399    1
+    RHS1      GC5401    1
+    RHS1      GC5403    1
+    RHS1      GC5405    1
+    RHS1      GC5407    1
+    RHS1      GC5409    1
+    RHS1      GC5411    1
+    RHS1      GC5413    1
+    RHS1      GC5415    1
+    RHS1      GC5417    1
+    RHS1      GC5419    1
+    RHS1      GC5421    1
+    RHS1      GC5423    1
+    RHS1      GC5425    1
+    RHS1      GC5427    1
+    RHS1      GC5429    1
+    RHS1      GC5431    1
+    RHS1      GC5433    1
+    RHS1      GC5435    1
+    RHS1      GC5437    1
+    RHS1      GC5439    1
+    RHS1      GC5441    1
+    RHS1      GC5443    1
+    RHS1      GC5445    1
+    RHS1      GC5447    1
+    RHS1      GC5449    1
+    RHS1      GC5451    1
+    RHS1      GC5453    1
+    RHS1      GC5455    1
+    RHS1      GC5457    1
+    RHS1      GC5459    1
+    RHS1      GC5461    1
+    RHS1      GC5463    1
+    RHS1      GC5465    1
+    RHS1      GC5467    1
+    RHS1      GC5469    1
+    RHS1      GC5471    1
+    RHS1      GC5473    1
+    RHS1      GC5475    1
+    RHS1      GC5477    1
+    RHS1      GC5479    1
+    RHS1      GC5481    1
+    RHS1      GC5483    1
+    RHS1      GC5485    1
+    RHS1      GC5487    1
+    RHS1      GC5489    1
+    RHS1      GC5491    1
+    RHS1      GC5493    1
+    RHS1      GC5495    1
+    RHS1      GC5497    1
+    RHS1      GC5499    1
+    RHS1      GC5501    1
+    RHS1      GC5503    1
+    RHS1      GC5505    1
+    RHS1      GC5507    1
+    RHS1      GC5509    1
+    RHS1      GC5511    1
+    RHS1      GC5513    1
+    RHS1      GC5515    1
+    RHS1      GC5517    1
+    RHS1      GC5519    1
+    RHS1      GC5521    1
+    RHS1      GC5523    1
+    RHS1      GC5525    1
+    RHS1      GC5527    1
+    RHS1      GC5529    1
+    RHS1      GC5531    1
+    RHS1      GC5533    1
+    RHS1      GC5535    1
+    RHS1      GC5537    1
+    RHS1      GC5539    1
+    RHS1      GC5541    1
+    RHS1      GC5543    1
+    RHS1      GC5545    1
+    RHS1      GC5547    1
+    RHS1      GC5549    1
+    RHS1      GC5551    1
+    RHS1      GC5553    1
+    RHS1      GC5555    1
+    RHS1      GC5557    1
+    RHS1      GC5559    1
+    RHS1      GC5561    1
+    RHS1      GC5563    1
+    RHS1      GC5565    1
+    RHS1      GC5567    1
+    RHS1      GC5569    1
+    RHS1      GC5571    1
+    RHS1      GC5573    1
+    RHS1      GC5575    1
+    RHS1      GC5577    1
+    RHS1      GC5579    1
+    RHS1      GC5581    1
+    RHS1      GC5583    1
+    RHS1      GC5585    1
+    RHS1      GC5587    1
+    RHS1      GC5589    1
+    RHS1      GC5591    1
+    RHS1      GC5593    1
+    RHS1      GC5595    1
+    RHS1      GC5597    1
+    RHS1      GC5599    1
+    RHS1      GC5601    1
+    RHS1      GC5603    1
+    RHS1      GC5605    1
+    RHS1      GC5607    1
+    RHS1      GC5609    1
+    RHS1      GC5611    1
+    RHS1      GC5613    1
+    RHS1      GC5615    1
+    RHS1      GC5617    1
+    RHS1      GC5619    1
+    RHS1      GC5621    1
+    RHS1      GC5623    1
+    RHS1      GC5625    1
+    RHS1      GC5627    1
+    RHS1      GC5629    1
+    RHS1      GC5631    1
+    RHS1      GC5633    1
+    RHS1      GC5635    1
+    RHS1      GC5637    1
+    RHS1      GC5639    1
+    RHS1      GC5641    1
+    RHS1      GC5643    1
+    RHS1      GC5645    1
+    RHS1      GC5647    1
+    RHS1      GC5649    1
+    RHS1      GC5651    1
+    RHS1      GC5653    1
+    RHS1      GC5655    1
+    RHS1      GC5657    1
+    RHS1      GC5659    1
+    RHS1      GC5661    1
+    RHS1      GC5663    1
+    RHS1      GC5665    1
+    RHS1      GC5667    1
+    RHS1      GC5669    1
+    RHS1      GC5671    1
+    RHS1      GC5673    1
+    RHS1      GC5675    1
+    RHS1      GC5677    1
+    RHS1      GC5679    1
+    RHS1      GC5681    1
+    RHS1      GC5683    1
+    RHS1      GC5685    1
+    RHS1      GC5687    1
+    RHS1      GC5689    1
+    RHS1      GC5691    1
+    RHS1      GC5693    1
+    RHS1      GC5695    1
+    RHS1      GC5697    1
+    RHS1      GC5699    1
+    RHS1      GC5701    1
+    RHS1      GC5703    1
+    RHS1      GC5705    1
+    RHS1      GC5707    1
+    RHS1      GC5709    1
+    RHS1      GC5711    1
+    RHS1      GC5713    1
+    RHS1      GC5715    1
+    RHS1      GC5717    1
+    RHS1      GC5719    1
+    RHS1      GC5721    1
+    RHS1      GC5723    1
+    RHS1      GC5725    1
+    RHS1      GC5727    1
+    RHS1      GC5729    1
+    RHS1      GC5731    1
+    RHS1      GC5733    1
+    RHS1      GC5735    1
+    RHS1      GC5737    1
+    RHS1      GC5739    1
+    RHS1      GC5741    1
+    RHS1      GC5743    1
+    RHS1      GC5745    1
+    RHS1      GC5747    1
+    RHS1      GC5749    1
+    RHS1      GC5751    1
+    RHS1      GC5753    1
+    RHS1      GC5755    1
+    RHS1      GC5757    1
+    RHS1      GC5759    1
+    RHS1      GC5761    1
+    RHS1      GC5763    1
+    RHS1      GC5765    1
+    RHS1      GC5767    1
+    RHS1      GC5769    1
+    RHS1      GC5771    1
+    RHS1      GC5773    1
+    RHS1      GC5775    1
+    RHS1      GC5776    0
+    RHS1      GC5777    0
+    RHS1      GC5778    0
+    RHS1      GC5779    0
+    RHS1      GC5780    0
+    RHS1      GC5781    0
+    RHS1      GC5782    0
+    RHS1      GC5783    0
+    RHS1      GC5784    0
+    RHS1      GC5785    0
+    RHS1      GC5786    0
+    RHS1      GC5787    0
+    RHS1      GC5788    0
+    RHS1      GC5789    0
+    RHS1      GC5790    0
+    RHS1      GC5791    0
+    RHS1      GC5792    0
+    RHS1      GC5793    0
+    RHS1      GC5794    0
+    RHS1      GC5795    0
+    RHS1      GC5796    0
+    RHS1      GC5797    0
+    RHS1      GC5798    0
+    RHS1      GC5799    0
+    RHS1      GC5800    0
+    RHS1      GC5801    0
+    RHS1      GC5802    0
+    RHS1      GC5803    0
+    RHS1      GC5804    0
+    RHS1      GC5805    0
+    RHS1      GC5806    0
+    RHS1      GC5807    0
+    RHS1      GC5808    0
+    RHS1      GC5809    0
+    RHS1      GC5810    0
+    RHS1      GC5811    0
+    RHS1      GC5812    0
+    RHS1      GC5813    0
+    RHS1      GC5814    0
+    RHS1      GC5815    0
+    RHS1      GC5816    0
+    RHS1      GC5817    0
+    RHS1      GC5818    0
+    RHS1      GC5819    0
+    RHS1      GC5820    0
+    RHS1      GC5821    0
+    RHS1      GC5822    0
+    RHS1      GC5823    0
+    RHS1      GC5824    0
+    RHS1      GC5825    0
+    RHS1      GC5826    0
+    RHS1      GC5827    0
+    RHS1      GC5828    0
+    RHS1      GC5829    0
+    RHS1      GC5830    0
+    RHS1      GC5831    0
+    RHS1      GC5832    0
+    RHS1      GC5833    0
+    RHS1      GC5834    0
+    RHS1      GC5835    0
+    RHS1      GC5836    0
+    RHS1      GC5837    0
+    RHS1      GC5838    0
+    RHS1      GC5839    0
+    RHS1      GC5840    0
+    RHS1      GC5841    0
+    RHS1      GC5842    0
+    RHS1      GC5843    0
+    RHS1      GC5844    0
+    RHS1      GC5845    0
+    RHS1      GC5846    0
+    RHS1      GC5847    0
+    RHS1      GC5848    0
+    RHS1      GC5849    0
+    RHS1      GC5850    0
+    RHS1      GC5851    0
+    RHS1      GC5852    0
+    RHS1      GC5853    0
+    RHS1      GC5854    0
+    RHS1      GC5855    0
+    RHS1      GC5856    0
+    RHS1      GC5857    0
+    RHS1      GC5858    0
+    RHS1      GC5859    0
+    RHS1      GC5860    0
+    RHS1      GC5861    0
+    RHS1      GC5862    0
+    RHS1      GC5863    0
+    RHS1      GC5864    0
+    RHS1      GC5865    0
+    RHS1      GC5866    0
+    RHS1      GC5867    0
+    RHS1      GC5868    0
+    RHS1      GC5869    0
+    RHS1      GC5870    0
+    RHS1      GC5871    0
+    RHS1      GC5872    0
+    RHS1      GC5873    0
+    RHS1      GC5874    0
+    RHS1      GC5875    0
+    RHS1      GC5876    0
+    RHS1      GC5877    0
+    RHS1      GC5878    0
+    RHS1      GC5879    0
+    RHS1      GC5880    0
+    RHS1      GC5881    0
+    RHS1      GC5882    0
+    RHS1      GC5883    0
+    RHS1      GC5884    0
+    RHS1      GC5885    0
+    RHS1      GC5886    0
+    RHS1      GC5887    0
+    RHS1      GC5888    0
+    RHS1      GC5889    0
+    RHS1      GC5890    0
+    RHS1      GC5891    0
+    RHS1      GC5892    0
+    RHS1      GC5893    0
+    RHS1      GC5894    0
+    RHS1      GC5895    0
+    RHS1      GC5896    0
+    RHS1      GC5897    0
+    RHS1      GC5898    0
+    RHS1      GC5899    0
+    RHS1      GC5900    0
+    RHS1      GC5901    0
+    RHS1      GC5902    0
+    RHS1      GC5903    0
+    RHS1      GC5904    0
+    RHS1      GC5905    0
+    RHS1      GC5906    0
+    RHS1      GC5907    0
+    RHS1      GC5908    0
+    RHS1      GC5909    0
+    RHS1      GC5910    0
+    RHS1      GC5911    0
+    RHS1      GC5912    0
+    RHS1      GC5913    0
+    RHS1      GC5914    0
+    RHS1      GC5915    0
+    RHS1      GC5916    0
+    RHS1      GC5917    0
+    RHS1      GC5918    0
+    RHS1      GC5919    0
+    RHS1      GC5920    0
+    RHS1      GC5921    0
+    RHS1      GC5922    0
+    RHS1      GC5923    0
+    RHS1      GC5924    0
+    RHS1      GC5925    0
+    RHS1      GC5926    0
+    RHS1      GC5927    0
+    RHS1      GC5928    0
+    RHS1      GC5929    0
+    RHS1      GC5930    0
+    RHS1      GC5931    0
+    RHS1      GC5932    0
+    RHS1      GC5933    0
+    RHS1      GC5934    0
+    RHS1      GC5935    0
+    RHS1      GC5936    0
+    RHS1      GC5937    0
+    RHS1      GC5938    0
+    RHS1      GC5939    0
+    RHS1      GC5940    0
+    RHS1      GC5941    0
+    RHS1      GC5942    0
+    RHS1      GC5943    0
+    RHS1      GC5944    0
+    RHS1      GC5945    0
+    RHS1      GC5946    0
+    RHS1      GC5947    0
+    RHS1      GC5948    0
+    RHS1      GC5949    0
+    RHS1      GC5950    0
+    RHS1      GC5951    0
+    RHS1      GC5952    0
+    RHS1      GC5953    0
+    RHS1      GC5954    0
+    RHS1      GC5955    0
+    RHS1      GC5956    0
+    RHS1      GC5957    0
+    RHS1      GC5958    0
+    RHS1      GC5959    0
+    RHS1      GC5960    0
+    RHS1      GC5961    0
+    RHS1      GC5962    0
+    RHS1      GC5963    0
+    RHS1      GC5964    0
+    RHS1      GC5965    0
+    RHS1      GC5966    0
+    RHS1      GC5967    0
+    RHS1      GC5968    0
+    RHS1      GC5969    0
+    RHS1      GC5970    0
+    RHS1      GC5971    0
+    RHS1      GC5972    0
+    RHS1      GC5973    0
+    RHS1      GC5974    0
+    RHS1      GC5975    0
+    RHS1      GC5976    0
+    RHS1      GC5977    0
+    RHS1      GC5978    0
+    RHS1      GC5979    0
+    RHS1      GC5980    0
+    RHS1      GC5981    0
+    RHS1      GC5982    0
+    RHS1      GC5983    0
+    RHS1      GC5984    0
+    RHS1      GC5985    0
+    RHS1      GC5986    0
+    RHS1      GC5987    0
+    RHS1      GC5988    0
+    RHS1      GC5989    0
+    RHS1      GC5990    0
+    RHS1      GC5991    0
+    RHS1      GC5992    0
+    RHS1      GC5993    0
+    RHS1      GC5994    0
+    RHS1      GC5995    0
+    RHS1      GC5996    0
+    RHS1      GC5997    0
+    RHS1      GC5998    0
+    RHS1      GC5999    0
+    RHS1      GC6000    0
+    RHS1      GC6001    0
+    RHS1      GC6002    0
+    RHS1      GC6003    0
+    RHS1      GC6004    0
+    RHS1      GC6005    0
+    RHS1      GC6006    0
+    RHS1      GC6007    0
+    RHS1      GC6008    0
+    RHS1      GC6009    0
+    RHS1      GC6010    0
+    RHS1      GC6011    0
+    RHS1      GC6012    0
+    RHS1      GC6013    0
+    RHS1      GC6014    0
+    RHS1      GC6015    0
+    RHS1      GC6016    0
+    RHS1      GC6017    0
+    RHS1      GC6018    0
+    RHS1      GC6019    0
+    RHS1      GC6020    0
+    RHS1      GC6021    0
+    RHS1      GC6022    0
+    RHS1      GC6023    0
+    RHS1      GC6024    0
+    RHS1      GC6025    0
+    RHS1      GC6026    0
+    RHS1      GC6027    0
+    RHS1      GC6028    0
+    RHS1      GC6029    0
+    RHS1      GC6030    0
+    RHS1      GC6031    0
+    RHS1      GC6032    0
+    RHS1      GC6033    0
+    RHS1      GC6034    0
+    RHS1      GC6035    0
+    RHS1      GC6036    0
+    RHS1      GC6037    0
+    RHS1      GC6038    0
+    RHS1      GC6039    0
+    RHS1      GC6040    0
+    RHS1      GC6041    0
+    RHS1      GC6042    0
+    RHS1      GC6043    0
+    RHS1      GC6044    0
+    RHS1      GC6045    0
+    RHS1      GC6046    0
+    RHS1      GC6047    0
+    RHS1      GC6048    0
+    RHS1      GC6049    0
+    RHS1      GC6050    0
+    RHS1      GC6051    0
+    RHS1      GC6052    0
+    RHS1      GC6053    0
+    RHS1      GC6054    0
+    RHS1      GC6055    0
+    RHS1      GC6056    0
+    RHS1      GC6057    0
+    RHS1      GC6058    0
+    RHS1      GC6059    0
+    RHS1      GC6060    0
+    RHS1      GC6061    0
+    RHS1      GC6062    0
+    RHS1      GC6063    0
+    RHS1      GC6064    0
+    RHS1      GC6065    0
+    RHS1      GC6066    0
+    RHS1      GC6067    0
+    RHS1      GC6068    0
+    RHS1      GC6069    0
+    RHS1      GC6070    0
+    RHS1      GC6071    0
+    RHS1      GC6072    0
+    RHS1      GC6073    0
+    RHS1      GC6074    0
+    RHS1      GC6075    0
+    RHS1      GC6076    0
+    RHS1      GC6077    0
+    RHS1      GC6078    0
+    RHS1      GC6079    0
+    RHS1      GC6080    0
+    RHS1      GC6081    0
+    RHS1      GC6082    0
+    RHS1      GC6083    0
+    RHS1      GC6084    0
+    RHS1      GC6085    0
+    RHS1      GC6086    0
+    RHS1      GC6087    0
+    RHS1      GC6088    0
+    RHS1      GC6089    0
+    RHS1      GC6090    0
+    RHS1      GC6091    0
+    RHS1      GC6092    0
+    RHS1      GC6093    0
+    RHS1      GC6094    0
+    RHS1      GC6095    0
+    RHS1      GC6096    0
+    RHS1      GC6097    0
+    RHS1      GC6098    0
+    RHS1      GC6099    0
+    RHS1      GC6100    0
+    RHS1      GC6101    0
+    RHS1      GC6102    0
+    RHS1      GC6103    0
+    RHS1      GC6104    0
+    RHS1      GC6105    0
+    RHS1      GC6106    0
+    RHS1      GC6107    0
+    RHS1      GC6108    0
+    RHS1      GC6109    0
+    RHS1      GC6110    0
+    RHS1      GC6111    0
+    RHS1      GC6112    0
+    RHS1      GC6113    0
+    RHS1      GC6114    0
+    RHS1      GC6115    0
+    RHS1      GC6116    0
+    RHS1      GC6117    0
+    RHS1      GC6118    0
+    RHS1      GC6119    0
+    RHS1      GC6120    0
+    RHS1      GC6121    0
+    RHS1      GC6122    0
+    RHS1      GC6123    0
+    RHS1      GC6124    0
+    RHS1      GC6125    0
+    RHS1      GC6126    0
+    RHS1      GC6127    0
+    RHS1      GC6128    0
+    RHS1      GC6129    0
+    RHS1      GC6130    0
+    RHS1      GC6131    0
+    RHS1      GC6132    0
+    RHS1      GC6133    0
+    RHS1      GC6134    0
+    RHS1      GC6135    0
+    RHS1      GC6136    0
+    RHS1      GC6137    0
+    RHS1      GC6138    0
+    RHS1      GC6139    0
+    RHS1      GC6140    0
+    RHS1      GC6141    0
+    RHS1      GC6142    0
+    RHS1      GC6143    0
+    RHS1      GC6144    0
+    RHS1      GC6145    0
+    RHS1      GC6146    0
+    RHS1      GC6147    0
+    RHS1      GC6148    0
+    RHS1      GC6149    0
+    RHS1      GC6150    0
+    RHS1      GC6151    0
+    RHS1      GC6152    0
+    RHS1      GC6153    0
+    RHS1      GC6154    0
+    RHS1      GC6155    0
+    RHS1      GC6156    0
+    RHS1      GC6157    0
+    RHS1      GC6158    0
+    RHS1      GC6159    0
+    RHS1      GC6160    0
+    RHS1      GC6161    0
+    RHS1      GC6162    0
+    RHS1      GC6163    0
+    RHS1      GC6164    0
+    RHS1      GC6165    0
+    RHS1      GC6166    0
+    RHS1      GC6167    0
+    RHS1      GC6168    0
+    RHS1      GC6169    0
+    RHS1      GC6170    0
+    RHS1      GC6171    0
+    RHS1      GC6172    0
+    RHS1      GC6173    0
+    RHS1      GC6174    0
+    RHS1      GC6175    0
+    RHS1      GC6176    0
+    RHS1      GC6177    0
+    RHS1      GC6178    0
+    RHS1      GC6179    0
+    RHS1      GC6180    0
+    RHS1      GC6181    0
+    RHS1      GC6182    0
+    RHS1      GC6183    0
+    RHS1      GC6184    0
+    RHS1      GC6185    0
+    RHS1      GC6186    0
+    RHS1      GC6187    0
+    RHS1      GC6188    0
+    RHS1      GC6189    0
+    RHS1      GC6190    0
+    RHS1      GC6191    0
+    RHS1      GC6192    0
+    RHS1      GC6193    0
+    RHS1      GC6194    0
+    RHS1      GC6195    0
+    RHS1      GC6196    0
+    RHS1      GC6197    0
+    RHS1      GC6198    0
+    RHS1      GC6199    0
+    RHS1      GC6200    0
+    RHS1      GC6201    0
+    RHS1      GC6202    0
+    RHS1      GC6203    0
+    RHS1      GC6204    0
+    RHS1      GC6205    0
+    RHS1      GC6206    0
+    RHS1      GC6207    0
+    RHS1      GC6208    0
+    RHS1      GC6209    0
+    RHS1      GC6210    0
+    RHS1      GC6211    0
+    RHS1      GC6212    0
+    RHS1      GC6213    0
+    RHS1      GC6214    0
+    RHS1      GC6215    0
+    RHS1      GC6216    0
+    RHS1      GC6217    0
+    RHS1      GC6218    0
+    RHS1      GC6219    0
+    RHS1      GC6220    0
+    RHS1      GC6221    0
+    RHS1      GC6222    0
+    RHS1      GC6223    0
+    RHS1      GC6224    0
+    RHS1      GC6225    0
+    RHS1      GC6226    0
+    RHS1      GC6227    0
+    RHS1      GC6228    0
+    RHS1      GC6229    0
+    RHS1      GC6230    0
+    RHS1      GC6231    0
+    RHS1      GC6232    0
+    RHS1      GC6233    0
+    RHS1      GC6234    0
+    RHS1      GC6235    0
+    RHS1      GC6236    0
+    RHS1      GC6237    0
+    RHS1      GC6238    0
+    RHS1      GC6239    0
+    RHS1      GC6240    0
+    RHS1      GC6241    0
+    RHS1      GC6242    0
+    RHS1      GC6243    0
+    RHS1      GC6244    0
+    RHS1      GC6245    0
+    RHS1      GC6246    0
+    RHS1      GC6247    0
+    RHS1      GC6248    0
+    RHS1      GC6249    0
+    RHS1      GC6250    0
+    RHS1      GC6251    0
+    RHS1      GC6252    0
+    RHS1      GC6253    0
+    RHS1      GC6254    0
+    RHS1      GC6255    0
+    RHS1      GC6256    0
+    RHS1      GC6257    0
+    RHS1      GC6258    0
+    RHS1      GC6259    0
+    RHS1      GC6260    0
+    RHS1      GC6261    0
+    RHS1      GC6262    0
+    RHS1      GC6263    0
+    RHS1      GC6264    0
+    RHS1      GC6265    0
+    RHS1      GC6266    0
+    RHS1      GC6267    0
+    RHS1      GC6268    0
+    RHS1      GC6269    0
+    RHS1      GC6270    0
+    RHS1      GC6271    0
+    RHS1      GC6272    0
+    RHS1      GC6273    0
+    RHS1      GC6274    0
+    RHS1      GC6275    0
+    RHS1      GC6276    0
+    RHS1      GC6277    0
+    RHS1      GC6278    0
+    RHS1      GC6279    0
+    RHS1      GC6280    0
+    RHS1      GC6281    0
+    RHS1      GC6282    0
+    RHS1      GC6283    0
+    RHS1      GC6284    0
+    RHS1      GC6285    0
+    RHS1      GC6286    0
+    RHS1      GC6287    0
+    RHS1      GC6288    0
+    RHS1      GC6289    0
+    RHS1      GC6290    0
+    RHS1      GC6291    0
+    RHS1      GC6292    0
+    RHS1      GC6293    0
+    RHS1      GC6294    0
+    RHS1      GC6295    0
+    RHS1      GC6296    0
+    RHS1      GC6297    0
+    RHS1      GC6298    0
+    RHS1      GC6299    0
+    RHS1      GC6300    0
+    RHS1      GC6301    0
+    RHS1      GC6302    0
+    RHS1      GC6303    0
+    RHS1      GC6304    0
+    RHS1      GC6305    0
+    RHS1      GC6306    0
+    RHS1      GC6307    0
+    RHS1      GC6308    0
+    RHS1      GC6309    0
+    RHS1      GC6310    0
+    RHS1      GC6311    0
+    RHS1      GC6312    0
+    RHS1      GC6313    0
+    RHS1      GC6314    0
+    RHS1      GC6315    0
+    RHS1      GC6316    0
+    RHS1      GC6317    0
+    RHS1      GC6318    0
+    RHS1      GC6319    0
+    RHS1      GC6320    0
+    RHS1      GC6321    0
+    RHS1      GC6322    0
+    RHS1      GC6323    0
+    RHS1      GC6324    0
+    RHS1      GC6325    0
+    RHS1      GC6326    0
+    RHS1      GC6327    0
+    RHS1      GC6328    0
+    RHS1      GC6329    0
+    RHS1      GC6330    0
+    RHS1      GC6331    0
+    RHS1      GC6332    0
+    RHS1      GC6333    0
+    RHS1      GC6334    0
+    RHS1      GC6335    0
+    RHS1      GC6336    0
+    RHS1      GC6337    0
+    RHS1      GC6338    0
+    RHS1      GC6339    0
+    RHS1      GC6340    0
+    RHS1      GC6341    0
+    RHS1      GC6342    0
+    RHS1      GC6343    0
+    RHS1      GC6344    0
+    RHS1      GC6345    0
+    RHS1      GC6346    0
+    RHS1      GC6347    0
+    RHS1      GC6348    0
+    RHS1      GC6349    0
+    RHS1      GC6350    0
+    RHS1      GC6351    0
+    RHS1      GC6352    0
+    RHS1      GC6353    0
+    RHS1      GC6354    0
+    RHS1      GC6355    0
+    RHS1      GC6356    0
+    RHS1      GC6357    0
+    RHS1      GC6358    0
+    RHS1      GC6359    0
+    RHS1      GC6360    0
+    RHS1      GC6361    0
+    RHS1      GC6362    0
+    RHS1      GC6363    0
+    RHS1      GC6364    0
+    RHS1      GC6365    0
+    RHS1      GC6366    0
+    RHS1      GC6367    0
+    RHS1      GC6368    0
+    RHS1      GC6369    0
+    RHS1      GC6370    0
+    RHS1      GC6371    0
+    RHS1      GC6372    0
+    RHS1      GC6373    0
+    RHS1      GC6374    0
+    RHS1      GC6375    0
+    RHS1      GC6376    0
+    RHS1      GC6377    0
+    RHS1      GC6378    0
+    RHS1      GC6379    0
+    RHS1      GC6380    0
+    RHS1      GC6381    0
+    RHS1      GC6382    0
+    RHS1      GC6383    0
+    RHS1      GC6384    0
+    RHS1      GC6385    0
+    RHS1      GC6386    0
+    RHS1      GC6387    0
+    RHS1      GC6388    0
+    RHS1      GC6389    0
+    RHS1      GC6390    0
+    RHS1      GC6391    0
+    RHS1      GC6392    0
+    RHS1      GC6393    0
+    RHS1      GC6394    0
+    RHS1      GC6395    0
+    RHS1      GC6396    0
+    RHS1      GC6397    0
+    RHS1      GC6398    0
+    RHS1      GC6399    0
+    RHS1      GC6400    0
+    RHS1      GC6401    0
+    RHS1      GC6402    0
+    RHS1      GC6403    0
+    RHS1      GC6404    0
+    RHS1      GC6405    0
+    RHS1      GC6406    0
+    RHS1      GC6407    0
+    RHS1      GC6408    0
+    RHS1      GC6409    0
+    RHS1      GC6410    0
+    RHS1      GC6411    0
+    RHS1      GC6412    0
+    RHS1      GC6413    0
+    RHS1      GC6414    0
+    RHS1      GC6415    0
+    RHS1      GC6416    0
+    RHS1      GC6417    0
+    RHS1      GC6418    0
+    RHS1      GC6419    0
+    RHS1      GC6420    0
+    RHS1      GC6421    0
+    RHS1      GC6422    0
+    RHS1      GC6423    0
+    RHS1      GC6424    0
+    RHS1      GC6425    0
+    RHS1      GC6426    0
+    RHS1      GC6427    0
+    RHS1      GC6428    0
+    RHS1      GC6429    0
+    RHS1      GC6430    0
+    RHS1      GC6431    0
+    RHS1      GC6432    0
+    RHS1      GC6433    0
+    RHS1      GC6434    0
+    RHS1      GC6435    0
+    RHS1      GC6436    0
+    RHS1      GC6437    0
+    RHS1      GC6438    0
+    RHS1      GC6439    0
+    RHS1      GC6440    0
+    RHS1      GC6441    0
+    RHS1      GC6442    0
+    RHS1      GC6443    0
+    RHS1      GC6444    0
+    RHS1      GC6445    0
+    RHS1      GC6446    0
+    RHS1      GC6447    0
+    RHS1      GC6448    0
+    RHS1      GC6449    0
+    RHS1      GC6450    0
+    RHS1      GC6451    0
+    RHS1      GC6452    0
+    RHS1      GC6453    0
+    RHS1      GC6454    0
+    RHS1      GC6455    0
+    RHS1      GC6456    0
+    RHS1      GC6457    0
+    RHS1      GC6458    0
+    RHS1      GC6459    0
+    RHS1      GC6460    0
+    RHS1      GC6461    0
+    RHS1      GC6462    0
+    RHS1      GC6463    0
+    RHS1      GC6464    0
+    RHS1      GC6465    0
+    RHS1      GC6466    0
+    RHS1      GC6467    0
+    RHS1      GC6468    0
+    RHS1      GC6469    0
+    RHS1      GC6470    0
+    RHS1      GC6471    0
+    RHS1      GC6472    0
+    RHS1      GC6473    0
+    RHS1      GC6474    0
+    RHS1      GC6475    0
+    RHS1      GC6476    0
+    RHS1      GC6477    0
+    RHS1      GC6478    0
+    RHS1      GC6479    0
+    RHS1      GC6480    0
+    RHS1      GC6481    0
+    RHS1      GC6482    0
+    RHS1      GC6483    0
+    RHS1      GC6484    0
+    RHS1      GC6485    0
+    RHS1      GC6486    0
+    RHS1      GC6487    0
+    RHS1      GC6488    0
+    RHS1      GC6489    0
+    RHS1      GC6490    0
+    RHS1      GC6491    0
+    RHS1      GC6492    0
+    RHS1      GC6493    0
+    RHS1      GC6494    0
+    RHS1      GC6495    0
+    RHS1      GC6496    0
+    RHS1      GC6497    0
+    RHS1      GC6498    0
+    RHS1      GC6499    0
+    RHS1      GC6500    0
+    RHS1      GC6501    0
+    RHS1      GC6502    0
+    RHS1      GC6503    0
+    RHS1      GC6504    0
+    RHS1      GC6505    0
+    RHS1      GC6506    0
+    RHS1      GC6507    0
+    RHS1      GC6508    0
+    RHS1      GC6509    0
+    RHS1      GC6510    0
+    RHS1      GC6511    0
+    RHS1      GC6512    0
+    RHS1      GC6513    0
+    RHS1      GC6514    0
+    RHS1      GC6515    0
+    RHS1      GC6516    0
+    RHS1      GC6517    0
+    RHS1      GC6518    0
+    RHS1      GC6519    0
+    RHS1      GC6520    0
+    RHS1      GC6521    0
+    RHS1      GC6522    0
+    RHS1      GC6523    0
+    RHS1      GC6524    0
+    RHS1      GC6525    0
+    RHS1      GC6526    0
+    RHS1      GC6527    0
+    RHS1      GC6528    0
+    RHS1      GC6529    0
+    RHS1      GC6530    0
+    RHS1      GC6531    0
+    RHS1      GC6532    0
+    RHS1      GC6533    0
+    RHS1      GC6534    0
+    RHS1      GC6535    0
+    RHS1      GC6536    0
+    RHS1      GC6537    0
+    RHS1      GC6538    0
+    RHS1      GC6539    0
+    RHS1      GC6540    0
+    RHS1      GC6541    0
+    RHS1      GC6542    0
+    RHS1      GC6543    0
+    RHS1      GC6544    0
+    RHS1      GC6545    0
+    RHS1      GC6546    0
+    RHS1      GC6547    0
+    RHS1      GC6548    0
+    RHS1      GC6549    0
+    RHS1      GC6550    0
+    RHS1      GC6551    0
+    RHS1      GC6552    0
+    RHS1      GC6553    0
+    RHS1      GC6554    0
+    RHS1      GC6555    0
+    RHS1      GC6556    0
+    RHS1      GC6557    0
+    RHS1      GC6558    0
+    RHS1      GC6559    0
+    RHS1      GC6560    0
+    RHS1      GC6561    0
+    RHS1      GC6562    0
+    RHS1      GC6563    0
+    RHS1      GC6564    0
+    RHS1      GC6565    0
+    RHS1      GC6566    0
+    RHS1      GC6567    0
+    RHS1      GC6568    0
+    RHS1      GC6569    0
+    RHS1      GC6570    0
+    RHS1      GC6571    0
+    RHS1      GC6572    0
+    RHS1      GC6573    0
+    RHS1      GC6574    0
+    RHS1      GC6575    0
+    RHS1      GC6576    0
+    RHS1      GC6577    0
+    RHS1      GC6578    0
+    RHS1      GC6579    0
+    RHS1      GC6580    0
+    RHS1      GC6581    0
+    RHS1      GC6582    0
+    RHS1      GC6583    0
+    RHS1      GC6584    0
+    RHS1      GC6585    0
+    RHS1      GC6586    0
+    RHS1      GC6587    0
+    RHS1      GC6588    0
+    RHS1      GC6589    0
+    RHS1      GC6590    0
+    RHS1      GC6591    0
+    RHS1      GC6592    0
+    RHS1      GC6593    0
+    RHS1      GC6594    0
+    RHS1      GC6595    0
+    RHS1      GC6596    0
+    RHS1      GC6597    0
+    RHS1      GC6598    0
+    RHS1      GC6599    0
+    RHS1      GC6600    0
+    RHS1      GC6601    0
+    RHS1      GC6602    0
+    RHS1      GC6603    0
+    RHS1      GC6604    0
+    RHS1      GC6605    0
+    RHS1      GC6606    0
+    RHS1      GC6607    0
+    RHS1      GC6608    0
+    RHS1      GC6609    0
+    RHS1      GC6610    0
+    RHS1      GC6611    0
+    RHS1      GC6612    0
+    RHS1      GC6613    0
+    RHS1      GC6614    0
+    RHS1      GC6615    0
+    RHS1      GC6616    0
+    RHS1      GC6617    0
+    RHS1      GC6618    0
+    RHS1      GC6619    0
+    RHS1      GC6620    0
+    RHS1      GC6621    0
+    RHS1      GC6622    0
+    RHS1      GC6623    0
+    RHS1      GC6624    0
+    RHS1      GC6625    0
+    RHS1      GC6626    0
+    RHS1      GC6627    0
+    RHS1      GC6628    0
+    RHS1      GC6629    0
+    RHS1      GC6630    0
+    RHS1      GC6631    0
+    RHS1      GC6632    0
+    RHS1      GC6633    0
+    RHS1      GC6634    0
+    RHS1      GC6635    0
+    RHS1      GC6636    0
+    RHS1      GC6637    0
+    RHS1      GC6638    0
+    RHS1      GC6639    0
+    RHS1      GC6640    0
+    RHS1      GC6641    0
+    RHS1      GC6642    0
+    RHS1      GC6643    0
+    RHS1      GC6644    0
+    RHS1      GC6645    0
+    RHS1      GC6646    0
+    RHS1      GC6647    0
+    RHS1      GC6648    0
+    RHS1      GC6649    0
+    RHS1      GC6650    0
+    RHS1      GC6651    0
+    RHS1      GC6652    0
+    RHS1      GC6653    0
+    RHS1      GC6654    0
+    RHS1      GC6655    0
+    RHS1      GC6656    0
+    RHS1      GC6657    0
+    RHS1      GC6658    0
+    RHS1      GC6659    0
+    RHS1      GC6660    0
+    RHS1      GC6661    0
+    RHS1      GC6662    0
+    RHS1      GC6663    0
+    RHS1      GC6664    0
+    RHS1      GC6665    0
+    RHS1      GC6666    0
+    RHS1      GC6667    0
+    RHS1      GC6668    0
+    RHS1      GC6669    0
+    RHS1      GC6670    0
+    RHS1      GC6671    0
+    RHS1      GC6672    0
+    RHS1      GC6673    0
+    RHS1      GC6674    0
+    RHS1      GC6675    0
+    RHS1      GC6676    0
+    RHS1      GC6677    0
+    RHS1      GC6678    0
+    RHS1      GC6679    0
+    RHS1      GC6680    0
+    RHS1      GC6681    0
+    RHS1      GC6682    0
+    RHS1      GC6683    0
+    RHS1      GC6684    0
+    RHS1      GC6685    0
+    RHS1      GC6686    0
+    RHS1      GC6687    0
+    RHS1      GC6688    0
+    RHS1      GC6689    0
+    RHS1      GC6690    0
+    RHS1      GC6691    0
+    RHS1      GC6692    0
+    RHS1      GC6693    0
+    RHS1      GC6694    0
+    RHS1      GC6695    0
+    RHS1      GC6696    0
+    RHS1      GC6697    0
+    RHS1      GC6698    0
+    RHS1      GC6699    0
+    RHS1      GC6700    0
+    RHS1      GC6701    0
+    RHS1      GC6702    0
+    RHS1      GC6703    0
+    RHS1      GC6704    0
+    RHS1      GC6705    0
+    RHS1      GC6706    0
+    RHS1      GC6707    0
+    RHS1      GC6708    0
+    RHS1      GC6709    0
+    RHS1      GC6710    0
+    RHS1      GC6711    0
+    RHS1      GC6712    0
+    RHS1      GC6713    0
+    RHS1      GC6714    0
+    RHS1      GC6715    0
+    RHS1      GC6716    0
+    RHS1      GC6717    0
+    RHS1      GC6718    0
+    RHS1      GC6719    0
+    RHS1      GC6720    0
+    RHS1      GC6721    0
+    RHS1      GC6722    0
+    RHS1      GC6723    0
+    RHS1      GC6724    0
+    RHS1      GC6725    0
+    RHS1      GC6726    0
+    RHS1      GC6727    0
+    RHS1      GC6728    0
+    RHS1      GC6729    0
+    RHS1      GC6730    0
+    RHS1      GC6731    0
+    RHS1      GC6732    0
+    RHS1      GC6733    0
+    RHS1      GC6734    0
+    RHS1      GC6735    0
+    RHS1      GC6736    0
+    RHS1      GC6737    0
+    RHS1      GC6738    0
+    RHS1      GC6739    0
+    RHS1      GC6740    0
+    RHS1      GC6741    0
+    RHS1      GC6742    0
+    RHS1      GC6743    0
+    RHS1      GC6744    0
+    RHS1      GC6745    0
+    RHS1      GC6746    0
+    RHS1      GC6747    0
+    RHS1      GC6748    0
+    RHS1      GC6749    0
+    RHS1      GC6750    0
+    RHS1      GC6751    0
+    RHS1      GC6752    0
+    RHS1      GC6753    0
+    RHS1      GC6754    0
+    RHS1      GC6755    0
+    RHS1      GC6756    0
+    RHS1      GC6757    0
+    RHS1      GC6758    0
+    RHS1      GC6759    0
+    RHS1      GC6760    0
+    RHS1      GC6761    0
+    RHS1      GC6762    0
+    RHS1      GC6763    0
+    RHS1      GC6764    0
+    RHS1      GC6765    0
+    RHS1      GC6766    0
+    RHS1      GC6767    0
+    RHS1      GC6768    0
+    RHS1      GC6769    0
+    RHS1      GC6770    0
+    RHS1      GC6771    0
+    RHS1      GC6772    0
+    RHS1      GC6773    0
+    RHS1      GC6774    0
+    RHS1      GC6775    0
+    RHS1      GC6776    0
+    RHS1      GC6777    0
+    RHS1      GC6778    0
+    RHS1      GC6779    0
+    RHS1      GC6780    0
+    RHS1      GC6781    0
+    RHS1      GC6782    0
+    RHS1      GC6783    0
+    RHS1      GC6784    0
+    RHS1      GC6785    0
+    RHS1      GC6786    0
+    RHS1      GC6787    0
+    RHS1      GC6788    0
+    RHS1      GC6789    0
+    RHS1      GC6790    0
+    RHS1      GC6791    0
+    RHS1      GC6792    0
+    RHS1      GC6793    0
+    RHS1      GC6794    0
+    RHS1      GC6795    0
+    RHS1      GC6796    0
+    RHS1      GC6797    0
+    RHS1      GC6798    0
+    RHS1      GC6799    0
+    RHS1      GC6800    0
+    RHS1      GC6801    0
+    RHS1      GC6802    0
+    RHS1      GC6803    0
+    RHS1      GC6804    0
+    RHS1      GC6805    0
+    RHS1      GC6806    0
+    RHS1      GC6807    0
+    RHS1      GC6808    0
+    RHS1      GC6809    0
+    RHS1      GC6810    0
+    RHS1      GC6811    0
+    RHS1      GC6812    0
+    RHS1      GC6813    0
+    RHS1      GC6814    0
+    RHS1      GC6815    0
+    RHS1      GC6816    0
+    RHS1      GC6817    0
+    RHS1      GC6818    0
+    RHS1      GC6819    0
+    RHS1      GC6820    0
+    RHS1      GC6821    0
+    RHS1      GC6822    0
+    RHS1      GC6823    0
+    RHS1      GC6824    0
+    RHS1      GC6825    0
+    RHS1      GC6826    0
+    RHS1      GC6827    0
+    RHS1      GC6828    0
+    RHS1      GC6829    0
+    RHS1      GC6830    0
+    RHS1      GC6831    0
+    RHS1      GC6832    0
+    RHS1      GC6833    0
+    RHS1      GC6834    0
+    RHS1      GC6835    0
+    RHS1      GC6836    0
+    RHS1      GC6837    0
+    RHS1      GC6838    0
+    RHS1      GC6839    0
+    RHS1      GC6840    0
+    RHS1      GC6841    0
+    RHS1      GC6842    0
+    RHS1      GC6843    0
+    RHS1      GC6844    0
+    RHS1      GC6845    0
+    RHS1      GC6846    0
+    RHS1      GC6847    0
+    RHS1      GC6848    0
+    RHS1      GC6849    0
+    RHS1      GC6850    0
+    RHS1      GC6851    0
+    RHS1      GC6852    0
+    RHS1      GC6853    0
+    RHS1      GC6854    0
+    RHS1      GC6855    0
+    RHS1      GC6856    0
+    RHS1      GC6857    0
+    RHS1      GC6858    0
+    RHS1      GC6859    0
+    RHS1      GC6860    0
+    RHS1      GC6861    0
+    RHS1      GC6862    0
+    RHS1      GC6863    0
+    RHS1      GC6864    0
+    RHS1      GC6865    0
+    RHS1      GC6866    0
+    RHS1      GC6867    0
+    RHS1      GC6868    0
+    RHS1      GC6869    0
+    RHS1      GC6870    0
+    RHS1      GC6871    0
+    RHS1      GC6872    0
+    RHS1      GC6873    0
+    RHS1      GC6874    0
+    RHS1      GC6875    0
+    RHS1      GC6876    0
+    RHS1      GC6877    0
+    RHS1      GC6878    0
+    RHS1      GC6879    0
+    RHS1      GC6880    0
+    RHS1      GC6881    0
+    RHS1      GC6882    0
+    RHS1      GC6883    0
+    RHS1      GC6884    0
+    RHS1      GC6885    0
+    RHS1      GC6886    0
+    RHS1      GC6887    0
+    RHS1      GC6888    0
+    RHS1      GC6889    0
+    RHS1      GC6890    0
+    RHS1      GC6891    0
+    RHS1      GC6892    0
+    RHS1      GC6893    0
+    RHS1      GC6894    0
+    RHS1      GC6895    0
+    RHS1      GC6896    0
+    RHS1      GC6897    0
+    RHS1      GC6898    0
+    RHS1      GC6899    0
+    RHS1      GC6900    0
+    RHS1      GC6901    0
+    RHS1      GC6902    0
+    RHS1      GC6903    0
+    RHS1      GC6904    0
+    RHS1      GC6905    0
+    RHS1      GC6906    0
+    RHS1      GC6907    0
+    RHS1      GC6908    0
+    RHS1      GC6909    0
+    RHS1      GC6910    0
+    RHS1      GC6911    0
+    RHS1      GC6912    0
+    RHS1      GC6913    0
+    RHS1      GC6914    0
+    RHS1      GC6915    0
+    RHS1      GC6916    0
+    RHS1      GC6917    0
+    RHS1      GC6918    0
+    RHS1      GC6919    0
+    RHS1      GC6920    0
+    RHS1      GC6921    0
+    RHS1      GC6922    0
+    RHS1      GC6923    0
+    RHS1      GC6924    0
+    RHS1      GC6925    0
+    RHS1      GC6926    0
+    RHS1      GC6927    0
+    RHS1      GC6928    0
+    RHS1      GC6929    0
+    RHS1      GC6930    0
+    RHS1      GC6931    0
+    RHS1      GC6932    0
+    RHS1      GC6933    0
+    RHS1      GC6934    0
+    RHS1      GC6935    0
+    RHS1      GC6936    0
+    RHS1      GC6937    0
+    RHS1      GC6938    0
+    RHS1      GC6939    0
+    RHS1      GC6940    0
+    RHS1      GC6941    0
+    RHS1      GC6942    0
+    RHS1      GC6943    0
+    RHS1      GC6944    0
+    RHS1      GC6945    0
+    RHS1      GC6946    0
+    RHS1      GC6947    0
+    RHS1      GC6948    0
+    RHS1      GC6949    0
+    RHS1      GC6950    0
+    RHS1      GC6951    0
+    RHS1      GC6952    0
+    RHS1      GC6953    0
+    RHS1      GC6954    0
+    RHS1      GC6955    0
+    RHS1      GC6956    0
+    RHS1      GC6957    0
+    RHS1      GC6958    0
+    RHS1      GC6959    0
+    RHS1      GC6960    0
+    RHS1      GC6961    0
+    RHS1      GC6962    0
+    RHS1      GC6963    0
+    RHS1      GC6964    0
+    RHS1      GC6965    0
+    RHS1      GC6966    0
+    RHS1      GC6967    0
+    RHS1      GC6968    0
+    RHS1      GC6969    0
+    RHS1      GC6970    0
+    RHS1      GC6971    0
+    RHS1      GC6972    0
+    RHS1      GC6973    0
+    RHS1      GC6974    0
+    RHS1      GC6975    0
+    RHS1      GC6976    0
+    RHS1      GC6977    0
+    RHS1      GC6978    0
+    RHS1      GC6979    0
+    RHS1      GC6980    0
+    RHS1      GC6981    0
+    RHS1      GC6982    0
+    RHS1      GC6983    0
+    RHS1      GC6984    0
+    RHS1      GC6985    0
+    RHS1      GC6986    0
+    RHS1      GC6987    0
+    RHS1      GC6988    0
+    RHS1      GC6989    0
+    RHS1      GC6990    0
+    RHS1      GC6991    0
+    RHS1      GC6992    0
+    RHS1      GC6993    0
+    RHS1      GC6994    0
+    RHS1      GC6995    0
+    RHS1      GC6996    0
+    RHS1      GC6997    0
+    RHS1      GC6998    0
+    RHS1      GC6999    0
+    RHS1      GC7000    0
+    RHS1      GC7001    0
+    RHS1      GC7002    0
+    RHS1      GC7003    0
+    RHS1      GC7004    0
+    RHS1      GC7005    0
+    RHS1      GC7006    0
+    RHS1      GC7007    0
+    RHS1      GC7008    0
+    RHS1      GC7009    0
+    RHS1      GC7010    0
+    RHS1      GC7011    0
+    RHS1      GC7012    0
+    RHS1      GC7013    0
+    RHS1      GC7014    0
+    RHS1      GC7015    0
+    RHS1      GC7016    0
+    RHS1      GC7017    0
+    RHS1      GC7018    0
+    RHS1      GC7019    0
+    RHS1      GC7020    0
+    RHS1      GC7021    0
+    RHS1      GC7022    0
+    RHS1      GC7023    0
+    RHS1      GC7024    0
+    RHS1      GC7025    0
+    RHS1      GC7026    0
+    RHS1      GC7027    0
+    RHS1      GC7028    0
+    RHS1      GC7029    0
+    RHS1      GC7030    0
+    RHS1      GC7031    0
+    RHS1      GC7032    0
+    RHS1      GC7033    0
+    RHS1      GC7034    0
+    RHS1      GC7035    0
+    RHS1      GC7036    0
+    RHS1      GC7037    0
+    RHS1      GC7038    0
+    RHS1      GC7039    0
+    RHS1      GC7040    0
+    RHS1      GC7041    0
+    RHS1      GC7042    0
+    RHS1      GC7043    0
+    RHS1      GC7044    0
+    RHS1      GC7045    0
+    RHS1      GC7046    0
+    RHS1      GC7047    0
+    RHS1      GC7048    0
+    RHS1      GC7049    0
+    RHS1      GC7050    0
+    RHS1      GC7051    0
+    RHS1      GC7052    0
+    RHS1      GC7053    0
+    RHS1      GC7054    0
+    RHS1      GC7055    0
+    RHS1      GC7056    0
+    RHS1      GC7057    0
+    RHS1      GC7058    0
+    RHS1      GC7059    0
+    RHS1      GC7060    0
+    RHS1      GC7061    0
+    RHS1      GC7062    0
+    RHS1      GC7063    0
+    RHS1      GC7064    0
+    RHS1      GC7065    0
+    RHS1      GC7066    0
+    RHS1      GC7067    0
+    RHS1      GC7068    0
+    RHS1      GC7069    0
+    RHS1      GC7070    0
+    RHS1      GC7071    0
+    RHS1      GC7072    0
+    RHS1      GC7073    0
+    RHS1      GC7074    0
+    RHS1      GC7075    0
+    RHS1      GC7076    0
+    RHS1      GC7077    0
+    RHS1      GC7078    0
+    RHS1      GC7079    0
+    RHS1      GC7080    0
+    RHS1      GC7081    0
+    RHS1      GC7082    0
+    RHS1      GC7083    0
+    RHS1      GC7084    0
+    RHS1      GC7085    0
+    RHS1      GC7086    0
+    RHS1      GC7087    0
+    RHS1      GC7088    0
+    RHS1      GC7089    0
+    RHS1      GC7090    0
+    RHS1      GC7091    0
+    RHS1      GC7092    0
+    RHS1      GC7093    0
+    RHS1      GC7094    0
+    RHS1      GC7095    0
+    RHS1      GC7096    0
+    RHS1      GC7097    0
+    RHS1      GC7098    0
+    RHS1      GC7099    0
+    RHS1      GC7100    0
+    RHS1      GC7101    0
+    RHS1      GC7102    0
+    RHS1      GC7103    0
+    RHS1      GC7104    0
+    RHS1      GC7105    0
+    RHS1      GC7106    0
+    RHS1      GC7107    0
+    RHS1      GC7108    0
+    RHS1      GC7109    0
+    RHS1      GC7110    0
+    RHS1      GC7111    0
+    RHS1      GC7112    0
+    RHS1      GC7113    0
+    RHS1      GC7114    0
+    RHS1      GC7115    0
+    RHS1      GC7116    0
+    RHS1      GC7117    0
+    RHS1      GC7118    0
+    RHS1      GC7119    0
+    RHS1      GC7120    0
+    RHS1      GC7121    0
+    RHS1      GC7122    0
+    RHS1      GC7123    0
+    RHS1      GC7124    0
+    RHS1      GC7125    0
+    RHS1      GC7126    0
+    RHS1      GC7127    0
+    RHS1      GC7128    0
+    RHS1      GC7129    0
+    RHS1      GC7130    0
+    RHS1      GC7131    0
+    RHS1      GC7132    0
+    RHS1      GC7133    0
+    RHS1      GC7134    0
+    RHS1      GC7135    0
+    RHS1      GC7136    0
+    RHS1      GC7137    0
+    RHS1      GC7138    0
+    RHS1      GC7139    0
+    RHS1      GC7140    0
+    RHS1      GC7141    0
+    RHS1      GC7142    0
+    RHS1      GC7143    0
+    RHS1      GC7144    0
+    RHS1      GC7145    0
+    RHS1      GC7146    0
+    RHS1      GC7147    0
+    RHS1      GC7148    0
+    RHS1      GC7149    0
+    RHS1      GC7150    0
+    RHS1      GC7151    0
+    RHS1      GC7152    0
+    RHS1      GC7153    0
+    RHS1      GC7154    0
+    RHS1      GC7155    0
+    RHS1      GC7156    0
+    RHS1      GC7157    0
+    RHS1      GC7158    0
+    RHS1      GC7159    0
+    RHS1      GC7160    0
+    RHS1      GC7161    0
+    RHS1      GC7162    0
+    RHS1      GC7163    0
+    RHS1      GC7164    0
+    RHS1      GC7165    0
+    RHS1      GC7166    0
+    RHS1      GC7167    0
+    RHS1      GC7168    0
+    RHS1      GC7169    0
+    RHS1      GC7170    0
+    RHS1      GC7171    0
+    RHS1      GC7172    0
+    RHS1      GC7173    0
+    RHS1      GC7174    0
+    RHS1      GC7175    0
+    RHS1      GC7176    0
+    RHS1      GC7177    0
+    RHS1      GC7178    0
+    RHS1      GC7179    0
+    RHS1      GC7180    0
+    RHS1      GC7181    0
+BOUNDS
+ FX BND1      s000      0
+ BV BND1      x001002 
+ BV BND1      x001003 
+ BV BND1      x001004 
+ BV BND1      x001005 
+ BV BND1      x001006 
+ BV BND1      x001007 
+ BV BND1      x001008 
+ BV BND1      x001009 
+ BV BND1      x001010 
+ BV BND1      x001011 
+ BV BND1      x001012 
+ BV BND1      x001013 
+ BV BND1      x001014 
+ BV BND1      x001015 
+ BV BND1      x001016 
+ BV BND1      x001017 
+ BV BND1      x001018 
+ BV BND1      x001019 
+ BV BND1      x001020 
+ BV BND1      x001021 
+ BV BND1      x001022 
+ BV BND1      x001023 
+ BV BND1      x001024 
+ BV BND1      x001025 
+ BV BND1      x001026 
+ BV BND1      x001027 
+ BV BND1      x001028 
+ BV BND1      x001029 
+ BV BND1      x001030 
+ BV BND1      x001031 
+ BV BND1      x001032 
+ BV BND1      x001033 
+ BV BND1      x001034 
+ BV BND1      x001035 
+ BV BND1      x001036 
+ BV BND1      x001037 
+ BV BND1      x001038 
+ BV BND1      x002001 
+ BV BND1      x002003 
+ BV BND1      x002004 
+ BV BND1      x002005 
+ BV BND1      x002006 
+ BV BND1      x002007 
+ BV BND1      x002008 
+ BV BND1      x002009 
+ BV BND1      x002010 
+ BV BND1      x002011 
+ BV BND1      x002012 
+ BV BND1      x002013 
+ BV BND1      x002014 
+ BV BND1      x002015 
+ BV BND1      x002016 
+ BV BND1      x002017 
+ BV BND1      x002018 
+ BV BND1      x002019 
+ BV BND1      x002020 
+ BV BND1      x002021 
+ BV BND1      x002022 
+ BV BND1      x002023 
+ BV BND1      x002024 
+ BV BND1      x002025 
+ BV BND1      x002026 
+ BV BND1      x002027 
+ BV BND1      x002028 
+ BV BND1      x002029 
+ BV BND1      x002030 
+ BV BND1      x002031 
+ BV BND1      x002032 
+ BV BND1      x002033 
+ BV BND1      x002034 
+ BV BND1      x002035 
+ BV BND1      x002036 
+ BV BND1      x002037 
+ BV BND1      x002038 
+ BV BND1      x003001 
+ BV BND1      x003002 
+ BV BND1      x003004 
+ BV BND1      x003005 
+ BV BND1      x003006 
+ BV BND1      x003007 
+ BV BND1      x003008 
+ BV BND1      x003009 
+ BV BND1      x003010 
+ BV BND1      x003011 
+ BV BND1      x003012 
+ BV BND1      x003013 
+ BV BND1      x003014 
+ BV BND1      x003015 
+ BV BND1      x003016 
+ BV BND1      x003017 
+ BV BND1      x003018 
+ BV BND1      x003019 
+ BV BND1      x003020 
+ BV BND1      x003021 
+ BV BND1      x003022 
+ BV BND1      x003023 
+ BV BND1      x003024 
+ BV BND1      x003025 
+ BV BND1      x003026 
+ BV BND1      x003027 
+ BV BND1      x003028 
+ BV BND1      x003029 
+ BV BND1      x003030 
+ BV BND1      x003031 
+ BV BND1      x003032 
+ BV BND1      x003033 
+ BV BND1      x003034 
+ BV BND1      x003035 
+ BV BND1      x003036 
+ BV BND1      x003037 
+ BV BND1      x003038 
+ BV BND1      x004001 
+ BV BND1      x004002 
+ BV BND1      x004003 
+ BV BND1      x004005 
+ BV BND1      x004006 
+ BV BND1      x004007 
+ BV BND1      x004008 
+ BV BND1      x004009 
+ BV BND1      x004010 
+ BV BND1      x004011 
+ BV BND1      x004012 
+ BV BND1      x004013 
+ BV BND1      x004014 
+ BV BND1      x004015 
+ BV BND1      x004016 
+ BV BND1      x004017 
+ BV BND1      x004018 
+ BV BND1      x004019 
+ BV BND1      x004020 
+ BV BND1      x004021 
+ BV BND1      x004022 
+ BV BND1      x004023 
+ BV BND1      x004024 
+ BV BND1      x004025 
+ BV BND1      x004026 
+ BV BND1      x004027 
+ BV BND1      x004028 
+ BV BND1      x004029 
+ BV BND1      x004030 
+ BV BND1      x004031 
+ BV BND1      x004032 
+ BV BND1      x004033 
+ BV BND1      x004034 
+ BV BND1      x004035 
+ BV BND1      x004036 
+ BV BND1      x004037 
+ BV BND1      x004038 
+ BV BND1      x005001 
+ BV BND1      x005002 
+ BV BND1      x005003 
+ BV BND1      x005004 
+ BV BND1      x005006 
+ BV BND1      x005007 
+ BV BND1      x005008 
+ BV BND1      x005009 
+ BV BND1      x005010 
+ BV BND1      x005011 
+ BV BND1      x005012 
+ BV BND1      x005013 
+ BV BND1      x005014 
+ BV BND1      x005015 
+ BV BND1      x005016 
+ BV BND1      x005017 
+ BV BND1      x005018 
+ BV BND1      x005019 
+ BV BND1      x005020 
+ BV BND1      x005021 
+ BV BND1      x005022 
+ BV BND1      x005023 
+ BV BND1      x005024 
+ BV BND1      x005025 
+ BV BND1      x005026 
+ BV BND1      x005027 
+ BV BND1      x005028 
+ BV BND1      x005029 
+ BV BND1      x005030 
+ BV BND1      x005031 
+ BV BND1      x005032 
+ BV BND1      x005033 
+ BV BND1      x005034 
+ BV BND1      x005035 
+ BV BND1      x005036 
+ BV BND1      x005037 
+ BV BND1      x005038 
+ BV BND1      x006001 
+ BV BND1      x006002 
+ BV BND1      x006003 
+ BV BND1      x006004 
+ BV BND1      x006005 
+ BV BND1      x006007 
+ BV BND1      x006008 
+ BV BND1      x006009 
+ BV BND1      x006010 
+ BV BND1      x006011 
+ BV BND1      x006012 
+ BV BND1      x006013 
+ BV BND1      x006014 
+ BV BND1      x006015 
+ BV BND1      x006016 
+ BV BND1      x006017 
+ BV BND1      x006018 
+ BV BND1      x006019 
+ BV BND1      x006020 
+ BV BND1      x006021 
+ BV BND1      x006022 
+ BV BND1      x006023 
+ BV BND1      x006024 
+ BV BND1      x006025 
+ BV BND1      x006026 
+ BV BND1      x006027 
+ BV BND1      x006028 
+ BV BND1      x006029 
+ BV BND1      x006030 
+ BV BND1      x006031 
+ BV BND1      x006032 
+ BV BND1      x006033 
+ BV BND1      x006034 
+ BV BND1      x006035 
+ BV BND1      x006036 
+ BV BND1      x006037 
+ BV BND1      x006038 
+ BV BND1      x007001 
+ BV BND1      x007002 
+ BV BND1      x007003 
+ BV BND1      x007004 
+ BV BND1      x007005 
+ BV BND1      x007006 
+ BV BND1      x007008 
+ BV BND1      x007009 
+ BV BND1      x007010 
+ BV BND1      x007011 
+ BV BND1      x007012 
+ BV BND1      x007013 
+ BV BND1      x007014 
+ BV BND1      x007015 
+ BV BND1      x007016 
+ BV BND1      x007017 
+ BV BND1      x007018 
+ BV BND1      x007019 
+ BV BND1      x007020 
+ BV BND1      x007021 
+ BV BND1      x007022 
+ BV BND1      x007023 
+ BV BND1      x007024 
+ BV BND1      x007025 
+ BV BND1      x007026 
+ BV BND1      x007027 
+ BV BND1      x007028 
+ BV BND1      x007029 
+ BV BND1      x007030 
+ BV BND1      x007031 
+ BV BND1      x007032 
+ BV BND1      x007033 
+ BV BND1      x007034 
+ BV BND1      x007035 
+ BV BND1      x007036 
+ BV BND1      x007037 
+ BV BND1      x007038 
+ BV BND1      x008001 
+ BV BND1      x008002 
+ BV BND1      x008003 
+ BV BND1      x008004 
+ BV BND1      x008005 
+ BV BND1      x008006 
+ BV BND1      x008007 
+ BV BND1      x008009 
+ BV BND1      x008010 
+ BV BND1      x008011 
+ BV BND1      x008012 
+ BV BND1      x008013 
+ BV BND1      x008014 
+ BV BND1      x008015 
+ BV BND1      x008016 
+ BV BND1      x008017 
+ BV BND1      x008018 
+ BV BND1      x008019 
+ BV BND1      x008020 
+ BV BND1      x008021 
+ BV BND1      x008022 
+ BV BND1      x008023 
+ BV BND1      x008024 
+ BV BND1      x008025 
+ BV BND1      x008026 
+ BV BND1      x008027 
+ BV BND1      x008028 
+ BV BND1      x008029 
+ BV BND1      x008030 
+ BV BND1      x008031 
+ BV BND1      x008032 
+ BV BND1      x008033 
+ BV BND1      x008034 
+ BV BND1      x008035 
+ BV BND1      x008036 
+ BV BND1      x008037 
+ BV BND1      x008038 
+ BV BND1      x009001 
+ BV BND1      x009002 
+ BV BND1      x009003 
+ BV BND1      x009004 
+ BV BND1      x009005 
+ BV BND1      x009006 
+ BV BND1      x009007 
+ BV BND1      x009008 
+ BV BND1      x009010 
+ BV BND1      x009011 
+ BV BND1      x009012 
+ BV BND1      x009013 
+ BV BND1      x009014 
+ BV BND1      x009015 
+ BV BND1      x009016 
+ BV BND1      x009017 
+ BV BND1      x009018 
+ BV BND1      x009019 
+ BV BND1      x009020 
+ BV BND1      x009021 
+ BV BND1      x009022 
+ BV BND1      x009023 
+ BV BND1      x009024 
+ BV BND1      x009025 
+ BV BND1      x009026 
+ BV BND1      x009027 
+ BV BND1      x009028 
+ BV BND1      x009029 
+ BV BND1      x009030 
+ BV BND1      x009031 
+ BV BND1      x009032 
+ BV BND1      x009033 
+ BV BND1      x009034 
+ BV BND1      x009035 
+ BV BND1      x009036 
+ BV BND1      x009037 
+ BV BND1      x009038 
+ BV BND1      x010001 
+ BV BND1      x010002 
+ BV BND1      x010003 
+ BV BND1      x010004 
+ BV BND1      x010005 
+ BV BND1      x010006 
+ BV BND1      x010007 
+ BV BND1      x010008 
+ BV BND1      x010009 
+ BV BND1      x010011 
+ BV BND1      x010012 
+ BV BND1      x010013 
+ BV BND1      x010014 
+ BV BND1      x010015 
+ BV BND1      x010016 
+ BV BND1      x010017 
+ BV BND1      x010018 
+ BV BND1      x010019 
+ BV BND1      x010020 
+ BV BND1      x010021 
+ BV BND1      x010022 
+ BV BND1      x010023 
+ BV BND1      x010024 
+ BV BND1      x010025 
+ BV BND1      x010026 
+ BV BND1      x010027 
+ BV BND1      x010028 
+ BV BND1      x010029 
+ BV BND1      x010030 
+ BV BND1      x010031 
+ BV BND1      x010032 
+ BV BND1      x010033 
+ BV BND1      x010034 
+ BV BND1      x010035 
+ BV BND1      x010036 
+ BV BND1      x010037 
+ BV BND1      x010038 
+ BV BND1      x011001 
+ BV BND1      x011002 
+ BV BND1      x011003 
+ BV BND1      x011004 
+ BV BND1      x011005 
+ BV BND1      x011006 
+ BV BND1      x011007 
+ BV BND1      x011008 
+ BV BND1      x011009 
+ BV BND1      x011010 
+ BV BND1      x011012 
+ BV BND1      x011013 
+ BV BND1      x011014 
+ BV BND1      x011015 
+ BV BND1      x011016 
+ BV BND1      x011017 
+ BV BND1      x011018 
+ BV BND1      x011019 
+ BV BND1      x011020 
+ BV BND1      x011021 
+ BV BND1      x011022 
+ BV BND1      x011023 
+ BV BND1      x011024 
+ BV BND1      x011025 
+ BV BND1      x011026 
+ BV BND1      x011027 
+ BV BND1      x011028 
+ BV BND1      x011029 
+ BV BND1      x011030 
+ BV BND1      x011031 
+ BV BND1      x011032 
+ BV BND1      x011033 
+ BV BND1      x011034 
+ BV BND1      x011035 
+ BV BND1      x011036 
+ BV BND1      x011037 
+ BV BND1      x011038 
+ BV BND1      x012001 
+ BV BND1      x012002 
+ BV BND1      x012003 
+ BV BND1      x012004 
+ BV BND1      x012005 
+ BV BND1      x012006 
+ BV BND1      x012007 
+ BV BND1      x012008 
+ BV BND1      x012009 
+ BV BND1      x012010 
+ BV BND1      x012011 
+ BV BND1      x012013 
+ BV BND1      x012014 
+ BV BND1      x012015 
+ BV BND1      x012016 
+ BV BND1      x012017 
+ BV BND1      x012018 
+ BV BND1      x012019 
+ BV BND1      x012020 
+ BV BND1      x012021 
+ BV BND1      x012022 
+ BV BND1      x012023 
+ BV BND1      x012024 
+ BV BND1      x012025 
+ BV BND1      x012026 
+ BV BND1      x012027 
+ BV BND1      x012028 
+ BV BND1      x012029 
+ BV BND1      x012030 
+ BV BND1      x012031 
+ BV BND1      x012032 
+ BV BND1      x012033 
+ BV BND1      x012034 
+ BV BND1      x012035 
+ BV BND1      x012036 
+ BV BND1      x012037 
+ BV BND1      x012038 
+ BV BND1      x013001 
+ BV BND1      x013002 
+ BV BND1      x013003 
+ BV BND1      x013004 
+ BV BND1      x013005 
+ BV BND1      x013006 
+ BV BND1      x013007 
+ BV BND1      x013008 
+ BV BND1      x013009 
+ BV BND1      x013010 
+ BV BND1      x013011 
+ BV BND1      x013012 
+ BV BND1      x013014 
+ BV BND1      x013015 
+ BV BND1      x013016 
+ BV BND1      x013017 
+ BV BND1      x013018 
+ BV BND1      x013019 
+ BV BND1      x013020 
+ BV BND1      x013021 
+ BV BND1      x013022 
+ BV BND1      x013023 
+ BV BND1      x013024 
+ BV BND1      x013025 
+ BV BND1      x013026 
+ BV BND1      x013027 
+ BV BND1      x013028 
+ BV BND1      x013029 
+ BV BND1      x013030 
+ BV BND1      x013031 
+ BV BND1      x013032 
+ BV BND1      x013033 
+ BV BND1      x013034 
+ BV BND1      x013035 
+ BV BND1      x013036 
+ BV BND1      x013037 
+ BV BND1      x013038 
+ BV BND1      x014001 
+ BV BND1      x014002 
+ BV BND1      x014003 
+ BV BND1      x014004 
+ BV BND1      x014005 
+ BV BND1      x014006 
+ BV BND1      x014007 
+ BV BND1      x014008 
+ BV BND1      x014009 
+ BV BND1      x014010 
+ BV BND1      x014011 
+ BV BND1      x014012 
+ BV BND1      x014013 
+ BV BND1      x014015 
+ BV BND1      x014016 
+ BV BND1      x014017 
+ BV BND1      x014018 
+ BV BND1      x014019 
+ BV BND1      x014020 
+ BV BND1      x014021 
+ BV BND1      x014022 
+ BV BND1      x014023 
+ BV BND1      x014024 
+ BV BND1      x014025 
+ BV BND1      x014026 
+ BV BND1      x014027 
+ BV BND1      x014028 
+ BV BND1      x014029 
+ BV BND1      x014030 
+ BV BND1      x014031 
+ BV BND1      x014032 
+ BV BND1      x014033 
+ BV BND1      x014034 
+ BV BND1      x014035 
+ BV BND1      x014036 
+ BV BND1      x014037 
+ BV BND1      x014038 
+ BV BND1      x015001 
+ BV BND1      x015002 
+ BV BND1      x015003 
+ BV BND1      x015004 
+ BV BND1      x015005 
+ BV BND1      x015006 
+ BV BND1      x015007 
+ BV BND1      x015008 
+ BV BND1      x015009 
+ BV BND1      x015010 
+ BV BND1      x015011 
+ BV BND1      x015012 
+ BV BND1      x015013 
+ BV BND1      x015014 
+ BV BND1      x015016 
+ BV BND1      x015017 
+ BV BND1      x015018 
+ BV BND1      x015019 
+ BV BND1      x015020 
+ BV BND1      x015021 
+ BV BND1      x015022 
+ BV BND1      x015023 
+ BV BND1      x015024 
+ BV BND1      x015025 
+ BV BND1      x015026 
+ BV BND1      x015027 
+ BV BND1      x015028 
+ BV BND1      x015029 
+ BV BND1      x015030 
+ BV BND1      x015031 
+ BV BND1      x015032 
+ BV BND1      x015033 
+ BV BND1      x015034 
+ BV BND1      x015035 
+ BV BND1      x015036 
+ BV BND1      x015037 
+ BV BND1      x015038 
+ BV BND1      x016001 
+ BV BND1      x016002 
+ BV BND1      x016003 
+ BV BND1      x016004 
+ BV BND1      x016005 
+ BV BND1      x016006 
+ BV BND1      x016007 
+ BV BND1      x016008 
+ BV BND1      x016009 
+ BV BND1      x016010 
+ BV BND1      x016011 
+ BV BND1      x016012 
+ BV BND1      x016013 
+ BV BND1      x016014 
+ BV BND1      x016015 
+ BV BND1      x016017 
+ BV BND1      x016018 
+ BV BND1      x016019 
+ BV BND1      x016020 
+ BV BND1      x016021 
+ BV BND1      x016022 
+ BV BND1      x016023 
+ BV BND1      x016024 
+ BV BND1      x016025 
+ BV BND1      x016026 
+ BV BND1      x016027 
+ BV BND1      x016028 
+ BV BND1      x016029 
+ BV BND1      x016030 
+ BV BND1      x016031 
+ BV BND1      x016032 
+ BV BND1      x016033 
+ BV BND1      x016034 
+ BV BND1      x016035 
+ BV BND1      x016036 
+ BV BND1      x016037 
+ BV BND1      x016038 
+ BV BND1      x017001 
+ BV BND1      x017002 
+ BV BND1      x017003 
+ BV BND1      x017004 
+ BV BND1      x017005 
+ BV BND1      x017006 
+ BV BND1      x017007 
+ BV BND1      x017008 
+ BV BND1      x017009 
+ BV BND1      x017010 
+ BV BND1      x017011 
+ BV BND1      x017012 
+ BV BND1      x017013 
+ BV BND1      x017014 
+ BV BND1      x017015 
+ BV BND1      x017016 
+ BV BND1      x017018 
+ BV BND1      x017019 
+ BV BND1      x017020 
+ BV BND1      x017021 
+ BV BND1      x017022 
+ BV BND1      x017023 
+ BV BND1      x017024 
+ BV BND1      x017025 
+ BV BND1      x017026 
+ BV BND1      x017027 
+ BV BND1      x017028 
+ BV BND1      x017029 
+ BV BND1      x017030 
+ BV BND1      x017031 
+ BV BND1      x017032 
+ BV BND1      x017033 
+ BV BND1      x017034 
+ BV BND1      x017035 
+ BV BND1      x017036 
+ BV BND1      x017037 
+ BV BND1      x017038 
+ BV BND1      x018001 
+ BV BND1      x018002 
+ BV BND1      x018003 
+ BV BND1      x018004 
+ BV BND1      x018005 
+ BV BND1      x018006 
+ BV BND1      x018007 
+ BV BND1      x018008 
+ BV BND1      x018009 
+ BV BND1      x018010 
+ BV BND1      x018011 
+ BV BND1      x018012 
+ BV BND1      x018013 
+ BV BND1      x018014 
+ BV BND1      x018015 
+ BV BND1      x018016 
+ BV BND1      x018017 
+ BV BND1      x018019 
+ BV BND1      x018020 
+ BV BND1      x018021 
+ BV BND1      x018022 
+ BV BND1      x018023 
+ BV BND1      x018024 
+ BV BND1      x018025 
+ BV BND1      x018026 
+ BV BND1      x018027 
+ BV BND1      x018028 
+ BV BND1      x018029 
+ BV BND1      x018030 
+ BV BND1      x018031 
+ BV BND1      x018032 
+ BV BND1      x018033 
+ BV BND1      x018034 
+ BV BND1      x018035 
+ BV BND1      x018036 
+ BV BND1      x018037 
+ BV BND1      x018038 
+ BV BND1      x019001 
+ BV BND1      x019002 
+ BV BND1      x019003 
+ BV BND1      x019004 
+ BV BND1      x019005 
+ BV BND1      x019006 
+ BV BND1      x019007 
+ BV BND1      x019008 
+ BV BND1      x019009 
+ BV BND1      x019010 
+ BV BND1      x019011 
+ BV BND1      x019012 
+ BV BND1      x019013 
+ BV BND1      x019014 
+ BV BND1      x019015 
+ BV BND1      x019016 
+ BV BND1      x019017 
+ BV BND1      x019018 
+ BV BND1      x019020 
+ BV BND1      x019021 
+ BV BND1      x019022 
+ BV BND1      x019023 
+ BV BND1      x019024 
+ BV BND1      x019025 
+ BV BND1      x019026 
+ BV BND1      x019027 
+ BV BND1      x019028 
+ BV BND1      x019029 
+ BV BND1      x019030 
+ BV BND1      x019031 
+ BV BND1      x019032 
+ BV BND1      x019033 
+ BV BND1      x019034 
+ BV BND1      x019035 
+ BV BND1      x019036 
+ BV BND1      x019037 
+ BV BND1      x019038 
+ BV BND1      x020001 
+ BV BND1      x020002 
+ BV BND1      x020003 
+ BV BND1      x020004 
+ BV BND1      x020005 
+ BV BND1      x020006 
+ BV BND1      x020007 
+ BV BND1      x020008 
+ BV BND1      x020009 
+ BV BND1      x020010 
+ BV BND1      x020011 
+ BV BND1      x020012 
+ BV BND1      x020013 
+ BV BND1      x020014 
+ BV BND1      x020015 
+ BV BND1      x020016 
+ BV BND1      x020017 
+ BV BND1      x020018 
+ BV BND1      x020019 
+ BV BND1      x020021 
+ BV BND1      x020022 
+ BV BND1      x020023 
+ BV BND1      x020024 
+ BV BND1      x020025 
+ BV BND1      x020026 
+ BV BND1      x020027 
+ BV BND1      x020028 
+ BV BND1      x020029 
+ BV BND1      x020030 
+ BV BND1      x020031 
+ BV BND1      x020032 
+ BV BND1      x020033 
+ BV BND1      x020034 
+ BV BND1      x020035 
+ BV BND1      x020036 
+ BV BND1      x020037 
+ BV BND1      x020038 
+ BV BND1      x021001 
+ BV BND1      x021002 
+ BV BND1      x021003 
+ BV BND1      x021004 
+ BV BND1      x021005 
+ BV BND1      x021006 
+ BV BND1      x021007 
+ BV BND1      x021008 
+ BV BND1      x021009 
+ BV BND1      x021010 
+ BV BND1      x021011 
+ BV BND1      x021012 
+ BV BND1      x021013 
+ BV BND1      x021014 
+ BV BND1      x021015 
+ BV BND1      x021016 
+ BV BND1      x021017 
+ BV BND1      x021018 
+ BV BND1      x021019 
+ BV BND1      x021020 
+ BV BND1      x021022 
+ BV BND1      x021023 
+ BV BND1      x021024 
+ BV BND1      x021025 
+ BV BND1      x021026 
+ BV BND1      x021027 
+ BV BND1      x021028 
+ BV BND1      x021029 
+ BV BND1      x021030 
+ BV BND1      x021031 
+ BV BND1      x021032 
+ BV BND1      x021033 
+ BV BND1      x021034 
+ BV BND1      x021035 
+ BV BND1      x021036 
+ BV BND1      x021037 
+ BV BND1      x021038 
+ BV BND1      x022001 
+ BV BND1      x022002 
+ BV BND1      x022003 
+ BV BND1      x022004 
+ BV BND1      x022005 
+ BV BND1      x022006 
+ BV BND1      x022007 
+ BV BND1      x022008 
+ BV BND1      x022009 
+ BV BND1      x022010 
+ BV BND1      x022011 
+ BV BND1      x022012 
+ BV BND1      x022013 
+ BV BND1      x022014 
+ BV BND1      x022015 
+ BV BND1      x022016 
+ BV BND1      x022017 
+ BV BND1      x022018 
+ BV BND1      x022019 
+ BV BND1      x022020 
+ BV BND1      x022021 
+ BV BND1      x022023 
+ BV BND1      x022024 
+ BV BND1      x022025 
+ BV BND1      x022026 
+ BV BND1      x022027 
+ BV BND1      x022028 
+ BV BND1      x022029 
+ BV BND1      x022030 
+ BV BND1      x022031 
+ BV BND1      x022032 
+ BV BND1      x022033 
+ BV BND1      x022034 
+ BV BND1      x022035 
+ BV BND1      x022036 
+ BV BND1      x022037 
+ BV BND1      x022038 
+ BV BND1      x023001 
+ BV BND1      x023002 
+ BV BND1      x023003 
+ BV BND1      x023004 
+ BV BND1      x023005 
+ BV BND1      x023006 
+ BV BND1      x023007 
+ BV BND1      x023008 
+ BV BND1      x023009 
+ BV BND1      x023010 
+ BV BND1      x023011 
+ BV BND1      x023012 
+ BV BND1      x023013 
+ BV BND1      x023014 
+ BV BND1      x023015 
+ BV BND1      x023016 
+ BV BND1      x023017 
+ BV BND1      x023018 
+ BV BND1      x023019 
+ BV BND1      x023020 
+ BV BND1      x023021 
+ BV BND1      x023022 
+ BV BND1      x023024 
+ BV BND1      x023025 
+ BV BND1      x023026 
+ BV BND1      x023027 
+ BV BND1      x023028 
+ BV BND1      x023029 
+ BV BND1      x023030 
+ BV BND1      x023031 
+ BV BND1      x023032 
+ BV BND1      x023033 
+ BV BND1      x023034 
+ BV BND1      x023035 
+ BV BND1      x023036 
+ BV BND1      x023037 
+ BV BND1      x023038 
+ BV BND1      x024001 
+ BV BND1      x024002 
+ BV BND1      x024003 
+ BV BND1      x024004 
+ BV BND1      x024005 
+ BV BND1      x024006 
+ BV BND1      x024007 
+ BV BND1      x024008 
+ BV BND1      x024009 
+ BV BND1      x024010 
+ BV BND1      x024011 
+ BV BND1      x024012 
+ BV BND1      x024013 
+ BV BND1      x024014 
+ BV BND1      x024015 
+ BV BND1      x024016 
+ BV BND1      x024017 
+ BV BND1      x024018 
+ BV BND1      x024019 
+ BV BND1      x024020 
+ BV BND1      x024021 
+ BV BND1      x024022 
+ BV BND1      x024023 
+ BV BND1      x024025 
+ BV BND1      x024026 
+ BV BND1      x024027 
+ BV BND1      x024028 
+ BV BND1      x024029 
+ BV BND1      x024030 
+ BV BND1      x024031 
+ BV BND1      x024032 
+ BV BND1      x024033 
+ BV BND1      x024034 
+ BV BND1      x024035 
+ BV BND1      x024036 
+ BV BND1      x024037 
+ BV BND1      x024038 
+ BV BND1      x025001 
+ BV BND1      x025002 
+ BV BND1      x025003 
+ BV BND1      x025004 
+ BV BND1      x025005 
+ BV BND1      x025006 
+ BV BND1      x025007 
+ BV BND1      x025008 
+ BV BND1      x025009 
+ BV BND1      x025010 
+ BV BND1      x025011 
+ BV BND1      x025012 
+ BV BND1      x025013 
+ BV BND1      x025014 
+ BV BND1      x025015 
+ BV BND1      x025016 
+ BV BND1      x025017 
+ BV BND1      x025018 
+ BV BND1      x025019 
+ BV BND1      x025020 
+ BV BND1      x025021 
+ BV BND1      x025022 
+ BV BND1      x025023 
+ BV BND1      x025024 
+ BV BND1      x025026 
+ BV BND1      x025027 
+ BV BND1      x025028 
+ BV BND1      x025029 
+ BV BND1      x025030 
+ BV BND1      x025031 
+ BV BND1      x025032 
+ BV BND1      x025033 
+ BV BND1      x025034 
+ BV BND1      x025035 
+ BV BND1      x025036 
+ BV BND1      x025037 
+ BV BND1      x025038 
+ BV BND1      x026001 
+ BV BND1      x026002 
+ BV BND1      x026003 
+ BV BND1      x026004 
+ BV BND1      x026005 
+ BV BND1      x026006 
+ BV BND1      x026007 
+ BV BND1      x026008 
+ BV BND1      x026009 
+ BV BND1      x026010 
+ BV BND1      x026011 
+ BV BND1      x026012 
+ BV BND1      x026013 
+ BV BND1      x026014 
+ BV BND1      x026015 
+ BV BND1      x026016 
+ BV BND1      x026017 
+ BV BND1      x026018 
+ BV BND1      x026019 
+ BV BND1      x026020 
+ BV BND1      x026021 
+ BV BND1      x026022 
+ BV BND1      x026023 
+ BV BND1      x026024 
+ BV BND1      x026025 
+ BV BND1      x026027 
+ BV BND1      x026028 
+ BV BND1      x026029 
+ BV BND1      x026030 
+ BV BND1      x026031 
+ BV BND1      x026032 
+ BV BND1      x026033 
+ BV BND1      x026034 
+ BV BND1      x026035 
+ BV BND1      x026036 
+ BV BND1      x026037 
+ BV BND1      x026038 
+ BV BND1      x027001 
+ BV BND1      x027002 
+ BV BND1      x027003 
+ BV BND1      x027004 
+ BV BND1      x027005 
+ BV BND1      x027006 
+ BV BND1      x027007 
+ BV BND1      x027008 
+ BV BND1      x027009 
+ BV BND1      x027010 
+ BV BND1      x027011 
+ BV BND1      x027012 
+ BV BND1      x027013 
+ BV BND1      x027014 
+ BV BND1      x027015 
+ BV BND1      x027016 
+ BV BND1      x027017 
+ BV BND1      x027018 
+ BV BND1      x027019 
+ BV BND1      x027020 
+ BV BND1      x027021 
+ BV BND1      x027022 
+ BV BND1      x027023 
+ BV BND1      x027024 
+ BV BND1      x027025 
+ BV BND1      x027026 
+ BV BND1      x027028 
+ BV BND1      x027029 
+ BV BND1      x027030 
+ BV BND1      x027031 
+ BV BND1      x027032 
+ BV BND1      x027033 
+ BV BND1      x027034 
+ BV BND1      x027035 
+ BV BND1      x027036 
+ BV BND1      x027037 
+ BV BND1      x027038 
+ BV BND1      x028001 
+ BV BND1      x028002 
+ BV BND1      x028003 
+ BV BND1      x028004 
+ BV BND1      x028005 
+ BV BND1      x028006 
+ BV BND1      x028007 
+ BV BND1      x028008 
+ BV BND1      x028009 
+ BV BND1      x028010 
+ BV BND1      x028011 
+ BV BND1      x028012 
+ BV BND1      x028013 
+ BV BND1      x028014 
+ BV BND1      x028015 
+ BV BND1      x028016 
+ BV BND1      x028017 
+ BV BND1      x028018 
+ BV BND1      x028019 
+ BV BND1      x028020 
+ BV BND1      x028021 
+ BV BND1      x028022 
+ BV BND1      x028023 
+ BV BND1      x028024 
+ BV BND1      x028025 
+ BV BND1      x028026 
+ BV BND1      x028027 
+ BV BND1      x028029 
+ BV BND1      x028030 
+ BV BND1      x028031 
+ BV BND1      x028032 
+ BV BND1      x028033 
+ BV BND1      x028034 
+ BV BND1      x028035 
+ BV BND1      x028036 
+ BV BND1      x028037 
+ BV BND1      x028038 
+ BV BND1      x029001 
+ BV BND1      x029002 
+ BV BND1      x029003 
+ BV BND1      x029004 
+ BV BND1      x029005 
+ BV BND1      x029006 
+ BV BND1      x029007 
+ BV BND1      x029008 
+ BV BND1      x029009 
+ BV BND1      x029010 
+ BV BND1      x029011 
+ BV BND1      x029012 
+ BV BND1      x029013 
+ BV BND1      x029014 
+ BV BND1      x029015 
+ BV BND1      x029016 
+ BV BND1      x029017 
+ BV BND1      x029018 
+ BV BND1      x029019 
+ BV BND1      x029020 
+ BV BND1      x029021 
+ BV BND1      x029022 
+ BV BND1      x029023 
+ BV BND1      x029024 
+ BV BND1      x029025 
+ BV BND1      x029026 
+ BV BND1      x029027 
+ BV BND1      x029028 
+ BV BND1      x029030 
+ BV BND1      x029031 
+ BV BND1      x029032 
+ BV BND1      x029033 
+ BV BND1      x029034 
+ BV BND1      x029035 
+ BV BND1      x029036 
+ BV BND1      x029037 
+ BV BND1      x029038 
+ BV BND1      x030001 
+ BV BND1      x030002 
+ BV BND1      x030003 
+ BV BND1      x030004 
+ BV BND1      x030005 
+ BV BND1      x030006 
+ BV BND1      x030007 
+ BV BND1      x030008 
+ BV BND1      x030009 
+ BV BND1      x030010 
+ BV BND1      x030011 
+ BV BND1      x030012 
+ BV BND1      x030013 
+ BV BND1      x030014 
+ BV BND1      x030015 
+ BV BND1      x030016 
+ BV BND1      x030017 
+ BV BND1      x030018 
+ BV BND1      x030019 
+ BV BND1      x030020 
+ BV BND1      x030021 
+ BV BND1      x030022 
+ BV BND1      x030023 
+ BV BND1      x030024 
+ BV BND1      x030025 
+ BV BND1      x030026 
+ BV BND1      x030027 
+ BV BND1      x030028 
+ BV BND1      x030029 
+ BV BND1      x030031 
+ BV BND1      x030032 
+ BV BND1      x030033 
+ BV BND1      x030034 
+ BV BND1      x030035 
+ BV BND1      x030036 
+ BV BND1      x030037 
+ BV BND1      x030038 
+ BV BND1      x031001 
+ BV BND1      x031002 
+ BV BND1      x031003 
+ BV BND1      x031004 
+ BV BND1      x031005 
+ BV BND1      x031006 
+ BV BND1      x031007 
+ BV BND1      x031008 
+ BV BND1      x031009 
+ BV BND1      x031010 
+ BV BND1      x031011 
+ BV BND1      x031012 
+ BV BND1      x031013 
+ BV BND1      x031014 
+ BV BND1      x031015 
+ BV BND1      x031016 
+ BV BND1      x031017 
+ BV BND1      x031018 
+ BV BND1      x031019 
+ BV BND1      x031020 
+ BV BND1      x031021 
+ BV BND1      x031022 
+ BV BND1      x031023 
+ BV BND1      x031024 
+ BV BND1      x031025 
+ BV BND1      x031026 
+ BV BND1      x031027 
+ BV BND1      x031028 
+ BV BND1      x031029 
+ BV BND1      x031030 
+ BV BND1      x031032 
+ BV BND1      x031033 
+ BV BND1      x031034 
+ BV BND1      x031035 
+ BV BND1      x031036 
+ BV BND1      x031037 
+ BV BND1      x031038 
+ BV BND1      x032001 
+ BV BND1      x032002 
+ BV BND1      x032003 
+ BV BND1      x032004 
+ BV BND1      x032005 
+ BV BND1      x032006 
+ BV BND1      x032007 
+ BV BND1      x032008 
+ BV BND1      x032009 
+ BV BND1      x032010 
+ BV BND1      x032011 
+ BV BND1      x032012 
+ BV BND1      x032013 
+ BV BND1      x032014 
+ BV BND1      x032015 
+ BV BND1      x032016 
+ BV BND1      x032017 
+ BV BND1      x032018 
+ BV BND1      x032019 
+ BV BND1      x032020 
+ BV BND1      x032021 
+ BV BND1      x032022 
+ BV BND1      x032023 
+ BV BND1      x032024 
+ BV BND1      x032025 
+ BV BND1      x032026 
+ BV BND1      x032027 
+ BV BND1      x032028 
+ BV BND1      x032029 
+ BV BND1      x032030 
+ BV BND1      x032031 
+ BV BND1      x032033 
+ BV BND1      x032034 
+ BV BND1      x032035 
+ BV BND1      x032036 
+ BV BND1      x032037 
+ BV BND1      x032038 
+ BV BND1      x033001 
+ BV BND1      x033002 
+ BV BND1      x033003 
+ BV BND1      x033004 
+ BV BND1      x033005 
+ BV BND1      x033006 
+ BV BND1      x033007 
+ BV BND1      x033008 
+ BV BND1      x033009 
+ BV BND1      x033010 
+ BV BND1      x033011 
+ BV BND1      x033012 
+ BV BND1      x033013 
+ BV BND1      x033014 
+ BV BND1      x033015 
+ BV BND1      x033016 
+ BV BND1      x033017 
+ BV BND1      x033018 
+ BV BND1      x033019 
+ BV BND1      x033020 
+ BV BND1      x033021 
+ BV BND1      x033022 
+ BV BND1      x033023 
+ BV BND1      x033024 
+ BV BND1      x033025 
+ BV BND1      x033026 
+ BV BND1      x033027 
+ BV BND1      x033028 
+ BV BND1      x033029 
+ BV BND1      x033030 
+ BV BND1      x033031 
+ BV BND1      x033032 
+ BV BND1      x033034 
+ BV BND1      x033035 
+ BV BND1      x033036 
+ BV BND1      x033037 
+ BV BND1      x033038 
+ BV BND1      x034001 
+ BV BND1      x034002 
+ BV BND1      x034003 
+ BV BND1      x034004 
+ BV BND1      x034005 
+ BV BND1      x034006 
+ BV BND1      x034007 
+ BV BND1      x034008 
+ BV BND1      x034009 
+ BV BND1      x034010 
+ BV BND1      x034011 
+ BV BND1      x034012 
+ BV BND1      x034013 
+ BV BND1      x034014 
+ BV BND1      x034015 
+ BV BND1      x034016 
+ BV BND1      x034017 
+ BV BND1      x034018 
+ BV BND1      x034019 
+ BV BND1      x034020 
+ BV BND1      x034021 
+ BV BND1      x034022 
+ BV BND1      x034023 
+ BV BND1      x034024 
+ BV BND1      x034025 
+ BV BND1      x034026 
+ BV BND1      x034027 
+ BV BND1      x034028 
+ BV BND1      x034029 
+ BV BND1      x034030 
+ BV BND1      x034031 
+ BV BND1      x034032 
+ BV BND1      x034033 
+ BV BND1      x034035 
+ BV BND1      x034036 
+ BV BND1      x034037 
+ BV BND1      x034038 
+ BV BND1      x035001 
+ BV BND1      x035002 
+ BV BND1      x035003 
+ BV BND1      x035004 
+ BV BND1      x035005 
+ BV BND1      x035006 
+ BV BND1      x035007 
+ BV BND1      x035008 
+ BV BND1      x035009 
+ BV BND1      x035010 
+ BV BND1      x035011 
+ BV BND1      x035012 
+ BV BND1      x035013 
+ BV BND1      x035014 
+ BV BND1      x035015 
+ BV BND1      x035016 
+ BV BND1      x035017 
+ BV BND1      x035018 
+ BV BND1      x035019 
+ BV BND1      x035020 
+ BV BND1      x035021 
+ BV BND1      x035022 
+ BV BND1      x035023 
+ BV BND1      x035024 
+ BV BND1      x035025 
+ BV BND1      x035026 
+ BV BND1      x035027 
+ BV BND1      x035028 
+ BV BND1      x035029 
+ BV BND1      x035030 
+ BV BND1      x035031 
+ BV BND1      x035032 
+ BV BND1      x035033 
+ BV BND1      x035034 
+ BV BND1      x035036 
+ BV BND1      x035037 
+ BV BND1      x035038 
+ BV BND1      x036001 
+ BV BND1      x036002 
+ BV BND1      x036003 
+ BV BND1      x036004 
+ BV BND1      x036005 
+ BV BND1      x036006 
+ BV BND1      x036007 
+ BV BND1      x036008 
+ BV BND1      x036009 
+ BV BND1      x036010 
+ BV BND1      x036011 
+ BV BND1      x036012 
+ BV BND1      x036013 
+ BV BND1      x036014 
+ BV BND1      x036015 
+ BV BND1      x036016 
+ BV BND1      x036017 
+ BV BND1      x036018 
+ BV BND1      x036019 
+ BV BND1      x036020 
+ BV BND1      x036021 
+ BV BND1      x036022 
+ BV BND1      x036023 
+ BV BND1      x036024 
+ BV BND1      x036025 
+ BV BND1      x036026 
+ BV BND1      x036027 
+ BV BND1      x036028 
+ BV BND1      x036029 
+ BV BND1      x036030 
+ BV BND1      x036031 
+ BV BND1      x036032 
+ BV BND1      x036033 
+ BV BND1      x036034 
+ BV BND1      x036035 
+ BV BND1      x036037 
+ BV BND1      x036038 
+ BV BND1      x037001 
+ BV BND1      x037002 
+ BV BND1      x037003 
+ BV BND1      x037004 
+ BV BND1      x037005 
+ BV BND1      x037006 
+ BV BND1      x037007 
+ BV BND1      x037008 
+ BV BND1      x037009 
+ BV BND1      x037010 
+ BV BND1      x037011 
+ BV BND1      x037012 
+ BV BND1      x037013 
+ BV BND1      x037014 
+ BV BND1      x037015 
+ BV BND1      x037016 
+ BV BND1      x037017 
+ BV BND1      x037018 
+ BV BND1      x037019 
+ BV BND1      x037020 
+ BV BND1      x037021 
+ BV BND1      x037022 
+ BV BND1      x037023 
+ BV BND1      x037024 
+ BV BND1      x037025 
+ BV BND1      x037026 
+ BV BND1      x037027 
+ BV BND1      x037028 
+ BV BND1      x037029 
+ BV BND1      x037030 
+ BV BND1      x037031 
+ BV BND1      x037032 
+ BV BND1      x037033 
+ BV BND1      x037034 
+ BV BND1      x037035 
+ BV BND1      x037036 
+ BV BND1      x037038 
+ BV BND1      x038001 
+ BV BND1      x038002 
+ BV BND1      x038003 
+ BV BND1      x038004 
+ BV BND1      x038005 
+ BV BND1      x038006 
+ BV BND1      x038007 
+ BV BND1      x038008 
+ BV BND1      x038009 
+ BV BND1      x038010 
+ BV BND1      x038011 
+ BV BND1      x038012 
+ BV BND1      x038013 
+ BV BND1      x038014 
+ BV BND1      x038015 
+ BV BND1      x038016 
+ BV BND1      x038017 
+ BV BND1      x038018 
+ BV BND1      x038019 
+ BV BND1      x038020 
+ BV BND1      x038021 
+ BV BND1      x038022 
+ BV BND1      x038023 
+ BV BND1      x038024 
+ BV BND1      x038025 
+ BV BND1      x038026 
+ BV BND1      x038027 
+ BV BND1      x038028 
+ BV BND1      x038029 
+ BV BND1      x038030 
+ BV BND1      x038031 
+ BV BND1      x038032 
+ BV BND1      x038033 
+ BV BND1      x038034 
+ BV BND1      x038035 
+ BV BND1      x038036 
+ BV BND1      x038037 
+ BV BND1      A000001 
+ BV BND1      A000002 
+ BV BND1      A000003 
+ BV BND1      A000004 
+ BV BND1      A000005 
+ BV BND1      A000006 
+ BV BND1      A000007 
+ BV BND1      A000008 
+ BV BND1      A000009 
+ BV BND1      A000010 
+ BV BND1      A000011 
+ BV BND1      A000012 
+ BV BND1      A000013 
+ BV BND1      A000014 
+ BV BND1      A000015 
+ BV BND1      A000016 
+ BV BND1      A000017 
+ BV BND1      A000018 
+ BV BND1      A000019 
+ BV BND1      A000020 
+ BV BND1      A000021 
+ BV BND1      A000022 
+ BV BND1      A000023 
+ BV BND1      A000024 
+ BV BND1      A000025 
+ BV BND1      A000026 
+ BV BND1      A000027 
+ BV BND1      A000028 
+ BV BND1      A000029 
+ BV BND1      A000030 
+ BV BND1      A000031 
+ BV BND1      A000032 
+ BV BND1      A000033 
+ BV BND1      A000034 
+ BV BND1      A000035 
+ BV BND1      A000036 
+ BV BND1      A000037 
+ BV BND1      A000038 
+ BV BND1      A001001 
+ BV BND1      A001002 
+ BV BND1      A001003 
+ BV BND1      A001004 
+ BV BND1      A001005 
+ BV BND1      A001006 
+ BV BND1      A001007 
+ BV BND1      A001008 
+ BV BND1      A001009 
+ BV BND1      A001010 
+ BV BND1      A001011 
+ BV BND1      A001012 
+ BV BND1      A001013 
+ BV BND1      A001014 
+ BV BND1      A001015 
+ BV BND1      A001016 
+ BV BND1      A001017 
+ BV BND1      A001018 
+ BV BND1      A001019 
+ BV BND1      A001020 
+ BV BND1      A001021 
+ BV BND1      A001022 
+ BV BND1      A001023 
+ BV BND1      A001024 
+ BV BND1      A001025 
+ BV BND1      A001026 
+ BV BND1      A001027 
+ BV BND1      A001028 
+ BV BND1      A001029 
+ BV BND1      A001030 
+ BV BND1      A001031 
+ BV BND1      A001032 
+ BV BND1      A001033 
+ BV BND1      A001034 
+ BV BND1      A001035 
+ BV BND1      A001036 
+ BV BND1      A001037 
+ BV BND1      A001038 
+ BV BND1      A002001 
+ BV BND1      A002002 
+ BV BND1      A002003 
+ BV BND1      A002004 
+ BV BND1      A002005 
+ BV BND1      A002006 
+ BV BND1      A002007 
+ BV BND1      A002008 
+ BV BND1      A002009 
+ BV BND1      A002010 
+ BV BND1      A002011 
+ BV BND1      A002012 
+ BV BND1      A002013 
+ BV BND1      A002014 
+ BV BND1      A002015 
+ BV BND1      A002016 
+ BV BND1      A002017 
+ BV BND1      A002018 
+ BV BND1      A002019 
+ BV BND1      A002020 
+ BV BND1      A002021 
+ BV BND1      A002022 
+ BV BND1      A002023 
+ BV BND1      A002024 
+ BV BND1      A002025 
+ BV BND1      A002026 
+ BV BND1      A002027 
+ BV BND1      A002028 
+ BV BND1      A002029 
+ BV BND1      A002030 
+ BV BND1      A002031 
+ BV BND1      A002032 
+ BV BND1      A002033 
+ BV BND1      A002034 
+ BV BND1      A002035 
+ BV BND1      A002036 
+ BV BND1      A002037 
+ BV BND1      A002038 
+ BV BND1      A003001 
+ BV BND1      A003002 
+ BV BND1      A003003 
+ BV BND1      A003004 
+ BV BND1      A003005 
+ BV BND1      A003006 
+ BV BND1      A003007 
+ BV BND1      A003008 
+ BV BND1      A003009 
+ BV BND1      A003010 
+ BV BND1      A003011 
+ BV BND1      A003012 
+ BV BND1      A003013 
+ BV BND1      A003014 
+ BV BND1      A003015 
+ BV BND1      A003016 
+ BV BND1      A003017 
+ BV BND1      A003018 
+ BV BND1      A003019 
+ BV BND1      A003020 
+ BV BND1      A003021 
+ BV BND1      A003022 
+ BV BND1      A003023 
+ BV BND1      A003024 
+ BV BND1      A003025 
+ BV BND1      A003026 
+ BV BND1      A003027 
+ BV BND1      A003028 
+ BV BND1      A003029 
+ BV BND1      A003030 
+ BV BND1      A003031 
+ BV BND1      A003032 
+ BV BND1      A003033 
+ BV BND1      A003034 
+ BV BND1      A003035 
+ BV BND1      A003036 
+ BV BND1      A003037 
+ BV BND1      A003038 
+ BV BND1      A000001002
+ BV BND1      A000001003
+ BV BND1      A000001004
+ BV BND1      A000001005
+ BV BND1      A000001006
+ BV BND1      A000001007
+ BV BND1      A000001008
+ BV BND1      A000001009
+ BV BND1      A000001010
+ BV BND1      A000001011
+ BV BND1      A000001012
+ BV BND1      A000001013
+ BV BND1      A000001014
+ BV BND1      A000001015
+ BV BND1      A000001016
+ BV BND1      A000001017
+ BV BND1      A000001018
+ BV BND1      A000001019
+ BV BND1      A000001020
+ BV BND1      A000001021
+ BV BND1      A000001022
+ BV BND1      A000001023
+ BV BND1      A000001024
+ BV BND1      A000001025
+ BV BND1      A000001026
+ BV BND1      A000001027
+ BV BND1      A000001028
+ BV BND1      A000001029
+ BV BND1      A000001030
+ BV BND1      A000001031
+ BV BND1      A000001032
+ BV BND1      A000001033
+ BV BND1      A000001034
+ BV BND1      A000001035
+ BV BND1      A000001036
+ BV BND1      A000001037
+ BV BND1      A000001038
+ BV BND1      A000002003
+ BV BND1      A000002004
+ BV BND1      A000002005
+ BV BND1      A000002006
+ BV BND1      A000002007
+ BV BND1      A000002008
+ BV BND1      A000002009
+ BV BND1      A000002010
+ BV BND1      A000002011
+ BV BND1      A000002012
+ BV BND1      A000002013
+ BV BND1      A000002014
+ BV BND1      A000002015
+ BV BND1      A000002016
+ BV BND1      A000002017
+ BV BND1      A000002018
+ BV BND1      A000002019
+ BV BND1      A000002020
+ BV BND1      A000002021
+ BV BND1      A000002022
+ BV BND1      A000002023
+ BV BND1      A000002024
+ BV BND1      A000002025
+ BV BND1      A000002026
+ BV BND1      A000002027
+ BV BND1      A000002028
+ BV BND1      A000002029
+ BV BND1      A000002030
+ BV BND1      A000002031
+ BV BND1      A000002032
+ BV BND1      A000002033
+ BV BND1      A000002034
+ BV BND1      A000002035
+ BV BND1      A000002036
+ BV BND1      A000002037
+ BV BND1      A000002038
+ BV BND1      A000003004
+ BV BND1      A000003005
+ BV BND1      A000003006
+ BV BND1      A000003007
+ BV BND1      A000003008
+ BV BND1      A000003009
+ BV BND1      A000003010
+ BV BND1      A000003011
+ BV BND1      A000003012
+ BV BND1      A000003013
+ BV BND1      A000003014
+ BV BND1      A000003015
+ BV BND1      A000003016
+ BV BND1      A000003017
+ BV BND1      A000003018
+ BV BND1      A000003019
+ BV BND1      A000003020
+ BV BND1      A000003021
+ BV BND1      A000003022
+ BV BND1      A000003023
+ BV BND1      A000003024
+ BV BND1      A000003025
+ BV BND1      A000003026
+ BV BND1      A000003027
+ BV BND1      A000003028
+ BV BND1      A000003029
+ BV BND1      A000003030
+ BV BND1      A000003031
+ BV BND1      A000003032
+ BV BND1      A000003033
+ BV BND1      A000003034
+ BV BND1      A000003035
+ BV BND1      A000003036
+ BV BND1      A000003037
+ BV BND1      A000003038
+ BV BND1      A000004005
+ BV BND1      A000004006
+ BV BND1      A000004007
+ BV BND1      A000004008
+ BV BND1      A000004009
+ BV BND1      A000004010
+ BV BND1      A000004011
+ BV BND1      A000004012
+ BV BND1      A000004013
+ BV BND1      A000004014
+ BV BND1      A000004015
+ BV BND1      A000004016
+ BV BND1      A000004017
+ BV BND1      A000004018
+ BV BND1      A000004019
+ BV BND1      A000004020
+ BV BND1      A000004021
+ BV BND1      A000004022
+ BV BND1      A000004023
+ BV BND1      A000004024
+ BV BND1      A000004025
+ BV BND1      A000004026
+ BV BND1      A000004027
+ BV BND1      A000004028
+ BV BND1      A000004029
+ BV BND1      A000004030
+ BV BND1      A000004031
+ BV BND1      A000004032
+ BV BND1      A000004033
+ BV BND1      A000004034
+ BV BND1      A000004035
+ BV BND1      A000004036
+ BV BND1      A000004037
+ BV BND1      A000004038
+ BV BND1      A000005006
+ BV BND1      A000005007
+ BV BND1      A000005008
+ BV BND1      A000005009
+ BV BND1      A000005010
+ BV BND1      A000005011
+ BV BND1      A000005012
+ BV BND1      A000005013
+ BV BND1      A000005014
+ BV BND1      A000005015
+ BV BND1      A000005016
+ BV BND1      A000005017
+ BV BND1      A000005018
+ BV BND1      A000005019
+ BV BND1      A000005020
+ BV BND1      A000005021
+ BV BND1      A000005022
+ BV BND1      A000005023
+ BV BND1      A000005024
+ BV BND1      A000005025
+ BV BND1      A000005026
+ BV BND1      A000005027
+ BV BND1      A000005028
+ BV BND1      A000005029
+ BV BND1      A000005030
+ BV BND1      A000005031
+ BV BND1      A000005032
+ BV BND1      A000005033
+ BV BND1      A000005034
+ BV BND1      A000005035
+ BV BND1      A000005036
+ BV BND1      A000005037
+ BV BND1      A000005038
+ BV BND1      A000006007
+ BV BND1      A000006008
+ BV BND1      A000006009
+ BV BND1      A000006010
+ BV BND1      A000006011
+ BV BND1      A000006012
+ BV BND1      A000006013
+ BV BND1      A000006014
+ BV BND1      A000006015
+ BV BND1      A000006016
+ BV BND1      A000006017
+ BV BND1      A000006018
+ BV BND1      A000006019
+ BV BND1      A000006020
+ BV BND1      A000006021
+ BV BND1      A000006022
+ BV BND1      A000006023
+ BV BND1      A000006024
+ BV BND1      A000006025
+ BV BND1      A000006026
+ BV BND1      A000006027
+ BV BND1      A000006028
+ BV BND1      A000006029
+ BV BND1      A000006030
+ BV BND1      A000006031
+ BV BND1      A000006032
+ BV BND1      A000006033
+ BV BND1      A000006034
+ BV BND1      A000006035
+ BV BND1      A000006036
+ BV BND1      A000006037
+ BV BND1      A000006038
+ BV BND1      A000007008
+ BV BND1      A000007009
+ BV BND1      A000007010
+ BV BND1      A000007011
+ BV BND1      A000007012
+ BV BND1      A000007013
+ BV BND1      A000007014
+ BV BND1      A000007015
+ BV BND1      A000007016
+ BV BND1      A000007017
+ BV BND1      A000007018
+ BV BND1      A000007019
+ BV BND1      A000007020
+ BV BND1      A000007021
+ BV BND1      A000007022
+ BV BND1      A000007023
+ BV BND1      A000007024
+ BV BND1      A000007025
+ BV BND1      A000007026
+ BV BND1      A000007027
+ BV BND1      A000007028
+ BV BND1      A000007029
+ BV BND1      A000007030
+ BV BND1      A000007031
+ BV BND1      A000007032
+ BV BND1      A000007033
+ BV BND1      A000007034
+ BV BND1      A000007035
+ BV BND1      A000007036
+ BV BND1      A000007037
+ BV BND1      A000007038
+ BV BND1      A000008009
+ BV BND1      A000008010
+ BV BND1      A000008011
+ BV BND1      A000008012
+ BV BND1      A000008013
+ BV BND1      A000008014
+ BV BND1      A000008015
+ BV BND1      A000008016
+ BV BND1      A000008017
+ BV BND1      A000008018
+ BV BND1      A000008019
+ BV BND1      A000008020
+ BV BND1      A000008021
+ BV BND1      A000008022
+ BV BND1      A000008023
+ BV BND1      A000008024
+ BV BND1      A000008025
+ BV BND1      A000008026
+ BV BND1      A000008027
+ BV BND1      A000008028
+ BV BND1      A000008029
+ BV BND1      A000008030
+ BV BND1      A000008031
+ BV BND1      A000008032
+ BV BND1      A000008033
+ BV BND1      A000008034
+ BV BND1      A000008035
+ BV BND1      A000008036
+ BV BND1      A000008037
+ BV BND1      A000008038
+ BV BND1      A000009010
+ BV BND1      A000009011
+ BV BND1      A000009012
+ BV BND1      A000009013
+ BV BND1      A000009014
+ BV BND1      A000009015
+ BV BND1      A000009016
+ BV BND1      A000009017
+ BV BND1      A000009018
+ BV BND1      A000009019
+ BV BND1      A000009020
+ BV BND1      A000009021
+ BV BND1      A000009022
+ BV BND1      A000009023
+ BV BND1      A000009024
+ BV BND1      A000009025
+ BV BND1      A000009026
+ BV BND1      A000009027
+ BV BND1      A000009028
+ BV BND1      A000009029
+ BV BND1      A000009030
+ BV BND1      A000009031
+ BV BND1      A000009032
+ BV BND1      A000009033
+ BV BND1      A000009034
+ BV BND1      A000009035
+ BV BND1      A000009036
+ BV BND1      A000009037
+ BV BND1      A000009038
+ BV BND1      A000010011
+ BV BND1      A000010012
+ BV BND1      A000010013
+ BV BND1      A000010014
+ BV BND1      A000010015
+ BV BND1      A000010016
+ BV BND1      A000010017
+ BV BND1      A000010018
+ BV BND1      A000010019
+ BV BND1      A000010020
+ BV BND1      A000010021
+ BV BND1      A000010022
+ BV BND1      A000010023
+ BV BND1      A000010024
+ BV BND1      A000010025
+ BV BND1      A000010026
+ BV BND1      A000010027
+ BV BND1      A000010028
+ BV BND1      A000010029
+ BV BND1      A000010030
+ BV BND1      A000010031
+ BV BND1      A000010032
+ BV BND1      A000010033
+ BV BND1      A000010034
+ BV BND1      A000010035
+ BV BND1      A000010036
+ BV BND1      A000010037
+ BV BND1      A000010038
+ BV BND1      A000011012
+ BV BND1      A000011013
+ BV BND1      A000011014
+ BV BND1      A000011015
+ BV BND1      A000011016
+ BV BND1      A000011017
+ BV BND1      A000011018
+ BV BND1      A000011019
+ BV BND1      A000011020
+ BV BND1      A000011021
+ BV BND1      A000011022
+ BV BND1      A000011023
+ BV BND1      A000011024
+ BV BND1      A000011025
+ BV BND1      A000011026
+ BV BND1      A000011027
+ BV BND1      A000011028
+ BV BND1      A000011029
+ BV BND1      A000011030
+ BV BND1      A000011031
+ BV BND1      A000011032
+ BV BND1      A000011033
+ BV BND1      A000011034
+ BV BND1      A000011035
+ BV BND1      A000011036
+ BV BND1      A000011037
+ BV BND1      A000011038
+ BV BND1      A000012013
+ BV BND1      A000012014
+ BV BND1      A000012015
+ BV BND1      A000012016
+ BV BND1      A000012017
+ BV BND1      A000012018
+ BV BND1      A000012019
+ BV BND1      A000012020
+ BV BND1      A000012021
+ BV BND1      A000012022
+ BV BND1      A000012023
+ BV BND1      A000012024
+ BV BND1      A000012025
+ BV BND1      A000012026
+ BV BND1      A000012027
+ BV BND1      A000012028
+ BV BND1      A000012029
+ BV BND1      A000012030
+ BV BND1      A000012031
+ BV BND1      A000012032
+ BV BND1      A000012033
+ BV BND1      A000012034
+ BV BND1      A000012035
+ BV BND1      A000012036
+ BV BND1      A000012037
+ BV BND1      A000012038
+ BV BND1      A000013014
+ BV BND1      A000013015
+ BV BND1      A000013016
+ BV BND1      A000013017
+ BV BND1      A000013018
+ BV BND1      A000013019
+ BV BND1      A000013020
+ BV BND1      A000013021
+ BV BND1      A000013022
+ BV BND1      A000013023
+ BV BND1      A000013024
+ BV BND1      A000013025
+ BV BND1      A000013026
+ BV BND1      A000013027
+ BV BND1      A000013028
+ BV BND1      A000013029
+ BV BND1      A000013030
+ BV BND1      A000013031
+ BV BND1      A000013032
+ BV BND1      A000013033
+ BV BND1      A000013034
+ BV BND1      A000013035
+ BV BND1      A000013036
+ BV BND1      A000013037
+ BV BND1      A000013038
+ BV BND1      A000014015
+ BV BND1      A000014016
+ BV BND1      A000014017
+ BV BND1      A000014018
+ BV BND1      A000014019
+ BV BND1      A000014020
+ BV BND1      A000014021
+ BV BND1      A000014022
+ BV BND1      A000014023
+ BV BND1      A000014024
+ BV BND1      A000014025
+ BV BND1      A000014026
+ BV BND1      A000014027
+ BV BND1      A000014028
+ BV BND1      A000014029
+ BV BND1      A000014030
+ BV BND1      A000014031
+ BV BND1      A000014032
+ BV BND1      A000014033
+ BV BND1      A000014034
+ BV BND1      A000014035
+ BV BND1      A000014036
+ BV BND1      A000014037
+ BV BND1      A000014038
+ BV BND1      A000015016
+ BV BND1      A000015017
+ BV BND1      A000015018
+ BV BND1      A000015019
+ BV BND1      A000015020
+ BV BND1      A000015021
+ BV BND1      A000015022
+ BV BND1      A000015023
+ BV BND1      A000015024
+ BV BND1      A000015025
+ BV BND1      A000015026
+ BV BND1      A000015027
+ BV BND1      A000015028
+ BV BND1      A000015029
+ BV BND1      A000015030
+ BV BND1      A000015031
+ BV BND1      A000015032
+ BV BND1      A000015033
+ BV BND1      A000015034
+ BV BND1      A000015035
+ BV BND1      A000015036
+ BV BND1      A000015037
+ BV BND1      A000015038
+ BV BND1      A000016017
+ BV BND1      A000016018
+ BV BND1      A000016019
+ BV BND1      A000016020
+ BV BND1      A000016021
+ BV BND1      A000016022
+ BV BND1      A000016023
+ BV BND1      A000016024
+ BV BND1      A000016025
+ BV BND1      A000016026
+ BV BND1      A000016027
+ BV BND1      A000016028
+ BV BND1      A000016029
+ BV BND1      A000016030
+ BV BND1      A000016031
+ BV BND1      A000016032
+ BV BND1      A000016033
+ BV BND1      A000016034
+ BV BND1      A000016035
+ BV BND1      A000016036
+ BV BND1      A000016037
+ BV BND1      A000016038
+ BV BND1      A000017018
+ BV BND1      A000017019
+ BV BND1      A000017020
+ BV BND1      A000017021
+ BV BND1      A000017022
+ BV BND1      A000017023
+ BV BND1      A000017024
+ BV BND1      A000017025
+ BV BND1      A000017026
+ BV BND1      A000017027
+ BV BND1      A000017028
+ BV BND1      A000017029
+ BV BND1      A000017030
+ BV BND1      A000017031
+ BV BND1      A000017032
+ BV BND1      A000017033
+ BV BND1      A000017034
+ BV BND1      A000017035
+ BV BND1      A000017036
+ BV BND1      A000017037
+ BV BND1      A000017038
+ BV BND1      A000018019
+ BV BND1      A000018020
+ BV BND1      A000018021
+ BV BND1      A000018022
+ BV BND1      A000018023
+ BV BND1      A000018024
+ BV BND1      A000018025
+ BV BND1      A000018026
+ BV BND1      A000018027
+ BV BND1      A000018028
+ BV BND1      A000018029
+ BV BND1      A000018030
+ BV BND1      A000018031
+ BV BND1      A000018032
+ BV BND1      A000018033
+ BV BND1      A000018034
+ BV BND1      A000018035
+ BV BND1      A000018036
+ BV BND1      A000018037
+ BV BND1      A000018038
+ BV BND1      A000019020
+ BV BND1      A000019021
+ BV BND1      A000019022
+ BV BND1      A000019023
+ BV BND1      A000019024
+ BV BND1      A000019025
+ BV BND1      A000019026
+ BV BND1      A000019027
+ BV BND1      A000019028
+ BV BND1      A000019029
+ BV BND1      A000019030
+ BV BND1      A000019031
+ BV BND1      A000019032
+ BV BND1      A000019033
+ BV BND1      A000019034
+ BV BND1      A000019035
+ BV BND1      A000019036
+ BV BND1      A000019037
+ BV BND1      A000019038
+ BV BND1      A000020021
+ BV BND1      A000020022
+ BV BND1      A000020023
+ BV BND1      A000020024
+ BV BND1      A000020025
+ BV BND1      A000020026
+ BV BND1      A000020027
+ BV BND1      A000020028
+ BV BND1      A000020029
+ BV BND1      A000020030
+ BV BND1      A000020031
+ BV BND1      A000020032
+ BV BND1      A000020033
+ BV BND1      A000020034
+ BV BND1      A000020035
+ BV BND1      A000020036
+ BV BND1      A000020037
+ BV BND1      A000020038
+ BV BND1      A000021022
+ BV BND1      A000021023
+ BV BND1      A000021024
+ BV BND1      A000021025
+ BV BND1      A000021026
+ BV BND1      A000021027
+ BV BND1      A000021028
+ BV BND1      A000021029
+ BV BND1      A000021030
+ BV BND1      A000021031
+ BV BND1      A000021032
+ BV BND1      A000021033
+ BV BND1      A000021034
+ BV BND1      A000021035
+ BV BND1      A000021036
+ BV BND1      A000021037
+ BV BND1      A000021038
+ BV BND1      A000022023
+ BV BND1      A000022024
+ BV BND1      A000022025
+ BV BND1      A000022026
+ BV BND1      A000022027
+ BV BND1      A000022028
+ BV BND1      A000022029
+ BV BND1      A000022030
+ BV BND1      A000022031
+ BV BND1      A000022032
+ BV BND1      A000022033
+ BV BND1      A000022034
+ BV BND1      A000022035
+ BV BND1      A000022036
+ BV BND1      A000022037
+ BV BND1      A000022038
+ BV BND1      A000023024
+ BV BND1      A000023025
+ BV BND1      A000023026
+ BV BND1      A000023027
+ BV BND1      A000023028
+ BV BND1      A000023029
+ BV BND1      A000023030
+ BV BND1      A000023031
+ BV BND1      A000023032
+ BV BND1      A000023033
+ BV BND1      A000023034
+ BV BND1      A000023035
+ BV BND1      A000023036
+ BV BND1      A000023037
+ BV BND1      A000023038
+ BV BND1      A000024025
+ BV BND1      A000024026
+ BV BND1      A000024027
+ BV BND1      A000024028
+ BV BND1      A000024029
+ BV BND1      A000024030
+ BV BND1      A000024031
+ BV BND1      A000024032
+ BV BND1      A000024033
+ BV BND1      A000024034
+ BV BND1      A000024035
+ BV BND1      A000024036
+ BV BND1      A000024037
+ BV BND1      A000024038
+ BV BND1      A000025026
+ BV BND1      A000025027
+ BV BND1      A000025028
+ BV BND1      A000025029
+ BV BND1      A000025030
+ BV BND1      A000025031
+ BV BND1      A000025032
+ BV BND1      A000025033
+ BV BND1      A000025034
+ BV BND1      A000025035
+ BV BND1      A000025036
+ BV BND1      A000025037
+ BV BND1      A000025038
+ BV BND1      A000026027
+ BV BND1      A000026028
+ BV BND1      A000026029
+ BV BND1      A000026030
+ BV BND1      A000026031
+ BV BND1      A000026032
+ BV BND1      A000026033
+ BV BND1      A000026034
+ BV BND1      A000026035
+ BV BND1      A000026036
+ BV BND1      A000026037
+ BV BND1      A000026038
+ BV BND1      A000027028
+ BV BND1      A000027029
+ BV BND1      A000027030
+ BV BND1      A000027031
+ BV BND1      A000027032
+ BV BND1      A000027033
+ BV BND1      A000027034
+ BV BND1      A000027035
+ BV BND1      A000027036
+ BV BND1      A000027037
+ BV BND1      A000027038
+ BV BND1      A000028029
+ BV BND1      A000028030
+ BV BND1      A000028031
+ BV BND1      A000028032
+ BV BND1      A000028033
+ BV BND1      A000028034
+ BV BND1      A000028035
+ BV BND1      A000028036
+ BV BND1      A000028037
+ BV BND1      A000028038
+ BV BND1      A000029030
+ BV BND1      A000029031
+ BV BND1      A000029032
+ BV BND1      A000029033
+ BV BND1      A000029034
+ BV BND1      A000029035
+ BV BND1      A000029036
+ BV BND1      A000029037
+ BV BND1      A000029038
+ BV BND1      A000030031
+ BV BND1      A000030032
+ BV BND1      A000030033
+ BV BND1      A000030034
+ BV BND1      A000030035
+ BV BND1      A000030036
+ BV BND1      A000030037
+ BV BND1      A000030038
+ BV BND1      A000031032
+ BV BND1      A000031033
+ BV BND1      A000031034
+ BV BND1      A000031035
+ BV BND1      A000031036
+ BV BND1      A000031037
+ BV BND1      A000031038
+ BV BND1      A000032033
+ BV BND1      A000032034
+ BV BND1      A000032035
+ BV BND1      A000032036
+ BV BND1      A000032037
+ BV BND1      A000032038
+ BV BND1      A000033034
+ BV BND1      A000033035
+ BV BND1      A000033036
+ BV BND1      A000033037
+ BV BND1      A000033038
+ BV BND1      A000034035
+ BV BND1      A000034036
+ BV BND1      A000034037
+ BV BND1      A000034038
+ BV BND1      A000035036
+ BV BND1      A000035037
+ BV BND1      A000035038
+ BV BND1      A000036037
+ BV BND1      A000036038
+ BV BND1      A000037038
+ BV BND1      A001001002
+ BV BND1      A001001003
+ BV BND1      A001001004
+ BV BND1      A001001005
+ BV BND1      A001001006
+ BV BND1      A001001007
+ BV BND1      A001001008
+ BV BND1      A001001009
+ BV BND1      A001001010
+ BV BND1      A001001011
+ BV BND1      A001001012
+ BV BND1      A001001013
+ BV BND1      A001001014
+ BV BND1      A001001015
+ BV BND1      A001001016
+ BV BND1      A001001017
+ BV BND1      A001001018
+ BV BND1      A001001019
+ BV BND1      A001001020
+ BV BND1      A001001021
+ BV BND1      A001001022
+ BV BND1      A001001023
+ BV BND1      A001001024
+ BV BND1      A001001025
+ BV BND1      A001001026
+ BV BND1      A001001027
+ BV BND1      A001001028
+ BV BND1      A001001029
+ BV BND1      A001001030
+ BV BND1      A001001031
+ BV BND1      A001001032
+ BV BND1      A001001033
+ BV BND1      A001001034
+ BV BND1      A001001035
+ BV BND1      A001001036
+ BV BND1      A001001037
+ BV BND1      A001001038
+ BV BND1      A001002003
+ BV BND1      A001002004
+ BV BND1      A001002005
+ BV BND1      A001002006
+ BV BND1      A001002007
+ BV BND1      A001002008
+ BV BND1      A001002009
+ BV BND1      A001002010
+ BV BND1      A001002011
+ BV BND1      A001002012
+ BV BND1      A001002013
+ BV BND1      A001002014
+ BV BND1      A001002015
+ BV BND1      A001002016
+ BV BND1      A001002017
+ BV BND1      A001002018
+ BV BND1      A001002019
+ BV BND1      A001002020
+ BV BND1      A001002021
+ BV BND1      A001002022
+ BV BND1      A001002023
+ BV BND1      A001002024
+ BV BND1      A001002025
+ BV BND1      A001002026
+ BV BND1      A001002027
+ BV BND1      A001002028
+ BV BND1      A001002029
+ BV BND1      A001002030
+ BV BND1      A001002031
+ BV BND1      A001002032
+ BV BND1      A001002033
+ BV BND1      A001002034
+ BV BND1      A001002035
+ BV BND1      A001002036
+ BV BND1      A001002037
+ BV BND1      A001002038
+ BV BND1      A001003004
+ BV BND1      A001003005
+ BV BND1      A001003006
+ BV BND1      A001003007
+ BV BND1      A001003008
+ BV BND1      A001003009
+ BV BND1      A001003010
+ BV BND1      A001003011
+ BV BND1      A001003012
+ BV BND1      A001003013
+ BV BND1      A001003014
+ BV BND1      A001003015
+ BV BND1      A001003016
+ BV BND1      A001003017
+ BV BND1      A001003018
+ BV BND1      A001003019
+ BV BND1      A001003020
+ BV BND1      A001003021
+ BV BND1      A001003022
+ BV BND1      A001003023
+ BV BND1      A001003024
+ BV BND1      A001003025
+ BV BND1      A001003026
+ BV BND1      A001003027
+ BV BND1      A001003028
+ BV BND1      A001003029
+ BV BND1      A001003030
+ BV BND1      A001003031
+ BV BND1      A001003032
+ BV BND1      A001003033
+ BV BND1      A001003034
+ BV BND1      A001003035
+ BV BND1      A001003036
+ BV BND1      A001003037
+ BV BND1      A001003038
+ BV BND1      A001004005
+ BV BND1      A001004006
+ BV BND1      A001004007
+ BV BND1      A001004008
+ BV BND1      A001004009
+ BV BND1      A001004010
+ BV BND1      A001004011
+ BV BND1      A001004012
+ BV BND1      A001004013
+ BV BND1      A001004014
+ BV BND1      A001004015
+ BV BND1      A001004016
+ BV BND1      A001004017
+ BV BND1      A001004018
+ BV BND1      A001004019
+ BV BND1      A001004020
+ BV BND1      A001004021
+ BV BND1      A001004022
+ BV BND1      A001004023
+ BV BND1      A001004024
+ BV BND1      A001004025
+ BV BND1      A001004026
+ BV BND1      A001004027
+ BV BND1      A001004028
+ BV BND1      A001004029
+ BV BND1      A001004030
+ BV BND1      A001004031
+ BV BND1      A001004032
+ BV BND1      A001004033
+ BV BND1      A001004034
+ BV BND1      A001004035
+ BV BND1      A001004036
+ BV BND1      A001004037
+ BV BND1      A001004038
+ BV BND1      A001005006
+ BV BND1      A001005007
+ BV BND1      A001005008
+ BV BND1      A001005009
+ BV BND1      A001005010
+ BV BND1      A001005011
+ BV BND1      A001005012
+ BV BND1      A001005013
+ BV BND1      A001005014
+ BV BND1      A001005015
+ BV BND1      A001005016
+ BV BND1      A001005017
+ BV BND1      A001005018
+ BV BND1      A001005019
+ BV BND1      A001005020
+ BV BND1      A001005021
+ BV BND1      A001005022
+ BV BND1      A001005023
+ BV BND1      A001005024
+ BV BND1      A001005025
+ BV BND1      A001005026
+ BV BND1      A001005027
+ BV BND1      A001005028
+ BV BND1      A001005029
+ BV BND1      A001005030
+ BV BND1      A001005031
+ BV BND1      A001005032
+ BV BND1      A001005033
+ BV BND1      A001005034
+ BV BND1      A001005035
+ BV BND1      A001005036
+ BV BND1      A001005037
+ BV BND1      A001005038
+ BV BND1      A001006007
+ BV BND1      A001006008
+ BV BND1      A001006009
+ BV BND1      A001006010
+ BV BND1      A001006011
+ BV BND1      A001006012
+ BV BND1      A001006013
+ BV BND1      A001006014
+ BV BND1      A001006015
+ BV BND1      A001006016
+ BV BND1      A001006017
+ BV BND1      A001006018
+ BV BND1      A001006019
+ BV BND1      A001006020
+ BV BND1      A001006021
+ BV BND1      A001006022
+ BV BND1      A001006023
+ BV BND1      A001006024
+ BV BND1      A001006025
+ BV BND1      A001006026
+ BV BND1      A001006027
+ BV BND1      A001006028
+ BV BND1      A001006029
+ BV BND1      A001006030
+ BV BND1      A001006031
+ BV BND1      A001006032
+ BV BND1      A001006033
+ BV BND1      A001006034
+ BV BND1      A001006035
+ BV BND1      A001006036
+ BV BND1      A001006037
+ BV BND1      A001006038
+ BV BND1      A001007008
+ BV BND1      A001007009
+ BV BND1      A001007010
+ BV BND1      A001007011
+ BV BND1      A001007012
+ BV BND1      A001007013
+ BV BND1      A001007014
+ BV BND1      A001007015
+ BV BND1      A001007016
+ BV BND1      A001007017
+ BV BND1      A001007018
+ BV BND1      A001007019
+ BV BND1      A001007020
+ BV BND1      A001007021
+ BV BND1      A001007022
+ BV BND1      A001007023
+ BV BND1      A001007024
+ BV BND1      A001007025
+ BV BND1      A001007026
+ BV BND1      A001007027
+ BV BND1      A001007028
+ BV BND1      A001007029
+ BV BND1      A001007030
+ BV BND1      A001007031
+ BV BND1      A001007032
+ BV BND1      A001007033
+ BV BND1      A001007034
+ BV BND1      A001007035
+ BV BND1      A001007036
+ BV BND1      A001007037
+ BV BND1      A001007038
+ BV BND1      A001008009
+ BV BND1      A001008010
+ BV BND1      A001008011
+ BV BND1      A001008012
+ BV BND1      A001008013
+ BV BND1      A001008014
+ BV BND1      A001008015
+ BV BND1      A001008016
+ BV BND1      A001008017
+ BV BND1      A001008018
+ BV BND1      A001008019
+ BV BND1      A001008020
+ BV BND1      A001008021
+ BV BND1      A001008022
+ BV BND1      A001008023
+ BV BND1      A001008024
+ BV BND1      A001008025
+ BV BND1      A001008026
+ BV BND1      A001008027
+ BV BND1      A001008028
+ BV BND1      A001008029
+ BV BND1      A001008030
+ BV BND1      A001008031
+ BV BND1      A001008032
+ BV BND1      A001008033
+ BV BND1      A001008034
+ BV BND1      A001008035
+ BV BND1      A001008036
+ BV BND1      A001008037
+ BV BND1      A001008038
+ BV BND1      A001009010
+ BV BND1      A001009011
+ BV BND1      A001009012
+ BV BND1      A001009013
+ BV BND1      A001009014
+ BV BND1      A001009015
+ BV BND1      A001009016
+ BV BND1      A001009017
+ BV BND1      A001009018
+ BV BND1      A001009019
+ BV BND1      A001009020
+ BV BND1      A001009021
+ BV BND1      A001009022
+ BV BND1      A001009023
+ BV BND1      A001009024
+ BV BND1      A001009025
+ BV BND1      A001009026
+ BV BND1      A001009027
+ BV BND1      A001009028
+ BV BND1      A001009029
+ BV BND1      A001009030
+ BV BND1      A001009031
+ BV BND1      A001009032
+ BV BND1      A001009033
+ BV BND1      A001009034
+ BV BND1      A001009035
+ BV BND1      A001009036
+ BV BND1      A001009037
+ BV BND1      A001009038
+ BV BND1      A001010011
+ BV BND1      A001010012
+ BV BND1      A001010013
+ BV BND1      A001010014
+ BV BND1      A001010015
+ BV BND1      A001010016
+ BV BND1      A001010017
+ BV BND1      A001010018
+ BV BND1      A001010019
+ BV BND1      A001010020
+ BV BND1      A001010021
+ BV BND1      A001010022
+ BV BND1      A001010023
+ BV BND1      A001010024
+ BV BND1      A001010025
+ BV BND1      A001010026
+ BV BND1      A001010027
+ BV BND1      A001010028
+ BV BND1      A001010029
+ BV BND1      A001010030
+ BV BND1      A001010031
+ BV BND1      A001010032
+ BV BND1      A001010033
+ BV BND1      A001010034
+ BV BND1      A001010035
+ BV BND1      A001010036
+ BV BND1      A001010037
+ BV BND1      A001010038
+ BV BND1      A001011012
+ BV BND1      A001011013
+ BV BND1      A001011014
+ BV BND1      A001011015
+ BV BND1      A001011016
+ BV BND1      A001011017
+ BV BND1      A001011018
+ BV BND1      A001011019
+ BV BND1      A001011020
+ BV BND1      A001011021
+ BV BND1      A001011022
+ BV BND1      A001011023
+ BV BND1      A001011024
+ BV BND1      A001011025
+ BV BND1      A001011026
+ BV BND1      A001011027
+ BV BND1      A001011028
+ BV BND1      A001011029
+ BV BND1      A001011030
+ BV BND1      A001011031
+ BV BND1      A001011032
+ BV BND1      A001011033
+ BV BND1      A001011034
+ BV BND1      A001011035
+ BV BND1      A001011036
+ BV BND1      A001011037
+ BV BND1      A001011038
+ BV BND1      A001012013
+ BV BND1      A001012014
+ BV BND1      A001012015
+ BV BND1      A001012016
+ BV BND1      A001012017
+ BV BND1      A001012018
+ BV BND1      A001012019
+ BV BND1      A001012020
+ BV BND1      A001012021
+ BV BND1      A001012022
+ BV BND1      A001012023
+ BV BND1      A001012024
+ BV BND1      A001012025
+ BV BND1      A001012026
+ BV BND1      A001012027
+ BV BND1      A001012028
+ BV BND1      A001012029
+ BV BND1      A001012030
+ BV BND1      A001012031
+ BV BND1      A001012032
+ BV BND1      A001012033
+ BV BND1      A001012034
+ BV BND1      A001012035
+ BV BND1      A001012036
+ BV BND1      A001012037
+ BV BND1      A001012038
+ BV BND1      A001013014
+ BV BND1      A001013015
+ BV BND1      A001013016
+ BV BND1      A001013017
+ BV BND1      A001013018
+ BV BND1      A001013019
+ BV BND1      A001013020
+ BV BND1      A001013021
+ BV BND1      A001013022
+ BV BND1      A001013023
+ BV BND1      A001013024
+ BV BND1      A001013025
+ BV BND1      A001013026
+ BV BND1      A001013027
+ BV BND1      A001013028
+ BV BND1      A001013029
+ BV BND1      A001013030
+ BV BND1      A001013031
+ BV BND1      A001013032
+ BV BND1      A001013033
+ BV BND1      A001013034
+ BV BND1      A001013035
+ BV BND1      A001013036
+ BV BND1      A001013037
+ BV BND1      A001013038
+ BV BND1      A001014015
+ BV BND1      A001014016
+ BV BND1      A001014017
+ BV BND1      A001014018
+ BV BND1      A001014019
+ BV BND1      A001014020
+ BV BND1      A001014021
+ BV BND1      A001014022
+ BV BND1      A001014023
+ BV BND1      A001014024
+ BV BND1      A001014025
+ BV BND1      A001014026
+ BV BND1      A001014027
+ BV BND1      A001014028
+ BV BND1      A001014029
+ BV BND1      A001014030
+ BV BND1      A001014031
+ BV BND1      A001014032
+ BV BND1      A001014033
+ BV BND1      A001014034
+ BV BND1      A001014035
+ BV BND1      A001014036
+ BV BND1      A001014037
+ BV BND1      A001014038
+ BV BND1      A001015016
+ BV BND1      A001015017
+ BV BND1      A001015018
+ BV BND1      A001015019
+ BV BND1      A001015020
+ BV BND1      A001015021
+ BV BND1      A001015022
+ BV BND1      A001015023
+ BV BND1      A001015024
+ BV BND1      A001015025
+ BV BND1      A001015026
+ BV BND1      A001015027
+ BV BND1      A001015028
+ BV BND1      A001015029
+ BV BND1      A001015030
+ BV BND1      A001015031
+ BV BND1      A001015032
+ BV BND1      A001015033
+ BV BND1      A001015034
+ BV BND1      A001015035
+ BV BND1      A001015036
+ BV BND1      A001015037
+ BV BND1      A001015038
+ BV BND1      A001016017
+ BV BND1      A001016018
+ BV BND1      A001016019
+ BV BND1      A001016020
+ BV BND1      A001016021
+ BV BND1      A001016022
+ BV BND1      A001016023
+ BV BND1      A001016024
+ BV BND1      A001016025
+ BV BND1      A001016026
+ BV BND1      A001016027
+ BV BND1      A001016028
+ BV BND1      A001016029
+ BV BND1      A001016030
+ BV BND1      A001016031
+ BV BND1      A001016032
+ BV BND1      A001016033
+ BV BND1      A001016034
+ BV BND1      A001016035
+ BV BND1      A001016036
+ BV BND1      A001016037
+ BV BND1      A001016038
+ BV BND1      A001017018
+ BV BND1      A001017019
+ BV BND1      A001017020
+ BV BND1      A001017021
+ BV BND1      A001017022
+ BV BND1      A001017023
+ BV BND1      A001017024
+ BV BND1      A001017025
+ BV BND1      A001017026
+ BV BND1      A001017027
+ BV BND1      A001017028
+ BV BND1      A001017029
+ BV BND1      A001017030
+ BV BND1      A001017031
+ BV BND1      A001017032
+ BV BND1      A001017033
+ BV BND1      A001017034
+ BV BND1      A001017035
+ BV BND1      A001017036
+ BV BND1      A001017037
+ BV BND1      A001017038
+ BV BND1      A001018019
+ BV BND1      A001018020
+ BV BND1      A001018021
+ BV BND1      A001018022
+ BV BND1      A001018023
+ BV BND1      A001018024
+ BV BND1      A001018025
+ BV BND1      A001018026
+ BV BND1      A001018027
+ BV BND1      A001018028
+ BV BND1      A001018029
+ BV BND1      A001018030
+ BV BND1      A001018031
+ BV BND1      A001018032
+ BV BND1      A001018033
+ BV BND1      A001018034
+ BV BND1      A001018035
+ BV BND1      A001018036
+ BV BND1      A001018037
+ BV BND1      A001018038
+ BV BND1      A001019020
+ BV BND1      A001019021
+ BV BND1      A001019022
+ BV BND1      A001019023
+ BV BND1      A001019024
+ BV BND1      A001019025
+ BV BND1      A001019026
+ BV BND1      A001019027
+ BV BND1      A001019028
+ BV BND1      A001019029
+ BV BND1      A001019030
+ BV BND1      A001019031
+ BV BND1      A001019032
+ BV BND1      A001019033
+ BV BND1      A001019034
+ BV BND1      A001019035
+ BV BND1      A001019036
+ BV BND1      A001019037
+ BV BND1      A001019038
+ BV BND1      A001020021
+ BV BND1      A001020022
+ BV BND1      A001020023
+ BV BND1      A001020024
+ BV BND1      A001020025
+ BV BND1      A001020026
+ BV BND1      A001020027
+ BV BND1      A001020028
+ BV BND1      A001020029
+ BV BND1      A001020030
+ BV BND1      A001020031
+ BV BND1      A001020032
+ BV BND1      A001020033
+ BV BND1      A001020034
+ BV BND1      A001020035
+ BV BND1      A001020036
+ BV BND1      A001020037
+ BV BND1      A001020038
+ BV BND1      A001021022
+ BV BND1      A001021023
+ BV BND1      A001021024
+ BV BND1      A001021025
+ BV BND1      A001021026
+ BV BND1      A001021027
+ BV BND1      A001021028
+ BV BND1      A001021029
+ BV BND1      A001021030
+ BV BND1      A001021031
+ BV BND1      A001021032
+ BV BND1      A001021033
+ BV BND1      A001021034
+ BV BND1      A001021035
+ BV BND1      A001021036
+ BV BND1      A001021037
+ BV BND1      A001021038
+ BV BND1      A001022023
+ BV BND1      A001022024
+ BV BND1      A001022025
+ BV BND1      A001022026
+ BV BND1      A001022027
+ BV BND1      A001022028
+ BV BND1      A001022029
+ BV BND1      A001022030
+ BV BND1      A001022031
+ BV BND1      A001022032
+ BV BND1      A001022033
+ BV BND1      A001022034
+ BV BND1      A001022035
+ BV BND1      A001022036
+ BV BND1      A001022037
+ BV BND1      A001022038
+ BV BND1      A001023024
+ BV BND1      A001023025
+ BV BND1      A001023026
+ BV BND1      A001023027
+ BV BND1      A001023028
+ BV BND1      A001023029
+ BV BND1      A001023030
+ BV BND1      A001023031
+ BV BND1      A001023032
+ BV BND1      A001023033
+ BV BND1      A001023034
+ BV BND1      A001023035
+ BV BND1      A001023036
+ BV BND1      A001023037
+ BV BND1      A001023038
+ BV BND1      A001024025
+ BV BND1      A001024026
+ BV BND1      A001024027
+ BV BND1      A001024028
+ BV BND1      A001024029
+ BV BND1      A001024030
+ BV BND1      A001024031
+ BV BND1      A001024032
+ BV BND1      A001024033
+ BV BND1      A001024034
+ BV BND1      A001024035
+ BV BND1      A001024036
+ BV BND1      A001024037
+ BV BND1      A001024038
+ BV BND1      A001025026
+ BV BND1      A001025027
+ BV BND1      A001025028
+ BV BND1      A001025029
+ BV BND1      A001025030
+ BV BND1      A001025031
+ BV BND1      A001025032
+ BV BND1      A001025033
+ BV BND1      A001025034
+ BV BND1      A001025035
+ BV BND1      A001025036
+ BV BND1      A001025037
+ BV BND1      A001025038
+ BV BND1      A001026027
+ BV BND1      A001026028
+ BV BND1      A001026029
+ BV BND1      A001026030
+ BV BND1      A001026031
+ BV BND1      A001026032
+ BV BND1      A001026033
+ BV BND1      A001026034
+ BV BND1      A001026035
+ BV BND1      A001026036
+ BV BND1      A001026037
+ BV BND1      A001026038
+ BV BND1      A001027028
+ BV BND1      A001027029
+ BV BND1      A001027030
+ BV BND1      A001027031
+ BV BND1      A001027032
+ BV BND1      A001027033
+ BV BND1      A001027034
+ BV BND1      A001027035
+ BV BND1      A001027036
+ BV BND1      A001027037
+ BV BND1      A001027038
+ BV BND1      A001028029
+ BV BND1      A001028030
+ BV BND1      A001028031
+ BV BND1      A001028032
+ BV BND1      A001028033
+ BV BND1      A001028034
+ BV BND1      A001028035
+ BV BND1      A001028036
+ BV BND1      A001028037
+ BV BND1      A001028038
+ BV BND1      A001029030
+ BV BND1      A001029031
+ BV BND1      A001029032
+ BV BND1      A001029033
+ BV BND1      A001029034
+ BV BND1      A001029035
+ BV BND1      A001029036
+ BV BND1      A001029037
+ BV BND1      A001029038
+ BV BND1      A001030031
+ BV BND1      A001030032
+ BV BND1      A001030033
+ BV BND1      A001030034
+ BV BND1      A001030035
+ BV BND1      A001030036
+ BV BND1      A001030037
+ BV BND1      A001030038
+ BV BND1      A001031032
+ BV BND1      A001031033
+ BV BND1      A001031034
+ BV BND1      A001031035
+ BV BND1      A001031036
+ BV BND1      A001031037
+ BV BND1      A001031038
+ BV BND1      A001032033
+ BV BND1      A001032034
+ BV BND1      A001032035
+ BV BND1      A001032036
+ BV BND1      A001032037
+ BV BND1      A001032038
+ BV BND1      A001033034
+ BV BND1      A001033035
+ BV BND1      A001033036
+ BV BND1      A001033037
+ BV BND1      A001033038
+ BV BND1      A001034035
+ BV BND1      A001034036
+ BV BND1      A001034037
+ BV BND1      A001034038
+ BV BND1      A001035036
+ BV BND1      A001035037
+ BV BND1      A001035038
+ BV BND1      A001036037
+ BV BND1      A001036038
+ BV BND1      A001037038
+ BV BND1      A002001002
+ BV BND1      A002001003
+ BV BND1      A002001004
+ BV BND1      A002001005
+ BV BND1      A002001006
+ BV BND1      A002001007
+ BV BND1      A002001008
+ BV BND1      A002001009
+ BV BND1      A002001010
+ BV BND1      A002001011
+ BV BND1      A002001012
+ BV BND1      A002001013
+ BV BND1      A002001014
+ BV BND1      A002001015
+ BV BND1      A002001016
+ BV BND1      A002001017
+ BV BND1      A002001018
+ BV BND1      A002001019
+ BV BND1      A002001020
+ BV BND1      A002001021
+ BV BND1      A002001022
+ BV BND1      A002001023
+ BV BND1      A002001024
+ BV BND1      A002001025
+ BV BND1      A002001026
+ BV BND1      A002001027
+ BV BND1      A002001028
+ BV BND1      A002001029
+ BV BND1      A002001030
+ BV BND1      A002001031
+ BV BND1      A002001032
+ BV BND1      A002001033
+ BV BND1      A002001034
+ BV BND1      A002001035
+ BV BND1      A002001036
+ BV BND1      A002001037
+ BV BND1      A002001038
+ BV BND1      A002002003
+ BV BND1      A002002004
+ BV BND1      A002002005
+ BV BND1      A002002006
+ BV BND1      A002002007
+ BV BND1      A002002008
+ BV BND1      A002002009
+ BV BND1      A002002010
+ BV BND1      A002002011
+ BV BND1      A002002012
+ BV BND1      A002002013
+ BV BND1      A002002014
+ BV BND1      A002002015
+ BV BND1      A002002016
+ BV BND1      A002002017
+ BV BND1      A002002018
+ BV BND1      A002002019
+ BV BND1      A002002020
+ BV BND1      A002002021
+ BV BND1      A002002022
+ BV BND1      A002002023
+ BV BND1      A002002024
+ BV BND1      A002002025
+ BV BND1      A002002026
+ BV BND1      A002002027
+ BV BND1      A002002028
+ BV BND1      A002002029
+ BV BND1      A002002030
+ BV BND1      A002002031
+ BV BND1      A002002032
+ BV BND1      A002002033
+ BV BND1      A002002034
+ BV BND1      A002002035
+ BV BND1      A002002036
+ BV BND1      A002002037
+ BV BND1      A002002038
+ BV BND1      A002003004
+ BV BND1      A002003005
+ BV BND1      A002003006
+ BV BND1      A002003007
+ BV BND1      A002003008
+ BV BND1      A002003009
+ BV BND1      A002003010
+ BV BND1      A002003011
+ BV BND1      A002003012
+ BV BND1      A002003013
+ BV BND1      A002003014
+ BV BND1      A002003015
+ BV BND1      A002003016
+ BV BND1      A002003017
+ BV BND1      A002003018
+ BV BND1      A002003019
+ BV BND1      A002003020
+ BV BND1      A002003021
+ BV BND1      A002003022
+ BV BND1      A002003023
+ BV BND1      A002003024
+ BV BND1      A002003025
+ BV BND1      A002003026
+ BV BND1      A002003027
+ BV BND1      A002003028
+ BV BND1      A002003029
+ BV BND1      A002003030
+ BV BND1      A002003031
+ BV BND1      A002003032
+ BV BND1      A002003033
+ BV BND1      A002003034
+ BV BND1      A002003035
+ BV BND1      A002003036
+ BV BND1      A002003037
+ BV BND1      A002003038
+ BV BND1      A002004005
+ BV BND1      A002004006
+ BV BND1      A002004007
+ BV BND1      A002004008
+ BV BND1      A002004009
+ BV BND1      A002004010
+ BV BND1      A002004011
+ BV BND1      A002004012
+ BV BND1      A002004013
+ BV BND1      A002004014
+ BV BND1      A002004015
+ BV BND1      A002004016
+ BV BND1      A002004017
+ BV BND1      A002004018
+ BV BND1      A002004019
+ BV BND1      A002004020
+ BV BND1      A002004021
+ BV BND1      A002004022
+ BV BND1      A002004023
+ BV BND1      A002004024
+ BV BND1      A002004025
+ BV BND1      A002004026
+ BV BND1      A002004027
+ BV BND1      A002004028
+ BV BND1      A002004029
+ BV BND1      A002004030
+ BV BND1      A002004031
+ BV BND1      A002004032
+ BV BND1      A002004033
+ BV BND1      A002004034
+ BV BND1      A002004035
+ BV BND1      A002004036
+ BV BND1      A002004037
+ BV BND1      A002004038
+ BV BND1      A002005006
+ BV BND1      A002005007
+ BV BND1      A002005008
+ BV BND1      A002005009
+ BV BND1      A002005010
+ BV BND1      A002005011
+ BV BND1      A002005012
+ BV BND1      A002005013
+ BV BND1      A002005014
+ BV BND1      A002005015
+ BV BND1      A002005016
+ BV BND1      A002005017
+ BV BND1      A002005018
+ BV BND1      A002005019
+ BV BND1      A002005020
+ BV BND1      A002005021
+ BV BND1      A002005022
+ BV BND1      A002005023
+ BV BND1      A002005024
+ BV BND1      A002005025
+ BV BND1      A002005026
+ BV BND1      A002005027
+ BV BND1      A002005028
+ BV BND1      A002005029
+ BV BND1      A002005030
+ BV BND1      A002005031
+ BV BND1      A002005032
+ BV BND1      A002005033
+ BV BND1      A002005034
+ BV BND1      A002005035
+ BV BND1      A002005036
+ BV BND1      A002005037
+ BV BND1      A002005038
+ BV BND1      A002006007
+ BV BND1      A002006008
+ BV BND1      A002006009
+ BV BND1      A002006010
+ BV BND1      A002006011
+ BV BND1      A002006012
+ BV BND1      A002006013
+ BV BND1      A002006014
+ BV BND1      A002006015
+ BV BND1      A002006016
+ BV BND1      A002006017
+ BV BND1      A002006018
+ BV BND1      A002006019
+ BV BND1      A002006020
+ BV BND1      A002006021
+ BV BND1      A002006022
+ BV BND1      A002006023
+ BV BND1      A002006024
+ BV BND1      A002006025
+ BV BND1      A002006026
+ BV BND1      A002006027
+ BV BND1      A002006028
+ BV BND1      A002006029
+ BV BND1      A002006030
+ BV BND1      A002006031
+ BV BND1      A002006032
+ BV BND1      A002006033
+ BV BND1      A002006034
+ BV BND1      A002006035
+ BV BND1      A002006036
+ BV BND1      A002006037
+ BV BND1      A002006038
+ BV BND1      A002007008
+ BV BND1      A002007009
+ BV BND1      A002007010
+ BV BND1      A002007011
+ BV BND1      A002007012
+ BV BND1      A002007013
+ BV BND1      A002007014
+ BV BND1      A002007015
+ BV BND1      A002007016
+ BV BND1      A002007017
+ BV BND1      A002007018
+ BV BND1      A002007019
+ BV BND1      A002007020
+ BV BND1      A002007021
+ BV BND1      A002007022
+ BV BND1      A002007023
+ BV BND1      A002007024
+ BV BND1      A002007025
+ BV BND1      A002007026
+ BV BND1      A002007027
+ BV BND1      A002007028
+ BV BND1      A002007029
+ BV BND1      A002007030
+ BV BND1      A002007031
+ BV BND1      A002007032
+ BV BND1      A002007033
+ BV BND1      A002007034
+ BV BND1      A002007035
+ BV BND1      A002007036
+ BV BND1      A002007037
+ BV BND1      A002007038
+ BV BND1      A002008009
+ BV BND1      A002008010
+ BV BND1      A002008011
+ BV BND1      A002008012
+ BV BND1      A002008013
+ BV BND1      A002008014
+ BV BND1      A002008015
+ BV BND1      A002008016
+ BV BND1      A002008017
+ BV BND1      A002008018
+ BV BND1      A002008019
+ BV BND1      A002008020
+ BV BND1      A002008021
+ BV BND1      A002008022
+ BV BND1      A002008023
+ BV BND1      A002008024
+ BV BND1      A002008025
+ BV BND1      A002008026
+ BV BND1      A002008027
+ BV BND1      A002008028
+ BV BND1      A002008029
+ BV BND1      A002008030
+ BV BND1      A002008031
+ BV BND1      A002008032
+ BV BND1      A002008033
+ BV BND1      A002008034
+ BV BND1      A002008035
+ BV BND1      A002008036
+ BV BND1      A002008037
+ BV BND1      A002008038
+ BV BND1      A002009010
+ BV BND1      A002009011
+ BV BND1      A002009012
+ BV BND1      A002009013
+ BV BND1      A002009014
+ BV BND1      A002009015
+ BV BND1      A002009016
+ BV BND1      A002009017
+ BV BND1      A002009018
+ BV BND1      A002009019
+ BV BND1      A002009020
+ BV BND1      A002009021
+ BV BND1      A002009022
+ BV BND1      A002009023
+ BV BND1      A002009024
+ BV BND1      A002009025
+ BV BND1      A002009026
+ BV BND1      A002009027
+ BV BND1      A002009028
+ BV BND1      A002009029
+ BV BND1      A002009030
+ BV BND1      A002009031
+ BV BND1      A002009032
+ BV BND1      A002009033
+ BV BND1      A002009034
+ BV BND1      A002009035
+ BV BND1      A002009036
+ BV BND1      A002009037
+ BV BND1      A002009038
+ BV BND1      A002010011
+ BV BND1      A002010012
+ BV BND1      A002010013
+ BV BND1      A002010014
+ BV BND1      A002010015
+ BV BND1      A002010016
+ BV BND1      A002010017
+ BV BND1      A002010018
+ BV BND1      A002010019
+ BV BND1      A002010020
+ BV BND1      A002010021
+ BV BND1      A002010022
+ BV BND1      A002010023
+ BV BND1      A002010024
+ BV BND1      A002010025
+ BV BND1      A002010026
+ BV BND1      A002010027
+ BV BND1      A002010028
+ BV BND1      A002010029
+ BV BND1      A002010030
+ BV BND1      A002010031
+ BV BND1      A002010032
+ BV BND1      A002010033
+ BV BND1      A002010034
+ BV BND1      A002010035
+ BV BND1      A002010036
+ BV BND1      A002010037
+ BV BND1      A002010038
+ BV BND1      A002011012
+ BV BND1      A002011013
+ BV BND1      A002011014
+ BV BND1      A002011015
+ BV BND1      A002011016
+ BV BND1      A002011017
+ BV BND1      A002011018
+ BV BND1      A002011019
+ BV BND1      A002011020
+ BV BND1      A002011021
+ BV BND1      A002011022
+ BV BND1      A002011023
+ BV BND1      A002011024
+ BV BND1      A002011025
+ BV BND1      A002011026
+ BV BND1      A002011027
+ BV BND1      A002011028
+ BV BND1      A002011029
+ BV BND1      A002011030
+ BV BND1      A002011031
+ BV BND1      A002011032
+ BV BND1      A002011033
+ BV BND1      A002011034
+ BV BND1      A002011035
+ BV BND1      A002011036
+ BV BND1      A002011037
+ BV BND1      A002011038
+ BV BND1      A002012013
+ BV BND1      A002012014
+ BV BND1      A002012015
+ BV BND1      A002012016
+ BV BND1      A002012017
+ BV BND1      A002012018
+ BV BND1      A002012019
+ BV BND1      A002012020
+ BV BND1      A002012021
+ BV BND1      A002012022
+ BV BND1      A002012023
+ BV BND1      A002012024
+ BV BND1      A002012025
+ BV BND1      A002012026
+ BV BND1      A002012027
+ BV BND1      A002012028
+ BV BND1      A002012029
+ BV BND1      A002012030
+ BV BND1      A002012031
+ BV BND1      A002012032
+ BV BND1      A002012033
+ BV BND1      A002012034
+ BV BND1      A002012035
+ BV BND1      A002012036
+ BV BND1      A002012037
+ BV BND1      A002012038
+ BV BND1      A002013014
+ BV BND1      A002013015
+ BV BND1      A002013016
+ BV BND1      A002013017
+ BV BND1      A002013018
+ BV BND1      A002013019
+ BV BND1      A002013020
+ BV BND1      A002013021
+ BV BND1      A002013022
+ BV BND1      A002013023
+ BV BND1      A002013024
+ BV BND1      A002013025
+ BV BND1      A002013026
+ BV BND1      A002013027
+ BV BND1      A002013028
+ BV BND1      A002013029
+ BV BND1      A002013030
+ BV BND1      A002013031
+ BV BND1      A002013032
+ BV BND1      A002013033
+ BV BND1      A002013034
+ BV BND1      A002013035
+ BV BND1      A002013036
+ BV BND1      A002013037
+ BV BND1      A002013038
+ BV BND1      A002014015
+ BV BND1      A002014016
+ BV BND1      A002014017
+ BV BND1      A002014018
+ BV BND1      A002014019
+ BV BND1      A002014020
+ BV BND1      A002014021
+ BV BND1      A002014022
+ BV BND1      A002014023
+ BV BND1      A002014024
+ BV BND1      A002014025
+ BV BND1      A002014026
+ BV BND1      A002014027
+ BV BND1      A002014028
+ BV BND1      A002014029
+ BV BND1      A002014030
+ BV BND1      A002014031
+ BV BND1      A002014032
+ BV BND1      A002014033
+ BV BND1      A002014034
+ BV BND1      A002014035
+ BV BND1      A002014036
+ BV BND1      A002014037
+ BV BND1      A002014038
+ BV BND1      A002015016
+ BV BND1      A002015017
+ BV BND1      A002015018
+ BV BND1      A002015019
+ BV BND1      A002015020
+ BV BND1      A002015021
+ BV BND1      A002015022
+ BV BND1      A002015023
+ BV BND1      A002015024
+ BV BND1      A002015025
+ BV BND1      A002015026
+ BV BND1      A002015027
+ BV BND1      A002015028
+ BV BND1      A002015029
+ BV BND1      A002015030
+ BV BND1      A002015031
+ BV BND1      A002015032
+ BV BND1      A002015033
+ BV BND1      A002015034
+ BV BND1      A002015035
+ BV BND1      A002015036
+ BV BND1      A002015037
+ BV BND1      A002015038
+ BV BND1      A002016017
+ BV BND1      A002016018
+ BV BND1      A002016019
+ BV BND1      A002016020
+ BV BND1      A002016021
+ BV BND1      A002016022
+ BV BND1      A002016023
+ BV BND1      A002016024
+ BV BND1      A002016025
+ BV BND1      A002016026
+ BV BND1      A002016027
+ BV BND1      A002016028
+ BV BND1      A002016029
+ BV BND1      A002016030
+ BV BND1      A002016031
+ BV BND1      A002016032
+ BV BND1      A002016033
+ BV BND1      A002016034
+ BV BND1      A002016035
+ BV BND1      A002016036
+ BV BND1      A002016037
+ BV BND1      A002016038
+ BV BND1      A002017018
+ BV BND1      A002017019
+ BV BND1      A002017020
+ BV BND1      A002017021
+ BV BND1      A002017022
+ BV BND1      A002017023
+ BV BND1      A002017024
+ BV BND1      A002017025
+ BV BND1      A002017026
+ BV BND1      A002017027
+ BV BND1      A002017028
+ BV BND1      A002017029
+ BV BND1      A002017030
+ BV BND1      A002017031
+ BV BND1      A002017032
+ BV BND1      A002017033
+ BV BND1      A002017034
+ BV BND1      A002017035
+ BV BND1      A002017036
+ BV BND1      A002017037
+ BV BND1      A002017038
+ BV BND1      A002018019
+ BV BND1      A002018020
+ BV BND1      A002018021
+ BV BND1      A002018022
+ BV BND1      A002018023
+ BV BND1      A002018024
+ BV BND1      A002018025
+ BV BND1      A002018026
+ BV BND1      A002018027
+ BV BND1      A002018028
+ BV BND1      A002018029
+ BV BND1      A002018030
+ BV BND1      A002018031
+ BV BND1      A002018032
+ BV BND1      A002018033
+ BV BND1      A002018034
+ BV BND1      A002018035
+ BV BND1      A002018036
+ BV BND1      A002018037
+ BV BND1      A002018038
+ BV BND1      A002019020
+ BV BND1      A002019021
+ BV BND1      A002019022
+ BV BND1      A002019023
+ BV BND1      A002019024
+ BV BND1      A002019025
+ BV BND1      A002019026
+ BV BND1      A002019027
+ BV BND1      A002019028
+ BV BND1      A002019029
+ BV BND1      A002019030
+ BV BND1      A002019031
+ BV BND1      A002019032
+ BV BND1      A002019033
+ BV BND1      A002019034
+ BV BND1      A002019035
+ BV BND1      A002019036
+ BV BND1      A002019037
+ BV BND1      A002019038
+ BV BND1      A002020021
+ BV BND1      A002020022
+ BV BND1      A002020023
+ BV BND1      A002020024
+ BV BND1      A002020025
+ BV BND1      A002020026
+ BV BND1      A002020027
+ BV BND1      A002020028
+ BV BND1      A002020029
+ BV BND1      A002020030
+ BV BND1      A002020031
+ BV BND1      A002020032
+ BV BND1      A002020033
+ BV BND1      A002020034
+ BV BND1      A002020035
+ BV BND1      A002020036
+ BV BND1      A002020037
+ BV BND1      A002020038
+ BV BND1      A002021022
+ BV BND1      A002021023
+ BV BND1      A002021024
+ BV BND1      A002021025
+ BV BND1      A002021026
+ BV BND1      A002021027
+ BV BND1      A002021028
+ BV BND1      A002021029
+ BV BND1      A002021030
+ BV BND1      A002021031
+ BV BND1      A002021032
+ BV BND1      A002021033
+ BV BND1      A002021034
+ BV BND1      A002021035
+ BV BND1      A002021036
+ BV BND1      A002021037
+ BV BND1      A002021038
+ BV BND1      A002022023
+ BV BND1      A002022024
+ BV BND1      A002022025
+ BV BND1      A002022026
+ BV BND1      A002022027
+ BV BND1      A002022028
+ BV BND1      A002022029
+ BV BND1      A002022030
+ BV BND1      A002022031
+ BV BND1      A002022032
+ BV BND1      A002022033
+ BV BND1      A002022034
+ BV BND1      A002022035
+ BV BND1      A002022036
+ BV BND1      A002022037
+ BV BND1      A002022038
+ BV BND1      A002023024
+ BV BND1      A002023025
+ BV BND1      A002023026
+ BV BND1      A002023027
+ BV BND1      A002023028
+ BV BND1      A002023029
+ BV BND1      A002023030
+ BV BND1      A002023031
+ BV BND1      A002023032
+ BV BND1      A002023033
+ BV BND1      A002023034
+ BV BND1      A002023035
+ BV BND1      A002023036
+ BV BND1      A002023037
+ BV BND1      A002023038
+ BV BND1      A002024025
+ BV BND1      A002024026
+ BV BND1      A002024027
+ BV BND1      A002024028
+ BV BND1      A002024029
+ BV BND1      A002024030
+ BV BND1      A002024031
+ BV BND1      A002024032
+ BV BND1      A002024033
+ BV BND1      A002024034
+ BV BND1      A002024035
+ BV BND1      A002024036
+ BV BND1      A002024037
+ BV BND1      A002024038
+ BV BND1      A002025026
+ BV BND1      A002025027
+ BV BND1      A002025028
+ BV BND1      A002025029
+ BV BND1      A002025030
+ BV BND1      A002025031
+ BV BND1      A002025032
+ BV BND1      A002025033
+ BV BND1      A002025034
+ BV BND1      A002025035
+ BV BND1      A002025036
+ BV BND1      A002025037
+ BV BND1      A002025038
+ BV BND1      A002026027
+ BV BND1      A002026028
+ BV BND1      A002026029
+ BV BND1      A002026030
+ BV BND1      A002026031
+ BV BND1      A002026032
+ BV BND1      A002026033
+ BV BND1      A002026034
+ BV BND1      A002026035
+ BV BND1      A002026036
+ BV BND1      A002026037
+ BV BND1      A002026038
+ BV BND1      A002027028
+ BV BND1      A002027029
+ BV BND1      A002027030
+ BV BND1      A002027031
+ BV BND1      A002027032
+ BV BND1      A002027033
+ BV BND1      A002027034
+ BV BND1      A002027035
+ BV BND1      A002027036
+ BV BND1      A002027037
+ BV BND1      A002027038
+ BV BND1      A002028029
+ BV BND1      A002028030
+ BV BND1      A002028031
+ BV BND1      A002028032
+ BV BND1      A002028033
+ BV BND1      A002028034
+ BV BND1      A002028035
+ BV BND1      A002028036
+ BV BND1      A002028037
+ BV BND1      A002028038
+ BV BND1      A002029030
+ BV BND1      A002029031
+ BV BND1      A002029032
+ BV BND1      A002029033
+ BV BND1      A002029034
+ BV BND1      A002029035
+ BV BND1      A002029036
+ BV BND1      A002029037
+ BV BND1      A002029038
+ BV BND1      A002030031
+ BV BND1      A002030032
+ BV BND1      A002030033
+ BV BND1      A002030034
+ BV BND1      A002030035
+ BV BND1      A002030036
+ BV BND1      A002030037
+ BV BND1      A002030038
+ BV BND1      A002031032
+ BV BND1      A002031033
+ BV BND1      A002031034
+ BV BND1      A002031035
+ BV BND1      A002031036
+ BV BND1      A002031037
+ BV BND1      A002031038
+ BV BND1      A002032033
+ BV BND1      A002032034
+ BV BND1      A002032035
+ BV BND1      A002032036
+ BV BND1      A002032037
+ BV BND1      A002032038
+ BV BND1      A002033034
+ BV BND1      A002033035
+ BV BND1      A002033036
+ BV BND1      A002033037
+ BV BND1      A002033038
+ BV BND1      A002034035
+ BV BND1      A002034036
+ BV BND1      A002034037
+ BV BND1      A002034038
+ BV BND1      A002035036
+ BV BND1      A002035037
+ BV BND1      A002035038
+ BV BND1      A002036037
+ BV BND1      A002036038
+ BV BND1      A002037038
+ BV BND1      A003001002
+ BV BND1      A003001003
+ BV BND1      A003001004
+ BV BND1      A003001005
+ BV BND1      A003001006
+ BV BND1      A003001007
+ BV BND1      A003001008
+ BV BND1      A003001009
+ BV BND1      A003001010
+ BV BND1      A003001011
+ BV BND1      A003001012
+ BV BND1      A003001013
+ BV BND1      A003001014
+ BV BND1      A003001015
+ BV BND1      A003001016
+ BV BND1      A003001017
+ BV BND1      A003001018
+ BV BND1      A003001019
+ BV BND1      A003001020
+ BV BND1      A003001021
+ BV BND1      A003001022
+ BV BND1      A003001023
+ BV BND1      A003001024
+ BV BND1      A003001025
+ BV BND1      A003001026
+ BV BND1      A003001027
+ BV BND1      A003001028
+ BV BND1      A003001029
+ BV BND1      A003001030
+ BV BND1      A003001031
+ BV BND1      A003001032
+ BV BND1      A003001033
+ BV BND1      A003001034
+ BV BND1      A003001035
+ BV BND1      A003001036
+ BV BND1      A003001037
+ BV BND1      A003001038
+ BV BND1      A003002003
+ BV BND1      A003002004
+ BV BND1      A003002005
+ BV BND1      A003002006
+ BV BND1      A003002007
+ BV BND1      A003002008
+ BV BND1      A003002009
+ BV BND1      A003002010
+ BV BND1      A003002011
+ BV BND1      A003002012
+ BV BND1      A003002013
+ BV BND1      A003002014
+ BV BND1      A003002015
+ BV BND1      A003002016
+ BV BND1      A003002017
+ BV BND1      A003002018
+ BV BND1      A003002019
+ BV BND1      A003002020
+ BV BND1      A003002021
+ BV BND1      A003002022
+ BV BND1      A003002023
+ BV BND1      A003002024
+ BV BND1      A003002025
+ BV BND1      A003002026
+ BV BND1      A003002027
+ BV BND1      A003002028
+ BV BND1      A003002029
+ BV BND1      A003002030
+ BV BND1      A003002031
+ BV BND1      A003002032
+ BV BND1      A003002033
+ BV BND1      A003002034
+ BV BND1      A003002035
+ BV BND1      A003002036
+ BV BND1      A003002037
+ BV BND1      A003002038
+ BV BND1      A003003004
+ BV BND1      A003003005
+ BV BND1      A003003006
+ BV BND1      A003003007
+ BV BND1      A003003008
+ BV BND1      A003003009
+ BV BND1      A003003010
+ BV BND1      A003003011
+ BV BND1      A003003012
+ BV BND1      A003003013
+ BV BND1      A003003014
+ BV BND1      A003003015
+ BV BND1      A003003016
+ BV BND1      A003003017
+ BV BND1      A003003018
+ BV BND1      A003003019
+ BV BND1      A003003020
+ BV BND1      A003003021
+ BV BND1      A003003022
+ BV BND1      A003003023
+ BV BND1      A003003024
+ BV BND1      A003003025
+ BV BND1      A003003026
+ BV BND1      A003003027
+ BV BND1      A003003028
+ BV BND1      A003003029
+ BV BND1      A003003030
+ BV BND1      A003003031
+ BV BND1      A003003032
+ BV BND1      A003003033
+ BV BND1      A003003034
+ BV BND1      A003003035
+ BV BND1      A003003036
+ BV BND1      A003003037
+ BV BND1      A003003038
+ BV BND1      A003004005
+ BV BND1      A003004006
+ BV BND1      A003004007
+ BV BND1      A003004008
+ BV BND1      A003004009
+ BV BND1      A003004010
+ BV BND1      A003004011
+ BV BND1      A003004012
+ BV BND1      A003004013
+ BV BND1      A003004014
+ BV BND1      A003004015
+ BV BND1      A003004016
+ BV BND1      A003004017
+ BV BND1      A003004018
+ BV BND1      A003004019
+ BV BND1      A003004020
+ BV BND1      A003004021
+ BV BND1      A003004022
+ BV BND1      A003004023
+ BV BND1      A003004024
+ BV BND1      A003004025
+ BV BND1      A003004026
+ BV BND1      A003004027
+ BV BND1      A003004028
+ BV BND1      A003004029
+ BV BND1      A003004030
+ BV BND1      A003004031
+ BV BND1      A003004032
+ BV BND1      A003004033
+ BV BND1      A003004034
+ BV BND1      A003004035
+ BV BND1      A003004036
+ BV BND1      A003004037
+ BV BND1      A003004038
+ BV BND1      A003005006
+ BV BND1      A003005007
+ BV BND1      A003005008
+ BV BND1      A003005009
+ BV BND1      A003005010
+ BV BND1      A003005011
+ BV BND1      A003005012
+ BV BND1      A003005013
+ BV BND1      A003005014
+ BV BND1      A003005015
+ BV BND1      A003005016
+ BV BND1      A003005017
+ BV BND1      A003005018
+ BV BND1      A003005019
+ BV BND1      A003005020
+ BV BND1      A003005021
+ BV BND1      A003005022
+ BV BND1      A003005023
+ BV BND1      A003005024
+ BV BND1      A003005025
+ BV BND1      A003005026
+ BV BND1      A003005027
+ BV BND1      A003005028
+ BV BND1      A003005029
+ BV BND1      A003005030
+ BV BND1      A003005031
+ BV BND1      A003005032
+ BV BND1      A003005033
+ BV BND1      A003005034
+ BV BND1      A003005035
+ BV BND1      A003005036
+ BV BND1      A003005037
+ BV BND1      A003005038
+ BV BND1      A003006007
+ BV BND1      A003006008
+ BV BND1      A003006009
+ BV BND1      A003006010
+ BV BND1      A003006011
+ BV BND1      A003006012
+ BV BND1      A003006013
+ BV BND1      A003006014
+ BV BND1      A003006015
+ BV BND1      A003006016
+ BV BND1      A003006017
+ BV BND1      A003006018
+ BV BND1      A003006019
+ BV BND1      A003006020
+ BV BND1      A003006021
+ BV BND1      A003006022
+ BV BND1      A003006023
+ BV BND1      A003006024
+ BV BND1      A003006025
+ BV BND1      A003006026
+ BV BND1      A003006027
+ BV BND1      A003006028
+ BV BND1      A003006029
+ BV BND1      A003006030
+ BV BND1      A003006031
+ BV BND1      A003006032
+ BV BND1      A003006033
+ BV BND1      A003006034
+ BV BND1      A003006035
+ BV BND1      A003006036
+ BV BND1      A003006037
+ BV BND1      A003006038
+ BV BND1      A003007008
+ BV BND1      A003007009
+ BV BND1      A003007010
+ BV BND1      A003007011
+ BV BND1      A003007012
+ BV BND1      A003007013
+ BV BND1      A003007014
+ BV BND1      A003007015
+ BV BND1      A003007016
+ BV BND1      A003007017
+ BV BND1      A003007018
+ BV BND1      A003007019
+ BV BND1      A003007020
+ BV BND1      A003007021
+ BV BND1      A003007022
+ BV BND1      A003007023
+ BV BND1      A003007024
+ BV BND1      A003007025
+ BV BND1      A003007026
+ BV BND1      A003007027
+ BV BND1      A003007028
+ BV BND1      A003007029
+ BV BND1      A003007030
+ BV BND1      A003007031
+ BV BND1      A003007032
+ BV BND1      A003007033
+ BV BND1      A003007034
+ BV BND1      A003007035
+ BV BND1      A003007036
+ BV BND1      A003007037
+ BV BND1      A003007038
+ BV BND1      A003008009
+ BV BND1      A003008010
+ BV BND1      A003008011
+ BV BND1      A003008012
+ BV BND1      A003008013
+ BV BND1      A003008014
+ BV BND1      A003008015
+ BV BND1      A003008016
+ BV BND1      A003008017
+ BV BND1      A003008018
+ BV BND1      A003008019
+ BV BND1      A003008020
+ BV BND1      A003008021
+ BV BND1      A003008022
+ BV BND1      A003008023
+ BV BND1      A003008024
+ BV BND1      A003008025
+ BV BND1      A003008026
+ BV BND1      A003008027
+ BV BND1      A003008028
+ BV BND1      A003008029
+ BV BND1      A003008030
+ BV BND1      A003008031
+ BV BND1      A003008032
+ BV BND1      A003008033
+ BV BND1      A003008034
+ BV BND1      A003008035
+ BV BND1      A003008036
+ BV BND1      A003008037
+ BV BND1      A003008038
+ BV BND1      A003009010
+ BV BND1      A003009011
+ BV BND1      A003009012
+ BV BND1      A003009013
+ BV BND1      A003009014
+ BV BND1      A003009015
+ BV BND1      A003009016
+ BV BND1      A003009017
+ BV BND1      A003009018
+ BV BND1      A003009019
+ BV BND1      A003009020
+ BV BND1      A003009021
+ BV BND1      A003009022
+ BV BND1      A003009023
+ BV BND1      A003009024
+ BV BND1      A003009025
+ BV BND1      A003009026
+ BV BND1      A003009027
+ BV BND1      A003009028
+ BV BND1      A003009029
+ BV BND1      A003009030
+ BV BND1      A003009031
+ BV BND1      A003009032
+ BV BND1      A003009033
+ BV BND1      A003009034
+ BV BND1      A003009035
+ BV BND1      A003009036
+ BV BND1      A003009037
+ BV BND1      A003009038
+ BV BND1      A003010011
+ BV BND1      A003010012
+ BV BND1      A003010013
+ BV BND1      A003010014
+ BV BND1      A003010015
+ BV BND1      A003010016
+ BV BND1      A003010017
+ BV BND1      A003010018
+ BV BND1      A003010019
+ BV BND1      A003010020
+ BV BND1      A003010021
+ BV BND1      A003010022
+ BV BND1      A003010023
+ BV BND1      A003010024
+ BV BND1      A003010025
+ BV BND1      A003010026
+ BV BND1      A003010027
+ BV BND1      A003010028
+ BV BND1      A003010029
+ BV BND1      A003010030
+ BV BND1      A003010031
+ BV BND1      A003010032
+ BV BND1      A003010033
+ BV BND1      A003010034
+ BV BND1      A003010035
+ BV BND1      A003010036
+ BV BND1      A003010037
+ BV BND1      A003010038
+ BV BND1      A003011012
+ BV BND1      A003011013
+ BV BND1      A003011014
+ BV BND1      A003011015
+ BV BND1      A003011016
+ BV BND1      A003011017
+ BV BND1      A003011018
+ BV BND1      A003011019
+ BV BND1      A003011020
+ BV BND1      A003011021
+ BV BND1      A003011022
+ BV BND1      A003011023
+ BV BND1      A003011024
+ BV BND1      A003011025
+ BV BND1      A003011026
+ BV BND1      A003011027
+ BV BND1      A003011028
+ BV BND1      A003011029
+ BV BND1      A003011030
+ BV BND1      A003011031
+ BV BND1      A003011032
+ BV BND1      A003011033
+ BV BND1      A003011034
+ BV BND1      A003011035
+ BV BND1      A003011036
+ BV BND1      A003011037
+ BV BND1      A003011038
+ BV BND1      A003012013
+ BV BND1      A003012014
+ BV BND1      A003012015
+ BV BND1      A003012016
+ BV BND1      A003012017
+ BV BND1      A003012018
+ BV BND1      A003012019
+ BV BND1      A003012020
+ BV BND1      A003012021
+ BV BND1      A003012022
+ BV BND1      A003012023
+ BV BND1      A003012024
+ BV BND1      A003012025
+ BV BND1      A003012026
+ BV BND1      A003012027
+ BV BND1      A003012028
+ BV BND1      A003012029
+ BV BND1      A003012030
+ BV BND1      A003012031
+ BV BND1      A003012032
+ BV BND1      A003012033
+ BV BND1      A003012034
+ BV BND1      A003012035
+ BV BND1      A003012036
+ BV BND1      A003012037
+ BV BND1      A003012038
+ BV BND1      A003013014
+ BV BND1      A003013015
+ BV BND1      A003013016
+ BV BND1      A003013017
+ BV BND1      A003013018
+ BV BND1      A003013019
+ BV BND1      A003013020
+ BV BND1      A003013021
+ BV BND1      A003013022
+ BV BND1      A003013023
+ BV BND1      A003013024
+ BV BND1      A003013025
+ BV BND1      A003013026
+ BV BND1      A003013027
+ BV BND1      A003013028
+ BV BND1      A003013029
+ BV BND1      A003013030
+ BV BND1      A003013031
+ BV BND1      A003013032
+ BV BND1      A003013033
+ BV BND1      A003013034
+ BV BND1      A003013035
+ BV BND1      A003013036
+ BV BND1      A003013037
+ BV BND1      A003013038
+ BV BND1      A003014015
+ BV BND1      A003014016
+ BV BND1      A003014017
+ BV BND1      A003014018
+ BV BND1      A003014019
+ BV BND1      A003014020
+ BV BND1      A003014021
+ BV BND1      A003014022
+ BV BND1      A003014023
+ BV BND1      A003014024
+ BV BND1      A003014025
+ BV BND1      A003014026
+ BV BND1      A003014027
+ BV BND1      A003014028
+ BV BND1      A003014029
+ BV BND1      A003014030
+ BV BND1      A003014031
+ BV BND1      A003014032
+ BV BND1      A003014033
+ BV BND1      A003014034
+ BV BND1      A003014035
+ BV BND1      A003014036
+ BV BND1      A003014037
+ BV BND1      A003014038
+ BV BND1      A003015016
+ BV BND1      A003015017
+ BV BND1      A003015018
+ BV BND1      A003015019
+ BV BND1      A003015020
+ BV BND1      A003015021
+ BV BND1      A003015022
+ BV BND1      A003015023
+ BV BND1      A003015024
+ BV BND1      A003015025
+ BV BND1      A003015026
+ BV BND1      A003015027
+ BV BND1      A003015028
+ BV BND1      A003015029
+ BV BND1      A003015030
+ BV BND1      A003015031
+ BV BND1      A003015032
+ BV BND1      A003015033
+ BV BND1      A003015034
+ BV BND1      A003015035
+ BV BND1      A003015036
+ BV BND1      A003015037
+ BV BND1      A003015038
+ BV BND1      A003016017
+ BV BND1      A003016018
+ BV BND1      A003016019
+ BV BND1      A003016020
+ BV BND1      A003016021
+ BV BND1      A003016022
+ BV BND1      A003016023
+ BV BND1      A003016024
+ BV BND1      A003016025
+ BV BND1      A003016026
+ BV BND1      A003016027
+ BV BND1      A003016028
+ BV BND1      A003016029
+ BV BND1      A003016030
+ BV BND1      A003016031
+ BV BND1      A003016032
+ BV BND1      A003016033
+ BV BND1      A003016034
+ BV BND1      A003016035
+ BV BND1      A003016036
+ BV BND1      A003016037
+ BV BND1      A003016038
+ BV BND1      A003017018
+ BV BND1      A003017019
+ BV BND1      A003017020
+ BV BND1      A003017021
+ BV BND1      A003017022
+ BV BND1      A003017023
+ BV BND1      A003017024
+ BV BND1      A003017025
+ BV BND1      A003017026
+ BV BND1      A003017027
+ BV BND1      A003017028
+ BV BND1      A003017029
+ BV BND1      A003017030
+ BV BND1      A003017031
+ BV BND1      A003017032
+ BV BND1      A003017033
+ BV BND1      A003017034
+ BV BND1      A003017035
+ BV BND1      A003017036
+ BV BND1      A003017037
+ BV BND1      A003017038
+ BV BND1      A003018019
+ BV BND1      A003018020
+ BV BND1      A003018021
+ BV BND1      A003018022
+ BV BND1      A003018023
+ BV BND1      A003018024
+ BV BND1      A003018025
+ BV BND1      A003018026
+ BV BND1      A003018027
+ BV BND1      A003018028
+ BV BND1      A003018029
+ BV BND1      A003018030
+ BV BND1      A003018031
+ BV BND1      A003018032
+ BV BND1      A003018033
+ BV BND1      A003018034
+ BV BND1      A003018035
+ BV BND1      A003018036
+ BV BND1      A003018037
+ BV BND1      A003018038
+ BV BND1      A003019020
+ BV BND1      A003019021
+ BV BND1      A003019022
+ BV BND1      A003019023
+ BV BND1      A003019024
+ BV BND1      A003019025
+ BV BND1      A003019026
+ BV BND1      A003019027
+ BV BND1      A003019028
+ BV BND1      A003019029
+ BV BND1      A003019030
+ BV BND1      A003019031
+ BV BND1      A003019032
+ BV BND1      A003019033
+ BV BND1      A003019034
+ BV BND1      A003019035
+ BV BND1      A003019036
+ BV BND1      A003019037
+ BV BND1      A003019038
+ BV BND1      A003020021
+ BV BND1      A003020022
+ BV BND1      A003020023
+ BV BND1      A003020024
+ BV BND1      A003020025
+ BV BND1      A003020026
+ BV BND1      A003020027
+ BV BND1      A003020028
+ BV BND1      A003020029
+ BV BND1      A003020030
+ BV BND1      A003020031
+ BV BND1      A003020032
+ BV BND1      A003020033
+ BV BND1      A003020034
+ BV BND1      A003020035
+ BV BND1      A003020036
+ BV BND1      A003020037
+ BV BND1      A003020038
+ BV BND1      A003021022
+ BV BND1      A003021023
+ BV BND1      A003021024
+ BV BND1      A003021025
+ BV BND1      A003021026
+ BV BND1      A003021027
+ BV BND1      A003021028
+ BV BND1      A003021029
+ BV BND1      A003021030
+ BV BND1      A003021031
+ BV BND1      A003021032
+ BV BND1      A003021033
+ BV BND1      A003021034
+ BV BND1      A003021035
+ BV BND1      A003021036
+ BV BND1      A003021037
+ BV BND1      A003021038
+ BV BND1      A003022023
+ BV BND1      A003022024
+ BV BND1      A003022025
+ BV BND1      A003022026
+ BV BND1      A003022027
+ BV BND1      A003022028
+ BV BND1      A003022029
+ BV BND1      A003022030
+ BV BND1      A003022031
+ BV BND1      A003022032
+ BV BND1      A003022033
+ BV BND1      A003022034
+ BV BND1      A003022035
+ BV BND1      A003022036
+ BV BND1      A003022037
+ BV BND1      A003022038
+ BV BND1      A003023024
+ BV BND1      A003023025
+ BV BND1      A003023026
+ BV BND1      A003023027
+ BV BND1      A003023028
+ BV BND1      A003023029
+ BV BND1      A003023030
+ BV BND1      A003023031
+ BV BND1      A003023032
+ BV BND1      A003023033
+ BV BND1      A003023034
+ BV BND1      A003023035
+ BV BND1      A003023036
+ BV BND1      A003023037
+ BV BND1      A003023038
+ BV BND1      A003024025
+ BV BND1      A003024026
+ BV BND1      A003024027
+ BV BND1      A003024028
+ BV BND1      A003024029
+ BV BND1      A003024030
+ BV BND1      A003024031
+ BV BND1      A003024032
+ BV BND1      A003024033
+ BV BND1      A003024034
+ BV BND1      A003024035
+ BV BND1      A003024036
+ BV BND1      A003024037
+ BV BND1      A003024038
+ BV BND1      A003025026
+ BV BND1      A003025027
+ BV BND1      A003025028
+ BV BND1      A003025029
+ BV BND1      A003025030
+ BV BND1      A003025031
+ BV BND1      A003025032
+ BV BND1      A003025033
+ BV BND1      A003025034
+ BV BND1      A003025035
+ BV BND1      A003025036
+ BV BND1      A003025037
+ BV BND1      A003025038
+ BV BND1      A003026027
+ BV BND1      A003026028
+ BV BND1      A003026029
+ BV BND1      A003026030
+ BV BND1      A003026031
+ BV BND1      A003026032
+ BV BND1      A003026033
+ BV BND1      A003026034
+ BV BND1      A003026035
+ BV BND1      A003026036
+ BV BND1      A003026037
+ BV BND1      A003026038
+ BV BND1      A003027028
+ BV BND1      A003027029
+ BV BND1      A003027030
+ BV BND1      A003027031
+ BV BND1      A003027032
+ BV BND1      A003027033
+ BV BND1      A003027034
+ BV BND1      A003027035
+ BV BND1      A003027036
+ BV BND1      A003027037
+ BV BND1      A003027038
+ BV BND1      A003028029
+ BV BND1      A003028030
+ BV BND1      A003028031
+ BV BND1      A003028032
+ BV BND1      A003028033
+ BV BND1      A003028034
+ BV BND1      A003028035
+ BV BND1      A003028036
+ BV BND1      A003028037
+ BV BND1      A003028038
+ BV BND1      A003029030
+ BV BND1      A003029031
+ BV BND1      A003029032
+ BV BND1      A003029033
+ BV BND1      A003029034
+ BV BND1      A003029035
+ BV BND1      A003029036
+ BV BND1      A003029037
+ BV BND1      A003029038
+ BV BND1      A003030031
+ BV BND1      A003030032
+ BV BND1      A003030033
+ BV BND1      A003030034
+ BV BND1      A003030035
+ BV BND1      A003030036
+ BV BND1      A003030037
+ BV BND1      A003030038
+ BV BND1      A003031032
+ BV BND1      A003031033
+ BV BND1      A003031034
+ BV BND1      A003031035
+ BV BND1      A003031036
+ BV BND1      A003031037
+ BV BND1      A003031038
+ BV BND1      A003032033
+ BV BND1      A003032034
+ BV BND1      A003032035
+ BV BND1      A003032036
+ BV BND1      A003032037
+ BV BND1      A003032038
+ BV BND1      A003033034
+ BV BND1      A003033035
+ BV BND1      A003033036
+ BV BND1      A003033037
+ BV BND1      A003033038
+ BV BND1      A003034035
+ BV BND1      A003034036
+ BV BND1      A003034037
+ BV BND1      A003034038
+ BV BND1      A003035036
+ BV BND1      A003035037
+ BV BND1      A003035038
+ BV BND1      A003036037
+ BV BND1      A003036038
+ BV BND1      A003037038
+INDICATORS
+ IF GC0       A000001   1
+ IF GC1       A001001   1
+ IF GC2       A002001   1
+ IF GC3       A003001   1
+ IF GC4       A000002   1
+ IF GC5       A001002   1
+ IF GC6       A002002   1
+ IF GC7       A003002   1
+ IF GC8       A000003   1
+ IF GC9       A001003   1
+ IF GC10      A002003   1
+ IF GC11      A003003   1
+ IF GC12      A000004   1
+ IF GC13      A001004   1
+ IF GC14      A002004   1
+ IF GC15      A003004   1
+ IF GC16      A000005   1
+ IF GC17      A001005   1
+ IF GC18      A002005   1
+ IF GC19      A003005   1
+ IF GC20      A000006   1
+ IF GC21      A001006   1
+ IF GC22      A002006   1
+ IF GC23      A003006   1
+ IF GC24      A000007   1
+ IF GC25      A001007   1
+ IF GC26      A002007   1
+ IF GC27      A003007   1
+ IF GC28      A000008   1
+ IF GC29      A001008   1
+ IF GC30      A002008   1
+ IF GC31      A003008   1
+ IF GC32      A000009   1
+ IF GC33      A001009   1
+ IF GC34      A002009   1
+ IF GC35      A003009   1
+ IF GC36      A000010   1
+ IF GC37      A001010   1
+ IF GC38      A002010   1
+ IF GC39      A003010   1
+ IF GC40      A000011   1
+ IF GC41      A001011   1
+ IF GC42      A002011   1
+ IF GC43      A003011   1
+ IF GC44      A000012   1
+ IF GC45      A001012   1
+ IF GC46      A002012   1
+ IF GC47      A003012   1
+ IF GC48      A000013   1
+ IF GC49      A001013   1
+ IF GC50      A002013   1
+ IF GC51      A003013   1
+ IF GC52      A000014   1
+ IF GC53      A001014   1
+ IF GC54      A002014   1
+ IF GC55      A003014   1
+ IF GC56      A000015   1
+ IF GC57      A001015   1
+ IF GC58      A002015   1
+ IF GC59      A003015   1
+ IF GC60      A000016   1
+ IF GC61      A001016   1
+ IF GC62      A002016   1
+ IF GC63      A003016   1
+ IF GC64      A000017   1
+ IF GC65      A001017   1
+ IF GC66      A002017   1
+ IF GC67      A003017   1
+ IF GC68      A000018   1
+ IF GC69      A001018   1
+ IF GC70      A002018   1
+ IF GC71      A003018   1
+ IF GC72      A000019   1
+ IF GC73      A001019   1
+ IF GC74      A002019   1
+ IF GC75      A003019   1
+ IF GC76      A000020   1
+ IF GC77      A001020   1
+ IF GC78      A002020   1
+ IF GC79      A003020   1
+ IF GC80      A000021   1
+ IF GC81      A001021   1
+ IF GC82      A002021   1
+ IF GC83      A003021   1
+ IF GC84      A000022   1
+ IF GC85      A001022   1
+ IF GC86      A002022   1
+ IF GC87      A003022   1
+ IF GC88      A000023   1
+ IF GC89      A001023   1
+ IF GC90      A002023   1
+ IF GC91      A003023   1
+ IF GC92      A000024   1
+ IF GC93      A001024   1
+ IF GC94      A002024   1
+ IF GC95      A003024   1
+ IF GC96      A000025   1
+ IF GC97      A001025   1
+ IF GC98      A002025   1
+ IF GC99      A003025   1
+ IF GC100     A000026   1
+ IF GC101     A001026   1
+ IF GC102     A002026   1
+ IF GC103     A003026   1
+ IF GC104     A000027   1
+ IF GC105     A001027   1
+ IF GC106     A002027   1
+ IF GC107     A003027   1
+ IF GC108     A000028   1
+ IF GC109     A001028   1
+ IF GC110     A002028   1
+ IF GC111     A003028   1
+ IF GC112     A000029   1
+ IF GC113     A001029   1
+ IF GC114     A002029   1
+ IF GC115     A003029   1
+ IF GC116     A000030   1
+ IF GC117     A001030   1
+ IF GC118     A002030   1
+ IF GC119     A003030   1
+ IF GC120     A000031   1
+ IF GC121     A001031   1
+ IF GC122     A002031   1
+ IF GC123     A003031   1
+ IF GC124     A000032   1
+ IF GC125     A001032   1
+ IF GC126     A002032   1
+ IF GC127     A003032   1
+ IF GC128     A000033   1
+ IF GC129     A001033   1
+ IF GC130     A002033   1
+ IF GC131     A003033   1
+ IF GC132     A000034   1
+ IF GC133     A001034   1
+ IF GC134     A002034   1
+ IF GC135     A003034   1
+ IF GC136     A000035   1
+ IF GC137     A001035   1
+ IF GC138     A002035   1
+ IF GC139     A003035   1
+ IF GC140     A000036   1
+ IF GC141     A001036   1
+ IF GC142     A002036   1
+ IF GC143     A003036   1
+ IF GC144     A000037   1
+ IF GC145     A001037   1
+ IF GC146     A002037   1
+ IF GC147     A003037   1
+ IF GC148     A000038   1
+ IF GC149     A001038   1
+ IF GC150     A002038   1
+ IF GC151     A003038   1
+ IF GC153     A000001002  1
+ IF GC155     A000001003  1
+ IF GC157     A000001004  1
+ IF GC159     A000001005  1
+ IF GC161     A000001006  1
+ IF GC163     A000001007  1
+ IF GC165     A000001008  1
+ IF GC167     A000001009  1
+ IF GC169     A000001010  1
+ IF GC171     A000001011  1
+ IF GC173     A000001012  1
+ IF GC175     A000001013  1
+ IF GC177     A000001014  1
+ IF GC179     A000001015  1
+ IF GC181     A000001016  1
+ IF GC183     A000001017  1
+ IF GC185     A000001018  1
+ IF GC187     A000001019  1
+ IF GC189     A000001020  1
+ IF GC191     A000001021  1
+ IF GC193     A000001022  1
+ IF GC195     A000001023  1
+ IF GC197     A000001024  1
+ IF GC199     A000001025  1
+ IF GC201     A000001026  1
+ IF GC203     A000001027  1
+ IF GC205     A000001028  1
+ IF GC207     A000001029  1
+ IF GC209     A000001030  1
+ IF GC211     A000001031  1
+ IF GC213     A000001032  1
+ IF GC215     A000001033  1
+ IF GC217     A000001034  1
+ IF GC219     A000001035  1
+ IF GC221     A000001036  1
+ IF GC223     A000001037  1
+ IF GC225     A000001038  1
+ IF GC227     A000002003  1
+ IF GC229     A000002004  1
+ IF GC231     A000002005  1
+ IF GC233     A000002006  1
+ IF GC235     A000002007  1
+ IF GC237     A000002008  1
+ IF GC239     A000002009  1
+ IF GC241     A000002010  1
+ IF GC243     A000002011  1
+ IF GC245     A000002012  1
+ IF GC247     A000002013  1
+ IF GC249     A000002014  1
+ IF GC251     A000002015  1
+ IF GC253     A000002016  1
+ IF GC255     A000002017  1
+ IF GC257     A000002018  1
+ IF GC259     A000002019  1
+ IF GC261     A000002020  1
+ IF GC263     A000002021  1
+ IF GC265     A000002022  1
+ IF GC267     A000002023  1
+ IF GC269     A000002024  1
+ IF GC271     A000002025  1
+ IF GC273     A000002026  1
+ IF GC275     A000002027  1
+ IF GC277     A000002028  1
+ IF GC279     A000002029  1
+ IF GC281     A000002030  1
+ IF GC283     A000002031  1
+ IF GC285     A000002032  1
+ IF GC287     A000002033  1
+ IF GC289     A000002034  1
+ IF GC291     A000002035  1
+ IF GC293     A000002036  1
+ IF GC295     A000002037  1
+ IF GC297     A000002038  1
+ IF GC299     A000003004  1
+ IF GC301     A000003005  1
+ IF GC303     A000003006  1
+ IF GC305     A000003007  1
+ IF GC307     A000003008  1
+ IF GC309     A000003009  1
+ IF GC311     A000003010  1
+ IF GC313     A000003011  1
+ IF GC315     A000003012  1
+ IF GC317     A000003013  1
+ IF GC319     A000003014  1
+ IF GC321     A000003015  1
+ IF GC323     A000003016  1
+ IF GC325     A000003017  1
+ IF GC327     A000003018  1
+ IF GC329     A000003019  1
+ IF GC331     A000003020  1
+ IF GC333     A000003021  1
+ IF GC335     A000003022  1
+ IF GC337     A000003023  1
+ IF GC339     A000003024  1
+ IF GC341     A000003025  1
+ IF GC343     A000003026  1
+ IF GC345     A000003027  1
+ IF GC347     A000003028  1
+ IF GC349     A000003029  1
+ IF GC351     A000003030  1
+ IF GC353     A000003031  1
+ IF GC355     A000003032  1
+ IF GC357     A000003033  1
+ IF GC359     A000003034  1
+ IF GC361     A000003035  1
+ IF GC363     A000003036  1
+ IF GC365     A000003037  1
+ IF GC367     A000003038  1
+ IF GC369     A000004005  1
+ IF GC371     A000004006  1
+ IF GC373     A000004007  1
+ IF GC375     A000004008  1
+ IF GC377     A000004009  1
+ IF GC379     A000004010  1
+ IF GC381     A000004011  1
+ IF GC383     A000004012  1
+ IF GC385     A000004013  1
+ IF GC387     A000004014  1
+ IF GC389     A000004015  1
+ IF GC391     A000004016  1
+ IF GC393     A000004017  1
+ IF GC395     A000004018  1
+ IF GC397     A000004019  1
+ IF GC399     A000004020  1
+ IF GC401     A000004021  1
+ IF GC403     A000004022  1
+ IF GC405     A000004023  1
+ IF GC407     A000004024  1
+ IF GC409     A000004025  1
+ IF GC411     A000004026  1
+ IF GC413     A000004027  1
+ IF GC415     A000004028  1
+ IF GC417     A000004029  1
+ IF GC419     A000004030  1
+ IF GC421     A000004031  1
+ IF GC423     A000004032  1
+ IF GC425     A000004033  1
+ IF GC427     A000004034  1
+ IF GC429     A000004035  1
+ IF GC431     A000004036  1
+ IF GC433     A000004037  1
+ IF GC435     A000004038  1
+ IF GC437     A000005006  1
+ IF GC439     A000005007  1
+ IF GC441     A000005008  1
+ IF GC443     A000005009  1
+ IF GC445     A000005010  1
+ IF GC447     A000005011  1
+ IF GC449     A000005012  1
+ IF GC451     A000005013  1
+ IF GC453     A000005014  1
+ IF GC455     A000005015  1
+ IF GC457     A000005016  1
+ IF GC459     A000005017  1
+ IF GC461     A000005018  1
+ IF GC463     A000005019  1
+ IF GC465     A000005020  1
+ IF GC467     A000005021  1
+ IF GC469     A000005022  1
+ IF GC471     A000005023  1
+ IF GC473     A000005024  1
+ IF GC475     A000005025  1
+ IF GC477     A000005026  1
+ IF GC479     A000005027  1
+ IF GC481     A000005028  1
+ IF GC483     A000005029  1
+ IF GC485     A000005030  1
+ IF GC487     A000005031  1
+ IF GC489     A000005032  1
+ IF GC491     A000005033  1
+ IF GC493     A000005034  1
+ IF GC495     A000005035  1
+ IF GC497     A000005036  1
+ IF GC499     A000005037  1
+ IF GC501     A000005038  1
+ IF GC503     A000006007  1
+ IF GC505     A000006008  1
+ IF GC507     A000006009  1
+ IF GC509     A000006010  1
+ IF GC511     A000006011  1
+ IF GC513     A000006012  1
+ IF GC515     A000006013  1
+ IF GC517     A000006014  1
+ IF GC519     A000006015  1
+ IF GC521     A000006016  1
+ IF GC523     A000006017  1
+ IF GC525     A000006018  1
+ IF GC527     A000006019  1
+ IF GC529     A000006020  1
+ IF GC531     A000006021  1
+ IF GC533     A000006022  1
+ IF GC535     A000006023  1
+ IF GC537     A000006024  1
+ IF GC539     A000006025  1
+ IF GC541     A000006026  1
+ IF GC543     A000006027  1
+ IF GC545     A000006028  1
+ IF GC547     A000006029  1
+ IF GC549     A000006030  1
+ IF GC551     A000006031  1
+ IF GC553     A000006032  1
+ IF GC555     A000006033  1
+ IF GC557     A000006034  1
+ IF GC559     A000006035  1
+ IF GC561     A000006036  1
+ IF GC563     A000006037  1
+ IF GC565     A000006038  1
+ IF GC567     A000007008  1
+ IF GC569     A000007009  1
+ IF GC571     A000007010  1
+ IF GC573     A000007011  1
+ IF GC575     A000007012  1
+ IF GC577     A000007013  1
+ IF GC579     A000007014  1
+ IF GC581     A000007015  1
+ IF GC583     A000007016  1
+ IF GC585     A000007017  1
+ IF GC587     A000007018  1
+ IF GC589     A000007019  1
+ IF GC591     A000007020  1
+ IF GC593     A000007021  1
+ IF GC595     A000007022  1
+ IF GC597     A000007023  1
+ IF GC599     A000007024  1
+ IF GC601     A000007025  1
+ IF GC603     A000007026  1
+ IF GC605     A000007027  1
+ IF GC607     A000007028  1
+ IF GC609     A000007029  1
+ IF GC611     A000007030  1
+ IF GC613     A000007031  1
+ IF GC615     A000007032  1
+ IF GC617     A000007033  1
+ IF GC619     A000007034  1
+ IF GC621     A000007035  1
+ IF GC623     A000007036  1
+ IF GC625     A000007037  1
+ IF GC627     A000007038  1
+ IF GC629     A000008009  1
+ IF GC631     A000008010  1
+ IF GC633     A000008011  1
+ IF GC635     A000008012  1
+ IF GC637     A000008013  1
+ IF GC639     A000008014  1
+ IF GC641     A000008015  1
+ IF GC643     A000008016  1
+ IF GC645     A000008017  1
+ IF GC647     A000008018  1
+ IF GC649     A000008019  1
+ IF GC651     A000008020  1
+ IF GC653     A000008021  1
+ IF GC655     A000008022  1
+ IF GC657     A000008023  1
+ IF GC659     A000008024  1
+ IF GC661     A000008025  1
+ IF GC663     A000008026  1
+ IF GC665     A000008027  1
+ IF GC667     A000008028  1
+ IF GC669     A000008029  1
+ IF GC671     A000008030  1
+ IF GC673     A000008031  1
+ IF GC675     A000008032  1
+ IF GC677     A000008033  1
+ IF GC679     A000008034  1
+ IF GC681     A000008035  1
+ IF GC683     A000008036  1
+ IF GC685     A000008037  1
+ IF GC687     A000008038  1
+ IF GC689     A000009010  1
+ IF GC691     A000009011  1
+ IF GC693     A000009012  1
+ IF GC695     A000009013  1
+ IF GC697     A000009014  1
+ IF GC699     A000009015  1
+ IF GC701     A000009016  1
+ IF GC703     A000009017  1
+ IF GC705     A000009018  1
+ IF GC707     A000009019  1
+ IF GC709     A000009020  1
+ IF GC711     A000009021  1
+ IF GC713     A000009022  1
+ IF GC715     A000009023  1
+ IF GC717     A000009024  1
+ IF GC719     A000009025  1
+ IF GC721     A000009026  1
+ IF GC723     A000009027  1
+ IF GC725     A000009028  1
+ IF GC727     A000009029  1
+ IF GC729     A000009030  1
+ IF GC731     A000009031  1
+ IF GC733     A000009032  1
+ IF GC735     A000009033  1
+ IF GC737     A000009034  1
+ IF GC739     A000009035  1
+ IF GC741     A000009036  1
+ IF GC743     A000009037  1
+ IF GC745     A000009038  1
+ IF GC747     A000010011  1
+ IF GC749     A000010012  1
+ IF GC751     A000010013  1
+ IF GC753     A000010014  1
+ IF GC755     A000010015  1
+ IF GC757     A000010016  1
+ IF GC759     A000010017  1
+ IF GC761     A000010018  1
+ IF GC763     A000010019  1
+ IF GC765     A000010020  1
+ IF GC767     A000010021  1
+ IF GC769     A000010022  1
+ IF GC771     A000010023  1
+ IF GC773     A000010024  1
+ IF GC775     A000010025  1
+ IF GC777     A000010026  1
+ IF GC779     A000010027  1
+ IF GC781     A000010028  1
+ IF GC783     A000010029  1
+ IF GC785     A000010030  1
+ IF GC787     A000010031  1
+ IF GC789     A000010032  1
+ IF GC791     A000010033  1
+ IF GC793     A000010034  1
+ IF GC795     A000010035  1
+ IF GC797     A000010036  1
+ IF GC799     A000010037  1
+ IF GC801     A000010038  1
+ IF GC803     A000011012  1
+ IF GC805     A000011013  1
+ IF GC807     A000011014  1
+ IF GC809     A000011015  1
+ IF GC811     A000011016  1
+ IF GC813     A000011017  1
+ IF GC815     A000011018  1
+ IF GC817     A000011019  1
+ IF GC819     A000011020  1
+ IF GC821     A000011021  1
+ IF GC823     A000011022  1
+ IF GC825     A000011023  1
+ IF GC827     A000011024  1
+ IF GC829     A000011025  1
+ IF GC831     A000011026  1
+ IF GC833     A000011027  1
+ IF GC835     A000011028  1
+ IF GC837     A000011029  1
+ IF GC839     A000011030  1
+ IF GC841     A000011031  1
+ IF GC843     A000011032  1
+ IF GC845     A000011033  1
+ IF GC847     A000011034  1
+ IF GC849     A000011035  1
+ IF GC851     A000011036  1
+ IF GC853     A000011037  1
+ IF GC855     A000011038  1
+ IF GC857     A000012013  1
+ IF GC859     A000012014  1
+ IF GC861     A000012015  1
+ IF GC863     A000012016  1
+ IF GC865     A000012017  1
+ IF GC867     A000012018  1
+ IF GC869     A000012019  1
+ IF GC871     A000012020  1
+ IF GC873     A000012021  1
+ IF GC875     A000012022  1
+ IF GC877     A000012023  1
+ IF GC879     A000012024  1
+ IF GC881     A000012025  1
+ IF GC883     A000012026  1
+ IF GC885     A000012027  1
+ IF GC887     A000012028  1
+ IF GC889     A000012029  1
+ IF GC891     A000012030  1
+ IF GC893     A000012031  1
+ IF GC895     A000012032  1
+ IF GC897     A000012033  1
+ IF GC899     A000012034  1
+ IF GC901     A000012035  1
+ IF GC903     A000012036  1
+ IF GC905     A000012037  1
+ IF GC907     A000012038  1
+ IF GC909     A000013014  1
+ IF GC911     A000013015  1
+ IF GC913     A000013016  1
+ IF GC915     A000013017  1
+ IF GC917     A000013018  1
+ IF GC919     A000013019  1
+ IF GC921     A000013020  1
+ IF GC923     A000013021  1
+ IF GC925     A000013022  1
+ IF GC927     A000013023  1
+ IF GC929     A000013024  1
+ IF GC931     A000013025  1
+ IF GC933     A000013026  1
+ IF GC935     A000013027  1
+ IF GC937     A000013028  1
+ IF GC939     A000013029  1
+ IF GC941     A000013030  1
+ IF GC943     A000013031  1
+ IF GC945     A000013032  1
+ IF GC947     A000013033  1
+ IF GC949     A000013034  1
+ IF GC951     A000013035  1
+ IF GC953     A000013036  1
+ IF GC955     A000013037  1
+ IF GC957     A000013038  1
+ IF GC959     A000014015  1
+ IF GC961     A000014016  1
+ IF GC963     A000014017  1
+ IF GC965     A000014018  1
+ IF GC967     A000014019  1
+ IF GC969     A000014020  1
+ IF GC971     A000014021  1
+ IF GC973     A000014022  1
+ IF GC975     A000014023  1
+ IF GC977     A000014024  1
+ IF GC979     A000014025  1
+ IF GC981     A000014026  1
+ IF GC983     A000014027  1
+ IF GC985     A000014028  1
+ IF GC987     A000014029  1
+ IF GC989     A000014030  1
+ IF GC991     A000014031  1
+ IF GC993     A000014032  1
+ IF GC995     A000014033  1
+ IF GC997     A000014034  1
+ IF GC999     A000014035  1
+ IF GC1001    A000014036  1
+ IF GC1003    A000014037  1
+ IF GC1005    A000014038  1
+ IF GC1007    A000015016  1
+ IF GC1009    A000015017  1
+ IF GC1011    A000015018  1
+ IF GC1013    A000015019  1
+ IF GC1015    A000015020  1
+ IF GC1017    A000015021  1
+ IF GC1019    A000015022  1
+ IF GC1021    A000015023  1
+ IF GC1023    A000015024  1
+ IF GC1025    A000015025  1
+ IF GC1027    A000015026  1
+ IF GC1029    A000015027  1
+ IF GC1031    A000015028  1
+ IF GC1033    A000015029  1
+ IF GC1035    A000015030  1
+ IF GC1037    A000015031  1
+ IF GC1039    A000015032  1
+ IF GC1041    A000015033  1
+ IF GC1043    A000015034  1
+ IF GC1045    A000015035  1
+ IF GC1047    A000015036  1
+ IF GC1049    A000015037  1
+ IF GC1051    A000015038  1
+ IF GC1053    A000016017  1
+ IF GC1055    A000016018  1
+ IF GC1057    A000016019  1
+ IF GC1059    A000016020  1
+ IF GC1061    A000016021  1
+ IF GC1063    A000016022  1
+ IF GC1065    A000016023  1
+ IF GC1067    A000016024  1
+ IF GC1069    A000016025  1
+ IF GC1071    A000016026  1
+ IF GC1073    A000016027  1
+ IF GC1075    A000016028  1
+ IF GC1077    A000016029  1
+ IF GC1079    A000016030  1
+ IF GC1081    A000016031  1
+ IF GC1083    A000016032  1
+ IF GC1085    A000016033  1
+ IF GC1087    A000016034  1
+ IF GC1089    A000016035  1
+ IF GC1091    A000016036  1
+ IF GC1093    A000016037  1
+ IF GC1095    A000016038  1
+ IF GC1097    A000017018  1
+ IF GC1099    A000017019  1
+ IF GC1101    A000017020  1
+ IF GC1103    A000017021  1
+ IF GC1105    A000017022  1
+ IF GC1107    A000017023  1
+ IF GC1109    A000017024  1
+ IF GC1111    A000017025  1
+ IF GC1113    A000017026  1
+ IF GC1115    A000017027  1
+ IF GC1117    A000017028  1
+ IF GC1119    A000017029  1
+ IF GC1121    A000017030  1
+ IF GC1123    A000017031  1
+ IF GC1125    A000017032  1
+ IF GC1127    A000017033  1
+ IF GC1129    A000017034  1
+ IF GC1131    A000017035  1
+ IF GC1133    A000017036  1
+ IF GC1135    A000017037  1
+ IF GC1137    A000017038  1
+ IF GC1139    A000018019  1
+ IF GC1141    A000018020  1
+ IF GC1143    A000018021  1
+ IF GC1145    A000018022  1
+ IF GC1147    A000018023  1
+ IF GC1149    A000018024  1
+ IF GC1151    A000018025  1
+ IF GC1153    A000018026  1
+ IF GC1155    A000018027  1
+ IF GC1157    A000018028  1
+ IF GC1159    A000018029  1
+ IF GC1161    A000018030  1
+ IF GC1163    A000018031  1
+ IF GC1165    A000018032  1
+ IF GC1167    A000018033  1
+ IF GC1169    A000018034  1
+ IF GC1171    A000018035  1
+ IF GC1173    A000018036  1
+ IF GC1175    A000018037  1
+ IF GC1177    A000018038  1
+ IF GC1179    A000019020  1
+ IF GC1181    A000019021  1
+ IF GC1183    A000019022  1
+ IF GC1185    A000019023  1
+ IF GC1187    A000019024  1
+ IF GC1189    A000019025  1
+ IF GC1191    A000019026  1
+ IF GC1193    A000019027  1
+ IF GC1195    A000019028  1
+ IF GC1197    A000019029  1
+ IF GC1199    A000019030  1
+ IF GC1201    A000019031  1
+ IF GC1203    A000019032  1
+ IF GC1205    A000019033  1
+ IF GC1207    A000019034  1
+ IF GC1209    A000019035  1
+ IF GC1211    A000019036  1
+ IF GC1213    A000019037  1
+ IF GC1215    A000019038  1
+ IF GC1217    A000020021  1
+ IF GC1219    A000020022  1
+ IF GC1221    A000020023  1
+ IF GC1223    A000020024  1
+ IF GC1225    A000020025  1
+ IF GC1227    A000020026  1
+ IF GC1229    A000020027  1
+ IF GC1231    A000020028  1
+ IF GC1233    A000020029  1
+ IF GC1235    A000020030  1
+ IF GC1237    A000020031  1
+ IF GC1239    A000020032  1
+ IF GC1241    A000020033  1
+ IF GC1243    A000020034  1
+ IF GC1245    A000020035  1
+ IF GC1247    A000020036  1
+ IF GC1249    A000020037  1
+ IF GC1251    A000020038  1
+ IF GC1253    A000021022  1
+ IF GC1255    A000021023  1
+ IF GC1257    A000021024  1
+ IF GC1259    A000021025  1
+ IF GC1261    A000021026  1
+ IF GC1263    A000021027  1
+ IF GC1265    A000021028  1
+ IF GC1267    A000021029  1
+ IF GC1269    A000021030  1
+ IF GC1271    A000021031  1
+ IF GC1273    A000021032  1
+ IF GC1275    A000021033  1
+ IF GC1277    A000021034  1
+ IF GC1279    A000021035  1
+ IF GC1281    A000021036  1
+ IF GC1283    A000021037  1
+ IF GC1285    A000021038  1
+ IF GC1287    A000022023  1
+ IF GC1289    A000022024  1
+ IF GC1291    A000022025  1
+ IF GC1293    A000022026  1
+ IF GC1295    A000022027  1
+ IF GC1297    A000022028  1
+ IF GC1299    A000022029  1
+ IF GC1301    A000022030  1
+ IF GC1303    A000022031  1
+ IF GC1305    A000022032  1
+ IF GC1307    A000022033  1
+ IF GC1309    A000022034  1
+ IF GC1311    A000022035  1
+ IF GC1313    A000022036  1
+ IF GC1315    A000022037  1
+ IF GC1317    A000022038  1
+ IF GC1319    A000023024  1
+ IF GC1321    A000023025  1
+ IF GC1323    A000023026  1
+ IF GC1325    A000023027  1
+ IF GC1327    A000023028  1
+ IF GC1329    A000023029  1
+ IF GC1331    A000023030  1
+ IF GC1333    A000023031  1
+ IF GC1335    A000023032  1
+ IF GC1337    A000023033  1
+ IF GC1339    A000023034  1
+ IF GC1341    A000023035  1
+ IF GC1343    A000023036  1
+ IF GC1345    A000023037  1
+ IF GC1347    A000023038  1
+ IF GC1349    A000024025  1
+ IF GC1351    A000024026  1
+ IF GC1353    A000024027  1
+ IF GC1355    A000024028  1
+ IF GC1357    A000024029  1
+ IF GC1359    A000024030  1
+ IF GC1361    A000024031  1
+ IF GC1363    A000024032  1
+ IF GC1365    A000024033  1
+ IF GC1367    A000024034  1
+ IF GC1369    A000024035  1
+ IF GC1371    A000024036  1
+ IF GC1373    A000024037  1
+ IF GC1375    A000024038  1
+ IF GC1377    A000025026  1
+ IF GC1379    A000025027  1
+ IF GC1381    A000025028  1
+ IF GC1383    A000025029  1
+ IF GC1385    A000025030  1
+ IF GC1387    A000025031  1
+ IF GC1389    A000025032  1
+ IF GC1391    A000025033  1
+ IF GC1393    A000025034  1
+ IF GC1395    A000025035  1
+ IF GC1397    A000025036  1
+ IF GC1399    A000025037  1
+ IF GC1401    A000025038  1
+ IF GC1403    A000026027  1
+ IF GC1405    A000026028  1
+ IF GC1407    A000026029  1
+ IF GC1409    A000026030  1
+ IF GC1411    A000026031  1
+ IF GC1413    A000026032  1
+ IF GC1415    A000026033  1
+ IF GC1417    A000026034  1
+ IF GC1419    A000026035  1
+ IF GC1421    A000026036  1
+ IF GC1423    A000026037  1
+ IF GC1425    A000026038  1
+ IF GC1427    A000027028  1
+ IF GC1429    A000027029  1
+ IF GC1431    A000027030  1
+ IF GC1433    A000027031  1
+ IF GC1435    A000027032  1
+ IF GC1437    A000027033  1
+ IF GC1439    A000027034  1
+ IF GC1441    A000027035  1
+ IF GC1443    A000027036  1
+ IF GC1445    A000027037  1
+ IF GC1447    A000027038  1
+ IF GC1449    A000028029  1
+ IF GC1451    A000028030  1
+ IF GC1453    A000028031  1
+ IF GC1455    A000028032  1
+ IF GC1457    A000028033  1
+ IF GC1459    A000028034  1
+ IF GC1461    A000028035  1
+ IF GC1463    A000028036  1
+ IF GC1465    A000028037  1
+ IF GC1467    A000028038  1
+ IF GC1469    A000029030  1
+ IF GC1471    A000029031  1
+ IF GC1473    A000029032  1
+ IF GC1475    A000029033  1
+ IF GC1477    A000029034  1
+ IF GC1479    A000029035  1
+ IF GC1481    A000029036  1
+ IF GC1483    A000029037  1
+ IF GC1485    A000029038  1
+ IF GC1487    A000030031  1
+ IF GC1489    A000030032  1
+ IF GC1491    A000030033  1
+ IF GC1493    A000030034  1
+ IF GC1495    A000030035  1
+ IF GC1497    A000030036  1
+ IF GC1499    A000030037  1
+ IF GC1501    A000030038  1
+ IF GC1503    A000031032  1
+ IF GC1505    A000031033  1
+ IF GC1507    A000031034  1
+ IF GC1509    A000031035  1
+ IF GC1511    A000031036  1
+ IF GC1513    A000031037  1
+ IF GC1515    A000031038  1
+ IF GC1517    A000032033  1
+ IF GC1519    A000032034  1
+ IF GC1521    A000032035  1
+ IF GC1523    A000032036  1
+ IF GC1525    A000032037  1
+ IF GC1527    A000032038  1
+ IF GC1529    A000033034  1
+ IF GC1531    A000033035  1
+ IF GC1533    A000033036  1
+ IF GC1535    A000033037  1
+ IF GC1537    A000033038  1
+ IF GC1539    A000034035  1
+ IF GC1541    A000034036  1
+ IF GC1543    A000034037  1
+ IF GC1545    A000034038  1
+ IF GC1547    A000035036  1
+ IF GC1549    A000035037  1
+ IF GC1551    A000035038  1
+ IF GC1553    A000036037  1
+ IF GC1555    A000036038  1
+ IF GC1557    A000037038  1
+ IF GC1559    A001001002  1
+ IF GC1561    A001001003  1
+ IF GC1563    A001001004  1
+ IF GC1565    A001001005  1
+ IF GC1567    A001001006  1
+ IF GC1569    A001001007  1
+ IF GC1571    A001001008  1
+ IF GC1573    A001001009  1
+ IF GC1575    A001001010  1
+ IF GC1577    A001001011  1
+ IF GC1579    A001001012  1
+ IF GC1581    A001001013  1
+ IF GC1583    A001001014  1
+ IF GC1585    A001001015  1
+ IF GC1587    A001001016  1
+ IF GC1589    A001001017  1
+ IF GC1591    A001001018  1
+ IF GC1593    A001001019  1
+ IF GC1595    A001001020  1
+ IF GC1597    A001001021  1
+ IF GC1599    A001001022  1
+ IF GC1601    A001001023  1
+ IF GC1603    A001001024  1
+ IF GC1605    A001001025  1
+ IF GC1607    A001001026  1
+ IF GC1609    A001001027  1
+ IF GC1611    A001001028  1
+ IF GC1613    A001001029  1
+ IF GC1615    A001001030  1
+ IF GC1617    A001001031  1
+ IF GC1619    A001001032  1
+ IF GC1621    A001001033  1
+ IF GC1623    A001001034  1
+ IF GC1625    A001001035  1
+ IF GC1627    A001001036  1
+ IF GC1629    A001001037  1
+ IF GC1631    A001001038  1
+ IF GC1633    A001002003  1
+ IF GC1635    A001002004  1
+ IF GC1637    A001002005  1
+ IF GC1639    A001002006  1
+ IF GC1641    A001002007  1
+ IF GC1643    A001002008  1
+ IF GC1645    A001002009  1
+ IF GC1647    A001002010  1
+ IF GC1649    A001002011  1
+ IF GC1651    A001002012  1
+ IF GC1653    A001002013  1
+ IF GC1655    A001002014  1
+ IF GC1657    A001002015  1
+ IF GC1659    A001002016  1
+ IF GC1661    A001002017  1
+ IF GC1663    A001002018  1
+ IF GC1665    A001002019  1
+ IF GC1667    A001002020  1
+ IF GC1669    A001002021  1
+ IF GC1671    A001002022  1
+ IF GC1673    A001002023  1
+ IF GC1675    A001002024  1
+ IF GC1677    A001002025  1
+ IF GC1679    A001002026  1
+ IF GC1681    A001002027  1
+ IF GC1683    A001002028  1
+ IF GC1685    A001002029  1
+ IF GC1687    A001002030  1
+ IF GC1689    A001002031  1
+ IF GC1691    A001002032  1
+ IF GC1693    A001002033  1
+ IF GC1695    A001002034  1
+ IF GC1697    A001002035  1
+ IF GC1699    A001002036  1
+ IF GC1701    A001002037  1
+ IF GC1703    A001002038  1
+ IF GC1705    A001003004  1
+ IF GC1707    A001003005  1
+ IF GC1709    A001003006  1
+ IF GC1711    A001003007  1
+ IF GC1713    A001003008  1
+ IF GC1715    A001003009  1
+ IF GC1717    A001003010  1
+ IF GC1719    A001003011  1
+ IF GC1721    A001003012  1
+ IF GC1723    A001003013  1
+ IF GC1725    A001003014  1
+ IF GC1727    A001003015  1
+ IF GC1729    A001003016  1
+ IF GC1731    A001003017  1
+ IF GC1733    A001003018  1
+ IF GC1735    A001003019  1
+ IF GC1737    A001003020  1
+ IF GC1739    A001003021  1
+ IF GC1741    A001003022  1
+ IF GC1743    A001003023  1
+ IF GC1745    A001003024  1
+ IF GC1747    A001003025  1
+ IF GC1749    A001003026  1
+ IF GC1751    A001003027  1
+ IF GC1753    A001003028  1
+ IF GC1755    A001003029  1
+ IF GC1757    A001003030  1
+ IF GC1759    A001003031  1
+ IF GC1761    A001003032  1
+ IF GC1763    A001003033  1
+ IF GC1765    A001003034  1
+ IF GC1767    A001003035  1
+ IF GC1769    A001003036  1
+ IF GC1771    A001003037  1
+ IF GC1773    A001003038  1
+ IF GC1775    A001004005  1
+ IF GC1777    A001004006  1
+ IF GC1779    A001004007  1
+ IF GC1781    A001004008  1
+ IF GC1783    A001004009  1
+ IF GC1785    A001004010  1
+ IF GC1787    A001004011  1
+ IF GC1789    A001004012  1
+ IF GC1791    A001004013  1
+ IF GC1793    A001004014  1
+ IF GC1795    A001004015  1
+ IF GC1797    A001004016  1
+ IF GC1799    A001004017  1
+ IF GC1801    A001004018  1
+ IF GC1803    A001004019  1
+ IF GC1805    A001004020  1
+ IF GC1807    A001004021  1
+ IF GC1809    A001004022  1
+ IF GC1811    A001004023  1
+ IF GC1813    A001004024  1
+ IF GC1815    A001004025  1
+ IF GC1817    A001004026  1
+ IF GC1819    A001004027  1
+ IF GC1821    A001004028  1
+ IF GC1823    A001004029  1
+ IF GC1825    A001004030  1
+ IF GC1827    A001004031  1
+ IF GC1829    A001004032  1
+ IF GC1831    A001004033  1
+ IF GC1833    A001004034  1
+ IF GC1835    A001004035  1
+ IF GC1837    A001004036  1
+ IF GC1839    A001004037  1
+ IF GC1841    A001004038  1
+ IF GC1843    A001005006  1
+ IF GC1845    A001005007  1
+ IF GC1847    A001005008  1
+ IF GC1849    A001005009  1
+ IF GC1851    A001005010  1
+ IF GC1853    A001005011  1
+ IF GC1855    A001005012  1
+ IF GC1857    A001005013  1
+ IF GC1859    A001005014  1
+ IF GC1861    A001005015  1
+ IF GC1863    A001005016  1
+ IF GC1865    A001005017  1
+ IF GC1867    A001005018  1
+ IF GC1869    A001005019  1
+ IF GC1871    A001005020  1
+ IF GC1873    A001005021  1
+ IF GC1875    A001005022  1
+ IF GC1877    A001005023  1
+ IF GC1879    A001005024  1
+ IF GC1881    A001005025  1
+ IF GC1883    A001005026  1
+ IF GC1885    A001005027  1
+ IF GC1887    A001005028  1
+ IF GC1889    A001005029  1
+ IF GC1891    A001005030  1
+ IF GC1893    A001005031  1
+ IF GC1895    A001005032  1
+ IF GC1897    A001005033  1
+ IF GC1899    A001005034  1
+ IF GC1901    A001005035  1
+ IF GC1903    A001005036  1
+ IF GC1905    A001005037  1
+ IF GC1907    A001005038  1
+ IF GC1909    A001006007  1
+ IF GC1911    A001006008  1
+ IF GC1913    A001006009  1
+ IF GC1915    A001006010  1
+ IF GC1917    A001006011  1
+ IF GC1919    A001006012  1
+ IF GC1921    A001006013  1
+ IF GC1923    A001006014  1
+ IF GC1925    A001006015  1
+ IF GC1927    A001006016  1
+ IF GC1929    A001006017  1
+ IF GC1931    A001006018  1
+ IF GC1933    A001006019  1
+ IF GC1935    A001006020  1
+ IF GC1937    A001006021  1
+ IF GC1939    A001006022  1
+ IF GC1941    A001006023  1
+ IF GC1943    A001006024  1
+ IF GC1945    A001006025  1
+ IF GC1947    A001006026  1
+ IF GC1949    A001006027  1
+ IF GC1951    A001006028  1
+ IF GC1953    A001006029  1
+ IF GC1955    A001006030  1
+ IF GC1957    A001006031  1
+ IF GC1959    A001006032  1
+ IF GC1961    A001006033  1
+ IF GC1963    A001006034  1
+ IF GC1965    A001006035  1
+ IF GC1967    A001006036  1
+ IF GC1969    A001006037  1
+ IF GC1971    A001006038  1
+ IF GC1973    A001007008  1
+ IF GC1975    A001007009  1
+ IF GC1977    A001007010  1
+ IF GC1979    A001007011  1
+ IF GC1981    A001007012  1
+ IF GC1983    A001007013  1
+ IF GC1985    A001007014  1
+ IF GC1987    A001007015  1
+ IF GC1989    A001007016  1
+ IF GC1991    A001007017  1
+ IF GC1993    A001007018  1
+ IF GC1995    A001007019  1
+ IF GC1997    A001007020  1
+ IF GC1999    A001007021  1
+ IF GC2001    A001007022  1
+ IF GC2003    A001007023  1
+ IF GC2005    A001007024  1
+ IF GC2007    A001007025  1
+ IF GC2009    A001007026  1
+ IF GC2011    A001007027  1
+ IF GC2013    A001007028  1
+ IF GC2015    A001007029  1
+ IF GC2017    A001007030  1
+ IF GC2019    A001007031  1
+ IF GC2021    A001007032  1
+ IF GC2023    A001007033  1
+ IF GC2025    A001007034  1
+ IF GC2027    A001007035  1
+ IF GC2029    A001007036  1
+ IF GC2031    A001007037  1
+ IF GC2033    A001007038  1
+ IF GC2035    A001008009  1
+ IF GC2037    A001008010  1
+ IF GC2039    A001008011  1
+ IF GC2041    A001008012  1
+ IF GC2043    A001008013  1
+ IF GC2045    A001008014  1
+ IF GC2047    A001008015  1
+ IF GC2049    A001008016  1
+ IF GC2051    A001008017  1
+ IF GC2053    A001008018  1
+ IF GC2055    A001008019  1
+ IF GC2057    A001008020  1
+ IF GC2059    A001008021  1
+ IF GC2061    A001008022  1
+ IF GC2063    A001008023  1
+ IF GC2065    A001008024  1
+ IF GC2067    A001008025  1
+ IF GC2069    A001008026  1
+ IF GC2071    A001008027  1
+ IF GC2073    A001008028  1
+ IF GC2075    A001008029  1
+ IF GC2077    A001008030  1
+ IF GC2079    A001008031  1
+ IF GC2081    A001008032  1
+ IF GC2083    A001008033  1
+ IF GC2085    A001008034  1
+ IF GC2087    A001008035  1
+ IF GC2089    A001008036  1
+ IF GC2091    A001008037  1
+ IF GC2093    A001008038  1
+ IF GC2095    A001009010  1
+ IF GC2097    A001009011  1
+ IF GC2099    A001009012  1
+ IF GC2101    A001009013  1
+ IF GC2103    A001009014  1
+ IF GC2105    A001009015  1
+ IF GC2107    A001009016  1
+ IF GC2109    A001009017  1
+ IF GC2111    A001009018  1
+ IF GC2113    A001009019  1
+ IF GC2115    A001009020  1
+ IF GC2117    A001009021  1
+ IF GC2119    A001009022  1
+ IF GC2121    A001009023  1
+ IF GC2123    A001009024  1
+ IF GC2125    A001009025  1
+ IF GC2127    A001009026  1
+ IF GC2129    A001009027  1
+ IF GC2131    A001009028  1
+ IF GC2133    A001009029  1
+ IF GC2135    A001009030  1
+ IF GC2137    A001009031  1
+ IF GC2139    A001009032  1
+ IF GC2141    A001009033  1
+ IF GC2143    A001009034  1
+ IF GC2145    A001009035  1
+ IF GC2147    A001009036  1
+ IF GC2149    A001009037  1
+ IF GC2151    A001009038  1
+ IF GC2153    A001010011  1
+ IF GC2155    A001010012  1
+ IF GC2157    A001010013  1
+ IF GC2159    A001010014  1
+ IF GC2161    A001010015  1
+ IF GC2163    A001010016  1
+ IF GC2165    A001010017  1
+ IF GC2167    A001010018  1
+ IF GC2169    A001010019  1
+ IF GC2171    A001010020  1
+ IF GC2173    A001010021  1
+ IF GC2175    A001010022  1
+ IF GC2177    A001010023  1
+ IF GC2179    A001010024  1
+ IF GC2181    A001010025  1
+ IF GC2183    A001010026  1
+ IF GC2185    A001010027  1
+ IF GC2187    A001010028  1
+ IF GC2189    A001010029  1
+ IF GC2191    A001010030  1
+ IF GC2193    A001010031  1
+ IF GC2195    A001010032  1
+ IF GC2197    A001010033  1
+ IF GC2199    A001010034  1
+ IF GC2201    A001010035  1
+ IF GC2203    A001010036  1
+ IF GC2205    A001010037  1
+ IF GC2207    A001010038  1
+ IF GC2209    A001011012  1
+ IF GC2211    A001011013  1
+ IF GC2213    A001011014  1
+ IF GC2215    A001011015  1
+ IF GC2217    A001011016  1
+ IF GC2219    A001011017  1
+ IF GC2221    A001011018  1
+ IF GC2223    A001011019  1
+ IF GC2225    A001011020  1
+ IF GC2227    A001011021  1
+ IF GC2229    A001011022  1
+ IF GC2231    A001011023  1
+ IF GC2233    A001011024  1
+ IF GC2235    A001011025  1
+ IF GC2237    A001011026  1
+ IF GC2239    A001011027  1
+ IF GC2241    A001011028  1
+ IF GC2243    A001011029  1
+ IF GC2245    A001011030  1
+ IF GC2247    A001011031  1
+ IF GC2249    A001011032  1
+ IF GC2251    A001011033  1
+ IF GC2253    A001011034  1
+ IF GC2255    A001011035  1
+ IF GC2257    A001011036  1
+ IF GC2259    A001011037  1
+ IF GC2261    A001011038  1
+ IF GC2263    A001012013  1
+ IF GC2265    A001012014  1
+ IF GC2267    A001012015  1
+ IF GC2269    A001012016  1
+ IF GC2271    A001012017  1
+ IF GC2273    A001012018  1
+ IF GC2275    A001012019  1
+ IF GC2277    A001012020  1
+ IF GC2279    A001012021  1
+ IF GC2281    A001012022  1
+ IF GC2283    A001012023  1
+ IF GC2285    A001012024  1
+ IF GC2287    A001012025  1
+ IF GC2289    A001012026  1
+ IF GC2291    A001012027  1
+ IF GC2293    A001012028  1
+ IF GC2295    A001012029  1
+ IF GC2297    A001012030  1
+ IF GC2299    A001012031  1
+ IF GC2301    A001012032  1
+ IF GC2303    A001012033  1
+ IF GC2305    A001012034  1
+ IF GC2307    A001012035  1
+ IF GC2309    A001012036  1
+ IF GC2311    A001012037  1
+ IF GC2313    A001012038  1
+ IF GC2315    A001013014  1
+ IF GC2317    A001013015  1
+ IF GC2319    A001013016  1
+ IF GC2321    A001013017  1
+ IF GC2323    A001013018  1
+ IF GC2325    A001013019  1
+ IF GC2327    A001013020  1
+ IF GC2329    A001013021  1
+ IF GC2331    A001013022  1
+ IF GC2333    A001013023  1
+ IF GC2335    A001013024  1
+ IF GC2337    A001013025  1
+ IF GC2339    A001013026  1
+ IF GC2341    A001013027  1
+ IF GC2343    A001013028  1
+ IF GC2345    A001013029  1
+ IF GC2347    A001013030  1
+ IF GC2349    A001013031  1
+ IF GC2351    A001013032  1
+ IF GC2353    A001013033  1
+ IF GC2355    A001013034  1
+ IF GC2357    A001013035  1
+ IF GC2359    A001013036  1
+ IF GC2361    A001013037  1
+ IF GC2363    A001013038  1
+ IF GC2365    A001014015  1
+ IF GC2367    A001014016  1
+ IF GC2369    A001014017  1
+ IF GC2371    A001014018  1
+ IF GC2373    A001014019  1
+ IF GC2375    A001014020  1
+ IF GC2377    A001014021  1
+ IF GC2379    A001014022  1
+ IF GC2381    A001014023  1
+ IF GC2383    A001014024  1
+ IF GC2385    A001014025  1
+ IF GC2387    A001014026  1
+ IF GC2389    A001014027  1
+ IF GC2391    A001014028  1
+ IF GC2393    A001014029  1
+ IF GC2395    A001014030  1
+ IF GC2397    A001014031  1
+ IF GC2399    A001014032  1
+ IF GC2401    A001014033  1
+ IF GC2403    A001014034  1
+ IF GC2405    A001014035  1
+ IF GC2407    A001014036  1
+ IF GC2409    A001014037  1
+ IF GC2411    A001014038  1
+ IF GC2413    A001015016  1
+ IF GC2415    A001015017  1
+ IF GC2417    A001015018  1
+ IF GC2419    A001015019  1
+ IF GC2421    A001015020  1
+ IF GC2423    A001015021  1
+ IF GC2425    A001015022  1
+ IF GC2427    A001015023  1
+ IF GC2429    A001015024  1
+ IF GC2431    A001015025  1
+ IF GC2433    A001015026  1
+ IF GC2435    A001015027  1
+ IF GC2437    A001015028  1
+ IF GC2439    A001015029  1
+ IF GC2441    A001015030  1
+ IF GC2443    A001015031  1
+ IF GC2445    A001015032  1
+ IF GC2447    A001015033  1
+ IF GC2449    A001015034  1
+ IF GC2451    A001015035  1
+ IF GC2453    A001015036  1
+ IF GC2455    A001015037  1
+ IF GC2457    A001015038  1
+ IF GC2459    A001016017  1
+ IF GC2461    A001016018  1
+ IF GC2463    A001016019  1
+ IF GC2465    A001016020  1
+ IF GC2467    A001016021  1
+ IF GC2469    A001016022  1
+ IF GC2471    A001016023  1
+ IF GC2473    A001016024  1
+ IF GC2475    A001016025  1
+ IF GC2477    A001016026  1
+ IF GC2479    A001016027  1
+ IF GC2481    A001016028  1
+ IF GC2483    A001016029  1
+ IF GC2485    A001016030  1
+ IF GC2487    A001016031  1
+ IF GC2489    A001016032  1
+ IF GC2491    A001016033  1
+ IF GC2493    A001016034  1
+ IF GC2495    A001016035  1
+ IF GC2497    A001016036  1
+ IF GC2499    A001016037  1
+ IF GC2501    A001016038  1
+ IF GC2503    A001017018  1
+ IF GC2505    A001017019  1
+ IF GC2507    A001017020  1
+ IF GC2509    A001017021  1
+ IF GC2511    A001017022  1
+ IF GC2513    A001017023  1
+ IF GC2515    A001017024  1
+ IF GC2517    A001017025  1
+ IF GC2519    A001017026  1
+ IF GC2521    A001017027  1
+ IF GC2523    A001017028  1
+ IF GC2525    A001017029  1
+ IF GC2527    A001017030  1
+ IF GC2529    A001017031  1
+ IF GC2531    A001017032  1
+ IF GC2533    A001017033  1
+ IF GC2535    A001017034  1
+ IF GC2537    A001017035  1
+ IF GC2539    A001017036  1
+ IF GC2541    A001017037  1
+ IF GC2543    A001017038  1
+ IF GC2545    A001018019  1
+ IF GC2547    A001018020  1
+ IF GC2549    A001018021  1
+ IF GC2551    A001018022  1
+ IF GC2553    A001018023  1
+ IF GC2555    A001018024  1
+ IF GC2557    A001018025  1
+ IF GC2559    A001018026  1
+ IF GC2561    A001018027  1
+ IF GC2563    A001018028  1
+ IF GC2565    A001018029  1
+ IF GC2567    A001018030  1
+ IF GC2569    A001018031  1
+ IF GC2571    A001018032  1
+ IF GC2573    A001018033  1
+ IF GC2575    A001018034  1
+ IF GC2577    A001018035  1
+ IF GC2579    A001018036  1
+ IF GC2581    A001018037  1
+ IF GC2583    A001018038  1
+ IF GC2585    A001019020  1
+ IF GC2587    A001019021  1
+ IF GC2589    A001019022  1
+ IF GC2591    A001019023  1
+ IF GC2593    A001019024  1
+ IF GC2595    A001019025  1
+ IF GC2597    A001019026  1
+ IF GC2599    A001019027  1
+ IF GC2601    A001019028  1
+ IF GC2603    A001019029  1
+ IF GC2605    A001019030  1
+ IF GC2607    A001019031  1
+ IF GC2609    A001019032  1
+ IF GC2611    A001019033  1
+ IF GC2613    A001019034  1
+ IF GC2615    A001019035  1
+ IF GC2617    A001019036  1
+ IF GC2619    A001019037  1
+ IF GC2621    A001019038  1
+ IF GC2623    A001020021  1
+ IF GC2625    A001020022  1
+ IF GC2627    A001020023  1
+ IF GC2629    A001020024  1
+ IF GC2631    A001020025  1
+ IF GC2633    A001020026  1
+ IF GC2635    A001020027  1
+ IF GC2637    A001020028  1
+ IF GC2639    A001020029  1
+ IF GC2641    A001020030  1
+ IF GC2643    A001020031  1
+ IF GC2645    A001020032  1
+ IF GC2647    A001020033  1
+ IF GC2649    A001020034  1
+ IF GC2651    A001020035  1
+ IF GC2653    A001020036  1
+ IF GC2655    A001020037  1
+ IF GC2657    A001020038  1
+ IF GC2659    A001021022  1
+ IF GC2661    A001021023  1
+ IF GC2663    A001021024  1
+ IF GC2665    A001021025  1
+ IF GC2667    A001021026  1
+ IF GC2669    A001021027  1
+ IF GC2671    A001021028  1
+ IF GC2673    A001021029  1
+ IF GC2675    A001021030  1
+ IF GC2677    A001021031  1
+ IF GC2679    A001021032  1
+ IF GC2681    A001021033  1
+ IF GC2683    A001021034  1
+ IF GC2685    A001021035  1
+ IF GC2687    A001021036  1
+ IF GC2689    A001021037  1
+ IF GC2691    A001021038  1
+ IF GC2693    A001022023  1
+ IF GC2695    A001022024  1
+ IF GC2697    A001022025  1
+ IF GC2699    A001022026  1
+ IF GC2701    A001022027  1
+ IF GC2703    A001022028  1
+ IF GC2705    A001022029  1
+ IF GC2707    A001022030  1
+ IF GC2709    A001022031  1
+ IF GC2711    A001022032  1
+ IF GC2713    A001022033  1
+ IF GC2715    A001022034  1
+ IF GC2717    A001022035  1
+ IF GC2719    A001022036  1
+ IF GC2721    A001022037  1
+ IF GC2723    A001022038  1
+ IF GC2725    A001023024  1
+ IF GC2727    A001023025  1
+ IF GC2729    A001023026  1
+ IF GC2731    A001023027  1
+ IF GC2733    A001023028  1
+ IF GC2735    A001023029  1
+ IF GC2737    A001023030  1
+ IF GC2739    A001023031  1
+ IF GC2741    A001023032  1
+ IF GC2743    A001023033  1
+ IF GC2745    A001023034  1
+ IF GC2747    A001023035  1
+ IF GC2749    A001023036  1
+ IF GC2751    A001023037  1
+ IF GC2753    A001023038  1
+ IF GC2755    A001024025  1
+ IF GC2757    A001024026  1
+ IF GC2759    A001024027  1
+ IF GC2761    A001024028  1
+ IF GC2763    A001024029  1
+ IF GC2765    A001024030  1
+ IF GC2767    A001024031  1
+ IF GC2769    A001024032  1
+ IF GC2771    A001024033  1
+ IF GC2773    A001024034  1
+ IF GC2775    A001024035  1
+ IF GC2777    A001024036  1
+ IF GC2779    A001024037  1
+ IF GC2781    A001024038  1
+ IF GC2783    A001025026  1
+ IF GC2785    A001025027  1
+ IF GC2787    A001025028  1
+ IF GC2789    A001025029  1
+ IF GC2791    A001025030  1
+ IF GC2793    A001025031  1
+ IF GC2795    A001025032  1
+ IF GC2797    A001025033  1
+ IF GC2799    A001025034  1
+ IF GC2801    A001025035  1
+ IF GC2803    A001025036  1
+ IF GC2805    A001025037  1
+ IF GC2807    A001025038  1
+ IF GC2809    A001026027  1
+ IF GC2811    A001026028  1
+ IF GC2813    A001026029  1
+ IF GC2815    A001026030  1
+ IF GC2817    A001026031  1
+ IF GC2819    A001026032  1
+ IF GC2821    A001026033  1
+ IF GC2823    A001026034  1
+ IF GC2825    A001026035  1
+ IF GC2827    A001026036  1
+ IF GC2829    A001026037  1
+ IF GC2831    A001026038  1
+ IF GC2833    A001027028  1
+ IF GC2835    A001027029  1
+ IF GC2837    A001027030  1
+ IF GC2839    A001027031  1
+ IF GC2841    A001027032  1
+ IF GC2843    A001027033  1
+ IF GC2845    A001027034  1
+ IF GC2847    A001027035  1
+ IF GC2849    A001027036  1
+ IF GC2851    A001027037  1
+ IF GC2853    A001027038  1
+ IF GC2855    A001028029  1
+ IF GC2857    A001028030  1
+ IF GC2859    A001028031  1
+ IF GC2861    A001028032  1
+ IF GC2863    A001028033  1
+ IF GC2865    A001028034  1
+ IF GC2867    A001028035  1
+ IF GC2869    A001028036  1
+ IF GC2871    A001028037  1
+ IF GC2873    A001028038  1
+ IF GC2875    A001029030  1
+ IF GC2877    A001029031  1
+ IF GC2879    A001029032  1
+ IF GC2881    A001029033  1
+ IF GC2883    A001029034  1
+ IF GC2885    A001029035  1
+ IF GC2887    A001029036  1
+ IF GC2889    A001029037  1
+ IF GC2891    A001029038  1
+ IF GC2893    A001030031  1
+ IF GC2895    A001030032  1
+ IF GC2897    A001030033  1
+ IF GC2899    A001030034  1
+ IF GC2901    A001030035  1
+ IF GC2903    A001030036  1
+ IF GC2905    A001030037  1
+ IF GC2907    A001030038  1
+ IF GC2909    A001031032  1
+ IF GC2911    A001031033  1
+ IF GC2913    A001031034  1
+ IF GC2915    A001031035  1
+ IF GC2917    A001031036  1
+ IF GC2919    A001031037  1
+ IF GC2921    A001031038  1
+ IF GC2923    A001032033  1
+ IF GC2925    A001032034  1
+ IF GC2927    A001032035  1
+ IF GC2929    A001032036  1
+ IF GC2931    A001032037  1
+ IF GC2933    A001032038  1
+ IF GC2935    A001033034  1
+ IF GC2937    A001033035  1
+ IF GC2939    A001033036  1
+ IF GC2941    A001033037  1
+ IF GC2943    A001033038  1
+ IF GC2945    A001034035  1
+ IF GC2947    A001034036  1
+ IF GC2949    A001034037  1
+ IF GC2951    A001034038  1
+ IF GC2953    A001035036  1
+ IF GC2955    A001035037  1
+ IF GC2957    A001035038  1
+ IF GC2959    A001036037  1
+ IF GC2961    A001036038  1
+ IF GC2963    A001037038  1
+ IF GC2965    A002001002  1
+ IF GC2967    A002001003  1
+ IF GC2969    A002001004  1
+ IF GC2971    A002001005  1
+ IF GC2973    A002001006  1
+ IF GC2975    A002001007  1
+ IF GC2977    A002001008  1
+ IF GC2979    A002001009  1
+ IF GC2981    A002001010  1
+ IF GC2983    A002001011  1
+ IF GC2985    A002001012  1
+ IF GC2987    A002001013  1
+ IF GC2989    A002001014  1
+ IF GC2991    A002001015  1
+ IF GC2993    A002001016  1
+ IF GC2995    A002001017  1
+ IF GC2997    A002001018  1
+ IF GC2999    A002001019  1
+ IF GC3001    A002001020  1
+ IF GC3003    A002001021  1
+ IF GC3005    A002001022  1
+ IF GC3007    A002001023  1
+ IF GC3009    A002001024  1
+ IF GC3011    A002001025  1
+ IF GC3013    A002001026  1
+ IF GC3015    A002001027  1
+ IF GC3017    A002001028  1
+ IF GC3019    A002001029  1
+ IF GC3021    A002001030  1
+ IF GC3023    A002001031  1
+ IF GC3025    A002001032  1
+ IF GC3027    A002001033  1
+ IF GC3029    A002001034  1
+ IF GC3031    A002001035  1
+ IF GC3033    A002001036  1
+ IF GC3035    A002001037  1
+ IF GC3037    A002001038  1
+ IF GC3039    A002002003  1
+ IF GC3041    A002002004  1
+ IF GC3043    A002002005  1
+ IF GC3045    A002002006  1
+ IF GC3047    A002002007  1
+ IF GC3049    A002002008  1
+ IF GC3051    A002002009  1
+ IF GC3053    A002002010  1
+ IF GC3055    A002002011  1
+ IF GC3057    A002002012  1
+ IF GC3059    A002002013  1
+ IF GC3061    A002002014  1
+ IF GC3063    A002002015  1
+ IF GC3065    A002002016  1
+ IF GC3067    A002002017  1
+ IF GC3069    A002002018  1
+ IF GC3071    A002002019  1
+ IF GC3073    A002002020  1
+ IF GC3075    A002002021  1
+ IF GC3077    A002002022  1
+ IF GC3079    A002002023  1
+ IF GC3081    A002002024  1
+ IF GC3083    A002002025  1
+ IF GC3085    A002002026  1
+ IF GC3087    A002002027  1
+ IF GC3089    A002002028  1
+ IF GC3091    A002002029  1
+ IF GC3093    A002002030  1
+ IF GC3095    A002002031  1
+ IF GC3097    A002002032  1
+ IF GC3099    A002002033  1
+ IF GC3101    A002002034  1
+ IF GC3103    A002002035  1
+ IF GC3105    A002002036  1
+ IF GC3107    A002002037  1
+ IF GC3109    A002002038  1
+ IF GC3111    A002003004  1
+ IF GC3113    A002003005  1
+ IF GC3115    A002003006  1
+ IF GC3117    A002003007  1
+ IF GC3119    A002003008  1
+ IF GC3121    A002003009  1
+ IF GC3123    A002003010  1
+ IF GC3125    A002003011  1
+ IF GC3127    A002003012  1
+ IF GC3129    A002003013  1
+ IF GC3131    A002003014  1
+ IF GC3133    A002003015  1
+ IF GC3135    A002003016  1
+ IF GC3137    A002003017  1
+ IF GC3139    A002003018  1
+ IF GC3141    A002003019  1
+ IF GC3143    A002003020  1
+ IF GC3145    A002003021  1
+ IF GC3147    A002003022  1
+ IF GC3149    A002003023  1
+ IF GC3151    A002003024  1
+ IF GC3153    A002003025  1
+ IF GC3155    A002003026  1
+ IF GC3157    A002003027  1
+ IF GC3159    A002003028  1
+ IF GC3161    A002003029  1
+ IF GC3163    A002003030  1
+ IF GC3165    A002003031  1
+ IF GC3167    A002003032  1
+ IF GC3169    A002003033  1
+ IF GC3171    A002003034  1
+ IF GC3173    A002003035  1
+ IF GC3175    A002003036  1
+ IF GC3177    A002003037  1
+ IF GC3179    A002003038  1
+ IF GC3181    A002004005  1
+ IF GC3183    A002004006  1
+ IF GC3185    A002004007  1
+ IF GC3187    A002004008  1
+ IF GC3189    A002004009  1
+ IF GC3191    A002004010  1
+ IF GC3193    A002004011  1
+ IF GC3195    A002004012  1
+ IF GC3197    A002004013  1
+ IF GC3199    A002004014  1
+ IF GC3201    A002004015  1
+ IF GC3203    A002004016  1
+ IF GC3205    A002004017  1
+ IF GC3207    A002004018  1
+ IF GC3209    A002004019  1
+ IF GC3211    A002004020  1
+ IF GC3213    A002004021  1
+ IF GC3215    A002004022  1
+ IF GC3217    A002004023  1
+ IF GC3219    A002004024  1
+ IF GC3221    A002004025  1
+ IF GC3223    A002004026  1
+ IF GC3225    A002004027  1
+ IF GC3227    A002004028  1
+ IF GC3229    A002004029  1
+ IF GC3231    A002004030  1
+ IF GC3233    A002004031  1
+ IF GC3235    A002004032  1
+ IF GC3237    A002004033  1
+ IF GC3239    A002004034  1
+ IF GC3241    A002004035  1
+ IF GC3243    A002004036  1
+ IF GC3245    A002004037  1
+ IF GC3247    A002004038  1
+ IF GC3249    A002005006  1
+ IF GC3251    A002005007  1
+ IF GC3253    A002005008  1
+ IF GC3255    A002005009  1
+ IF GC3257    A002005010  1
+ IF GC3259    A002005011  1
+ IF GC3261    A002005012  1
+ IF GC3263    A002005013  1
+ IF GC3265    A002005014  1
+ IF GC3267    A002005015  1
+ IF GC3269    A002005016  1
+ IF GC3271    A002005017  1
+ IF GC3273    A002005018  1
+ IF GC3275    A002005019  1
+ IF GC3277    A002005020  1
+ IF GC3279    A002005021  1
+ IF GC3281    A002005022  1
+ IF GC3283    A002005023  1
+ IF GC3285    A002005024  1
+ IF GC3287    A002005025  1
+ IF GC3289    A002005026  1
+ IF GC3291    A002005027  1
+ IF GC3293    A002005028  1
+ IF GC3295    A002005029  1
+ IF GC3297    A002005030  1
+ IF GC3299    A002005031  1
+ IF GC3301    A002005032  1
+ IF GC3303    A002005033  1
+ IF GC3305    A002005034  1
+ IF GC3307    A002005035  1
+ IF GC3309    A002005036  1
+ IF GC3311    A002005037  1
+ IF GC3313    A002005038  1
+ IF GC3315    A002006007  1
+ IF GC3317    A002006008  1
+ IF GC3319    A002006009  1
+ IF GC3321    A002006010  1
+ IF GC3323    A002006011  1
+ IF GC3325    A002006012  1
+ IF GC3327    A002006013  1
+ IF GC3329    A002006014  1
+ IF GC3331    A002006015  1
+ IF GC3333    A002006016  1
+ IF GC3335    A002006017  1
+ IF GC3337    A002006018  1
+ IF GC3339    A002006019  1
+ IF GC3341    A002006020  1
+ IF GC3343    A002006021  1
+ IF GC3345    A002006022  1
+ IF GC3347    A002006023  1
+ IF GC3349    A002006024  1
+ IF GC3351    A002006025  1
+ IF GC3353    A002006026  1
+ IF GC3355    A002006027  1
+ IF GC3357    A002006028  1
+ IF GC3359    A002006029  1
+ IF GC3361    A002006030  1
+ IF GC3363    A002006031  1
+ IF GC3365    A002006032  1
+ IF GC3367    A002006033  1
+ IF GC3369    A002006034  1
+ IF GC3371    A002006035  1
+ IF GC3373    A002006036  1
+ IF GC3375    A002006037  1
+ IF GC3377    A002006038  1
+ IF GC3379    A002007008  1
+ IF GC3381    A002007009  1
+ IF GC3383    A002007010  1
+ IF GC3385    A002007011  1
+ IF GC3387    A002007012  1
+ IF GC3389    A002007013  1
+ IF GC3391    A002007014  1
+ IF GC3393    A002007015  1
+ IF GC3395    A002007016  1
+ IF GC3397    A002007017  1
+ IF GC3399    A002007018  1
+ IF GC3401    A002007019  1
+ IF GC3403    A002007020  1
+ IF GC3405    A002007021  1
+ IF GC3407    A002007022  1
+ IF GC3409    A002007023  1
+ IF GC3411    A002007024  1
+ IF GC3413    A002007025  1
+ IF GC3415    A002007026  1
+ IF GC3417    A002007027  1
+ IF GC3419    A002007028  1
+ IF GC3421    A002007029  1
+ IF GC3423    A002007030  1
+ IF GC3425    A002007031  1
+ IF GC3427    A002007032  1
+ IF GC3429    A002007033  1
+ IF GC3431    A002007034  1
+ IF GC3433    A002007035  1
+ IF GC3435    A002007036  1
+ IF GC3437    A002007037  1
+ IF GC3439    A002007038  1
+ IF GC3441    A002008009  1
+ IF GC3443    A002008010  1
+ IF GC3445    A002008011  1
+ IF GC3447    A002008012  1
+ IF GC3449    A002008013  1
+ IF GC3451    A002008014  1
+ IF GC3453    A002008015  1
+ IF GC3455    A002008016  1
+ IF GC3457    A002008017  1
+ IF GC3459    A002008018  1
+ IF GC3461    A002008019  1
+ IF GC3463    A002008020  1
+ IF GC3465    A002008021  1
+ IF GC3467    A002008022  1
+ IF GC3469    A002008023  1
+ IF GC3471    A002008024  1
+ IF GC3473    A002008025  1
+ IF GC3475    A002008026  1
+ IF GC3477    A002008027  1
+ IF GC3479    A002008028  1
+ IF GC3481    A002008029  1
+ IF GC3483    A002008030  1
+ IF GC3485    A002008031  1
+ IF GC3487    A002008032  1
+ IF GC3489    A002008033  1
+ IF GC3491    A002008034  1
+ IF GC3493    A002008035  1
+ IF GC3495    A002008036  1
+ IF GC3497    A002008037  1
+ IF GC3499    A002008038  1
+ IF GC3501    A002009010  1
+ IF GC3503    A002009011  1
+ IF GC3505    A002009012  1
+ IF GC3507    A002009013  1
+ IF GC3509    A002009014  1
+ IF GC3511    A002009015  1
+ IF GC3513    A002009016  1
+ IF GC3515    A002009017  1
+ IF GC3517    A002009018  1
+ IF GC3519    A002009019  1
+ IF GC3521    A002009020  1
+ IF GC3523    A002009021  1
+ IF GC3525    A002009022  1
+ IF GC3527    A002009023  1
+ IF GC3529    A002009024  1
+ IF GC3531    A002009025  1
+ IF GC3533    A002009026  1
+ IF GC3535    A002009027  1
+ IF GC3537    A002009028  1
+ IF GC3539    A002009029  1
+ IF GC3541    A002009030  1
+ IF GC3543    A002009031  1
+ IF GC3545    A002009032  1
+ IF GC3547    A002009033  1
+ IF GC3549    A002009034  1
+ IF GC3551    A002009035  1
+ IF GC3553    A002009036  1
+ IF GC3555    A002009037  1
+ IF GC3557    A002009038  1
+ IF GC3559    A002010011  1
+ IF GC3561    A002010012  1
+ IF GC3563    A002010013  1
+ IF GC3565    A002010014  1
+ IF GC3567    A002010015  1
+ IF GC3569    A002010016  1
+ IF GC3571    A002010017  1
+ IF GC3573    A002010018  1
+ IF GC3575    A002010019  1
+ IF GC3577    A002010020  1
+ IF GC3579    A002010021  1
+ IF GC3581    A002010022  1
+ IF GC3583    A002010023  1
+ IF GC3585    A002010024  1
+ IF GC3587    A002010025  1
+ IF GC3589    A002010026  1
+ IF GC3591    A002010027  1
+ IF GC3593    A002010028  1
+ IF GC3595    A002010029  1
+ IF GC3597    A002010030  1
+ IF GC3599    A002010031  1
+ IF GC3601    A002010032  1
+ IF GC3603    A002010033  1
+ IF GC3605    A002010034  1
+ IF GC3607    A002010035  1
+ IF GC3609    A002010036  1
+ IF GC3611    A002010037  1
+ IF GC3613    A002010038  1
+ IF GC3615    A002011012  1
+ IF GC3617    A002011013  1
+ IF GC3619    A002011014  1
+ IF GC3621    A002011015  1
+ IF GC3623    A002011016  1
+ IF GC3625    A002011017  1
+ IF GC3627    A002011018  1
+ IF GC3629    A002011019  1
+ IF GC3631    A002011020  1
+ IF GC3633    A002011021  1
+ IF GC3635    A002011022  1
+ IF GC3637    A002011023  1
+ IF GC3639    A002011024  1
+ IF GC3641    A002011025  1
+ IF GC3643    A002011026  1
+ IF GC3645    A002011027  1
+ IF GC3647    A002011028  1
+ IF GC3649    A002011029  1
+ IF GC3651    A002011030  1
+ IF GC3653    A002011031  1
+ IF GC3655    A002011032  1
+ IF GC3657    A002011033  1
+ IF GC3659    A002011034  1
+ IF GC3661    A002011035  1
+ IF GC3663    A002011036  1
+ IF GC3665    A002011037  1
+ IF GC3667    A002011038  1
+ IF GC3669    A002012013  1
+ IF GC3671    A002012014  1
+ IF GC3673    A002012015  1
+ IF GC3675    A002012016  1
+ IF GC3677    A002012017  1
+ IF GC3679    A002012018  1
+ IF GC3681    A002012019  1
+ IF GC3683    A002012020  1
+ IF GC3685    A002012021  1
+ IF GC3687    A002012022  1
+ IF GC3689    A002012023  1
+ IF GC3691    A002012024  1
+ IF GC3693    A002012025  1
+ IF GC3695    A002012026  1
+ IF GC3697    A002012027  1
+ IF GC3699    A002012028  1
+ IF GC3701    A002012029  1
+ IF GC3703    A002012030  1
+ IF GC3705    A002012031  1
+ IF GC3707    A002012032  1
+ IF GC3709    A002012033  1
+ IF GC3711    A002012034  1
+ IF GC3713    A002012035  1
+ IF GC3715    A002012036  1
+ IF GC3717    A002012037  1
+ IF GC3719    A002012038  1
+ IF GC3721    A002013014  1
+ IF GC3723    A002013015  1
+ IF GC3725    A002013016  1
+ IF GC3727    A002013017  1
+ IF GC3729    A002013018  1
+ IF GC3731    A002013019  1
+ IF GC3733    A002013020  1
+ IF GC3735    A002013021  1
+ IF GC3737    A002013022  1
+ IF GC3739    A002013023  1
+ IF GC3741    A002013024  1
+ IF GC3743    A002013025  1
+ IF GC3745    A002013026  1
+ IF GC3747    A002013027  1
+ IF GC3749    A002013028  1
+ IF GC3751    A002013029  1
+ IF GC3753    A002013030  1
+ IF GC3755    A002013031  1
+ IF GC3757    A002013032  1
+ IF GC3759    A002013033  1
+ IF GC3761    A002013034  1
+ IF GC3763    A002013035  1
+ IF GC3765    A002013036  1
+ IF GC3767    A002013037  1
+ IF GC3769    A002013038  1
+ IF GC3771    A002014015  1
+ IF GC3773    A002014016  1
+ IF GC3775    A002014017  1
+ IF GC3777    A002014018  1
+ IF GC3779    A002014019  1
+ IF GC3781    A002014020  1
+ IF GC3783    A002014021  1
+ IF GC3785    A002014022  1
+ IF GC3787    A002014023  1
+ IF GC3789    A002014024  1
+ IF GC3791    A002014025  1
+ IF GC3793    A002014026  1
+ IF GC3795    A002014027  1
+ IF GC3797    A002014028  1
+ IF GC3799    A002014029  1
+ IF GC3801    A002014030  1
+ IF GC3803    A002014031  1
+ IF GC3805    A002014032  1
+ IF GC3807    A002014033  1
+ IF GC3809    A002014034  1
+ IF GC3811    A002014035  1
+ IF GC3813    A002014036  1
+ IF GC3815    A002014037  1
+ IF GC3817    A002014038  1
+ IF GC3819    A002015016  1
+ IF GC3821    A002015017  1
+ IF GC3823    A002015018  1
+ IF GC3825    A002015019  1
+ IF GC3827    A002015020  1
+ IF GC3829    A002015021  1
+ IF GC3831    A002015022  1
+ IF GC3833    A002015023  1
+ IF GC3835    A002015024  1
+ IF GC3837    A002015025  1
+ IF GC3839    A002015026  1
+ IF GC3841    A002015027  1
+ IF GC3843    A002015028  1
+ IF GC3845    A002015029  1
+ IF GC3847    A002015030  1
+ IF GC3849    A002015031  1
+ IF GC3851    A002015032  1
+ IF GC3853    A002015033  1
+ IF GC3855    A002015034  1
+ IF GC3857    A002015035  1
+ IF GC3859    A002015036  1
+ IF GC3861    A002015037  1
+ IF GC3863    A002015038  1
+ IF GC3865    A002016017  1
+ IF GC3867    A002016018  1
+ IF GC3869    A002016019  1
+ IF GC3871    A002016020  1
+ IF GC3873    A002016021  1
+ IF GC3875    A002016022  1
+ IF GC3877    A002016023  1
+ IF GC3879    A002016024  1
+ IF GC3881    A002016025  1
+ IF GC3883    A002016026  1
+ IF GC3885    A002016027  1
+ IF GC3887    A002016028  1
+ IF GC3889    A002016029  1
+ IF GC3891    A002016030  1
+ IF GC3893    A002016031  1
+ IF GC3895    A002016032  1
+ IF GC3897    A002016033  1
+ IF GC3899    A002016034  1
+ IF GC3901    A002016035  1
+ IF GC3903    A002016036  1
+ IF GC3905    A002016037  1
+ IF GC3907    A002016038  1
+ IF GC3909    A002017018  1
+ IF GC3911    A002017019  1
+ IF GC3913    A002017020  1
+ IF GC3915    A002017021  1
+ IF GC3917    A002017022  1
+ IF GC3919    A002017023  1
+ IF GC3921    A002017024  1
+ IF GC3923    A002017025  1
+ IF GC3925    A002017026  1
+ IF GC3927    A002017027  1
+ IF GC3929    A002017028  1
+ IF GC3931    A002017029  1
+ IF GC3933    A002017030  1
+ IF GC3935    A002017031  1
+ IF GC3937    A002017032  1
+ IF GC3939    A002017033  1
+ IF GC3941    A002017034  1
+ IF GC3943    A002017035  1
+ IF GC3945    A002017036  1
+ IF GC3947    A002017037  1
+ IF GC3949    A002017038  1
+ IF GC3951    A002018019  1
+ IF GC3953    A002018020  1
+ IF GC3955    A002018021  1
+ IF GC3957    A002018022  1
+ IF GC3959    A002018023  1
+ IF GC3961    A002018024  1
+ IF GC3963    A002018025  1
+ IF GC3965    A002018026  1
+ IF GC3967    A002018027  1
+ IF GC3969    A002018028  1
+ IF GC3971    A002018029  1
+ IF GC3973    A002018030  1
+ IF GC3975    A002018031  1
+ IF GC3977    A002018032  1
+ IF GC3979    A002018033  1
+ IF GC3981    A002018034  1
+ IF GC3983    A002018035  1
+ IF GC3985    A002018036  1
+ IF GC3987    A002018037  1
+ IF GC3989    A002018038  1
+ IF GC3991    A002019020  1
+ IF GC3993    A002019021  1
+ IF GC3995    A002019022  1
+ IF GC3997    A002019023  1
+ IF GC3999    A002019024  1
+ IF GC4001    A002019025  1
+ IF GC4003    A002019026  1
+ IF GC4005    A002019027  1
+ IF GC4007    A002019028  1
+ IF GC4009    A002019029  1
+ IF GC4011    A002019030  1
+ IF GC4013    A002019031  1
+ IF GC4015    A002019032  1
+ IF GC4017    A002019033  1
+ IF GC4019    A002019034  1
+ IF GC4021    A002019035  1
+ IF GC4023    A002019036  1
+ IF GC4025    A002019037  1
+ IF GC4027    A002019038  1
+ IF GC4029    A002020021  1
+ IF GC4031    A002020022  1
+ IF GC4033    A002020023  1
+ IF GC4035    A002020024  1
+ IF GC4037    A002020025  1
+ IF GC4039    A002020026  1
+ IF GC4041    A002020027  1
+ IF GC4043    A002020028  1
+ IF GC4045    A002020029  1
+ IF GC4047    A002020030  1
+ IF GC4049    A002020031  1
+ IF GC4051    A002020032  1
+ IF GC4053    A002020033  1
+ IF GC4055    A002020034  1
+ IF GC4057    A002020035  1
+ IF GC4059    A002020036  1
+ IF GC4061    A002020037  1
+ IF GC4063    A002020038  1
+ IF GC4065    A002021022  1
+ IF GC4067    A002021023  1
+ IF GC4069    A002021024  1
+ IF GC4071    A002021025  1
+ IF GC4073    A002021026  1
+ IF GC4075    A002021027  1
+ IF GC4077    A002021028  1
+ IF GC4079    A002021029  1
+ IF GC4081    A002021030  1
+ IF GC4083    A002021031  1
+ IF GC4085    A002021032  1
+ IF GC4087    A002021033  1
+ IF GC4089    A002021034  1
+ IF GC4091    A002021035  1
+ IF GC4093    A002021036  1
+ IF GC4095    A002021037  1
+ IF GC4097    A002021038  1
+ IF GC4099    A002022023  1
+ IF GC4101    A002022024  1
+ IF GC4103    A002022025  1
+ IF GC4105    A002022026  1
+ IF GC4107    A002022027  1
+ IF GC4109    A002022028  1
+ IF GC4111    A002022029  1
+ IF GC4113    A002022030  1
+ IF GC4115    A002022031  1
+ IF GC4117    A002022032  1
+ IF GC4119    A002022033  1
+ IF GC4121    A002022034  1
+ IF GC4123    A002022035  1
+ IF GC4125    A002022036  1
+ IF GC4127    A002022037  1
+ IF GC4129    A002022038  1
+ IF GC4131    A002023024  1
+ IF GC4133    A002023025  1
+ IF GC4135    A002023026  1
+ IF GC4137    A002023027  1
+ IF GC4139    A002023028  1
+ IF GC4141    A002023029  1
+ IF GC4143    A002023030  1
+ IF GC4145    A002023031  1
+ IF GC4147    A002023032  1
+ IF GC4149    A002023033  1
+ IF GC4151    A002023034  1
+ IF GC4153    A002023035  1
+ IF GC4155    A002023036  1
+ IF GC4157    A002023037  1
+ IF GC4159    A002023038  1
+ IF GC4161    A002024025  1
+ IF GC4163    A002024026  1
+ IF GC4165    A002024027  1
+ IF GC4167    A002024028  1
+ IF GC4169    A002024029  1
+ IF GC4171    A002024030  1
+ IF GC4173    A002024031  1
+ IF GC4175    A002024032  1
+ IF GC4177    A002024033  1
+ IF GC4179    A002024034  1
+ IF GC4181    A002024035  1
+ IF GC4183    A002024036  1
+ IF GC4185    A002024037  1
+ IF GC4187    A002024038  1
+ IF GC4189    A002025026  1
+ IF GC4191    A002025027  1
+ IF GC4193    A002025028  1
+ IF GC4195    A002025029  1
+ IF GC4197    A002025030  1
+ IF GC4199    A002025031  1
+ IF GC4201    A002025032  1
+ IF GC4203    A002025033  1
+ IF GC4205    A002025034  1
+ IF GC4207    A002025035  1
+ IF GC4209    A002025036  1
+ IF GC4211    A002025037  1
+ IF GC4213    A002025038  1
+ IF GC4215    A002026027  1
+ IF GC4217    A002026028  1
+ IF GC4219    A002026029  1
+ IF GC4221    A002026030  1
+ IF GC4223    A002026031  1
+ IF GC4225    A002026032  1
+ IF GC4227    A002026033  1
+ IF GC4229    A002026034  1
+ IF GC4231    A002026035  1
+ IF GC4233    A002026036  1
+ IF GC4235    A002026037  1
+ IF GC4237    A002026038  1
+ IF GC4239    A002027028  1
+ IF GC4241    A002027029  1
+ IF GC4243    A002027030  1
+ IF GC4245    A002027031  1
+ IF GC4247    A002027032  1
+ IF GC4249    A002027033  1
+ IF GC4251    A002027034  1
+ IF GC4253    A002027035  1
+ IF GC4255    A002027036  1
+ IF GC4257    A002027037  1
+ IF GC4259    A002027038  1
+ IF GC4261    A002028029  1
+ IF GC4263    A002028030  1
+ IF GC4265    A002028031  1
+ IF GC4267    A002028032  1
+ IF GC4269    A002028033  1
+ IF GC4271    A002028034  1
+ IF GC4273    A002028035  1
+ IF GC4275    A002028036  1
+ IF GC4277    A002028037  1
+ IF GC4279    A002028038  1
+ IF GC4281    A002029030  1
+ IF GC4283    A002029031  1
+ IF GC4285    A002029032  1
+ IF GC4287    A002029033  1
+ IF GC4289    A002029034  1
+ IF GC4291    A002029035  1
+ IF GC4293    A002029036  1
+ IF GC4295    A002029037  1
+ IF GC4297    A002029038  1
+ IF GC4299    A002030031  1
+ IF GC4301    A002030032  1
+ IF GC4303    A002030033  1
+ IF GC4305    A002030034  1
+ IF GC4307    A002030035  1
+ IF GC4309    A002030036  1
+ IF GC4311    A002030037  1
+ IF GC4313    A002030038  1
+ IF GC4315    A002031032  1
+ IF GC4317    A002031033  1
+ IF GC4319    A002031034  1
+ IF GC4321    A002031035  1
+ IF GC4323    A002031036  1
+ IF GC4325    A002031037  1
+ IF GC4327    A002031038  1
+ IF GC4329    A002032033  1
+ IF GC4331    A002032034  1
+ IF GC4333    A002032035  1
+ IF GC4335    A002032036  1
+ IF GC4337    A002032037  1
+ IF GC4339    A002032038  1
+ IF GC4341    A002033034  1
+ IF GC4343    A002033035  1
+ IF GC4345    A002033036  1
+ IF GC4347    A002033037  1
+ IF GC4349    A002033038  1
+ IF GC4351    A002034035  1
+ IF GC4353    A002034036  1
+ IF GC4355    A002034037  1
+ IF GC4357    A002034038  1
+ IF GC4359    A002035036  1
+ IF GC4361    A002035037  1
+ IF GC4363    A002035038  1
+ IF GC4365    A002036037  1
+ IF GC4367    A002036038  1
+ IF GC4369    A002037038  1
+ IF GC4371    A003001002  1
+ IF GC4373    A003001003  1
+ IF GC4375    A003001004  1
+ IF GC4377    A003001005  1
+ IF GC4379    A003001006  1
+ IF GC4381    A003001007  1
+ IF GC4383    A003001008  1
+ IF GC4385    A003001009  1
+ IF GC4387    A003001010  1
+ IF GC4389    A003001011  1
+ IF GC4391    A003001012  1
+ IF GC4393    A003001013  1
+ IF GC4395    A003001014  1
+ IF GC4397    A003001015  1
+ IF GC4399    A003001016  1
+ IF GC4401    A003001017  1
+ IF GC4403    A003001018  1
+ IF GC4405    A003001019  1
+ IF GC4407    A003001020  1
+ IF GC4409    A003001021  1
+ IF GC4411    A003001022  1
+ IF GC4413    A003001023  1
+ IF GC4415    A003001024  1
+ IF GC4417    A003001025  1
+ IF GC4419    A003001026  1
+ IF GC4421    A003001027  1
+ IF GC4423    A003001028  1
+ IF GC4425    A003001029  1
+ IF GC4427    A003001030  1
+ IF GC4429    A003001031  1
+ IF GC4431    A003001032  1
+ IF GC4433    A003001033  1
+ IF GC4435    A003001034  1
+ IF GC4437    A003001035  1
+ IF GC4439    A003001036  1
+ IF GC4441    A003001037  1
+ IF GC4443    A003001038  1
+ IF GC4445    A003002003  1
+ IF GC4447    A003002004  1
+ IF GC4449    A003002005  1
+ IF GC4451    A003002006  1
+ IF GC4453    A003002007  1
+ IF GC4455    A003002008  1
+ IF GC4457    A003002009  1
+ IF GC4459    A003002010  1
+ IF GC4461    A003002011  1
+ IF GC4463    A003002012  1
+ IF GC4465    A003002013  1
+ IF GC4467    A003002014  1
+ IF GC4469    A003002015  1
+ IF GC4471    A003002016  1
+ IF GC4473    A003002017  1
+ IF GC4475    A003002018  1
+ IF GC4477    A003002019  1
+ IF GC4479    A003002020  1
+ IF GC4481    A003002021  1
+ IF GC4483    A003002022  1
+ IF GC4485    A003002023  1
+ IF GC4487    A003002024  1
+ IF GC4489    A003002025  1
+ IF GC4491    A003002026  1
+ IF GC4493    A003002027  1
+ IF GC4495    A003002028  1
+ IF GC4497    A003002029  1
+ IF GC4499    A003002030  1
+ IF GC4501    A003002031  1
+ IF GC4503    A003002032  1
+ IF GC4505    A003002033  1
+ IF GC4507    A003002034  1
+ IF GC4509    A003002035  1
+ IF GC4511    A003002036  1
+ IF GC4513    A003002037  1
+ IF GC4515    A003002038  1
+ IF GC4517    A003003004  1
+ IF GC4519    A003003005  1
+ IF GC4521    A003003006  1
+ IF GC4523    A003003007  1
+ IF GC4525    A003003008  1
+ IF GC4527    A003003009  1
+ IF GC4529    A003003010  1
+ IF GC4531    A003003011  1
+ IF GC4533    A003003012  1
+ IF GC4535    A003003013  1
+ IF GC4537    A003003014  1
+ IF GC4539    A003003015  1
+ IF GC4541    A003003016  1
+ IF GC4543    A003003017  1
+ IF GC4545    A003003018  1
+ IF GC4547    A003003019  1
+ IF GC4549    A003003020  1
+ IF GC4551    A003003021  1
+ IF GC4553    A003003022  1
+ IF GC4555    A003003023  1
+ IF GC4557    A003003024  1
+ IF GC4559    A003003025  1
+ IF GC4561    A003003026  1
+ IF GC4563    A003003027  1
+ IF GC4565    A003003028  1
+ IF GC4567    A003003029  1
+ IF GC4569    A003003030  1
+ IF GC4571    A003003031  1
+ IF GC4573    A003003032  1
+ IF GC4575    A003003033  1
+ IF GC4577    A003003034  1
+ IF GC4579    A003003035  1
+ IF GC4581    A003003036  1
+ IF GC4583    A003003037  1
+ IF GC4585    A003003038  1
+ IF GC4587    A003004005  1
+ IF GC4589    A003004006  1
+ IF GC4591    A003004007  1
+ IF GC4593    A003004008  1
+ IF GC4595    A003004009  1
+ IF GC4597    A003004010  1
+ IF GC4599    A003004011  1
+ IF GC4601    A003004012  1
+ IF GC4603    A003004013  1
+ IF GC4605    A003004014  1
+ IF GC4607    A003004015  1
+ IF GC4609    A003004016  1
+ IF GC4611    A003004017  1
+ IF GC4613    A003004018  1
+ IF GC4615    A003004019  1
+ IF GC4617    A003004020  1
+ IF GC4619    A003004021  1
+ IF GC4621    A003004022  1
+ IF GC4623    A003004023  1
+ IF GC4625    A003004024  1
+ IF GC4627    A003004025  1
+ IF GC4629    A003004026  1
+ IF GC4631    A003004027  1
+ IF GC4633    A003004028  1
+ IF GC4635    A003004029  1
+ IF GC4637    A003004030  1
+ IF GC4639    A003004031  1
+ IF GC4641    A003004032  1
+ IF GC4643    A003004033  1
+ IF GC4645    A003004034  1
+ IF GC4647    A003004035  1
+ IF GC4649    A003004036  1
+ IF GC4651    A003004037  1
+ IF GC4653    A003004038  1
+ IF GC4655    A003005006  1
+ IF GC4657    A003005007  1
+ IF GC4659    A003005008  1
+ IF GC4661    A003005009  1
+ IF GC4663    A003005010  1
+ IF GC4665    A003005011  1
+ IF GC4667    A003005012  1
+ IF GC4669    A003005013  1
+ IF GC4671    A003005014  1
+ IF GC4673    A003005015  1
+ IF GC4675    A003005016  1
+ IF GC4677    A003005017  1
+ IF GC4679    A003005018  1
+ IF GC4681    A003005019  1
+ IF GC4683    A003005020  1
+ IF GC4685    A003005021  1
+ IF GC4687    A003005022  1
+ IF GC4689    A003005023  1
+ IF GC4691    A003005024  1
+ IF GC4693    A003005025  1
+ IF GC4695    A003005026  1
+ IF GC4697    A003005027  1
+ IF GC4699    A003005028  1
+ IF GC4701    A003005029  1
+ IF GC4703    A003005030  1
+ IF GC4705    A003005031  1
+ IF GC4707    A003005032  1
+ IF GC4709    A003005033  1
+ IF GC4711    A003005034  1
+ IF GC4713    A003005035  1
+ IF GC4715    A003005036  1
+ IF GC4717    A003005037  1
+ IF GC4719    A003005038  1
+ IF GC4721    A003006007  1
+ IF GC4723    A003006008  1
+ IF GC4725    A003006009  1
+ IF GC4727    A003006010  1
+ IF GC4729    A003006011  1
+ IF GC4731    A003006012  1
+ IF GC4733    A003006013  1
+ IF GC4735    A003006014  1
+ IF GC4737    A003006015  1
+ IF GC4739    A003006016  1
+ IF GC4741    A003006017  1
+ IF GC4743    A003006018  1
+ IF GC4745    A003006019  1
+ IF GC4747    A003006020  1
+ IF GC4749    A003006021  1
+ IF GC4751    A003006022  1
+ IF GC4753    A003006023  1
+ IF GC4755    A003006024  1
+ IF GC4757    A003006025  1
+ IF GC4759    A003006026  1
+ IF GC4761    A003006027  1
+ IF GC4763    A003006028  1
+ IF GC4765    A003006029  1
+ IF GC4767    A003006030  1
+ IF GC4769    A003006031  1
+ IF GC4771    A003006032  1
+ IF GC4773    A003006033  1
+ IF GC4775    A003006034  1
+ IF GC4777    A003006035  1
+ IF GC4779    A003006036  1
+ IF GC4781    A003006037  1
+ IF GC4783    A003006038  1
+ IF GC4785    A003007008  1
+ IF GC4787    A003007009  1
+ IF GC4789    A003007010  1
+ IF GC4791    A003007011  1
+ IF GC4793    A003007012  1
+ IF GC4795    A003007013  1
+ IF GC4797    A003007014  1
+ IF GC4799    A003007015  1
+ IF GC4801    A003007016  1
+ IF GC4803    A003007017  1
+ IF GC4805    A003007018  1
+ IF GC4807    A003007019  1
+ IF GC4809    A003007020  1
+ IF GC4811    A003007021  1
+ IF GC4813    A003007022  1
+ IF GC4815    A003007023  1
+ IF GC4817    A003007024  1
+ IF GC4819    A003007025  1
+ IF GC4821    A003007026  1
+ IF GC4823    A003007027  1
+ IF GC4825    A003007028  1
+ IF GC4827    A003007029  1
+ IF GC4829    A003007030  1
+ IF GC4831    A003007031  1
+ IF GC4833    A003007032  1
+ IF GC4835    A003007033  1
+ IF GC4837    A003007034  1
+ IF GC4839    A003007035  1
+ IF GC4841    A003007036  1
+ IF GC4843    A003007037  1
+ IF GC4845    A003007038  1
+ IF GC4847    A003008009  1
+ IF GC4849    A003008010  1
+ IF GC4851    A003008011  1
+ IF GC4853    A003008012  1
+ IF GC4855    A003008013  1
+ IF GC4857    A003008014  1
+ IF GC4859    A003008015  1
+ IF GC4861    A003008016  1
+ IF GC4863    A003008017  1
+ IF GC4865    A003008018  1
+ IF GC4867    A003008019  1
+ IF GC4869    A003008020  1
+ IF GC4871    A003008021  1
+ IF GC4873    A003008022  1
+ IF GC4875    A003008023  1
+ IF GC4877    A003008024  1
+ IF GC4879    A003008025  1
+ IF GC4881    A003008026  1
+ IF GC4883    A003008027  1
+ IF GC4885    A003008028  1
+ IF GC4887    A003008029  1
+ IF GC4889    A003008030  1
+ IF GC4891    A003008031  1
+ IF GC4893    A003008032  1
+ IF GC4895    A003008033  1
+ IF GC4897    A003008034  1
+ IF GC4899    A003008035  1
+ IF GC4901    A003008036  1
+ IF GC4903    A003008037  1
+ IF GC4905    A003008038  1
+ IF GC4907    A003009010  1
+ IF GC4909    A003009011  1
+ IF GC4911    A003009012  1
+ IF GC4913    A003009013  1
+ IF GC4915    A003009014  1
+ IF GC4917    A003009015  1
+ IF GC4919    A003009016  1
+ IF GC4921    A003009017  1
+ IF GC4923    A003009018  1
+ IF GC4925    A003009019  1
+ IF GC4927    A003009020  1
+ IF GC4929    A003009021  1
+ IF GC4931    A003009022  1
+ IF GC4933    A003009023  1
+ IF GC4935    A003009024  1
+ IF GC4937    A003009025  1
+ IF GC4939    A003009026  1
+ IF GC4941    A003009027  1
+ IF GC4943    A003009028  1
+ IF GC4945    A003009029  1
+ IF GC4947    A003009030  1
+ IF GC4949    A003009031  1
+ IF GC4951    A003009032  1
+ IF GC4953    A003009033  1
+ IF GC4955    A003009034  1
+ IF GC4957    A003009035  1
+ IF GC4959    A003009036  1
+ IF GC4961    A003009037  1
+ IF GC4963    A003009038  1
+ IF GC4965    A003010011  1
+ IF GC4967    A003010012  1
+ IF GC4969    A003010013  1
+ IF GC4971    A003010014  1
+ IF GC4973    A003010015  1
+ IF GC4975    A003010016  1
+ IF GC4977    A003010017  1
+ IF GC4979    A003010018  1
+ IF GC4981    A003010019  1
+ IF GC4983    A003010020  1
+ IF GC4985    A003010021  1
+ IF GC4987    A003010022  1
+ IF GC4989    A003010023  1
+ IF GC4991    A003010024  1
+ IF GC4993    A003010025  1
+ IF GC4995    A003010026  1
+ IF GC4997    A003010027  1
+ IF GC4999    A003010028  1
+ IF GC5001    A003010029  1
+ IF GC5003    A003010030  1
+ IF GC5005    A003010031  1
+ IF GC5007    A003010032  1
+ IF GC5009    A003010033  1
+ IF GC5011    A003010034  1
+ IF GC5013    A003010035  1
+ IF GC5015    A003010036  1
+ IF GC5017    A003010037  1
+ IF GC5019    A003010038  1
+ IF GC5021    A003011012  1
+ IF GC5023    A003011013  1
+ IF GC5025    A003011014  1
+ IF GC5027    A003011015  1
+ IF GC5029    A003011016  1
+ IF GC5031    A003011017  1
+ IF GC5033    A003011018  1
+ IF GC5035    A003011019  1
+ IF GC5037    A003011020  1
+ IF GC5039    A003011021  1
+ IF GC5041    A003011022  1
+ IF GC5043    A003011023  1
+ IF GC5045    A003011024  1
+ IF GC5047    A003011025  1
+ IF GC5049    A003011026  1
+ IF GC5051    A003011027  1
+ IF GC5053    A003011028  1
+ IF GC5055    A003011029  1
+ IF GC5057    A003011030  1
+ IF GC5059    A003011031  1
+ IF GC5061    A003011032  1
+ IF GC5063    A003011033  1
+ IF GC5065    A003011034  1
+ IF GC5067    A003011035  1
+ IF GC5069    A003011036  1
+ IF GC5071    A003011037  1
+ IF GC5073    A003011038  1
+ IF GC5075    A003012013  1
+ IF GC5077    A003012014  1
+ IF GC5079    A003012015  1
+ IF GC5081    A003012016  1
+ IF GC5083    A003012017  1
+ IF GC5085    A003012018  1
+ IF GC5087    A003012019  1
+ IF GC5089    A003012020  1
+ IF GC5091    A003012021  1
+ IF GC5093    A003012022  1
+ IF GC5095    A003012023  1
+ IF GC5097    A003012024  1
+ IF GC5099    A003012025  1
+ IF GC5101    A003012026  1
+ IF GC5103    A003012027  1
+ IF GC5105    A003012028  1
+ IF GC5107    A003012029  1
+ IF GC5109    A003012030  1
+ IF GC5111    A003012031  1
+ IF GC5113    A003012032  1
+ IF GC5115    A003012033  1
+ IF GC5117    A003012034  1
+ IF GC5119    A003012035  1
+ IF GC5121    A003012036  1
+ IF GC5123    A003012037  1
+ IF GC5125    A003012038  1
+ IF GC5127    A003013014  1
+ IF GC5129    A003013015  1
+ IF GC5131    A003013016  1
+ IF GC5133    A003013017  1
+ IF GC5135    A003013018  1
+ IF GC5137    A003013019  1
+ IF GC5139    A003013020  1
+ IF GC5141    A003013021  1
+ IF GC5143    A003013022  1
+ IF GC5145    A003013023  1
+ IF GC5147    A003013024  1
+ IF GC5149    A003013025  1
+ IF GC5151    A003013026  1
+ IF GC5153    A003013027  1
+ IF GC5155    A003013028  1
+ IF GC5157    A003013029  1
+ IF GC5159    A003013030  1
+ IF GC5161    A003013031  1
+ IF GC5163    A003013032  1
+ IF GC5165    A003013033  1
+ IF GC5167    A003013034  1
+ IF GC5169    A003013035  1
+ IF GC5171    A003013036  1
+ IF GC5173    A003013037  1
+ IF GC5175    A003013038  1
+ IF GC5177    A003014015  1
+ IF GC5179    A003014016  1
+ IF GC5181    A003014017  1
+ IF GC5183    A003014018  1
+ IF GC5185    A003014019  1
+ IF GC5187    A003014020  1
+ IF GC5189    A003014021  1
+ IF GC5191    A003014022  1
+ IF GC5193    A003014023  1
+ IF GC5195    A003014024  1
+ IF GC5197    A003014025  1
+ IF GC5199    A003014026  1
+ IF GC5201    A003014027  1
+ IF GC5203    A003014028  1
+ IF GC5205    A003014029  1
+ IF GC5207    A003014030  1
+ IF GC5209    A003014031  1
+ IF GC5211    A003014032  1
+ IF GC5213    A003014033  1
+ IF GC5215    A003014034  1
+ IF GC5217    A003014035  1
+ IF GC5219    A003014036  1
+ IF GC5221    A003014037  1
+ IF GC5223    A003014038  1
+ IF GC5225    A003015016  1
+ IF GC5227    A003015017  1
+ IF GC5229    A003015018  1
+ IF GC5231    A003015019  1
+ IF GC5233    A003015020  1
+ IF GC5235    A003015021  1
+ IF GC5237    A003015022  1
+ IF GC5239    A003015023  1
+ IF GC5241    A003015024  1
+ IF GC5243    A003015025  1
+ IF GC5245    A003015026  1
+ IF GC5247    A003015027  1
+ IF GC5249    A003015028  1
+ IF GC5251    A003015029  1
+ IF GC5253    A003015030  1
+ IF GC5255    A003015031  1
+ IF GC5257    A003015032  1
+ IF GC5259    A003015033  1
+ IF GC5261    A003015034  1
+ IF GC5263    A003015035  1
+ IF GC5265    A003015036  1
+ IF GC5267    A003015037  1
+ IF GC5269    A003015038  1
+ IF GC5271    A003016017  1
+ IF GC5273    A003016018  1
+ IF GC5275    A003016019  1
+ IF GC5277    A003016020  1
+ IF GC5279    A003016021  1
+ IF GC5281    A003016022  1
+ IF GC5283    A003016023  1
+ IF GC5285    A003016024  1
+ IF GC5287    A003016025  1
+ IF GC5289    A003016026  1
+ IF GC5291    A003016027  1
+ IF GC5293    A003016028  1
+ IF GC5295    A003016029  1
+ IF GC5297    A003016030  1
+ IF GC5299    A003016031  1
+ IF GC5301    A003016032  1
+ IF GC5303    A003016033  1
+ IF GC5305    A003016034  1
+ IF GC5307    A003016035  1
+ IF GC5309    A003016036  1
+ IF GC5311    A003016037  1
+ IF GC5313    A003016038  1
+ IF GC5315    A003017018  1
+ IF GC5317    A003017019  1
+ IF GC5319    A003017020  1
+ IF GC5321    A003017021  1
+ IF GC5323    A003017022  1
+ IF GC5325    A003017023  1
+ IF GC5327    A003017024  1
+ IF GC5329    A003017025  1
+ IF GC5331    A003017026  1
+ IF GC5333    A003017027  1
+ IF GC5335    A003017028  1
+ IF GC5337    A003017029  1
+ IF GC5339    A003017030  1
+ IF GC5341    A003017031  1
+ IF GC5343    A003017032  1
+ IF GC5345    A003017033  1
+ IF GC5347    A003017034  1
+ IF GC5349    A003017035  1
+ IF GC5351    A003017036  1
+ IF GC5353    A003017037  1
+ IF GC5355    A003017038  1
+ IF GC5357    A003018019  1
+ IF GC5359    A003018020  1
+ IF GC5361    A003018021  1
+ IF GC5363    A003018022  1
+ IF GC5365    A003018023  1
+ IF GC5367    A003018024  1
+ IF GC5369    A003018025  1
+ IF GC5371    A003018026  1
+ IF GC5373    A003018027  1
+ IF GC5375    A003018028  1
+ IF GC5377    A003018029  1
+ IF GC5379    A003018030  1
+ IF GC5381    A003018031  1
+ IF GC5383    A003018032  1
+ IF GC5385    A003018033  1
+ IF GC5387    A003018034  1
+ IF GC5389    A003018035  1
+ IF GC5391    A003018036  1
+ IF GC5393    A003018037  1
+ IF GC5395    A003018038  1
+ IF GC5397    A003019020  1
+ IF GC5399    A003019021  1
+ IF GC5401    A003019022  1
+ IF GC5403    A003019023  1
+ IF GC5405    A003019024  1
+ IF GC5407    A003019025  1
+ IF GC5409    A003019026  1
+ IF GC5411    A003019027  1
+ IF GC5413    A003019028  1
+ IF GC5415    A003019029  1
+ IF GC5417    A003019030  1
+ IF GC5419    A003019031  1
+ IF GC5421    A003019032  1
+ IF GC5423    A003019033  1
+ IF GC5425    A003019034  1
+ IF GC5427    A003019035  1
+ IF GC5429    A003019036  1
+ IF GC5431    A003019037  1
+ IF GC5433    A003019038  1
+ IF GC5435    A003020021  1
+ IF GC5437    A003020022  1
+ IF GC5439    A003020023  1
+ IF GC5441    A003020024  1
+ IF GC5443    A003020025  1
+ IF GC5445    A003020026  1
+ IF GC5447    A003020027  1
+ IF GC5449    A003020028  1
+ IF GC5451    A003020029  1
+ IF GC5453    A003020030  1
+ IF GC5455    A003020031  1
+ IF GC5457    A003020032  1
+ IF GC5459    A003020033  1
+ IF GC5461    A003020034  1
+ IF GC5463    A003020035  1
+ IF GC5465    A003020036  1
+ IF GC5467    A003020037  1
+ IF GC5469    A003020038  1
+ IF GC5471    A003021022  1
+ IF GC5473    A003021023  1
+ IF GC5475    A003021024  1
+ IF GC5477    A003021025  1
+ IF GC5479    A003021026  1
+ IF GC5481    A003021027  1
+ IF GC5483    A003021028  1
+ IF GC5485    A003021029  1
+ IF GC5487    A003021030  1
+ IF GC5489    A003021031  1
+ IF GC5491    A003021032  1
+ IF GC5493    A003021033  1
+ IF GC5495    A003021034  1
+ IF GC5497    A003021035  1
+ IF GC5499    A003021036  1
+ IF GC5501    A003021037  1
+ IF GC5503    A003021038  1
+ IF GC5505    A003022023  1
+ IF GC5507    A003022024  1
+ IF GC5509    A003022025  1
+ IF GC5511    A003022026  1
+ IF GC5513    A003022027  1
+ IF GC5515    A003022028  1
+ IF GC5517    A003022029  1
+ IF GC5519    A003022030  1
+ IF GC5521    A003022031  1
+ IF GC5523    A003022032  1
+ IF GC5525    A003022033  1
+ IF GC5527    A003022034  1
+ IF GC5529    A003022035  1
+ IF GC5531    A003022036  1
+ IF GC5533    A003022037  1
+ IF GC5535    A003022038  1
+ IF GC5537    A003023024  1
+ IF GC5539    A003023025  1
+ IF GC5541    A003023026  1
+ IF GC5543    A003023027  1
+ IF GC5545    A003023028  1
+ IF GC5547    A003023029  1
+ IF GC5549    A003023030  1
+ IF GC5551    A003023031  1
+ IF GC5553    A003023032  1
+ IF GC5555    A003023033  1
+ IF GC5557    A003023034  1
+ IF GC5559    A003023035  1
+ IF GC5561    A003023036  1
+ IF GC5563    A003023037  1
+ IF GC5565    A003023038  1
+ IF GC5567    A003024025  1
+ IF GC5569    A003024026  1
+ IF GC5571    A003024027  1
+ IF GC5573    A003024028  1
+ IF GC5575    A003024029  1
+ IF GC5577    A003024030  1
+ IF GC5579    A003024031  1
+ IF GC5581    A003024032  1
+ IF GC5583    A003024033  1
+ IF GC5585    A003024034  1
+ IF GC5587    A003024035  1
+ IF GC5589    A003024036  1
+ IF GC5591    A003024037  1
+ IF GC5593    A003024038  1
+ IF GC5595    A003025026  1
+ IF GC5597    A003025027  1
+ IF GC5599    A003025028  1
+ IF GC5601    A003025029  1
+ IF GC5603    A003025030  1
+ IF GC5605    A003025031  1
+ IF GC5607    A003025032  1
+ IF GC5609    A003025033  1
+ IF GC5611    A003025034  1
+ IF GC5613    A003025035  1
+ IF GC5615    A003025036  1
+ IF GC5617    A003025037  1
+ IF GC5619    A003025038  1
+ IF GC5621    A003026027  1
+ IF GC5623    A003026028  1
+ IF GC5625    A003026029  1
+ IF GC5627    A003026030  1
+ IF GC5629    A003026031  1
+ IF GC5631    A003026032  1
+ IF GC5633    A003026033  1
+ IF GC5635    A003026034  1
+ IF GC5637    A003026035  1
+ IF GC5639    A003026036  1
+ IF GC5641    A003026037  1
+ IF GC5643    A003026038  1
+ IF GC5645    A003027028  1
+ IF GC5647    A003027029  1
+ IF GC5649    A003027030  1
+ IF GC5651    A003027031  1
+ IF GC5653    A003027032  1
+ IF GC5655    A003027033  1
+ IF GC5657    A003027034  1
+ IF GC5659    A003027035  1
+ IF GC5661    A003027036  1
+ IF GC5663    A003027037  1
+ IF GC5665    A003027038  1
+ IF GC5667    A003028029  1
+ IF GC5669    A003028030  1
+ IF GC5671    A003028031  1
+ IF GC5673    A003028032  1
+ IF GC5675    A003028033  1
+ IF GC5677    A003028034  1
+ IF GC5679    A003028035  1
+ IF GC5681    A003028036  1
+ IF GC5683    A003028037  1
+ IF GC5685    A003028038  1
+ IF GC5687    A003029030  1
+ IF GC5689    A003029031  1
+ IF GC5691    A003029032  1
+ IF GC5693    A003029033  1
+ IF GC5695    A003029034  1
+ IF GC5697    A003029035  1
+ IF GC5699    A003029036  1
+ IF GC5701    A003029037  1
+ IF GC5703    A003029038  1
+ IF GC5705    A003030031  1
+ IF GC5707    A003030032  1
+ IF GC5709    A003030033  1
+ IF GC5711    A003030034  1
+ IF GC5713    A003030035  1
+ IF GC5715    A003030036  1
+ IF GC5717    A003030037  1
+ IF GC5719    A003030038  1
+ IF GC5721    A003031032  1
+ IF GC5723    A003031033  1
+ IF GC5725    A003031034  1
+ IF GC5727    A003031035  1
+ IF GC5729    A003031036  1
+ IF GC5731    A003031037  1
+ IF GC5733    A003031038  1
+ IF GC5735    A003032033  1
+ IF GC5737    A003032034  1
+ IF GC5739    A003032035  1
+ IF GC5741    A003032036  1
+ IF GC5743    A003032037  1
+ IF GC5745    A003032038  1
+ IF GC5747    A003033034  1
+ IF GC5749    A003033035  1
+ IF GC5751    A003033036  1
+ IF GC5753    A003033037  1
+ IF GC5755    A003033038  1
+ IF GC5757    A003034035  1
+ IF GC5759    A003034036  1
+ IF GC5761    A003034037  1
+ IF GC5763    A003034038  1
+ IF GC5765    A003035036  1
+ IF GC5767    A003035037  1
+ IF GC5769    A003035038  1
+ IF GC5771    A003036037  1
+ IF GC5773    A003036038  1
+ IF GC5775    A003037038  1
+ IF GC5776    x001002   1
+ IF GC5777    x001003   1
+ IF GC5778    x001004   1
+ IF GC5779    x001005   1
+ IF GC5780    x001006   1
+ IF GC5781    x001007   1
+ IF GC5782    x001008   1
+ IF GC5783    x001009   1
+ IF GC5784    x001010   1
+ IF GC5785    x001011   1
+ IF GC5786    x001012   1
+ IF GC5787    x001013   1
+ IF GC5788    x001014   1
+ IF GC5789    x001015   1
+ IF GC5790    x001016   1
+ IF GC5791    x001017   1
+ IF GC5792    x001018   1
+ IF GC5793    x001019   1
+ IF GC5794    x001020   1
+ IF GC5795    x001021   1
+ IF GC5796    x001022   1
+ IF GC5797    x001023   1
+ IF GC5798    x001024   1
+ IF GC5799    x001025   1
+ IF GC5800    x001026   1
+ IF GC5801    x001027   1
+ IF GC5802    x001028   1
+ IF GC5803    x001029   1
+ IF GC5804    x001030   1
+ IF GC5805    x001031   1
+ IF GC5806    x001032   1
+ IF GC5807    x001033   1
+ IF GC5808    x001034   1
+ IF GC5809    x001035   1
+ IF GC5810    x001036   1
+ IF GC5811    x001037   1
+ IF GC5812    x001038   1
+ IF GC5813    x002001   1
+ IF GC5814    x002003   1
+ IF GC5815    x002004   1
+ IF GC5816    x002005   1
+ IF GC5817    x002006   1
+ IF GC5818    x002007   1
+ IF GC5819    x002008   1
+ IF GC5820    x002009   1
+ IF GC5821    x002010   1
+ IF GC5822    x002011   1
+ IF GC5823    x002012   1
+ IF GC5824    x002013   1
+ IF GC5825    x002014   1
+ IF GC5826    x002015   1
+ IF GC5827    x002016   1
+ IF GC5828    x002017   1
+ IF GC5829    x002018   1
+ IF GC5830    x002019   1
+ IF GC5831    x002020   1
+ IF GC5832    x002021   1
+ IF GC5833    x002022   1
+ IF GC5834    x002023   1
+ IF GC5835    x002024   1
+ IF GC5836    x002025   1
+ IF GC5837    x002026   1
+ IF GC5838    x002027   1
+ IF GC5839    x002028   1
+ IF GC5840    x002029   1
+ IF GC5841    x002030   1
+ IF GC5842    x002031   1
+ IF GC5843    x002032   1
+ IF GC5844    x002033   1
+ IF GC5845    x002034   1
+ IF GC5846    x002035   1
+ IF GC5847    x002036   1
+ IF GC5848    x002037   1
+ IF GC5849    x002038   1
+ IF GC5850    x003001   1
+ IF GC5851    x003002   1
+ IF GC5852    x003004   1
+ IF GC5853    x003005   1
+ IF GC5854    x003006   1
+ IF GC5855    x003007   1
+ IF GC5856    x003008   1
+ IF GC5857    x003009   1
+ IF GC5858    x003010   1
+ IF GC5859    x003011   1
+ IF GC5860    x003012   1
+ IF GC5861    x003013   1
+ IF GC5862    x003014   1
+ IF GC5863    x003015   1
+ IF GC5864    x003016   1
+ IF GC5865    x003017   1
+ IF GC5866    x003018   1
+ IF GC5867    x003019   1
+ IF GC5868    x003020   1
+ IF GC5869    x003021   1
+ IF GC5870    x003022   1
+ IF GC5871    x003023   1
+ IF GC5872    x003024   1
+ IF GC5873    x003025   1
+ IF GC5874    x003026   1
+ IF GC5875    x003027   1
+ IF GC5876    x003028   1
+ IF GC5877    x003029   1
+ IF GC5878    x003030   1
+ IF GC5879    x003031   1
+ IF GC5880    x003032   1
+ IF GC5881    x003033   1
+ IF GC5882    x003034   1
+ IF GC5883    x003035   1
+ IF GC5884    x003036   1
+ IF GC5885    x003037   1
+ IF GC5886    x003038   1
+ IF GC5887    x004001   1
+ IF GC5888    x004002   1
+ IF GC5889    x004003   1
+ IF GC5890    x004005   1
+ IF GC5891    x004006   1
+ IF GC5892    x004007   1
+ IF GC5893    x004008   1
+ IF GC5894    x004009   1
+ IF GC5895    x004010   1
+ IF GC5896    x004011   1
+ IF GC5897    x004012   1
+ IF GC5898    x004013   1
+ IF GC5899    x004014   1
+ IF GC5900    x004015   1
+ IF GC5901    x004016   1
+ IF GC5902    x004017   1
+ IF GC5903    x004018   1
+ IF GC5904    x004019   1
+ IF GC5905    x004020   1
+ IF GC5906    x004021   1
+ IF GC5907    x004022   1
+ IF GC5908    x004023   1
+ IF GC5909    x004024   1
+ IF GC5910    x004025   1
+ IF GC5911    x004026   1
+ IF GC5912    x004027   1
+ IF GC5913    x004028   1
+ IF GC5914    x004029   1
+ IF GC5915    x004030   1
+ IF GC5916    x004031   1
+ IF GC5917    x004032   1
+ IF GC5918    x004033   1
+ IF GC5919    x004034   1
+ IF GC5920    x004035   1
+ IF GC5921    x004036   1
+ IF GC5922    x004037   1
+ IF GC5923    x004038   1
+ IF GC5924    x005001   1
+ IF GC5925    x005002   1
+ IF GC5926    x005003   1
+ IF GC5927    x005004   1
+ IF GC5928    x005006   1
+ IF GC5929    x005007   1
+ IF GC5930    x005008   1
+ IF GC5931    x005009   1
+ IF GC5932    x005010   1
+ IF GC5933    x005011   1
+ IF GC5934    x005012   1
+ IF GC5935    x005013   1
+ IF GC5936    x005014   1
+ IF GC5937    x005015   1
+ IF GC5938    x005016   1
+ IF GC5939    x005017   1
+ IF GC5940    x005018   1
+ IF GC5941    x005019   1
+ IF GC5942    x005020   1
+ IF GC5943    x005021   1
+ IF GC5944    x005022   1
+ IF GC5945    x005023   1
+ IF GC5946    x005024   1
+ IF GC5947    x005025   1
+ IF GC5948    x005026   1
+ IF GC5949    x005027   1
+ IF GC5950    x005028   1
+ IF GC5951    x005029   1
+ IF GC5952    x005030   1
+ IF GC5953    x005031   1
+ IF GC5954    x005032   1
+ IF GC5955    x005033   1
+ IF GC5956    x005034   1
+ IF GC5957    x005035   1
+ IF GC5958    x005036   1
+ IF GC5959    x005037   1
+ IF GC5960    x005038   1
+ IF GC5961    x006001   1
+ IF GC5962    x006002   1
+ IF GC5963    x006003   1
+ IF GC5964    x006004   1
+ IF GC5965    x006005   1
+ IF GC5966    x006007   1
+ IF GC5967    x006008   1
+ IF GC5968    x006009   1
+ IF GC5969    x006010   1
+ IF GC5970    x006011   1
+ IF GC5971    x006012   1
+ IF GC5972    x006013   1
+ IF GC5973    x006014   1
+ IF GC5974    x006015   1
+ IF GC5975    x006016   1
+ IF GC5976    x006017   1
+ IF GC5977    x006018   1
+ IF GC5978    x006019   1
+ IF GC5979    x006020   1
+ IF GC5980    x006021   1
+ IF GC5981    x006022   1
+ IF GC5982    x006023   1
+ IF GC5983    x006024   1
+ IF GC5984    x006025   1
+ IF GC5985    x006026   1
+ IF GC5986    x006027   1
+ IF GC5987    x006028   1
+ IF GC5988    x006029   1
+ IF GC5989    x006030   1
+ IF GC5990    x006031   1
+ IF GC5991    x006032   1
+ IF GC5992    x006033   1
+ IF GC5993    x006034   1
+ IF GC5994    x006035   1
+ IF GC5995    x006036   1
+ IF GC5996    x006037   1
+ IF GC5997    x006038   1
+ IF GC5998    x007001   1
+ IF GC5999    x007002   1
+ IF GC6000    x007003   1
+ IF GC6001    x007004   1
+ IF GC6002    x007005   1
+ IF GC6003    x007006   1
+ IF GC6004    x007008   1
+ IF GC6005    x007009   1
+ IF GC6006    x007010   1
+ IF GC6007    x007011   1
+ IF GC6008    x007012   1
+ IF GC6009    x007013   1
+ IF GC6010    x007014   1
+ IF GC6011    x007015   1
+ IF GC6012    x007016   1
+ IF GC6013    x007017   1
+ IF GC6014    x007018   1
+ IF GC6015    x007019   1
+ IF GC6016    x007020   1
+ IF GC6017    x007021   1
+ IF GC6018    x007022   1
+ IF GC6019    x007023   1
+ IF GC6020    x007024   1
+ IF GC6021    x007025   1
+ IF GC6022    x007026   1
+ IF GC6023    x007027   1
+ IF GC6024    x007028   1
+ IF GC6025    x007029   1
+ IF GC6026    x007030   1
+ IF GC6027    x007031   1
+ IF GC6028    x007032   1
+ IF GC6029    x007033   1
+ IF GC6030    x007034   1
+ IF GC6031    x007035   1
+ IF GC6032    x007036   1
+ IF GC6033    x007037   1
+ IF GC6034    x007038   1
+ IF GC6035    x008001   1
+ IF GC6036    x008002   1
+ IF GC6037    x008003   1
+ IF GC6038    x008004   1
+ IF GC6039    x008005   1
+ IF GC6040    x008006   1
+ IF GC6041    x008007   1
+ IF GC6042    x008009   1
+ IF GC6043    x008010   1
+ IF GC6044    x008011   1
+ IF GC6045    x008012   1
+ IF GC6046    x008013   1
+ IF GC6047    x008014   1
+ IF GC6048    x008015   1
+ IF GC6049    x008016   1
+ IF GC6050    x008017   1
+ IF GC6051    x008018   1
+ IF GC6052    x008019   1
+ IF GC6053    x008020   1
+ IF GC6054    x008021   1
+ IF GC6055    x008022   1
+ IF GC6056    x008023   1
+ IF GC6057    x008024   1
+ IF GC6058    x008025   1
+ IF GC6059    x008026   1
+ IF GC6060    x008027   1
+ IF GC6061    x008028   1
+ IF GC6062    x008029   1
+ IF GC6063    x008030   1
+ IF GC6064    x008031   1
+ IF GC6065    x008032   1
+ IF GC6066    x008033   1
+ IF GC6067    x008034   1
+ IF GC6068    x008035   1
+ IF GC6069    x008036   1
+ IF GC6070    x008037   1
+ IF GC6071    x008038   1
+ IF GC6072    x009001   1
+ IF GC6073    x009002   1
+ IF GC6074    x009003   1
+ IF GC6075    x009004   1
+ IF GC6076    x009005   1
+ IF GC6077    x009006   1
+ IF GC6078    x009007   1
+ IF GC6079    x009008   1
+ IF GC6080    x009010   1
+ IF GC6081    x009011   1
+ IF GC6082    x009012   1
+ IF GC6083    x009013   1
+ IF GC6084    x009014   1
+ IF GC6085    x009015   1
+ IF GC6086    x009016   1
+ IF GC6087    x009017   1
+ IF GC6088    x009018   1
+ IF GC6089    x009019   1
+ IF GC6090    x009020   1
+ IF GC6091    x009021   1
+ IF GC6092    x009022   1
+ IF GC6093    x009023   1
+ IF GC6094    x009024   1
+ IF GC6095    x009025   1
+ IF GC6096    x009026   1
+ IF GC6097    x009027   1
+ IF GC6098    x009028   1
+ IF GC6099    x009029   1
+ IF GC6100    x009030   1
+ IF GC6101    x009031   1
+ IF GC6102    x009032   1
+ IF GC6103    x009033   1
+ IF GC6104    x009034   1
+ IF GC6105    x009035   1
+ IF GC6106    x009036   1
+ IF GC6107    x009037   1
+ IF GC6108    x009038   1
+ IF GC6109    x010001   1
+ IF GC6110    x010002   1
+ IF GC6111    x010003   1
+ IF GC6112    x010004   1
+ IF GC6113    x010005   1
+ IF GC6114    x010006   1
+ IF GC6115    x010007   1
+ IF GC6116    x010008   1
+ IF GC6117    x010009   1
+ IF GC6118    x010011   1
+ IF GC6119    x010012   1
+ IF GC6120    x010013   1
+ IF GC6121    x010014   1
+ IF GC6122    x010015   1
+ IF GC6123    x010016   1
+ IF GC6124    x010017   1
+ IF GC6125    x010018   1
+ IF GC6126    x010019   1
+ IF GC6127    x010020   1
+ IF GC6128    x010021   1
+ IF GC6129    x010022   1
+ IF GC6130    x010023   1
+ IF GC6131    x010024   1
+ IF GC6132    x010025   1
+ IF GC6133    x010026   1
+ IF GC6134    x010027   1
+ IF GC6135    x010028   1
+ IF GC6136    x010029   1
+ IF GC6137    x010030   1
+ IF GC6138    x010031   1
+ IF GC6139    x010032   1
+ IF GC6140    x010033   1
+ IF GC6141    x010034   1
+ IF GC6142    x010035   1
+ IF GC6143    x010036   1
+ IF GC6144    x010037   1
+ IF GC6145    x010038   1
+ IF GC6146    x011001   1
+ IF GC6147    x011002   1
+ IF GC6148    x011003   1
+ IF GC6149    x011004   1
+ IF GC6150    x011005   1
+ IF GC6151    x011006   1
+ IF GC6152    x011007   1
+ IF GC6153    x011008   1
+ IF GC6154    x011009   1
+ IF GC6155    x011010   1
+ IF GC6156    x011012   1
+ IF GC6157    x011013   1
+ IF GC6158    x011014   1
+ IF GC6159    x011015   1
+ IF GC6160    x011016   1
+ IF GC6161    x011017   1
+ IF GC6162    x011018   1
+ IF GC6163    x011019   1
+ IF GC6164    x011020   1
+ IF GC6165    x011021   1
+ IF GC6166    x011022   1
+ IF GC6167    x011023   1
+ IF GC6168    x011024   1
+ IF GC6169    x011025   1
+ IF GC6170    x011026   1
+ IF GC6171    x011027   1
+ IF GC6172    x011028   1
+ IF GC6173    x011029   1
+ IF GC6174    x011030   1
+ IF GC6175    x011031   1
+ IF GC6176    x011032   1
+ IF GC6177    x011033   1
+ IF GC6178    x011034   1
+ IF GC6179    x011035   1
+ IF GC6180    x011036   1
+ IF GC6181    x011037   1
+ IF GC6182    x011038   1
+ IF GC6183    x012001   1
+ IF GC6184    x012002   1
+ IF GC6185    x012003   1
+ IF GC6186    x012004   1
+ IF GC6187    x012005   1
+ IF GC6188    x012006   1
+ IF GC6189    x012007   1
+ IF GC6190    x012008   1
+ IF GC6191    x012009   1
+ IF GC6192    x012010   1
+ IF GC6193    x012011   1
+ IF GC6194    x012013   1
+ IF GC6195    x012014   1
+ IF GC6196    x012015   1
+ IF GC6197    x012016   1
+ IF GC6198    x012017   1
+ IF GC6199    x012018   1
+ IF GC6200    x012019   1
+ IF GC6201    x012020   1
+ IF GC6202    x012021   1
+ IF GC6203    x012022   1
+ IF GC6204    x012023   1
+ IF GC6205    x012024   1
+ IF GC6206    x012025   1
+ IF GC6207    x012026   1
+ IF GC6208    x012027   1
+ IF GC6209    x012028   1
+ IF GC6210    x012029   1
+ IF GC6211    x012030   1
+ IF GC6212    x012031   1
+ IF GC6213    x012032   1
+ IF GC6214    x012033   1
+ IF GC6215    x012034   1
+ IF GC6216    x012035   1
+ IF GC6217    x012036   1
+ IF GC6218    x012037   1
+ IF GC6219    x012038   1
+ IF GC6220    x013001   1
+ IF GC6221    x013002   1
+ IF GC6222    x013003   1
+ IF GC6223    x013004   1
+ IF GC6224    x013005   1
+ IF GC6225    x013006   1
+ IF GC6226    x013007   1
+ IF GC6227    x013008   1
+ IF GC6228    x013009   1
+ IF GC6229    x013010   1
+ IF GC6230    x013011   1
+ IF GC6231    x013012   1
+ IF GC6232    x013014   1
+ IF GC6233    x013015   1
+ IF GC6234    x013016   1
+ IF GC6235    x013017   1
+ IF GC6236    x013018   1
+ IF GC6237    x013019   1
+ IF GC6238    x013020   1
+ IF GC6239    x013021   1
+ IF GC6240    x013022   1
+ IF GC6241    x013023   1
+ IF GC6242    x013024   1
+ IF GC6243    x013025   1
+ IF GC6244    x013026   1
+ IF GC6245    x013027   1
+ IF GC6246    x013028   1
+ IF GC6247    x013029   1
+ IF GC6248    x013030   1
+ IF GC6249    x013031   1
+ IF GC6250    x013032   1
+ IF GC6251    x013033   1
+ IF GC6252    x013034   1
+ IF GC6253    x013035   1
+ IF GC6254    x013036   1
+ IF GC6255    x013037   1
+ IF GC6256    x013038   1
+ IF GC6257    x014001   1
+ IF GC6258    x014002   1
+ IF GC6259    x014003   1
+ IF GC6260    x014004   1
+ IF GC6261    x014005   1
+ IF GC6262    x014006   1
+ IF GC6263    x014007   1
+ IF GC6264    x014008   1
+ IF GC6265    x014009   1
+ IF GC6266    x014010   1
+ IF GC6267    x014011   1
+ IF GC6268    x014012   1
+ IF GC6269    x014013   1
+ IF GC6270    x014015   1
+ IF GC6271    x014016   1
+ IF GC6272    x014017   1
+ IF GC6273    x014018   1
+ IF GC6274    x014019   1
+ IF GC6275    x014020   1
+ IF GC6276    x014021   1
+ IF GC6277    x014022   1
+ IF GC6278    x014023   1
+ IF GC6279    x014024   1
+ IF GC6280    x014025   1
+ IF GC6281    x014026   1
+ IF GC6282    x014027   1
+ IF GC6283    x014028   1
+ IF GC6284    x014029   1
+ IF GC6285    x014030   1
+ IF GC6286    x014031   1
+ IF GC6287    x014032   1
+ IF GC6288    x014033   1
+ IF GC6289    x014034   1
+ IF GC6290    x014035   1
+ IF GC6291    x014036   1
+ IF GC6292    x014037   1
+ IF GC6293    x014038   1
+ IF GC6294    x015001   1
+ IF GC6295    x015002   1
+ IF GC6296    x015003   1
+ IF GC6297    x015004   1
+ IF GC6298    x015005   1
+ IF GC6299    x015006   1
+ IF GC6300    x015007   1
+ IF GC6301    x015008   1
+ IF GC6302    x015009   1
+ IF GC6303    x015010   1
+ IF GC6304    x015011   1
+ IF GC6305    x015012   1
+ IF GC6306    x015013   1
+ IF GC6307    x015014   1
+ IF GC6308    x015016   1
+ IF GC6309    x015017   1
+ IF GC6310    x015018   1
+ IF GC6311    x015019   1
+ IF GC6312    x015020   1
+ IF GC6313    x015021   1
+ IF GC6314    x015022   1
+ IF GC6315    x015023   1
+ IF GC6316    x015024   1
+ IF GC6317    x015025   1
+ IF GC6318    x015026   1
+ IF GC6319    x015027   1
+ IF GC6320    x015028   1
+ IF GC6321    x015029   1
+ IF GC6322    x015030   1
+ IF GC6323    x015031   1
+ IF GC6324    x015032   1
+ IF GC6325    x015033   1
+ IF GC6326    x015034   1
+ IF GC6327    x015035   1
+ IF GC6328    x015036   1
+ IF GC6329    x015037   1
+ IF GC6330    x015038   1
+ IF GC6331    x016001   1
+ IF GC6332    x016002   1
+ IF GC6333    x016003   1
+ IF GC6334    x016004   1
+ IF GC6335    x016005   1
+ IF GC6336    x016006   1
+ IF GC6337    x016007   1
+ IF GC6338    x016008   1
+ IF GC6339    x016009   1
+ IF GC6340    x016010   1
+ IF GC6341    x016011   1
+ IF GC6342    x016012   1
+ IF GC6343    x016013   1
+ IF GC6344    x016014   1
+ IF GC6345    x016015   1
+ IF GC6346    x016017   1
+ IF GC6347    x016018   1
+ IF GC6348    x016019   1
+ IF GC6349    x016020   1
+ IF GC6350    x016021   1
+ IF GC6351    x016022   1
+ IF GC6352    x016023   1
+ IF GC6353    x016024   1
+ IF GC6354    x016025   1
+ IF GC6355    x016026   1
+ IF GC6356    x016027   1
+ IF GC6357    x016028   1
+ IF GC6358    x016029   1
+ IF GC6359    x016030   1
+ IF GC6360    x016031   1
+ IF GC6361    x016032   1
+ IF GC6362    x016033   1
+ IF GC6363    x016034   1
+ IF GC6364    x016035   1
+ IF GC6365    x016036   1
+ IF GC6366    x016037   1
+ IF GC6367    x016038   1
+ IF GC6368    x017001   1
+ IF GC6369    x017002   1
+ IF GC6370    x017003   1
+ IF GC6371    x017004   1
+ IF GC6372    x017005   1
+ IF GC6373    x017006   1
+ IF GC6374    x017007   1
+ IF GC6375    x017008   1
+ IF GC6376    x017009   1
+ IF GC6377    x017010   1
+ IF GC6378    x017011   1
+ IF GC6379    x017012   1
+ IF GC6380    x017013   1
+ IF GC6381    x017014   1
+ IF GC6382    x017015   1
+ IF GC6383    x017016   1
+ IF GC6384    x017018   1
+ IF GC6385    x017019   1
+ IF GC6386    x017020   1
+ IF GC6387    x017021   1
+ IF GC6388    x017022   1
+ IF GC6389    x017023   1
+ IF GC6390    x017024   1
+ IF GC6391    x017025   1
+ IF GC6392    x017026   1
+ IF GC6393    x017027   1
+ IF GC6394    x017028   1
+ IF GC6395    x017029   1
+ IF GC6396    x017030   1
+ IF GC6397    x017031   1
+ IF GC6398    x017032   1
+ IF GC6399    x017033   1
+ IF GC6400    x017034   1
+ IF GC6401    x017035   1
+ IF GC6402    x017036   1
+ IF GC6403    x017037   1
+ IF GC6404    x017038   1
+ IF GC6405    x018001   1
+ IF GC6406    x018002   1
+ IF GC6407    x018003   1
+ IF GC6408    x018004   1
+ IF GC6409    x018005   1
+ IF GC6410    x018006   1
+ IF GC6411    x018007   1
+ IF GC6412    x018008   1
+ IF GC6413    x018009   1
+ IF GC6414    x018010   1
+ IF GC6415    x018011   1
+ IF GC6416    x018012   1
+ IF GC6417    x018013   1
+ IF GC6418    x018014   1
+ IF GC6419    x018015   1
+ IF GC6420    x018016   1
+ IF GC6421    x018017   1
+ IF GC6422    x018019   1
+ IF GC6423    x018020   1
+ IF GC6424    x018021   1
+ IF GC6425    x018022   1
+ IF GC6426    x018023   1
+ IF GC6427    x018024   1
+ IF GC6428    x018025   1
+ IF GC6429    x018026   1
+ IF GC6430    x018027   1
+ IF GC6431    x018028   1
+ IF GC6432    x018029   1
+ IF GC6433    x018030   1
+ IF GC6434    x018031   1
+ IF GC6435    x018032   1
+ IF GC6436    x018033   1
+ IF GC6437    x018034   1
+ IF GC6438    x018035   1
+ IF GC6439    x018036   1
+ IF GC6440    x018037   1
+ IF GC6441    x018038   1
+ IF GC6442    x019001   1
+ IF GC6443    x019002   1
+ IF GC6444    x019003   1
+ IF GC6445    x019004   1
+ IF GC6446    x019005   1
+ IF GC6447    x019006   1
+ IF GC6448    x019007   1
+ IF GC6449    x019008   1
+ IF GC6450    x019009   1
+ IF GC6451    x019010   1
+ IF GC6452    x019011   1
+ IF GC6453    x019012   1
+ IF GC6454    x019013   1
+ IF GC6455    x019014   1
+ IF GC6456    x019015   1
+ IF GC6457    x019016   1
+ IF GC6458    x019017   1
+ IF GC6459    x019018   1
+ IF GC6460    x019020   1
+ IF GC6461    x019021   1
+ IF GC6462    x019022   1
+ IF GC6463    x019023   1
+ IF GC6464    x019024   1
+ IF GC6465    x019025   1
+ IF GC6466    x019026   1
+ IF GC6467    x019027   1
+ IF GC6468    x019028   1
+ IF GC6469    x019029   1
+ IF GC6470    x019030   1
+ IF GC6471    x019031   1
+ IF GC6472    x019032   1
+ IF GC6473    x019033   1
+ IF GC6474    x019034   1
+ IF GC6475    x019035   1
+ IF GC6476    x019036   1
+ IF GC6477    x019037   1
+ IF GC6478    x019038   1
+ IF GC6479    x020001   1
+ IF GC6480    x020002   1
+ IF GC6481    x020003   1
+ IF GC6482    x020004   1
+ IF GC6483    x020005   1
+ IF GC6484    x020006   1
+ IF GC6485    x020007   1
+ IF GC6486    x020008   1
+ IF GC6487    x020009   1
+ IF GC6488    x020010   1
+ IF GC6489    x020011   1
+ IF GC6490    x020012   1
+ IF GC6491    x020013   1
+ IF GC6492    x020014   1
+ IF GC6493    x020015   1
+ IF GC6494    x020016   1
+ IF GC6495    x020017   1
+ IF GC6496    x020018   1
+ IF GC6497    x020019   1
+ IF GC6498    x020021   1
+ IF GC6499    x020022   1
+ IF GC6500    x020023   1
+ IF GC6501    x020024   1
+ IF GC6502    x020025   1
+ IF GC6503    x020026   1
+ IF GC6504    x020027   1
+ IF GC6505    x020028   1
+ IF GC6506    x020029   1
+ IF GC6507    x020030   1
+ IF GC6508    x020031   1
+ IF GC6509    x020032   1
+ IF GC6510    x020033   1
+ IF GC6511    x020034   1
+ IF GC6512    x020035   1
+ IF GC6513    x020036   1
+ IF GC6514    x020037   1
+ IF GC6515    x020038   1
+ IF GC6516    x021001   1
+ IF GC6517    x021002   1
+ IF GC6518    x021003   1
+ IF GC6519    x021004   1
+ IF GC6520    x021005   1
+ IF GC6521    x021006   1
+ IF GC6522    x021007   1
+ IF GC6523    x021008   1
+ IF GC6524    x021009   1
+ IF GC6525    x021010   1
+ IF GC6526    x021011   1
+ IF GC6527    x021012   1
+ IF GC6528    x021013   1
+ IF GC6529    x021014   1
+ IF GC6530    x021015   1
+ IF GC6531    x021016   1
+ IF GC6532    x021017   1
+ IF GC6533    x021018   1
+ IF GC6534    x021019   1
+ IF GC6535    x021020   1
+ IF GC6536    x021022   1
+ IF GC6537    x021023   1
+ IF GC6538    x021024   1
+ IF GC6539    x021025   1
+ IF GC6540    x021026   1
+ IF GC6541    x021027   1
+ IF GC6542    x021028   1
+ IF GC6543    x021029   1
+ IF GC6544    x021030   1
+ IF GC6545    x021031   1
+ IF GC6546    x021032   1
+ IF GC6547    x021033   1
+ IF GC6548    x021034   1
+ IF GC6549    x021035   1
+ IF GC6550    x021036   1
+ IF GC6551    x021037   1
+ IF GC6552    x021038   1
+ IF GC6553    x022001   1
+ IF GC6554    x022002   1
+ IF GC6555    x022003   1
+ IF GC6556    x022004   1
+ IF GC6557    x022005   1
+ IF GC6558    x022006   1
+ IF GC6559    x022007   1
+ IF GC6560    x022008   1
+ IF GC6561    x022009   1
+ IF GC6562    x022010   1
+ IF GC6563    x022011   1
+ IF GC6564    x022012   1
+ IF GC6565    x022013   1
+ IF GC6566    x022014   1
+ IF GC6567    x022015   1
+ IF GC6568    x022016   1
+ IF GC6569    x022017   1
+ IF GC6570    x022018   1
+ IF GC6571    x022019   1
+ IF GC6572    x022020   1
+ IF GC6573    x022021   1
+ IF GC6574    x022023   1
+ IF GC6575    x022024   1
+ IF GC6576    x022025   1
+ IF GC6577    x022026   1
+ IF GC6578    x022027   1
+ IF GC6579    x022028   1
+ IF GC6580    x022029   1
+ IF GC6581    x022030   1
+ IF GC6582    x022031   1
+ IF GC6583    x022032   1
+ IF GC6584    x022033   1
+ IF GC6585    x022034   1
+ IF GC6586    x022035   1
+ IF GC6587    x022036   1
+ IF GC6588    x022037   1
+ IF GC6589    x022038   1
+ IF GC6590    x023001   1
+ IF GC6591    x023002   1
+ IF GC6592    x023003   1
+ IF GC6593    x023004   1
+ IF GC6594    x023005   1
+ IF GC6595    x023006   1
+ IF GC6596    x023007   1
+ IF GC6597    x023008   1
+ IF GC6598    x023009   1
+ IF GC6599    x023010   1
+ IF GC6600    x023011   1
+ IF GC6601    x023012   1
+ IF GC6602    x023013   1
+ IF GC6603    x023014   1
+ IF GC6604    x023015   1
+ IF GC6605    x023016   1
+ IF GC6606    x023017   1
+ IF GC6607    x023018   1
+ IF GC6608    x023019   1
+ IF GC6609    x023020   1
+ IF GC6610    x023021   1
+ IF GC6611    x023022   1
+ IF GC6612    x023024   1
+ IF GC6613    x023025   1
+ IF GC6614    x023026   1
+ IF GC6615    x023027   1
+ IF GC6616    x023028   1
+ IF GC6617    x023029   1
+ IF GC6618    x023030   1
+ IF GC6619    x023031   1
+ IF GC6620    x023032   1
+ IF GC6621    x023033   1
+ IF GC6622    x023034   1
+ IF GC6623    x023035   1
+ IF GC6624    x023036   1
+ IF GC6625    x023037   1
+ IF GC6626    x023038   1
+ IF GC6627    x024001   1
+ IF GC6628    x024002   1
+ IF GC6629    x024003   1
+ IF GC6630    x024004   1
+ IF GC6631    x024005   1
+ IF GC6632    x024006   1
+ IF GC6633    x024007   1
+ IF GC6634    x024008   1
+ IF GC6635    x024009   1
+ IF GC6636    x024010   1
+ IF GC6637    x024011   1
+ IF GC6638    x024012   1
+ IF GC6639    x024013   1
+ IF GC6640    x024014   1
+ IF GC6641    x024015   1
+ IF GC6642    x024016   1
+ IF GC6643    x024017   1
+ IF GC6644    x024018   1
+ IF GC6645    x024019   1
+ IF GC6646    x024020   1
+ IF GC6647    x024021   1
+ IF GC6648    x024022   1
+ IF GC6649    x024023   1
+ IF GC6650    x024025   1
+ IF GC6651    x024026   1
+ IF GC6652    x024027   1
+ IF GC6653    x024028   1
+ IF GC6654    x024029   1
+ IF GC6655    x024030   1
+ IF GC6656    x024031   1
+ IF GC6657    x024032   1
+ IF GC6658    x024033   1
+ IF GC6659    x024034   1
+ IF GC6660    x024035   1
+ IF GC6661    x024036   1
+ IF GC6662    x024037   1
+ IF GC6663    x024038   1
+ IF GC6664    x025001   1
+ IF GC6665    x025002   1
+ IF GC6666    x025003   1
+ IF GC6667    x025004   1
+ IF GC6668    x025005   1
+ IF GC6669    x025006   1
+ IF GC6670    x025007   1
+ IF GC6671    x025008   1
+ IF GC6672    x025009   1
+ IF GC6673    x025010   1
+ IF GC6674    x025011   1
+ IF GC6675    x025012   1
+ IF GC6676    x025013   1
+ IF GC6677    x025014   1
+ IF GC6678    x025015   1
+ IF GC6679    x025016   1
+ IF GC6680    x025017   1
+ IF GC6681    x025018   1
+ IF GC6682    x025019   1
+ IF GC6683    x025020   1
+ IF GC6684    x025021   1
+ IF GC6685    x025022   1
+ IF GC6686    x025023   1
+ IF GC6687    x025024   1
+ IF GC6688    x025026   1
+ IF GC6689    x025027   1
+ IF GC6690    x025028   1
+ IF GC6691    x025029   1
+ IF GC6692    x025030   1
+ IF GC6693    x025031   1
+ IF GC6694    x025032   1
+ IF GC6695    x025033   1
+ IF GC6696    x025034   1
+ IF GC6697    x025035   1
+ IF GC6698    x025036   1
+ IF GC6699    x025037   1
+ IF GC6700    x025038   1
+ IF GC6701    x026001   1
+ IF GC6702    x026002   1
+ IF GC6703    x026003   1
+ IF GC6704    x026004   1
+ IF GC6705    x026005   1
+ IF GC6706    x026006   1
+ IF GC6707    x026007   1
+ IF GC6708    x026008   1
+ IF GC6709    x026009   1
+ IF GC6710    x026010   1
+ IF GC6711    x026011   1
+ IF GC6712    x026012   1
+ IF GC6713    x026013   1
+ IF GC6714    x026014   1
+ IF GC6715    x026015   1
+ IF GC6716    x026016   1
+ IF GC6717    x026017   1
+ IF GC6718    x026018   1
+ IF GC6719    x026019   1
+ IF GC6720    x026020   1
+ IF GC6721    x026021   1
+ IF GC6722    x026022   1
+ IF GC6723    x026023   1
+ IF GC6724    x026024   1
+ IF GC6725    x026025   1
+ IF GC6726    x026027   1
+ IF GC6727    x026028   1
+ IF GC6728    x026029   1
+ IF GC6729    x026030   1
+ IF GC6730    x026031   1
+ IF GC6731    x026032   1
+ IF GC6732    x026033   1
+ IF GC6733    x026034   1
+ IF GC6734    x026035   1
+ IF GC6735    x026036   1
+ IF GC6736    x026037   1
+ IF GC6737    x026038   1
+ IF GC6738    x027001   1
+ IF GC6739    x027002   1
+ IF GC6740    x027003   1
+ IF GC6741    x027004   1
+ IF GC6742    x027005   1
+ IF GC6743    x027006   1
+ IF GC6744    x027007   1
+ IF GC6745    x027008   1
+ IF GC6746    x027009   1
+ IF GC6747    x027010   1
+ IF GC6748    x027011   1
+ IF GC6749    x027012   1
+ IF GC6750    x027013   1
+ IF GC6751    x027014   1
+ IF GC6752    x027015   1
+ IF GC6753    x027016   1
+ IF GC6754    x027017   1
+ IF GC6755    x027018   1
+ IF GC6756    x027019   1
+ IF GC6757    x027020   1
+ IF GC6758    x027021   1
+ IF GC6759    x027022   1
+ IF GC6760    x027023   1
+ IF GC6761    x027024   1
+ IF GC6762    x027025   1
+ IF GC6763    x027026   1
+ IF GC6764    x027028   1
+ IF GC6765    x027029   1
+ IF GC6766    x027030   1
+ IF GC6767    x027031   1
+ IF GC6768    x027032   1
+ IF GC6769    x027033   1
+ IF GC6770    x027034   1
+ IF GC6771    x027035   1
+ IF GC6772    x027036   1
+ IF GC6773    x027037   1
+ IF GC6774    x027038   1
+ IF GC6775    x028001   1
+ IF GC6776    x028002   1
+ IF GC6777    x028003   1
+ IF GC6778    x028004   1
+ IF GC6779    x028005   1
+ IF GC6780    x028006   1
+ IF GC6781    x028007   1
+ IF GC6782    x028008   1
+ IF GC6783    x028009   1
+ IF GC6784    x028010   1
+ IF GC6785    x028011   1
+ IF GC6786    x028012   1
+ IF GC6787    x028013   1
+ IF GC6788    x028014   1
+ IF GC6789    x028015   1
+ IF GC6790    x028016   1
+ IF GC6791    x028017   1
+ IF GC6792    x028018   1
+ IF GC6793    x028019   1
+ IF GC6794    x028020   1
+ IF GC6795    x028021   1
+ IF GC6796    x028022   1
+ IF GC6797    x028023   1
+ IF GC6798    x028024   1
+ IF GC6799    x028025   1
+ IF GC6800    x028026   1
+ IF GC6801    x028027   1
+ IF GC6802    x028029   1
+ IF GC6803    x028030   1
+ IF GC6804    x028031   1
+ IF GC6805    x028032   1
+ IF GC6806    x028033   1
+ IF GC6807    x028034   1
+ IF GC6808    x028035   1
+ IF GC6809    x028036   1
+ IF GC6810    x028037   1
+ IF GC6811    x028038   1
+ IF GC6812    x029001   1
+ IF GC6813    x029002   1
+ IF GC6814    x029003   1
+ IF GC6815    x029004   1
+ IF GC6816    x029005   1
+ IF GC6817    x029006   1
+ IF GC6818    x029007   1
+ IF GC6819    x029008   1
+ IF GC6820    x029009   1
+ IF GC6821    x029010   1
+ IF GC6822    x029011   1
+ IF GC6823    x029012   1
+ IF GC6824    x029013   1
+ IF GC6825    x029014   1
+ IF GC6826    x029015   1
+ IF GC6827    x029016   1
+ IF GC6828    x029017   1
+ IF GC6829    x029018   1
+ IF GC6830    x029019   1
+ IF GC6831    x029020   1
+ IF GC6832    x029021   1
+ IF GC6833    x029022   1
+ IF GC6834    x029023   1
+ IF GC6835    x029024   1
+ IF GC6836    x029025   1
+ IF GC6837    x029026   1
+ IF GC6838    x029027   1
+ IF GC6839    x029028   1
+ IF GC6840    x029030   1
+ IF GC6841    x029031   1
+ IF GC6842    x029032   1
+ IF GC6843    x029033   1
+ IF GC6844    x029034   1
+ IF GC6845    x029035   1
+ IF GC6846    x029036   1
+ IF GC6847    x029037   1
+ IF GC6848    x029038   1
+ IF GC6849    x030001   1
+ IF GC6850    x030002   1
+ IF GC6851    x030003   1
+ IF GC6852    x030004   1
+ IF GC6853    x030005   1
+ IF GC6854    x030006   1
+ IF GC6855    x030007   1
+ IF GC6856    x030008   1
+ IF GC6857    x030009   1
+ IF GC6858    x030010   1
+ IF GC6859    x030011   1
+ IF GC6860    x030012   1
+ IF GC6861    x030013   1
+ IF GC6862    x030014   1
+ IF GC6863    x030015   1
+ IF GC6864    x030016   1
+ IF GC6865    x030017   1
+ IF GC6866    x030018   1
+ IF GC6867    x030019   1
+ IF GC6868    x030020   1
+ IF GC6869    x030021   1
+ IF GC6870    x030022   1
+ IF GC6871    x030023   1
+ IF GC6872    x030024   1
+ IF GC6873    x030025   1
+ IF GC6874    x030026   1
+ IF GC6875    x030027   1
+ IF GC6876    x030028   1
+ IF GC6877    x030029   1
+ IF GC6878    x030031   1
+ IF GC6879    x030032   1
+ IF GC6880    x030033   1
+ IF GC6881    x030034   1
+ IF GC6882    x030035   1
+ IF GC6883    x030036   1
+ IF GC6884    x030037   1
+ IF GC6885    x030038   1
+ IF GC6886    x031001   1
+ IF GC6887    x031002   1
+ IF GC6888    x031003   1
+ IF GC6889    x031004   1
+ IF GC6890    x031005   1
+ IF GC6891    x031006   1
+ IF GC6892    x031007   1
+ IF GC6893    x031008   1
+ IF GC6894    x031009   1
+ IF GC6895    x031010   1
+ IF GC6896    x031011   1
+ IF GC6897    x031012   1
+ IF GC6898    x031013   1
+ IF GC6899    x031014   1
+ IF GC6900    x031015   1
+ IF GC6901    x031016   1
+ IF GC6902    x031017   1
+ IF GC6903    x031018   1
+ IF GC6904    x031019   1
+ IF GC6905    x031020   1
+ IF GC6906    x031021   1
+ IF GC6907    x031022   1
+ IF GC6908    x031023   1
+ IF GC6909    x031024   1
+ IF GC6910    x031025   1
+ IF GC6911    x031026   1
+ IF GC6912    x031027   1
+ IF GC6913    x031028   1
+ IF GC6914    x031029   1
+ IF GC6915    x031030   1
+ IF GC6916    x031032   1
+ IF GC6917    x031033   1
+ IF GC6918    x031034   1
+ IF GC6919    x031035   1
+ IF GC6920    x031036   1
+ IF GC6921    x031037   1
+ IF GC6922    x031038   1
+ IF GC6923    x032001   1
+ IF GC6924    x032002   1
+ IF GC6925    x032003   1
+ IF GC6926    x032004   1
+ IF GC6927    x032005   1
+ IF GC6928    x032006   1
+ IF GC6929    x032007   1
+ IF GC6930    x032008   1
+ IF GC6931    x032009   1
+ IF GC6932    x032010   1
+ IF GC6933    x032011   1
+ IF GC6934    x032012   1
+ IF GC6935    x032013   1
+ IF GC6936    x032014   1
+ IF GC6937    x032015   1
+ IF GC6938    x032016   1
+ IF GC6939    x032017   1
+ IF GC6940    x032018   1
+ IF GC6941    x032019   1
+ IF GC6942    x032020   1
+ IF GC6943    x032021   1
+ IF GC6944    x032022   1
+ IF GC6945    x032023   1
+ IF GC6946    x032024   1
+ IF GC6947    x032025   1
+ IF GC6948    x032026   1
+ IF GC6949    x032027   1
+ IF GC6950    x032028   1
+ IF GC6951    x032029   1
+ IF GC6952    x032030   1
+ IF GC6953    x032031   1
+ IF GC6954    x032033   1
+ IF GC6955    x032034   1
+ IF GC6956    x032035   1
+ IF GC6957    x032036   1
+ IF GC6958    x032037   1
+ IF GC6959    x032038   1
+ IF GC6960    x033001   1
+ IF GC6961    x033002   1
+ IF GC6962    x033003   1
+ IF GC6963    x033004   1
+ IF GC6964    x033005   1
+ IF GC6965    x033006   1
+ IF GC6966    x033007   1
+ IF GC6967    x033008   1
+ IF GC6968    x033009   1
+ IF GC6969    x033010   1
+ IF GC6970    x033011   1
+ IF GC6971    x033012   1
+ IF GC6972    x033013   1
+ IF GC6973    x033014   1
+ IF GC6974    x033015   1
+ IF GC6975    x033016   1
+ IF GC6976    x033017   1
+ IF GC6977    x033018   1
+ IF GC6978    x033019   1
+ IF GC6979    x033020   1
+ IF GC6980    x033021   1
+ IF GC6981    x033022   1
+ IF GC6982    x033023   1
+ IF GC6983    x033024   1
+ IF GC6984    x033025   1
+ IF GC6985    x033026   1
+ IF GC6986    x033027   1
+ IF GC6987    x033028   1
+ IF GC6988    x033029   1
+ IF GC6989    x033030   1
+ IF GC6990    x033031   1
+ IF GC6991    x033032   1
+ IF GC6992    x033034   1
+ IF GC6993    x033035   1
+ IF GC6994    x033036   1
+ IF GC6995    x033037   1
+ IF GC6996    x033038   1
+ IF GC6997    x034001   1
+ IF GC6998    x034002   1
+ IF GC6999    x034003   1
+ IF GC7000    x034004   1
+ IF GC7001    x034005   1
+ IF GC7002    x034006   1
+ IF GC7003    x034007   1
+ IF GC7004    x034008   1
+ IF GC7005    x034009   1
+ IF GC7006    x034010   1
+ IF GC7007    x034011   1
+ IF GC7008    x034012   1
+ IF GC7009    x034013   1
+ IF GC7010    x034014   1
+ IF GC7011    x034015   1
+ IF GC7012    x034016   1
+ IF GC7013    x034017   1
+ IF GC7014    x034018   1
+ IF GC7015    x034019   1
+ IF GC7016    x034020   1
+ IF GC7017    x034021   1
+ IF GC7018    x034022   1
+ IF GC7019    x034023   1
+ IF GC7020    x034024   1
+ IF GC7021    x034025   1
+ IF GC7022    x034026   1
+ IF GC7023    x034027   1
+ IF GC7024    x034028   1
+ IF GC7025    x034029   1
+ IF GC7026    x034030   1
+ IF GC7027    x034031   1
+ IF GC7028    x034032   1
+ IF GC7029    x034033   1
+ IF GC7030    x034035   1
+ IF GC7031    x034036   1
+ IF GC7032    x034037   1
+ IF GC7033    x034038   1
+ IF GC7034    x035001   1
+ IF GC7035    x035002   1
+ IF GC7036    x035003   1
+ IF GC7037    x035004   1
+ IF GC7038    x035005   1
+ IF GC7039    x035006   1
+ IF GC7040    x035007   1
+ IF GC7041    x035008   1
+ IF GC7042    x035009   1
+ IF GC7043    x035010   1
+ IF GC7044    x035011   1
+ IF GC7045    x035012   1
+ IF GC7046    x035013   1
+ IF GC7047    x035014   1
+ IF GC7048    x035015   1
+ IF GC7049    x035016   1
+ IF GC7050    x035017   1
+ IF GC7051    x035018   1
+ IF GC7052    x035019   1
+ IF GC7053    x035020   1
+ IF GC7054    x035021   1
+ IF GC7055    x035022   1
+ IF GC7056    x035023   1
+ IF GC7057    x035024   1
+ IF GC7058    x035025   1
+ IF GC7059    x035026   1
+ IF GC7060    x035027   1
+ IF GC7061    x035028   1
+ IF GC7062    x035029   1
+ IF GC7063    x035030   1
+ IF GC7064    x035031   1
+ IF GC7065    x035032   1
+ IF GC7066    x035033   1
+ IF GC7067    x035034   1
+ IF GC7068    x035036   1
+ IF GC7069    x035037   1
+ IF GC7070    x035038   1
+ IF GC7071    x036001   1
+ IF GC7072    x036002   1
+ IF GC7073    x036003   1
+ IF GC7074    x036004   1
+ IF GC7075    x036005   1
+ IF GC7076    x036006   1
+ IF GC7077    x036007   1
+ IF GC7078    x036008   1
+ IF GC7079    x036009   1
+ IF GC7080    x036010   1
+ IF GC7081    x036011   1
+ IF GC7082    x036012   1
+ IF GC7083    x036013   1
+ IF GC7084    x036014   1
+ IF GC7085    x036015   1
+ IF GC7086    x036016   1
+ IF GC7087    x036017   1
+ IF GC7088    x036018   1
+ IF GC7089    x036019   1
+ IF GC7090    x036020   1
+ IF GC7091    x036021   1
+ IF GC7092    x036022   1
+ IF GC7093    x036023   1
+ IF GC7094    x036024   1
+ IF GC7095    x036025   1
+ IF GC7096    x036026   1
+ IF GC7097    x036027   1
+ IF GC7098    x036028   1
+ IF GC7099    x036029   1
+ IF GC7100    x036030   1
+ IF GC7101    x036031   1
+ IF GC7102    x036032   1
+ IF GC7103    x036033   1
+ IF GC7104    x036034   1
+ IF GC7105    x036035   1
+ IF GC7106    x036037   1
+ IF GC7107    x036038   1
+ IF GC7108    x037001   1
+ IF GC7109    x037002   1
+ IF GC7110    x037003   1
+ IF GC7111    x037004   1
+ IF GC7112    x037005   1
+ IF GC7113    x037006   1
+ IF GC7114    x037007   1
+ IF GC7115    x037008   1
+ IF GC7116    x037009   1
+ IF GC7117    x037010   1
+ IF GC7118    x037011   1
+ IF GC7119    x037012   1
+ IF GC7120    x037013   1
+ IF GC7121    x037014   1
+ IF GC7122    x037015   1
+ IF GC7123    x037016   1
+ IF GC7124    x037017   1
+ IF GC7125    x037018   1
+ IF GC7126    x037019   1
+ IF GC7127    x037020   1
+ IF GC7128    x037021   1
+ IF GC7129    x037022   1
+ IF GC7130    x037023   1
+ IF GC7131    x037024   1
+ IF GC7132    x037025   1
+ IF GC7133    x037026   1
+ IF GC7134    x037027   1
+ IF GC7135    x037028   1
+ IF GC7136    x037029   1
+ IF GC7137    x037030   1
+ IF GC7138    x037031   1
+ IF GC7139    x037032   1
+ IF GC7140    x037033   1
+ IF GC7141    x037034   1
+ IF GC7142    x037035   1
+ IF GC7143    x037036   1
+ IF GC7144    x037038   1
+ IF GC7145    x038001   1
+ IF GC7146    x038002   1
+ IF GC7147    x038003   1
+ IF GC7148    x038004   1
+ IF GC7149    x038005   1
+ IF GC7150    x038006   1
+ IF GC7151    x038007   1
+ IF GC7152    x038008   1
+ IF GC7153    x038009   1
+ IF GC7154    x038010   1
+ IF GC7155    x038011   1
+ IF GC7156    x038012   1
+ IF GC7157    x038013   1
+ IF GC7158    x038014   1
+ IF GC7159    x038015   1
+ IF GC7160    x038016   1
+ IF GC7161    x038017   1
+ IF GC7162    x038018   1
+ IF GC7163    x038019   1
+ IF GC7164    x038020   1
+ IF GC7165    x038021   1
+ IF GC7166    x038022   1
+ IF GC7167    x038023   1
+ IF GC7168    x038024   1
+ IF GC7169    x038025   1
+ IF GC7170    x038026   1
+ IF GC7171    x038027   1
+ IF GC7172    x038028   1
+ IF GC7173    x038029   1
+ IF GC7174    x038030   1
+ IF GC7175    x038031   1
+ IF GC7176    x038032   1
+ IF GC7177    x038033   1
+ IF GC7178    x038034   1
+ IF GC7179    x038035   1
+ IF GC7180    x038036   1
+ IF GC7181    x038037   1
+GENCONS
+ AND GC152
+    A000001002
+    A000001
+    A000002
+ AND GC154
+    A000001003
+    A000001
+    A000003
+ AND GC156
+    A000001004
+    A000001
+    A000004
+ AND GC158
+    A000001005
+    A000001
+    A000005
+ AND GC160
+    A000001006
+    A000001
+    A000006
+ AND GC162
+    A000001007
+    A000001
+    A000007
+ AND GC164
+    A000001008
+    A000001
+    A000008
+ AND GC166
+    A000001009
+    A000001
+    A000009
+ AND GC168
+    A000001010
+    A000001
+    A000010
+ AND GC170
+    A000001011
+    A000001
+    A000011
+ AND GC172
+    A000001012
+    A000001
+    A000012
+ AND GC174
+    A000001013
+    A000001
+    A000013
+ AND GC176
+    A000001014
+    A000001
+    A000014
+ AND GC178
+    A000001015
+    A000001
+    A000015
+ AND GC180
+    A000001016
+    A000001
+    A000016
+ AND GC182
+    A000001017
+    A000001
+    A000017
+ AND GC184
+    A000001018
+    A000001
+    A000018
+ AND GC186
+    A000001019
+    A000001
+    A000019
+ AND GC188
+    A000001020
+    A000001
+    A000020
+ AND GC190
+    A000001021
+    A000001
+    A000021
+ AND GC192
+    A000001022
+    A000001
+    A000022
+ AND GC194
+    A000001023
+    A000001
+    A000023
+ AND GC196
+    A000001024
+    A000001
+    A000024
+ AND GC198
+    A000001025
+    A000001
+    A000025
+ AND GC200
+    A000001026
+    A000001
+    A000026
+ AND GC202
+    A000001027
+    A000001
+    A000027
+ AND GC204
+    A000001028
+    A000001
+    A000028
+ AND GC206
+    A000001029
+    A000001
+    A000029
+ AND GC208
+    A000001030
+    A000001
+    A000030
+ AND GC210
+    A000001031
+    A000001
+    A000031
+ AND GC212
+    A000001032
+    A000001
+    A000032
+ AND GC214
+    A000001033
+    A000001
+    A000033
+ AND GC216
+    A000001034
+    A000001
+    A000034
+ AND GC218
+    A000001035
+    A000001
+    A000035
+ AND GC220
+    A000001036
+    A000001
+    A000036
+ AND GC222
+    A000001037
+    A000001
+    A000037
+ AND GC224
+    A000001038
+    A000001
+    A000038
+ AND GC226
+    A000002003
+    A000002
+    A000003
+ AND GC228
+    A000002004
+    A000002
+    A000004
+ AND GC230
+    A000002005
+    A000002
+    A000005
+ AND GC232
+    A000002006
+    A000002
+    A000006
+ AND GC234
+    A000002007
+    A000002
+    A000007
+ AND GC236
+    A000002008
+    A000002
+    A000008
+ AND GC238
+    A000002009
+    A000002
+    A000009
+ AND GC240
+    A000002010
+    A000002
+    A000010
+ AND GC242
+    A000002011
+    A000002
+    A000011
+ AND GC244
+    A000002012
+    A000002
+    A000012
+ AND GC246
+    A000002013
+    A000002
+    A000013
+ AND GC248
+    A000002014
+    A000002
+    A000014
+ AND GC250
+    A000002015
+    A000002
+    A000015
+ AND GC252
+    A000002016
+    A000002
+    A000016
+ AND GC254
+    A000002017
+    A000002
+    A000017
+ AND GC256
+    A000002018
+    A000002
+    A000018
+ AND GC258
+    A000002019
+    A000002
+    A000019
+ AND GC260
+    A000002020
+    A000002
+    A000020
+ AND GC262
+    A000002021
+    A000002
+    A000021
+ AND GC264
+    A000002022
+    A000002
+    A000022
+ AND GC266
+    A000002023
+    A000002
+    A000023
+ AND GC268
+    A000002024
+    A000002
+    A000024
+ AND GC270
+    A000002025
+    A000002
+    A000025
+ AND GC272
+    A000002026
+    A000002
+    A000026
+ AND GC274
+    A000002027
+    A000002
+    A000027
+ AND GC276
+    A000002028
+    A000002
+    A000028
+ AND GC278
+    A000002029
+    A000002
+    A000029
+ AND GC280
+    A000002030
+    A000002
+    A000030
+ AND GC282
+    A000002031
+    A000002
+    A000031
+ AND GC284
+    A000002032
+    A000002
+    A000032
+ AND GC286
+    A000002033
+    A000002
+    A000033
+ AND GC288
+    A000002034
+    A000002
+    A000034
+ AND GC290
+    A000002035
+    A000002
+    A000035
+ AND GC292
+    A000002036
+    A000002
+    A000036
+ AND GC294
+    A000002037
+    A000002
+    A000037
+ AND GC296
+    A000002038
+    A000002
+    A000038
+ AND GC298
+    A000003004
+    A000003
+    A000004
+ AND GC300
+    A000003005
+    A000003
+    A000005
+ AND GC302
+    A000003006
+    A000003
+    A000006
+ AND GC304
+    A000003007
+    A000003
+    A000007
+ AND GC306
+    A000003008
+    A000003
+    A000008
+ AND GC308
+    A000003009
+    A000003
+    A000009
+ AND GC310
+    A000003010
+    A000003
+    A000010
+ AND GC312
+    A000003011
+    A000003
+    A000011
+ AND GC314
+    A000003012
+    A000003
+    A000012
+ AND GC316
+    A000003013
+    A000003
+    A000013
+ AND GC318
+    A000003014
+    A000003
+    A000014
+ AND GC320
+    A000003015
+    A000003
+    A000015
+ AND GC322
+    A000003016
+    A000003
+    A000016
+ AND GC324
+    A000003017
+    A000003
+    A000017
+ AND GC326
+    A000003018
+    A000003
+    A000018
+ AND GC328
+    A000003019
+    A000003
+    A000019
+ AND GC330
+    A000003020
+    A000003
+    A000020
+ AND GC332
+    A000003021
+    A000003
+    A000021
+ AND GC334
+    A000003022
+    A000003
+    A000022
+ AND GC336
+    A000003023
+    A000003
+    A000023
+ AND GC338
+    A000003024
+    A000003
+    A000024
+ AND GC340
+    A000003025
+    A000003
+    A000025
+ AND GC342
+    A000003026
+    A000003
+    A000026
+ AND GC344
+    A000003027
+    A000003
+    A000027
+ AND GC346
+    A000003028
+    A000003
+    A000028
+ AND GC348
+    A000003029
+    A000003
+    A000029
+ AND GC350
+    A000003030
+    A000003
+    A000030
+ AND GC352
+    A000003031
+    A000003
+    A000031
+ AND GC354
+    A000003032
+    A000003
+    A000032
+ AND GC356
+    A000003033
+    A000003
+    A000033
+ AND GC358
+    A000003034
+    A000003
+    A000034
+ AND GC360
+    A000003035
+    A000003
+    A000035
+ AND GC362
+    A000003036
+    A000003
+    A000036
+ AND GC364
+    A000003037
+    A000003
+    A000037
+ AND GC366
+    A000003038
+    A000003
+    A000038
+ AND GC368
+    A000004005
+    A000004
+    A000005
+ AND GC370
+    A000004006
+    A000004
+    A000006
+ AND GC372
+    A000004007
+    A000004
+    A000007
+ AND GC374
+    A000004008
+    A000004
+    A000008
+ AND GC376
+    A000004009
+    A000004
+    A000009
+ AND GC378
+    A000004010
+    A000004
+    A000010
+ AND GC380
+    A000004011
+    A000004
+    A000011
+ AND GC382
+    A000004012
+    A000004
+    A000012
+ AND GC384
+    A000004013
+    A000004
+    A000013
+ AND GC386
+    A000004014
+    A000004
+    A000014
+ AND GC388
+    A000004015
+    A000004
+    A000015
+ AND GC390
+    A000004016
+    A000004
+    A000016
+ AND GC392
+    A000004017
+    A000004
+    A000017
+ AND GC394
+    A000004018
+    A000004
+    A000018
+ AND GC396
+    A000004019
+    A000004
+    A000019
+ AND GC398
+    A000004020
+    A000004
+    A000020
+ AND GC400
+    A000004021
+    A000004
+    A000021
+ AND GC402
+    A000004022
+    A000004
+    A000022
+ AND GC404
+    A000004023
+    A000004
+    A000023
+ AND GC406
+    A000004024
+    A000004
+    A000024
+ AND GC408
+    A000004025
+    A000004
+    A000025
+ AND GC410
+    A000004026
+    A000004
+    A000026
+ AND GC412
+    A000004027
+    A000004
+    A000027
+ AND GC414
+    A000004028
+    A000004
+    A000028
+ AND GC416
+    A000004029
+    A000004
+    A000029
+ AND GC418
+    A000004030
+    A000004
+    A000030
+ AND GC420
+    A000004031
+    A000004
+    A000031
+ AND GC422
+    A000004032
+    A000004
+    A000032
+ AND GC424
+    A000004033
+    A000004
+    A000033
+ AND GC426
+    A000004034
+    A000004
+    A000034
+ AND GC428
+    A000004035
+    A000004
+    A000035
+ AND GC430
+    A000004036
+    A000004
+    A000036
+ AND GC432
+    A000004037
+    A000004
+    A000037
+ AND GC434
+    A000004038
+    A000004
+    A000038
+ AND GC436
+    A000005006
+    A000005
+    A000006
+ AND GC438
+    A000005007
+    A000005
+    A000007
+ AND GC440
+    A000005008
+    A000005
+    A000008
+ AND GC442
+    A000005009
+    A000005
+    A000009
+ AND GC444
+    A000005010
+    A000005
+    A000010
+ AND GC446
+    A000005011
+    A000005
+    A000011
+ AND GC448
+    A000005012
+    A000005
+    A000012
+ AND GC450
+    A000005013
+    A000005
+    A000013
+ AND GC452
+    A000005014
+    A000005
+    A000014
+ AND GC454
+    A000005015
+    A000005
+    A000015
+ AND GC456
+    A000005016
+    A000005
+    A000016
+ AND GC458
+    A000005017
+    A000005
+    A000017
+ AND GC460
+    A000005018
+    A000005
+    A000018
+ AND GC462
+    A000005019
+    A000005
+    A000019
+ AND GC464
+    A000005020
+    A000005
+    A000020
+ AND GC466
+    A000005021
+    A000005
+    A000021
+ AND GC468
+    A000005022
+    A000005
+    A000022
+ AND GC470
+    A000005023
+    A000005
+    A000023
+ AND GC472
+    A000005024
+    A000005
+    A000024
+ AND GC474
+    A000005025
+    A000005
+    A000025
+ AND GC476
+    A000005026
+    A000005
+    A000026
+ AND GC478
+    A000005027
+    A000005
+    A000027
+ AND GC480
+    A000005028
+    A000005
+    A000028
+ AND GC482
+    A000005029
+    A000005
+    A000029
+ AND GC484
+    A000005030
+    A000005
+    A000030
+ AND GC486
+    A000005031
+    A000005
+    A000031
+ AND GC488
+    A000005032
+    A000005
+    A000032
+ AND GC490
+    A000005033
+    A000005
+    A000033
+ AND GC492
+    A000005034
+    A000005
+    A000034
+ AND GC494
+    A000005035
+    A000005
+    A000035
+ AND GC496
+    A000005036
+    A000005
+    A000036
+ AND GC498
+    A000005037
+    A000005
+    A000037
+ AND GC500
+    A000005038
+    A000005
+    A000038
+ AND GC502
+    A000006007
+    A000006
+    A000007
+ AND GC504
+    A000006008
+    A000006
+    A000008
+ AND GC506
+    A000006009
+    A000006
+    A000009
+ AND GC508
+    A000006010
+    A000006
+    A000010
+ AND GC510
+    A000006011
+    A000006
+    A000011
+ AND GC512
+    A000006012
+    A000006
+    A000012
+ AND GC514
+    A000006013
+    A000006
+    A000013
+ AND GC516
+    A000006014
+    A000006
+    A000014
+ AND GC518
+    A000006015
+    A000006
+    A000015
+ AND GC520
+    A000006016
+    A000006
+    A000016
+ AND GC522
+    A000006017
+    A000006
+    A000017
+ AND GC524
+    A000006018
+    A000006
+    A000018
+ AND GC526
+    A000006019
+    A000006
+    A000019
+ AND GC528
+    A000006020
+    A000006
+    A000020
+ AND GC530
+    A000006021
+    A000006
+    A000021
+ AND GC532
+    A000006022
+    A000006
+    A000022
+ AND GC534
+    A000006023
+    A000006
+    A000023
+ AND GC536
+    A000006024
+    A000006
+    A000024
+ AND GC538
+    A000006025
+    A000006
+    A000025
+ AND GC540
+    A000006026
+    A000006
+    A000026
+ AND GC542
+    A000006027
+    A000006
+    A000027
+ AND GC544
+    A000006028
+    A000006
+    A000028
+ AND GC546
+    A000006029
+    A000006
+    A000029
+ AND GC548
+    A000006030
+    A000006
+    A000030
+ AND GC550
+    A000006031
+    A000006
+    A000031
+ AND GC552
+    A000006032
+    A000006
+    A000032
+ AND GC554
+    A000006033
+    A000006
+    A000033
+ AND GC556
+    A000006034
+    A000006
+    A000034
+ AND GC558
+    A000006035
+    A000006
+    A000035
+ AND GC560
+    A000006036
+    A000006
+    A000036
+ AND GC562
+    A000006037
+    A000006
+    A000037
+ AND GC564
+    A000006038
+    A000006
+    A000038
+ AND GC566
+    A000007008
+    A000007
+    A000008
+ AND GC568
+    A000007009
+    A000007
+    A000009
+ AND GC570
+    A000007010
+    A000007
+    A000010
+ AND GC572
+    A000007011
+    A000007
+    A000011
+ AND GC574
+    A000007012
+    A000007
+    A000012
+ AND GC576
+    A000007013
+    A000007
+    A000013
+ AND GC578
+    A000007014
+    A000007
+    A000014
+ AND GC580
+    A000007015
+    A000007
+    A000015
+ AND GC582
+    A000007016
+    A000007
+    A000016
+ AND GC584
+    A000007017
+    A000007
+    A000017
+ AND GC586
+    A000007018
+    A000007
+    A000018
+ AND GC588
+    A000007019
+    A000007
+    A000019
+ AND GC590
+    A000007020
+    A000007
+    A000020
+ AND GC592
+    A000007021
+    A000007
+    A000021
+ AND GC594
+    A000007022
+    A000007
+    A000022
+ AND GC596
+    A000007023
+    A000007
+    A000023
+ AND GC598
+    A000007024
+    A000007
+    A000024
+ AND GC600
+    A000007025
+    A000007
+    A000025
+ AND GC602
+    A000007026
+    A000007
+    A000026
+ AND GC604
+    A000007027
+    A000007
+    A000027
+ AND GC606
+    A000007028
+    A000007
+    A000028
+ AND GC608
+    A000007029
+    A000007
+    A000029
+ AND GC610
+    A000007030
+    A000007
+    A000030
+ AND GC612
+    A000007031
+    A000007
+    A000031
+ AND GC614
+    A000007032
+    A000007
+    A000032
+ AND GC616
+    A000007033
+    A000007
+    A000033
+ AND GC618
+    A000007034
+    A000007
+    A000034
+ AND GC620
+    A000007035
+    A000007
+    A000035
+ AND GC622
+    A000007036
+    A000007
+    A000036
+ AND GC624
+    A000007037
+    A000007
+    A000037
+ AND GC626
+    A000007038
+    A000007
+    A000038
+ AND GC628
+    A000008009
+    A000008
+    A000009
+ AND GC630
+    A000008010
+    A000008
+    A000010
+ AND GC632
+    A000008011
+    A000008
+    A000011
+ AND GC634
+    A000008012
+    A000008
+    A000012
+ AND GC636
+    A000008013
+    A000008
+    A000013
+ AND GC638
+    A000008014
+    A000008
+    A000014
+ AND GC640
+    A000008015
+    A000008
+    A000015
+ AND GC642
+    A000008016
+    A000008
+    A000016
+ AND GC644
+    A000008017
+    A000008
+    A000017
+ AND GC646
+    A000008018
+    A000008
+    A000018
+ AND GC648
+    A000008019
+    A000008
+    A000019
+ AND GC650
+    A000008020
+    A000008
+    A000020
+ AND GC652
+    A000008021
+    A000008
+    A000021
+ AND GC654
+    A000008022
+    A000008
+    A000022
+ AND GC656
+    A000008023
+    A000008
+    A000023
+ AND GC658
+    A000008024
+    A000008
+    A000024
+ AND GC660
+    A000008025
+    A000008
+    A000025
+ AND GC662
+    A000008026
+    A000008
+    A000026
+ AND GC664
+    A000008027
+    A000008
+    A000027
+ AND GC666
+    A000008028
+    A000008
+    A000028
+ AND GC668
+    A000008029
+    A000008
+    A000029
+ AND GC670
+    A000008030
+    A000008
+    A000030
+ AND GC672
+    A000008031
+    A000008
+    A000031
+ AND GC674
+    A000008032
+    A000008
+    A000032
+ AND GC676
+    A000008033
+    A000008
+    A000033
+ AND GC678
+    A000008034
+    A000008
+    A000034
+ AND GC680
+    A000008035
+    A000008
+    A000035
+ AND GC682
+    A000008036
+    A000008
+    A000036
+ AND GC684
+    A000008037
+    A000008
+    A000037
+ AND GC686
+    A000008038
+    A000008
+    A000038
+ AND GC688
+    A000009010
+    A000009
+    A000010
+ AND GC690
+    A000009011
+    A000009
+    A000011
+ AND GC692
+    A000009012
+    A000009
+    A000012
+ AND GC694
+    A000009013
+    A000009
+    A000013
+ AND GC696
+    A000009014
+    A000009
+    A000014
+ AND GC698
+    A000009015
+    A000009
+    A000015
+ AND GC700
+    A000009016
+    A000009
+    A000016
+ AND GC702
+    A000009017
+    A000009
+    A000017
+ AND GC704
+    A000009018
+    A000009
+    A000018
+ AND GC706
+    A000009019
+    A000009
+    A000019
+ AND GC708
+    A000009020
+    A000009
+    A000020
+ AND GC710
+    A000009021
+    A000009
+    A000021
+ AND GC712
+    A000009022
+    A000009
+    A000022
+ AND GC714
+    A000009023
+    A000009
+    A000023
+ AND GC716
+    A000009024
+    A000009
+    A000024
+ AND GC718
+    A000009025
+    A000009
+    A000025
+ AND GC720
+    A000009026
+    A000009
+    A000026
+ AND GC722
+    A000009027
+    A000009
+    A000027
+ AND GC724
+    A000009028
+    A000009
+    A000028
+ AND GC726
+    A000009029
+    A000009
+    A000029
+ AND GC728
+    A000009030
+    A000009
+    A000030
+ AND GC730
+    A000009031
+    A000009
+    A000031
+ AND GC732
+    A000009032
+    A000009
+    A000032
+ AND GC734
+    A000009033
+    A000009
+    A000033
+ AND GC736
+    A000009034
+    A000009
+    A000034
+ AND GC738
+    A000009035
+    A000009
+    A000035
+ AND GC740
+    A000009036
+    A000009
+    A000036
+ AND GC742
+    A000009037
+    A000009
+    A000037
+ AND GC744
+    A000009038
+    A000009
+    A000038
+ AND GC746
+    A000010011
+    A000010
+    A000011
+ AND GC748
+    A000010012
+    A000010
+    A000012
+ AND GC750
+    A000010013
+    A000010
+    A000013
+ AND GC752
+    A000010014
+    A000010
+    A000014
+ AND GC754
+    A000010015
+    A000010
+    A000015
+ AND GC756
+    A000010016
+    A000010
+    A000016
+ AND GC758
+    A000010017
+    A000010
+    A000017
+ AND GC760
+    A000010018
+    A000010
+    A000018
+ AND GC762
+    A000010019
+    A000010
+    A000019
+ AND GC764
+    A000010020
+    A000010
+    A000020
+ AND GC766
+    A000010021
+    A000010
+    A000021
+ AND GC768
+    A000010022
+    A000010
+    A000022
+ AND GC770
+    A000010023
+    A000010
+    A000023
+ AND GC772
+    A000010024
+    A000010
+    A000024
+ AND GC774
+    A000010025
+    A000010
+    A000025
+ AND GC776
+    A000010026
+    A000010
+    A000026
+ AND GC778
+    A000010027
+    A000010
+    A000027
+ AND GC780
+    A000010028
+    A000010
+    A000028
+ AND GC782
+    A000010029
+    A000010
+    A000029
+ AND GC784
+    A000010030
+    A000010
+    A000030
+ AND GC786
+    A000010031
+    A000010
+    A000031
+ AND GC788
+    A000010032
+    A000010
+    A000032
+ AND GC790
+    A000010033
+    A000010
+    A000033
+ AND GC792
+    A000010034
+    A000010
+    A000034
+ AND GC794
+    A000010035
+    A000010
+    A000035
+ AND GC796
+    A000010036
+    A000010
+    A000036
+ AND GC798
+    A000010037
+    A000010
+    A000037
+ AND GC800
+    A000010038
+    A000010
+    A000038
+ AND GC802
+    A000011012
+    A000011
+    A000012
+ AND GC804
+    A000011013
+    A000011
+    A000013
+ AND GC806
+    A000011014
+    A000011
+    A000014
+ AND GC808
+    A000011015
+    A000011
+    A000015
+ AND GC810
+    A000011016
+    A000011
+    A000016
+ AND GC812
+    A000011017
+    A000011
+    A000017
+ AND GC814
+    A000011018
+    A000011
+    A000018
+ AND GC816
+    A000011019
+    A000011
+    A000019
+ AND GC818
+    A000011020
+    A000011
+    A000020
+ AND GC820
+    A000011021
+    A000011
+    A000021
+ AND GC822
+    A000011022
+    A000011
+    A000022
+ AND GC824
+    A000011023
+    A000011
+    A000023
+ AND GC826
+    A000011024
+    A000011
+    A000024
+ AND GC828
+    A000011025
+    A000011
+    A000025
+ AND GC830
+    A000011026
+    A000011
+    A000026
+ AND GC832
+    A000011027
+    A000011
+    A000027
+ AND GC834
+    A000011028
+    A000011
+    A000028
+ AND GC836
+    A000011029
+    A000011
+    A000029
+ AND GC838
+    A000011030
+    A000011
+    A000030
+ AND GC840
+    A000011031
+    A000011
+    A000031
+ AND GC842
+    A000011032
+    A000011
+    A000032
+ AND GC844
+    A000011033
+    A000011
+    A000033
+ AND GC846
+    A000011034
+    A000011
+    A000034
+ AND GC848
+    A000011035
+    A000011
+    A000035
+ AND GC850
+    A000011036
+    A000011
+    A000036
+ AND GC852
+    A000011037
+    A000011
+    A000037
+ AND GC854
+    A000011038
+    A000011
+    A000038
+ AND GC856
+    A000012013
+    A000012
+    A000013
+ AND GC858
+    A000012014
+    A000012
+    A000014
+ AND GC860
+    A000012015
+    A000012
+    A000015
+ AND GC862
+    A000012016
+    A000012
+    A000016
+ AND GC864
+    A000012017
+    A000012
+    A000017
+ AND GC866
+    A000012018
+    A000012
+    A000018
+ AND GC868
+    A000012019
+    A000012
+    A000019
+ AND GC870
+    A000012020
+    A000012
+    A000020
+ AND GC872
+    A000012021
+    A000012
+    A000021
+ AND GC874
+    A000012022
+    A000012
+    A000022
+ AND GC876
+    A000012023
+    A000012
+    A000023
+ AND GC878
+    A000012024
+    A000012
+    A000024
+ AND GC880
+    A000012025
+    A000012
+    A000025
+ AND GC882
+    A000012026
+    A000012
+    A000026
+ AND GC884
+    A000012027
+    A000012
+    A000027
+ AND GC886
+    A000012028
+    A000012
+    A000028
+ AND GC888
+    A000012029
+    A000012
+    A000029
+ AND GC890
+    A000012030
+    A000012
+    A000030
+ AND GC892
+    A000012031
+    A000012
+    A000031
+ AND GC894
+    A000012032
+    A000012
+    A000032
+ AND GC896
+    A000012033
+    A000012
+    A000033
+ AND GC898
+    A000012034
+    A000012
+    A000034
+ AND GC900
+    A000012035
+    A000012
+    A000035
+ AND GC902
+    A000012036
+    A000012
+    A000036
+ AND GC904
+    A000012037
+    A000012
+    A000037
+ AND GC906
+    A000012038
+    A000012
+    A000038
+ AND GC908
+    A000013014
+    A000013
+    A000014
+ AND GC910
+    A000013015
+    A000013
+    A000015
+ AND GC912
+    A000013016
+    A000013
+    A000016
+ AND GC914
+    A000013017
+    A000013
+    A000017
+ AND GC916
+    A000013018
+    A000013
+    A000018
+ AND GC918
+    A000013019
+    A000013
+    A000019
+ AND GC920
+    A000013020
+    A000013
+    A000020
+ AND GC922
+    A000013021
+    A000013
+    A000021
+ AND GC924
+    A000013022
+    A000013
+    A000022
+ AND GC926
+    A000013023
+    A000013
+    A000023
+ AND GC928
+    A000013024
+    A000013
+    A000024
+ AND GC930
+    A000013025
+    A000013
+    A000025
+ AND GC932
+    A000013026
+    A000013
+    A000026
+ AND GC934
+    A000013027
+    A000013
+    A000027
+ AND GC936
+    A000013028
+    A000013
+    A000028
+ AND GC938
+    A000013029
+    A000013
+    A000029
+ AND GC940
+    A000013030
+    A000013
+    A000030
+ AND GC942
+    A000013031
+    A000013
+    A000031
+ AND GC944
+    A000013032
+    A000013
+    A000032
+ AND GC946
+    A000013033
+    A000013
+    A000033
+ AND GC948
+    A000013034
+    A000013
+    A000034
+ AND GC950
+    A000013035
+    A000013
+    A000035
+ AND GC952
+    A000013036
+    A000013
+    A000036
+ AND GC954
+    A000013037
+    A000013
+    A000037
+ AND GC956
+    A000013038
+    A000013
+    A000038
+ AND GC958
+    A000014015
+    A000014
+    A000015
+ AND GC960
+    A000014016
+    A000014
+    A000016
+ AND GC962
+    A000014017
+    A000014
+    A000017
+ AND GC964
+    A000014018
+    A000014
+    A000018
+ AND GC966
+    A000014019
+    A000014
+    A000019
+ AND GC968
+    A000014020
+    A000014
+    A000020
+ AND GC970
+    A000014021
+    A000014
+    A000021
+ AND GC972
+    A000014022
+    A000014
+    A000022
+ AND GC974
+    A000014023
+    A000014
+    A000023
+ AND GC976
+    A000014024
+    A000014
+    A000024
+ AND GC978
+    A000014025
+    A000014
+    A000025
+ AND GC980
+    A000014026
+    A000014
+    A000026
+ AND GC982
+    A000014027
+    A000014
+    A000027
+ AND GC984
+    A000014028
+    A000014
+    A000028
+ AND GC986
+    A000014029
+    A000014
+    A000029
+ AND GC988
+    A000014030
+    A000014
+    A000030
+ AND GC990
+    A000014031
+    A000014
+    A000031
+ AND GC992
+    A000014032
+    A000014
+    A000032
+ AND GC994
+    A000014033
+    A000014
+    A000033
+ AND GC996
+    A000014034
+    A000014
+    A000034
+ AND GC998
+    A000014035
+    A000014
+    A000035
+ AND GC1000
+    A000014036
+    A000014
+    A000036
+ AND GC1002
+    A000014037
+    A000014
+    A000037
+ AND GC1004
+    A000014038
+    A000014
+    A000038
+ AND GC1006
+    A000015016
+    A000015
+    A000016
+ AND GC1008
+    A000015017
+    A000015
+    A000017
+ AND GC1010
+    A000015018
+    A000015
+    A000018
+ AND GC1012
+    A000015019
+    A000015
+    A000019
+ AND GC1014
+    A000015020
+    A000015
+    A000020
+ AND GC1016
+    A000015021
+    A000015
+    A000021
+ AND GC1018
+    A000015022
+    A000015
+    A000022
+ AND GC1020
+    A000015023
+    A000015
+    A000023
+ AND GC1022
+    A000015024
+    A000015
+    A000024
+ AND GC1024
+    A000015025
+    A000015
+    A000025
+ AND GC1026
+    A000015026
+    A000015
+    A000026
+ AND GC1028
+    A000015027
+    A000015
+    A000027
+ AND GC1030
+    A000015028
+    A000015
+    A000028
+ AND GC1032
+    A000015029
+    A000015
+    A000029
+ AND GC1034
+    A000015030
+    A000015
+    A000030
+ AND GC1036
+    A000015031
+    A000015
+    A000031
+ AND GC1038
+    A000015032
+    A000015
+    A000032
+ AND GC1040
+    A000015033
+    A000015
+    A000033
+ AND GC1042
+    A000015034
+    A000015
+    A000034
+ AND GC1044
+    A000015035
+    A000015
+    A000035
+ AND GC1046
+    A000015036
+    A000015
+    A000036
+ AND GC1048
+    A000015037
+    A000015
+    A000037
+ AND GC1050
+    A000015038
+    A000015
+    A000038
+ AND GC1052
+    A000016017
+    A000016
+    A000017
+ AND GC1054
+    A000016018
+    A000016
+    A000018
+ AND GC1056
+    A000016019
+    A000016
+    A000019
+ AND GC1058
+    A000016020
+    A000016
+    A000020
+ AND GC1060
+    A000016021
+    A000016
+    A000021
+ AND GC1062
+    A000016022
+    A000016
+    A000022
+ AND GC1064
+    A000016023
+    A000016
+    A000023
+ AND GC1066
+    A000016024
+    A000016
+    A000024
+ AND GC1068
+    A000016025
+    A000016
+    A000025
+ AND GC1070
+    A000016026
+    A000016
+    A000026
+ AND GC1072
+    A000016027
+    A000016
+    A000027
+ AND GC1074
+    A000016028
+    A000016
+    A000028
+ AND GC1076
+    A000016029
+    A000016
+    A000029
+ AND GC1078
+    A000016030
+    A000016
+    A000030
+ AND GC1080
+    A000016031
+    A000016
+    A000031
+ AND GC1082
+    A000016032
+    A000016
+    A000032
+ AND GC1084
+    A000016033
+    A000016
+    A000033
+ AND GC1086
+    A000016034
+    A000016
+    A000034
+ AND GC1088
+    A000016035
+    A000016
+    A000035
+ AND GC1090
+    A000016036
+    A000016
+    A000036
+ AND GC1092
+    A000016037
+    A000016
+    A000037
+ AND GC1094
+    A000016038
+    A000016
+    A000038
+ AND GC1096
+    A000017018
+    A000017
+    A000018
+ AND GC1098
+    A000017019
+    A000017
+    A000019
+ AND GC1100
+    A000017020
+    A000017
+    A000020
+ AND GC1102
+    A000017021
+    A000017
+    A000021
+ AND GC1104
+    A000017022
+    A000017
+    A000022
+ AND GC1106
+    A000017023
+    A000017
+    A000023
+ AND GC1108
+    A000017024
+    A000017
+    A000024
+ AND GC1110
+    A000017025
+    A000017
+    A000025
+ AND GC1112
+    A000017026
+    A000017
+    A000026
+ AND GC1114
+    A000017027
+    A000017
+    A000027
+ AND GC1116
+    A000017028
+    A000017
+    A000028
+ AND GC1118
+    A000017029
+    A000017
+    A000029
+ AND GC1120
+    A000017030
+    A000017
+    A000030
+ AND GC1122
+    A000017031
+    A000017
+    A000031
+ AND GC1124
+    A000017032
+    A000017
+    A000032
+ AND GC1126
+    A000017033
+    A000017
+    A000033
+ AND GC1128
+    A000017034
+    A000017
+    A000034
+ AND GC1130
+    A000017035
+    A000017
+    A000035
+ AND GC1132
+    A000017036
+    A000017
+    A000036
+ AND GC1134
+    A000017037
+    A000017
+    A000037
+ AND GC1136
+    A000017038
+    A000017
+    A000038
+ AND GC1138
+    A000018019
+    A000018
+    A000019
+ AND GC1140
+    A000018020
+    A000018
+    A000020
+ AND GC1142
+    A000018021
+    A000018
+    A000021
+ AND GC1144
+    A000018022
+    A000018
+    A000022
+ AND GC1146
+    A000018023
+    A000018
+    A000023
+ AND GC1148
+    A000018024
+    A000018
+    A000024
+ AND GC1150
+    A000018025
+    A000018
+    A000025
+ AND GC1152
+    A000018026
+    A000018
+    A000026
+ AND GC1154
+    A000018027
+    A000018
+    A000027
+ AND GC1156
+    A000018028
+    A000018
+    A000028
+ AND GC1158
+    A000018029
+    A000018
+    A000029
+ AND GC1160
+    A000018030
+    A000018
+    A000030
+ AND GC1162
+    A000018031
+    A000018
+    A000031
+ AND GC1164
+    A000018032
+    A000018
+    A000032
+ AND GC1166
+    A000018033
+    A000018
+    A000033
+ AND GC1168
+    A000018034
+    A000018
+    A000034
+ AND GC1170
+    A000018035
+    A000018
+    A000035
+ AND GC1172
+    A000018036
+    A000018
+    A000036
+ AND GC1174
+    A000018037
+    A000018
+    A000037
+ AND GC1176
+    A000018038
+    A000018
+    A000038
+ AND GC1178
+    A000019020
+    A000019
+    A000020
+ AND GC1180
+    A000019021
+    A000019
+    A000021
+ AND GC1182
+    A000019022
+    A000019
+    A000022
+ AND GC1184
+    A000019023
+    A000019
+    A000023
+ AND GC1186
+    A000019024
+    A000019
+    A000024
+ AND GC1188
+    A000019025
+    A000019
+    A000025
+ AND GC1190
+    A000019026
+    A000019
+    A000026
+ AND GC1192
+    A000019027
+    A000019
+    A000027
+ AND GC1194
+    A000019028
+    A000019
+    A000028
+ AND GC1196
+    A000019029
+    A000019
+    A000029
+ AND GC1198
+    A000019030
+    A000019
+    A000030
+ AND GC1200
+    A000019031
+    A000019
+    A000031
+ AND GC1202
+    A000019032
+    A000019
+    A000032
+ AND GC1204
+    A000019033
+    A000019
+    A000033
+ AND GC1206
+    A000019034
+    A000019
+    A000034
+ AND GC1208
+    A000019035
+    A000019
+    A000035
+ AND GC1210
+    A000019036
+    A000019
+    A000036
+ AND GC1212
+    A000019037
+    A000019
+    A000037
+ AND GC1214
+    A000019038
+    A000019
+    A000038
+ AND GC1216
+    A000020021
+    A000020
+    A000021
+ AND GC1218
+    A000020022
+    A000020
+    A000022
+ AND GC1220
+    A000020023
+    A000020
+    A000023
+ AND GC1222
+    A000020024
+    A000020
+    A000024
+ AND GC1224
+    A000020025
+    A000020
+    A000025
+ AND GC1226
+    A000020026
+    A000020
+    A000026
+ AND GC1228
+    A000020027
+    A000020
+    A000027
+ AND GC1230
+    A000020028
+    A000020
+    A000028
+ AND GC1232
+    A000020029
+    A000020
+    A000029
+ AND GC1234
+    A000020030
+    A000020
+    A000030
+ AND GC1236
+    A000020031
+    A000020
+    A000031
+ AND GC1238
+    A000020032
+    A000020
+    A000032
+ AND GC1240
+    A000020033
+    A000020
+    A000033
+ AND GC1242
+    A000020034
+    A000020
+    A000034
+ AND GC1244
+    A000020035
+    A000020
+    A000035
+ AND GC1246
+    A000020036
+    A000020
+    A000036
+ AND GC1248
+    A000020037
+    A000020
+    A000037
+ AND GC1250
+    A000020038
+    A000020
+    A000038
+ AND GC1252
+    A000021022
+    A000021
+    A000022
+ AND GC1254
+    A000021023
+    A000021
+    A000023
+ AND GC1256
+    A000021024
+    A000021
+    A000024
+ AND GC1258
+    A000021025
+    A000021
+    A000025
+ AND GC1260
+    A000021026
+    A000021
+    A000026
+ AND GC1262
+    A000021027
+    A000021
+    A000027
+ AND GC1264
+    A000021028
+    A000021
+    A000028
+ AND GC1266
+    A000021029
+    A000021
+    A000029
+ AND GC1268
+    A000021030
+    A000021
+    A000030
+ AND GC1270
+    A000021031
+    A000021
+    A000031
+ AND GC1272
+    A000021032
+    A000021
+    A000032
+ AND GC1274
+    A000021033
+    A000021
+    A000033
+ AND GC1276
+    A000021034
+    A000021
+    A000034
+ AND GC1278
+    A000021035
+    A000021
+    A000035
+ AND GC1280
+    A000021036
+    A000021
+    A000036
+ AND GC1282
+    A000021037
+    A000021
+    A000037
+ AND GC1284
+    A000021038
+    A000021
+    A000038
+ AND GC1286
+    A000022023
+    A000022
+    A000023
+ AND GC1288
+    A000022024
+    A000022
+    A000024
+ AND GC1290
+    A000022025
+    A000022
+    A000025
+ AND GC1292
+    A000022026
+    A000022
+    A000026
+ AND GC1294
+    A000022027
+    A000022
+    A000027
+ AND GC1296
+    A000022028
+    A000022
+    A000028
+ AND GC1298
+    A000022029
+    A000022
+    A000029
+ AND GC1300
+    A000022030
+    A000022
+    A000030
+ AND GC1302
+    A000022031
+    A000022
+    A000031
+ AND GC1304
+    A000022032
+    A000022
+    A000032
+ AND GC1306
+    A000022033
+    A000022
+    A000033
+ AND GC1308
+    A000022034
+    A000022
+    A000034
+ AND GC1310
+    A000022035
+    A000022
+    A000035
+ AND GC1312
+    A000022036
+    A000022
+    A000036
+ AND GC1314
+    A000022037
+    A000022
+    A000037
+ AND GC1316
+    A000022038
+    A000022
+    A000038
+ AND GC1318
+    A000023024
+    A000023
+    A000024
+ AND GC1320
+    A000023025
+    A000023
+    A000025
+ AND GC1322
+    A000023026
+    A000023
+    A000026
+ AND GC1324
+    A000023027
+    A000023
+    A000027
+ AND GC1326
+    A000023028
+    A000023
+    A000028
+ AND GC1328
+    A000023029
+    A000023
+    A000029
+ AND GC1330
+    A000023030
+    A000023
+    A000030
+ AND GC1332
+    A000023031
+    A000023
+    A000031
+ AND GC1334
+    A000023032
+    A000023
+    A000032
+ AND GC1336
+    A000023033
+    A000023
+    A000033
+ AND GC1338
+    A000023034
+    A000023
+    A000034
+ AND GC1340
+    A000023035
+    A000023
+    A000035
+ AND GC1342
+    A000023036
+    A000023
+    A000036
+ AND GC1344
+    A000023037
+    A000023
+    A000037
+ AND GC1346
+    A000023038
+    A000023
+    A000038
+ AND GC1348
+    A000024025
+    A000024
+    A000025
+ AND GC1350
+    A000024026
+    A000024
+    A000026
+ AND GC1352
+    A000024027
+    A000024
+    A000027
+ AND GC1354
+    A000024028
+    A000024
+    A000028
+ AND GC1356
+    A000024029
+    A000024
+    A000029
+ AND GC1358
+    A000024030
+    A000024
+    A000030
+ AND GC1360
+    A000024031
+    A000024
+    A000031
+ AND GC1362
+    A000024032
+    A000024
+    A000032
+ AND GC1364
+    A000024033
+    A000024
+    A000033
+ AND GC1366
+    A000024034
+    A000024
+    A000034
+ AND GC1368
+    A000024035
+    A000024
+    A000035
+ AND GC1370
+    A000024036
+    A000024
+    A000036
+ AND GC1372
+    A000024037
+    A000024
+    A000037
+ AND GC1374
+    A000024038
+    A000024
+    A000038
+ AND GC1376
+    A000025026
+    A000025
+    A000026
+ AND GC1378
+    A000025027
+    A000025
+    A000027
+ AND GC1380
+    A000025028
+    A000025
+    A000028
+ AND GC1382
+    A000025029
+    A000025
+    A000029
+ AND GC1384
+    A000025030
+    A000025
+    A000030
+ AND GC1386
+    A000025031
+    A000025
+    A000031
+ AND GC1388
+    A000025032
+    A000025
+    A000032
+ AND GC1390
+    A000025033
+    A000025
+    A000033
+ AND GC1392
+    A000025034
+    A000025
+    A000034
+ AND GC1394
+    A000025035
+    A000025
+    A000035
+ AND GC1396
+    A000025036
+    A000025
+    A000036
+ AND GC1398
+    A000025037
+    A000025
+    A000037
+ AND GC1400
+    A000025038
+    A000025
+    A000038
+ AND GC1402
+    A000026027
+    A000026
+    A000027
+ AND GC1404
+    A000026028
+    A000026
+    A000028
+ AND GC1406
+    A000026029
+    A000026
+    A000029
+ AND GC1408
+    A000026030
+    A000026
+    A000030
+ AND GC1410
+    A000026031
+    A000026
+    A000031
+ AND GC1412
+    A000026032
+    A000026
+    A000032
+ AND GC1414
+    A000026033
+    A000026
+    A000033
+ AND GC1416
+    A000026034
+    A000026
+    A000034
+ AND GC1418
+    A000026035
+    A000026
+    A000035
+ AND GC1420
+    A000026036
+    A000026
+    A000036
+ AND GC1422
+    A000026037
+    A000026
+    A000037
+ AND GC1424
+    A000026038
+    A000026
+    A000038
+ AND GC1426
+    A000027028
+    A000027
+    A000028
+ AND GC1428
+    A000027029
+    A000027
+    A000029
+ AND GC1430
+    A000027030
+    A000027
+    A000030
+ AND GC1432
+    A000027031
+    A000027
+    A000031
+ AND GC1434
+    A000027032
+    A000027
+    A000032
+ AND GC1436
+    A000027033
+    A000027
+    A000033
+ AND GC1438
+    A000027034
+    A000027
+    A000034
+ AND GC1440
+    A000027035
+    A000027
+    A000035
+ AND GC1442
+    A000027036
+    A000027
+    A000036
+ AND GC1444
+    A000027037
+    A000027
+    A000037
+ AND GC1446
+    A000027038
+    A000027
+    A000038
+ AND GC1448
+    A000028029
+    A000028
+    A000029
+ AND GC1450
+    A000028030
+    A000028
+    A000030
+ AND GC1452
+    A000028031
+    A000028
+    A000031
+ AND GC1454
+    A000028032
+    A000028
+    A000032
+ AND GC1456
+    A000028033
+    A000028
+    A000033
+ AND GC1458
+    A000028034
+    A000028
+    A000034
+ AND GC1460
+    A000028035
+    A000028
+    A000035
+ AND GC1462
+    A000028036
+    A000028
+    A000036
+ AND GC1464
+    A000028037
+    A000028
+    A000037
+ AND GC1466
+    A000028038
+    A000028
+    A000038
+ AND GC1468
+    A000029030
+    A000029
+    A000030
+ AND GC1470
+    A000029031
+    A000029
+    A000031
+ AND GC1472
+    A000029032
+    A000029
+    A000032
+ AND GC1474
+    A000029033
+    A000029
+    A000033
+ AND GC1476
+    A000029034
+    A000029
+    A000034
+ AND GC1478
+    A000029035
+    A000029
+    A000035
+ AND GC1480
+    A000029036
+    A000029
+    A000036
+ AND GC1482
+    A000029037
+    A000029
+    A000037
+ AND GC1484
+    A000029038
+    A000029
+    A000038
+ AND GC1486
+    A000030031
+    A000030
+    A000031
+ AND GC1488
+    A000030032
+    A000030
+    A000032
+ AND GC1490
+    A000030033
+    A000030
+    A000033
+ AND GC1492
+    A000030034
+    A000030
+    A000034
+ AND GC1494
+    A000030035
+    A000030
+    A000035
+ AND GC1496
+    A000030036
+    A000030
+    A000036
+ AND GC1498
+    A000030037
+    A000030
+    A000037
+ AND GC1500
+    A000030038
+    A000030
+    A000038
+ AND GC1502
+    A000031032
+    A000031
+    A000032
+ AND GC1504
+    A000031033
+    A000031
+    A000033
+ AND GC1506
+    A000031034
+    A000031
+    A000034
+ AND GC1508
+    A000031035
+    A000031
+    A000035
+ AND GC1510
+    A000031036
+    A000031
+    A000036
+ AND GC1512
+    A000031037
+    A000031
+    A000037
+ AND GC1514
+    A000031038
+    A000031
+    A000038
+ AND GC1516
+    A000032033
+    A000032
+    A000033
+ AND GC1518
+    A000032034
+    A000032
+    A000034
+ AND GC1520
+    A000032035
+    A000032
+    A000035
+ AND GC1522
+    A000032036
+    A000032
+    A000036
+ AND GC1524
+    A000032037
+    A000032
+    A000037
+ AND GC1526
+    A000032038
+    A000032
+    A000038
+ AND GC1528
+    A000033034
+    A000033
+    A000034
+ AND GC1530
+    A000033035
+    A000033
+    A000035
+ AND GC1532
+    A000033036
+    A000033
+    A000036
+ AND GC1534
+    A000033037
+    A000033
+    A000037
+ AND GC1536
+    A000033038
+    A000033
+    A000038
+ AND GC1538
+    A000034035
+    A000034
+    A000035
+ AND GC1540
+    A000034036
+    A000034
+    A000036
+ AND GC1542
+    A000034037
+    A000034
+    A000037
+ AND GC1544
+    A000034038
+    A000034
+    A000038
+ AND GC1546
+    A000035036
+    A000035
+    A000036
+ AND GC1548
+    A000035037
+    A000035
+    A000037
+ AND GC1550
+    A000035038
+    A000035
+    A000038
+ AND GC1552
+    A000036037
+    A000036
+    A000037
+ AND GC1554
+    A000036038
+    A000036
+    A000038
+ AND GC1556
+    A000037038
+    A000037
+    A000038
+ AND GC1558
+    A001001002
+    A001001
+    A001002
+ AND GC1560
+    A001001003
+    A001001
+    A001003
+ AND GC1562
+    A001001004
+    A001001
+    A001004
+ AND GC1564
+    A001001005
+    A001001
+    A001005
+ AND GC1566
+    A001001006
+    A001001
+    A001006
+ AND GC1568
+    A001001007
+    A001001
+    A001007
+ AND GC1570
+    A001001008
+    A001001
+    A001008
+ AND GC1572
+    A001001009
+    A001001
+    A001009
+ AND GC1574
+    A001001010
+    A001001
+    A001010
+ AND GC1576
+    A001001011
+    A001001
+    A001011
+ AND GC1578
+    A001001012
+    A001001
+    A001012
+ AND GC1580
+    A001001013
+    A001001
+    A001013
+ AND GC1582
+    A001001014
+    A001001
+    A001014
+ AND GC1584
+    A001001015
+    A001001
+    A001015
+ AND GC1586
+    A001001016
+    A001001
+    A001016
+ AND GC1588
+    A001001017
+    A001001
+    A001017
+ AND GC1590
+    A001001018
+    A001001
+    A001018
+ AND GC1592
+    A001001019
+    A001001
+    A001019
+ AND GC1594
+    A001001020
+    A001001
+    A001020
+ AND GC1596
+    A001001021
+    A001001
+    A001021
+ AND GC1598
+    A001001022
+    A001001
+    A001022
+ AND GC1600
+    A001001023
+    A001001
+    A001023
+ AND GC1602
+    A001001024
+    A001001
+    A001024
+ AND GC1604
+    A001001025
+    A001001
+    A001025
+ AND GC1606
+    A001001026
+    A001001
+    A001026
+ AND GC1608
+    A001001027
+    A001001
+    A001027
+ AND GC1610
+    A001001028
+    A001001
+    A001028
+ AND GC1612
+    A001001029
+    A001001
+    A001029
+ AND GC1614
+    A001001030
+    A001001
+    A001030
+ AND GC1616
+    A001001031
+    A001001
+    A001031
+ AND GC1618
+    A001001032
+    A001001
+    A001032
+ AND GC1620
+    A001001033
+    A001001
+    A001033
+ AND GC1622
+    A001001034
+    A001001
+    A001034
+ AND GC1624
+    A001001035
+    A001001
+    A001035
+ AND GC1626
+    A001001036
+    A001001
+    A001036
+ AND GC1628
+    A001001037
+    A001001
+    A001037
+ AND GC1630
+    A001001038
+    A001001
+    A001038
+ AND GC1632
+    A001002003
+    A001002
+    A001003
+ AND GC1634
+    A001002004
+    A001002
+    A001004
+ AND GC1636
+    A001002005
+    A001002
+    A001005
+ AND GC1638
+    A001002006
+    A001002
+    A001006
+ AND GC1640
+    A001002007
+    A001002
+    A001007
+ AND GC1642
+    A001002008
+    A001002
+    A001008
+ AND GC1644
+    A001002009
+    A001002
+    A001009
+ AND GC1646
+    A001002010
+    A001002
+    A001010
+ AND GC1648
+    A001002011
+    A001002
+    A001011
+ AND GC1650
+    A001002012
+    A001002
+    A001012
+ AND GC1652
+    A001002013
+    A001002
+    A001013
+ AND GC1654
+    A001002014
+    A001002
+    A001014
+ AND GC1656
+    A001002015
+    A001002
+    A001015
+ AND GC1658
+    A001002016
+    A001002
+    A001016
+ AND GC1660
+    A001002017
+    A001002
+    A001017
+ AND GC1662
+    A001002018
+    A001002
+    A001018
+ AND GC1664
+    A001002019
+    A001002
+    A001019
+ AND GC1666
+    A001002020
+    A001002
+    A001020
+ AND GC1668
+    A001002021
+    A001002
+    A001021
+ AND GC1670
+    A001002022
+    A001002
+    A001022
+ AND GC1672
+    A001002023
+    A001002
+    A001023
+ AND GC1674
+    A001002024
+    A001002
+    A001024
+ AND GC1676
+    A001002025
+    A001002
+    A001025
+ AND GC1678
+    A001002026
+    A001002
+    A001026
+ AND GC1680
+    A001002027
+    A001002
+    A001027
+ AND GC1682
+    A001002028
+    A001002
+    A001028
+ AND GC1684
+    A001002029
+    A001002
+    A001029
+ AND GC1686
+    A001002030
+    A001002
+    A001030
+ AND GC1688
+    A001002031
+    A001002
+    A001031
+ AND GC1690
+    A001002032
+    A001002
+    A001032
+ AND GC1692
+    A001002033
+    A001002
+    A001033
+ AND GC1694
+    A001002034
+    A001002
+    A001034
+ AND GC1696
+    A001002035
+    A001002
+    A001035
+ AND GC1698
+    A001002036
+    A001002
+    A001036
+ AND GC1700
+    A001002037
+    A001002
+    A001037
+ AND GC1702
+    A001002038
+    A001002
+    A001038
+ AND GC1704
+    A001003004
+    A001003
+    A001004
+ AND GC1706
+    A001003005
+    A001003
+    A001005
+ AND GC1708
+    A001003006
+    A001003
+    A001006
+ AND GC1710
+    A001003007
+    A001003
+    A001007
+ AND GC1712
+    A001003008
+    A001003
+    A001008
+ AND GC1714
+    A001003009
+    A001003
+    A001009
+ AND GC1716
+    A001003010
+    A001003
+    A001010
+ AND GC1718
+    A001003011
+    A001003
+    A001011
+ AND GC1720
+    A001003012
+    A001003
+    A001012
+ AND GC1722
+    A001003013
+    A001003
+    A001013
+ AND GC1724
+    A001003014
+    A001003
+    A001014
+ AND GC1726
+    A001003015
+    A001003
+    A001015
+ AND GC1728
+    A001003016
+    A001003
+    A001016
+ AND GC1730
+    A001003017
+    A001003
+    A001017
+ AND GC1732
+    A001003018
+    A001003
+    A001018
+ AND GC1734
+    A001003019
+    A001003
+    A001019
+ AND GC1736
+    A001003020
+    A001003
+    A001020
+ AND GC1738
+    A001003021
+    A001003
+    A001021
+ AND GC1740
+    A001003022
+    A001003
+    A001022
+ AND GC1742
+    A001003023
+    A001003
+    A001023
+ AND GC1744
+    A001003024
+    A001003
+    A001024
+ AND GC1746
+    A001003025
+    A001003
+    A001025
+ AND GC1748
+    A001003026
+    A001003
+    A001026
+ AND GC1750
+    A001003027
+    A001003
+    A001027
+ AND GC1752
+    A001003028
+    A001003
+    A001028
+ AND GC1754
+    A001003029
+    A001003
+    A001029
+ AND GC1756
+    A001003030
+    A001003
+    A001030
+ AND GC1758
+    A001003031
+    A001003
+    A001031
+ AND GC1760
+    A001003032
+    A001003
+    A001032
+ AND GC1762
+    A001003033
+    A001003
+    A001033
+ AND GC1764
+    A001003034
+    A001003
+    A001034
+ AND GC1766
+    A001003035
+    A001003
+    A001035
+ AND GC1768
+    A001003036
+    A001003
+    A001036
+ AND GC1770
+    A001003037
+    A001003
+    A001037
+ AND GC1772
+    A001003038
+    A001003
+    A001038
+ AND GC1774
+    A001004005
+    A001004
+    A001005
+ AND GC1776
+    A001004006
+    A001004
+    A001006
+ AND GC1778
+    A001004007
+    A001004
+    A001007
+ AND GC1780
+    A001004008
+    A001004
+    A001008
+ AND GC1782
+    A001004009
+    A001004
+    A001009
+ AND GC1784
+    A001004010
+    A001004
+    A001010
+ AND GC1786
+    A001004011
+    A001004
+    A001011
+ AND GC1788
+    A001004012
+    A001004
+    A001012
+ AND GC1790
+    A001004013
+    A001004
+    A001013
+ AND GC1792
+    A001004014
+    A001004
+    A001014
+ AND GC1794
+    A001004015
+    A001004
+    A001015
+ AND GC1796
+    A001004016
+    A001004
+    A001016
+ AND GC1798
+    A001004017
+    A001004
+    A001017
+ AND GC1800
+    A001004018
+    A001004
+    A001018
+ AND GC1802
+    A001004019
+    A001004
+    A001019
+ AND GC1804
+    A001004020
+    A001004
+    A001020
+ AND GC1806
+    A001004021
+    A001004
+    A001021
+ AND GC1808
+    A001004022
+    A001004
+    A001022
+ AND GC1810
+    A001004023
+    A001004
+    A001023
+ AND GC1812
+    A001004024
+    A001004
+    A001024
+ AND GC1814
+    A001004025
+    A001004
+    A001025
+ AND GC1816
+    A001004026
+    A001004
+    A001026
+ AND GC1818
+    A001004027
+    A001004
+    A001027
+ AND GC1820
+    A001004028
+    A001004
+    A001028
+ AND GC1822
+    A001004029
+    A001004
+    A001029
+ AND GC1824
+    A001004030
+    A001004
+    A001030
+ AND GC1826
+    A001004031
+    A001004
+    A001031
+ AND GC1828
+    A001004032
+    A001004
+    A001032
+ AND GC1830
+    A001004033
+    A001004
+    A001033
+ AND GC1832
+    A001004034
+    A001004
+    A001034
+ AND GC1834
+    A001004035
+    A001004
+    A001035
+ AND GC1836
+    A001004036
+    A001004
+    A001036
+ AND GC1838
+    A001004037
+    A001004
+    A001037
+ AND GC1840
+    A001004038
+    A001004
+    A001038
+ AND GC1842
+    A001005006
+    A001005
+    A001006
+ AND GC1844
+    A001005007
+    A001005
+    A001007
+ AND GC1846
+    A001005008
+    A001005
+    A001008
+ AND GC1848
+    A001005009
+    A001005
+    A001009
+ AND GC1850
+    A001005010
+    A001005
+    A001010
+ AND GC1852
+    A001005011
+    A001005
+    A001011
+ AND GC1854
+    A001005012
+    A001005
+    A001012
+ AND GC1856
+    A001005013
+    A001005
+    A001013
+ AND GC1858
+    A001005014
+    A001005
+    A001014
+ AND GC1860
+    A001005015
+    A001005
+    A001015
+ AND GC1862
+    A001005016
+    A001005
+    A001016
+ AND GC1864
+    A001005017
+    A001005
+    A001017
+ AND GC1866
+    A001005018
+    A001005
+    A001018
+ AND GC1868
+    A001005019
+    A001005
+    A001019
+ AND GC1870
+    A001005020
+    A001005
+    A001020
+ AND GC1872
+    A001005021
+    A001005
+    A001021
+ AND GC1874
+    A001005022
+    A001005
+    A001022
+ AND GC1876
+    A001005023
+    A001005
+    A001023
+ AND GC1878
+    A001005024
+    A001005
+    A001024
+ AND GC1880
+    A001005025
+    A001005
+    A001025
+ AND GC1882
+    A001005026
+    A001005
+    A001026
+ AND GC1884
+    A001005027
+    A001005
+    A001027
+ AND GC1886
+    A001005028
+    A001005
+    A001028
+ AND GC1888
+    A001005029
+    A001005
+    A001029
+ AND GC1890
+    A001005030
+    A001005
+    A001030
+ AND GC1892
+    A001005031
+    A001005
+    A001031
+ AND GC1894
+    A001005032
+    A001005
+    A001032
+ AND GC1896
+    A001005033
+    A001005
+    A001033
+ AND GC1898
+    A001005034
+    A001005
+    A001034
+ AND GC1900
+    A001005035
+    A001005
+    A001035
+ AND GC1902
+    A001005036
+    A001005
+    A001036
+ AND GC1904
+    A001005037
+    A001005
+    A001037
+ AND GC1906
+    A001005038
+    A001005
+    A001038
+ AND GC1908
+    A001006007
+    A001006
+    A001007
+ AND GC1910
+    A001006008
+    A001006
+    A001008
+ AND GC1912
+    A001006009
+    A001006
+    A001009
+ AND GC1914
+    A001006010
+    A001006
+    A001010
+ AND GC1916
+    A001006011
+    A001006
+    A001011
+ AND GC1918
+    A001006012
+    A001006
+    A001012
+ AND GC1920
+    A001006013
+    A001006
+    A001013
+ AND GC1922
+    A001006014
+    A001006
+    A001014
+ AND GC1924
+    A001006015
+    A001006
+    A001015
+ AND GC1926
+    A001006016
+    A001006
+    A001016
+ AND GC1928
+    A001006017
+    A001006
+    A001017
+ AND GC1930
+    A001006018
+    A001006
+    A001018
+ AND GC1932
+    A001006019
+    A001006
+    A001019
+ AND GC1934
+    A001006020
+    A001006
+    A001020
+ AND GC1936
+    A001006021
+    A001006
+    A001021
+ AND GC1938
+    A001006022
+    A001006
+    A001022
+ AND GC1940
+    A001006023
+    A001006
+    A001023
+ AND GC1942
+    A001006024
+    A001006
+    A001024
+ AND GC1944
+    A001006025
+    A001006
+    A001025
+ AND GC1946
+    A001006026
+    A001006
+    A001026
+ AND GC1948
+    A001006027
+    A001006
+    A001027
+ AND GC1950
+    A001006028
+    A001006
+    A001028
+ AND GC1952
+    A001006029
+    A001006
+    A001029
+ AND GC1954
+    A001006030
+    A001006
+    A001030
+ AND GC1956
+    A001006031
+    A001006
+    A001031
+ AND GC1958
+    A001006032
+    A001006
+    A001032
+ AND GC1960
+    A001006033
+    A001006
+    A001033
+ AND GC1962
+    A001006034
+    A001006
+    A001034
+ AND GC1964
+    A001006035
+    A001006
+    A001035
+ AND GC1966
+    A001006036
+    A001006
+    A001036
+ AND GC1968
+    A001006037
+    A001006
+    A001037
+ AND GC1970
+    A001006038
+    A001006
+    A001038
+ AND GC1972
+    A001007008
+    A001007
+    A001008
+ AND GC1974
+    A001007009
+    A001007
+    A001009
+ AND GC1976
+    A001007010
+    A001007
+    A001010
+ AND GC1978
+    A001007011
+    A001007
+    A001011
+ AND GC1980
+    A001007012
+    A001007
+    A001012
+ AND GC1982
+    A001007013
+    A001007
+    A001013
+ AND GC1984
+    A001007014
+    A001007
+    A001014
+ AND GC1986
+    A001007015
+    A001007
+    A001015
+ AND GC1988
+    A001007016
+    A001007
+    A001016
+ AND GC1990
+    A001007017
+    A001007
+    A001017
+ AND GC1992
+    A001007018
+    A001007
+    A001018
+ AND GC1994
+    A001007019
+    A001007
+    A001019
+ AND GC1996
+    A001007020
+    A001007
+    A001020
+ AND GC1998
+    A001007021
+    A001007
+    A001021
+ AND GC2000
+    A001007022
+    A001007
+    A001022
+ AND GC2002
+    A001007023
+    A001007
+    A001023
+ AND GC2004
+    A001007024
+    A001007
+    A001024
+ AND GC2006
+    A001007025
+    A001007
+    A001025
+ AND GC2008
+    A001007026
+    A001007
+    A001026
+ AND GC2010
+    A001007027
+    A001007
+    A001027
+ AND GC2012
+    A001007028
+    A001007
+    A001028
+ AND GC2014
+    A001007029
+    A001007
+    A001029
+ AND GC2016
+    A001007030
+    A001007
+    A001030
+ AND GC2018
+    A001007031
+    A001007
+    A001031
+ AND GC2020
+    A001007032
+    A001007
+    A001032
+ AND GC2022
+    A001007033
+    A001007
+    A001033
+ AND GC2024
+    A001007034
+    A001007
+    A001034
+ AND GC2026
+    A001007035
+    A001007
+    A001035
+ AND GC2028
+    A001007036
+    A001007
+    A001036
+ AND GC2030
+    A001007037
+    A001007
+    A001037
+ AND GC2032
+    A001007038
+    A001007
+    A001038
+ AND GC2034
+    A001008009
+    A001008
+    A001009
+ AND GC2036
+    A001008010
+    A001008
+    A001010
+ AND GC2038
+    A001008011
+    A001008
+    A001011
+ AND GC2040
+    A001008012
+    A001008
+    A001012
+ AND GC2042
+    A001008013
+    A001008
+    A001013
+ AND GC2044
+    A001008014
+    A001008
+    A001014
+ AND GC2046
+    A001008015
+    A001008
+    A001015
+ AND GC2048
+    A001008016
+    A001008
+    A001016
+ AND GC2050
+    A001008017
+    A001008
+    A001017
+ AND GC2052
+    A001008018
+    A001008
+    A001018
+ AND GC2054
+    A001008019
+    A001008
+    A001019
+ AND GC2056
+    A001008020
+    A001008
+    A001020
+ AND GC2058
+    A001008021
+    A001008
+    A001021
+ AND GC2060
+    A001008022
+    A001008
+    A001022
+ AND GC2062
+    A001008023
+    A001008
+    A001023
+ AND GC2064
+    A001008024
+    A001008
+    A001024
+ AND GC2066
+    A001008025
+    A001008
+    A001025
+ AND GC2068
+    A001008026
+    A001008
+    A001026
+ AND GC2070
+    A001008027
+    A001008
+    A001027
+ AND GC2072
+    A001008028
+    A001008
+    A001028
+ AND GC2074
+    A001008029
+    A001008
+    A001029
+ AND GC2076
+    A001008030
+    A001008
+    A001030
+ AND GC2078
+    A001008031
+    A001008
+    A001031
+ AND GC2080
+    A001008032
+    A001008
+    A001032
+ AND GC2082
+    A001008033
+    A001008
+    A001033
+ AND GC2084
+    A001008034
+    A001008
+    A001034
+ AND GC2086
+    A001008035
+    A001008
+    A001035
+ AND GC2088
+    A001008036
+    A001008
+    A001036
+ AND GC2090
+    A001008037
+    A001008
+    A001037
+ AND GC2092
+    A001008038
+    A001008
+    A001038
+ AND GC2094
+    A001009010
+    A001009
+    A001010
+ AND GC2096
+    A001009011
+    A001009
+    A001011
+ AND GC2098
+    A001009012
+    A001009
+    A001012
+ AND GC2100
+    A001009013
+    A001009
+    A001013
+ AND GC2102
+    A001009014
+    A001009
+    A001014
+ AND GC2104
+    A001009015
+    A001009
+    A001015
+ AND GC2106
+    A001009016
+    A001009
+    A001016
+ AND GC2108
+    A001009017
+    A001009
+    A001017
+ AND GC2110
+    A001009018
+    A001009
+    A001018
+ AND GC2112
+    A001009019
+    A001009
+    A001019
+ AND GC2114
+    A001009020
+    A001009
+    A001020
+ AND GC2116
+    A001009021
+    A001009
+    A001021
+ AND GC2118
+    A001009022
+    A001009
+    A001022
+ AND GC2120
+    A001009023
+    A001009
+    A001023
+ AND GC2122
+    A001009024
+    A001009
+    A001024
+ AND GC2124
+    A001009025
+    A001009
+    A001025
+ AND GC2126
+    A001009026
+    A001009
+    A001026
+ AND GC2128
+    A001009027
+    A001009
+    A001027
+ AND GC2130
+    A001009028
+    A001009
+    A001028
+ AND GC2132
+    A001009029
+    A001009
+    A001029
+ AND GC2134
+    A001009030
+    A001009
+    A001030
+ AND GC2136
+    A001009031
+    A001009
+    A001031
+ AND GC2138
+    A001009032
+    A001009
+    A001032
+ AND GC2140
+    A001009033
+    A001009
+    A001033
+ AND GC2142
+    A001009034
+    A001009
+    A001034
+ AND GC2144
+    A001009035
+    A001009
+    A001035
+ AND GC2146
+    A001009036
+    A001009
+    A001036
+ AND GC2148
+    A001009037
+    A001009
+    A001037
+ AND GC2150
+    A001009038
+    A001009
+    A001038
+ AND GC2152
+    A001010011
+    A001010
+    A001011
+ AND GC2154
+    A001010012
+    A001010
+    A001012
+ AND GC2156
+    A001010013
+    A001010
+    A001013
+ AND GC2158
+    A001010014
+    A001010
+    A001014
+ AND GC2160
+    A001010015
+    A001010
+    A001015
+ AND GC2162
+    A001010016
+    A001010
+    A001016
+ AND GC2164
+    A001010017
+    A001010
+    A001017
+ AND GC2166
+    A001010018
+    A001010
+    A001018
+ AND GC2168
+    A001010019
+    A001010
+    A001019
+ AND GC2170
+    A001010020
+    A001010
+    A001020
+ AND GC2172
+    A001010021
+    A001010
+    A001021
+ AND GC2174
+    A001010022
+    A001010
+    A001022
+ AND GC2176
+    A001010023
+    A001010
+    A001023
+ AND GC2178
+    A001010024
+    A001010
+    A001024
+ AND GC2180
+    A001010025
+    A001010
+    A001025
+ AND GC2182
+    A001010026
+    A001010
+    A001026
+ AND GC2184
+    A001010027
+    A001010
+    A001027
+ AND GC2186
+    A001010028
+    A001010
+    A001028
+ AND GC2188
+    A001010029
+    A001010
+    A001029
+ AND GC2190
+    A001010030
+    A001010
+    A001030
+ AND GC2192
+    A001010031
+    A001010
+    A001031
+ AND GC2194
+    A001010032
+    A001010
+    A001032
+ AND GC2196
+    A001010033
+    A001010
+    A001033
+ AND GC2198
+    A001010034
+    A001010
+    A001034
+ AND GC2200
+    A001010035
+    A001010
+    A001035
+ AND GC2202
+    A001010036
+    A001010
+    A001036
+ AND GC2204
+    A001010037
+    A001010
+    A001037
+ AND GC2206
+    A001010038
+    A001010
+    A001038
+ AND GC2208
+    A001011012
+    A001011
+    A001012
+ AND GC2210
+    A001011013
+    A001011
+    A001013
+ AND GC2212
+    A001011014
+    A001011
+    A001014
+ AND GC2214
+    A001011015
+    A001011
+    A001015
+ AND GC2216
+    A001011016
+    A001011
+    A001016
+ AND GC2218
+    A001011017
+    A001011
+    A001017
+ AND GC2220
+    A001011018
+    A001011
+    A001018
+ AND GC2222
+    A001011019
+    A001011
+    A001019
+ AND GC2224
+    A001011020
+    A001011
+    A001020
+ AND GC2226
+    A001011021
+    A001011
+    A001021
+ AND GC2228
+    A001011022
+    A001011
+    A001022
+ AND GC2230
+    A001011023
+    A001011
+    A001023
+ AND GC2232
+    A001011024
+    A001011
+    A001024
+ AND GC2234
+    A001011025
+    A001011
+    A001025
+ AND GC2236
+    A001011026
+    A001011
+    A001026
+ AND GC2238
+    A001011027
+    A001011
+    A001027
+ AND GC2240
+    A001011028
+    A001011
+    A001028
+ AND GC2242
+    A001011029
+    A001011
+    A001029
+ AND GC2244
+    A001011030
+    A001011
+    A001030
+ AND GC2246
+    A001011031
+    A001011
+    A001031
+ AND GC2248
+    A001011032
+    A001011
+    A001032
+ AND GC2250
+    A001011033
+    A001011
+    A001033
+ AND GC2252
+    A001011034
+    A001011
+    A001034
+ AND GC2254
+    A001011035
+    A001011
+    A001035
+ AND GC2256
+    A001011036
+    A001011
+    A001036
+ AND GC2258
+    A001011037
+    A001011
+    A001037
+ AND GC2260
+    A001011038
+    A001011
+    A001038
+ AND GC2262
+    A001012013
+    A001012
+    A001013
+ AND GC2264
+    A001012014
+    A001012
+    A001014
+ AND GC2266
+    A001012015
+    A001012
+    A001015
+ AND GC2268
+    A001012016
+    A001012
+    A001016
+ AND GC2270
+    A001012017
+    A001012
+    A001017
+ AND GC2272
+    A001012018
+    A001012
+    A001018
+ AND GC2274
+    A001012019
+    A001012
+    A001019
+ AND GC2276
+    A001012020
+    A001012
+    A001020
+ AND GC2278
+    A001012021
+    A001012
+    A001021
+ AND GC2280
+    A001012022
+    A001012
+    A001022
+ AND GC2282
+    A001012023
+    A001012
+    A001023
+ AND GC2284
+    A001012024
+    A001012
+    A001024
+ AND GC2286
+    A001012025
+    A001012
+    A001025
+ AND GC2288
+    A001012026
+    A001012
+    A001026
+ AND GC2290
+    A001012027
+    A001012
+    A001027
+ AND GC2292
+    A001012028
+    A001012
+    A001028
+ AND GC2294
+    A001012029
+    A001012
+    A001029
+ AND GC2296
+    A001012030
+    A001012
+    A001030
+ AND GC2298
+    A001012031
+    A001012
+    A001031
+ AND GC2300
+    A001012032
+    A001012
+    A001032
+ AND GC2302
+    A001012033
+    A001012
+    A001033
+ AND GC2304
+    A001012034
+    A001012
+    A001034
+ AND GC2306
+    A001012035
+    A001012
+    A001035
+ AND GC2308
+    A001012036
+    A001012
+    A001036
+ AND GC2310
+    A001012037
+    A001012
+    A001037
+ AND GC2312
+    A001012038
+    A001012
+    A001038
+ AND GC2314
+    A001013014
+    A001013
+    A001014
+ AND GC2316
+    A001013015
+    A001013
+    A001015
+ AND GC2318
+    A001013016
+    A001013
+    A001016
+ AND GC2320
+    A001013017
+    A001013
+    A001017
+ AND GC2322
+    A001013018
+    A001013
+    A001018
+ AND GC2324
+    A001013019
+    A001013
+    A001019
+ AND GC2326
+    A001013020
+    A001013
+    A001020
+ AND GC2328
+    A001013021
+    A001013
+    A001021
+ AND GC2330
+    A001013022
+    A001013
+    A001022
+ AND GC2332
+    A001013023
+    A001013
+    A001023
+ AND GC2334
+    A001013024
+    A001013
+    A001024
+ AND GC2336
+    A001013025
+    A001013
+    A001025
+ AND GC2338
+    A001013026
+    A001013
+    A001026
+ AND GC2340
+    A001013027
+    A001013
+    A001027
+ AND GC2342
+    A001013028
+    A001013
+    A001028
+ AND GC2344
+    A001013029
+    A001013
+    A001029
+ AND GC2346
+    A001013030
+    A001013
+    A001030
+ AND GC2348
+    A001013031
+    A001013
+    A001031
+ AND GC2350
+    A001013032
+    A001013
+    A001032
+ AND GC2352
+    A001013033
+    A001013
+    A001033
+ AND GC2354
+    A001013034
+    A001013
+    A001034
+ AND GC2356
+    A001013035
+    A001013
+    A001035
+ AND GC2358
+    A001013036
+    A001013
+    A001036
+ AND GC2360
+    A001013037
+    A001013
+    A001037
+ AND GC2362
+    A001013038
+    A001013
+    A001038
+ AND GC2364
+    A001014015
+    A001014
+    A001015
+ AND GC2366
+    A001014016
+    A001014
+    A001016
+ AND GC2368
+    A001014017
+    A001014
+    A001017
+ AND GC2370
+    A001014018
+    A001014
+    A001018
+ AND GC2372
+    A001014019
+    A001014
+    A001019
+ AND GC2374
+    A001014020
+    A001014
+    A001020
+ AND GC2376
+    A001014021
+    A001014
+    A001021
+ AND GC2378
+    A001014022
+    A001014
+    A001022
+ AND GC2380
+    A001014023
+    A001014
+    A001023
+ AND GC2382
+    A001014024
+    A001014
+    A001024
+ AND GC2384
+    A001014025
+    A001014
+    A001025
+ AND GC2386
+    A001014026
+    A001014
+    A001026
+ AND GC2388
+    A001014027
+    A001014
+    A001027
+ AND GC2390
+    A001014028
+    A001014
+    A001028
+ AND GC2392
+    A001014029
+    A001014
+    A001029
+ AND GC2394
+    A001014030
+    A001014
+    A001030
+ AND GC2396
+    A001014031
+    A001014
+    A001031
+ AND GC2398
+    A001014032
+    A001014
+    A001032
+ AND GC2400
+    A001014033
+    A001014
+    A001033
+ AND GC2402
+    A001014034
+    A001014
+    A001034
+ AND GC2404
+    A001014035
+    A001014
+    A001035
+ AND GC2406
+    A001014036
+    A001014
+    A001036
+ AND GC2408
+    A001014037
+    A001014
+    A001037
+ AND GC2410
+    A001014038
+    A001014
+    A001038
+ AND GC2412
+    A001015016
+    A001015
+    A001016
+ AND GC2414
+    A001015017
+    A001015
+    A001017
+ AND GC2416
+    A001015018
+    A001015
+    A001018
+ AND GC2418
+    A001015019
+    A001015
+    A001019
+ AND GC2420
+    A001015020
+    A001015
+    A001020
+ AND GC2422
+    A001015021
+    A001015
+    A001021
+ AND GC2424
+    A001015022
+    A001015
+    A001022
+ AND GC2426
+    A001015023
+    A001015
+    A001023
+ AND GC2428
+    A001015024
+    A001015
+    A001024
+ AND GC2430
+    A001015025
+    A001015
+    A001025
+ AND GC2432
+    A001015026
+    A001015
+    A001026
+ AND GC2434
+    A001015027
+    A001015
+    A001027
+ AND GC2436
+    A001015028
+    A001015
+    A001028
+ AND GC2438
+    A001015029
+    A001015
+    A001029
+ AND GC2440
+    A001015030
+    A001015
+    A001030
+ AND GC2442
+    A001015031
+    A001015
+    A001031
+ AND GC2444
+    A001015032
+    A001015
+    A001032
+ AND GC2446
+    A001015033
+    A001015
+    A001033
+ AND GC2448
+    A001015034
+    A001015
+    A001034
+ AND GC2450
+    A001015035
+    A001015
+    A001035
+ AND GC2452
+    A001015036
+    A001015
+    A001036
+ AND GC2454
+    A001015037
+    A001015
+    A001037
+ AND GC2456
+    A001015038
+    A001015
+    A001038
+ AND GC2458
+    A001016017
+    A001016
+    A001017
+ AND GC2460
+    A001016018
+    A001016
+    A001018
+ AND GC2462
+    A001016019
+    A001016
+    A001019
+ AND GC2464
+    A001016020
+    A001016
+    A001020
+ AND GC2466
+    A001016021
+    A001016
+    A001021
+ AND GC2468
+    A001016022
+    A001016
+    A001022
+ AND GC2470
+    A001016023
+    A001016
+    A001023
+ AND GC2472
+    A001016024
+    A001016
+    A001024
+ AND GC2474
+    A001016025
+    A001016
+    A001025
+ AND GC2476
+    A001016026
+    A001016
+    A001026
+ AND GC2478
+    A001016027
+    A001016
+    A001027
+ AND GC2480
+    A001016028
+    A001016
+    A001028
+ AND GC2482
+    A001016029
+    A001016
+    A001029
+ AND GC2484
+    A001016030
+    A001016
+    A001030
+ AND GC2486
+    A001016031
+    A001016
+    A001031
+ AND GC2488
+    A001016032
+    A001016
+    A001032
+ AND GC2490
+    A001016033
+    A001016
+    A001033
+ AND GC2492
+    A001016034
+    A001016
+    A001034
+ AND GC2494
+    A001016035
+    A001016
+    A001035
+ AND GC2496
+    A001016036
+    A001016
+    A001036
+ AND GC2498
+    A001016037
+    A001016
+    A001037
+ AND GC2500
+    A001016038
+    A001016
+    A001038
+ AND GC2502
+    A001017018
+    A001017
+    A001018
+ AND GC2504
+    A001017019
+    A001017
+    A001019
+ AND GC2506
+    A001017020
+    A001017
+    A001020
+ AND GC2508
+    A001017021
+    A001017
+    A001021
+ AND GC2510
+    A001017022
+    A001017
+    A001022
+ AND GC2512
+    A001017023
+    A001017
+    A001023
+ AND GC2514
+    A001017024
+    A001017
+    A001024
+ AND GC2516
+    A001017025
+    A001017
+    A001025
+ AND GC2518
+    A001017026
+    A001017
+    A001026
+ AND GC2520
+    A001017027
+    A001017
+    A001027
+ AND GC2522
+    A001017028
+    A001017
+    A001028
+ AND GC2524
+    A001017029
+    A001017
+    A001029
+ AND GC2526
+    A001017030
+    A001017
+    A001030
+ AND GC2528
+    A001017031
+    A001017
+    A001031
+ AND GC2530
+    A001017032
+    A001017
+    A001032
+ AND GC2532
+    A001017033
+    A001017
+    A001033
+ AND GC2534
+    A001017034
+    A001017
+    A001034
+ AND GC2536
+    A001017035
+    A001017
+    A001035
+ AND GC2538
+    A001017036
+    A001017
+    A001036
+ AND GC2540
+    A001017037
+    A001017
+    A001037
+ AND GC2542
+    A001017038
+    A001017
+    A001038
+ AND GC2544
+    A001018019
+    A001018
+    A001019
+ AND GC2546
+    A001018020
+    A001018
+    A001020
+ AND GC2548
+    A001018021
+    A001018
+    A001021
+ AND GC2550
+    A001018022
+    A001018
+    A001022
+ AND GC2552
+    A001018023
+    A001018
+    A001023
+ AND GC2554
+    A001018024
+    A001018
+    A001024
+ AND GC2556
+    A001018025
+    A001018
+    A001025
+ AND GC2558
+    A001018026
+    A001018
+    A001026
+ AND GC2560
+    A001018027
+    A001018
+    A001027
+ AND GC2562
+    A001018028
+    A001018
+    A001028
+ AND GC2564
+    A001018029
+    A001018
+    A001029
+ AND GC2566
+    A001018030
+    A001018
+    A001030
+ AND GC2568
+    A001018031
+    A001018
+    A001031
+ AND GC2570
+    A001018032
+    A001018
+    A001032
+ AND GC2572
+    A001018033
+    A001018
+    A001033
+ AND GC2574
+    A001018034
+    A001018
+    A001034
+ AND GC2576
+    A001018035
+    A001018
+    A001035
+ AND GC2578
+    A001018036
+    A001018
+    A001036
+ AND GC2580
+    A001018037
+    A001018
+    A001037
+ AND GC2582
+    A001018038
+    A001018
+    A001038
+ AND GC2584
+    A001019020
+    A001019
+    A001020
+ AND GC2586
+    A001019021
+    A001019
+    A001021
+ AND GC2588
+    A001019022
+    A001019
+    A001022
+ AND GC2590
+    A001019023
+    A001019
+    A001023
+ AND GC2592
+    A001019024
+    A001019
+    A001024
+ AND GC2594
+    A001019025
+    A001019
+    A001025
+ AND GC2596
+    A001019026
+    A001019
+    A001026
+ AND GC2598
+    A001019027
+    A001019
+    A001027
+ AND GC2600
+    A001019028
+    A001019
+    A001028
+ AND GC2602
+    A001019029
+    A001019
+    A001029
+ AND GC2604
+    A001019030
+    A001019
+    A001030
+ AND GC2606
+    A001019031
+    A001019
+    A001031
+ AND GC2608
+    A001019032
+    A001019
+    A001032
+ AND GC2610
+    A001019033
+    A001019
+    A001033
+ AND GC2612
+    A001019034
+    A001019
+    A001034
+ AND GC2614
+    A001019035
+    A001019
+    A001035
+ AND GC2616
+    A001019036
+    A001019
+    A001036
+ AND GC2618
+    A001019037
+    A001019
+    A001037
+ AND GC2620
+    A001019038
+    A001019
+    A001038
+ AND GC2622
+    A001020021
+    A001020
+    A001021
+ AND GC2624
+    A001020022
+    A001020
+    A001022
+ AND GC2626
+    A001020023
+    A001020
+    A001023
+ AND GC2628
+    A001020024
+    A001020
+    A001024
+ AND GC2630
+    A001020025
+    A001020
+    A001025
+ AND GC2632
+    A001020026
+    A001020
+    A001026
+ AND GC2634
+    A001020027
+    A001020
+    A001027
+ AND GC2636
+    A001020028
+    A001020
+    A001028
+ AND GC2638
+    A001020029
+    A001020
+    A001029
+ AND GC2640
+    A001020030
+    A001020
+    A001030
+ AND GC2642
+    A001020031
+    A001020
+    A001031
+ AND GC2644
+    A001020032
+    A001020
+    A001032
+ AND GC2646
+    A001020033
+    A001020
+    A001033
+ AND GC2648
+    A001020034
+    A001020
+    A001034
+ AND GC2650
+    A001020035
+    A001020
+    A001035
+ AND GC2652
+    A001020036
+    A001020
+    A001036
+ AND GC2654
+    A001020037
+    A001020
+    A001037
+ AND GC2656
+    A001020038
+    A001020
+    A001038
+ AND GC2658
+    A001021022
+    A001021
+    A001022
+ AND GC2660
+    A001021023
+    A001021
+    A001023
+ AND GC2662
+    A001021024
+    A001021
+    A001024
+ AND GC2664
+    A001021025
+    A001021
+    A001025
+ AND GC2666
+    A001021026
+    A001021
+    A001026
+ AND GC2668
+    A001021027
+    A001021
+    A001027
+ AND GC2670
+    A001021028
+    A001021
+    A001028
+ AND GC2672
+    A001021029
+    A001021
+    A001029
+ AND GC2674
+    A001021030
+    A001021
+    A001030
+ AND GC2676
+    A001021031
+    A001021
+    A001031
+ AND GC2678
+    A001021032
+    A001021
+    A001032
+ AND GC2680
+    A001021033
+    A001021
+    A001033
+ AND GC2682
+    A001021034
+    A001021
+    A001034
+ AND GC2684
+    A001021035
+    A001021
+    A001035
+ AND GC2686
+    A001021036
+    A001021
+    A001036
+ AND GC2688
+    A001021037
+    A001021
+    A001037
+ AND GC2690
+    A001021038
+    A001021
+    A001038
+ AND GC2692
+    A001022023
+    A001022
+    A001023
+ AND GC2694
+    A001022024
+    A001022
+    A001024
+ AND GC2696
+    A001022025
+    A001022
+    A001025
+ AND GC2698
+    A001022026
+    A001022
+    A001026
+ AND GC2700
+    A001022027
+    A001022
+    A001027
+ AND GC2702
+    A001022028
+    A001022
+    A001028
+ AND GC2704
+    A001022029
+    A001022
+    A001029
+ AND GC2706
+    A001022030
+    A001022
+    A001030
+ AND GC2708
+    A001022031
+    A001022
+    A001031
+ AND GC2710
+    A001022032
+    A001022
+    A001032
+ AND GC2712
+    A001022033
+    A001022
+    A001033
+ AND GC2714
+    A001022034
+    A001022
+    A001034
+ AND GC2716
+    A001022035
+    A001022
+    A001035
+ AND GC2718
+    A001022036
+    A001022
+    A001036
+ AND GC2720
+    A001022037
+    A001022
+    A001037
+ AND GC2722
+    A001022038
+    A001022
+    A001038
+ AND GC2724
+    A001023024
+    A001023
+    A001024
+ AND GC2726
+    A001023025
+    A001023
+    A001025
+ AND GC2728
+    A001023026
+    A001023
+    A001026
+ AND GC2730
+    A001023027
+    A001023
+    A001027
+ AND GC2732
+    A001023028
+    A001023
+    A001028
+ AND GC2734
+    A001023029
+    A001023
+    A001029
+ AND GC2736
+    A001023030
+    A001023
+    A001030
+ AND GC2738
+    A001023031
+    A001023
+    A001031
+ AND GC2740
+    A001023032
+    A001023
+    A001032
+ AND GC2742
+    A001023033
+    A001023
+    A001033
+ AND GC2744
+    A001023034
+    A001023
+    A001034
+ AND GC2746
+    A001023035
+    A001023
+    A001035
+ AND GC2748
+    A001023036
+    A001023
+    A001036
+ AND GC2750
+    A001023037
+    A001023
+    A001037
+ AND GC2752
+    A001023038
+    A001023
+    A001038
+ AND GC2754
+    A001024025
+    A001024
+    A001025
+ AND GC2756
+    A001024026
+    A001024
+    A001026
+ AND GC2758
+    A001024027
+    A001024
+    A001027
+ AND GC2760
+    A001024028
+    A001024
+    A001028
+ AND GC2762
+    A001024029
+    A001024
+    A001029
+ AND GC2764
+    A001024030
+    A001024
+    A001030
+ AND GC2766
+    A001024031
+    A001024
+    A001031
+ AND GC2768
+    A001024032
+    A001024
+    A001032
+ AND GC2770
+    A001024033
+    A001024
+    A001033
+ AND GC2772
+    A001024034
+    A001024
+    A001034
+ AND GC2774
+    A001024035
+    A001024
+    A001035
+ AND GC2776
+    A001024036
+    A001024
+    A001036
+ AND GC2778
+    A001024037
+    A001024
+    A001037
+ AND GC2780
+    A001024038
+    A001024
+    A001038
+ AND GC2782
+    A001025026
+    A001025
+    A001026
+ AND GC2784
+    A001025027
+    A001025
+    A001027
+ AND GC2786
+    A001025028
+    A001025
+    A001028
+ AND GC2788
+    A001025029
+    A001025
+    A001029
+ AND GC2790
+    A001025030
+    A001025
+    A001030
+ AND GC2792
+    A001025031
+    A001025
+    A001031
+ AND GC2794
+    A001025032
+    A001025
+    A001032
+ AND GC2796
+    A001025033
+    A001025
+    A001033
+ AND GC2798
+    A001025034
+    A001025
+    A001034
+ AND GC2800
+    A001025035
+    A001025
+    A001035
+ AND GC2802
+    A001025036
+    A001025
+    A001036
+ AND GC2804
+    A001025037
+    A001025
+    A001037
+ AND GC2806
+    A001025038
+    A001025
+    A001038
+ AND GC2808
+    A001026027
+    A001026
+    A001027
+ AND GC2810
+    A001026028
+    A001026
+    A001028
+ AND GC2812
+    A001026029
+    A001026
+    A001029
+ AND GC2814
+    A001026030
+    A001026
+    A001030
+ AND GC2816
+    A001026031
+    A001026
+    A001031
+ AND GC2818
+    A001026032
+    A001026
+    A001032
+ AND GC2820
+    A001026033
+    A001026
+    A001033
+ AND GC2822
+    A001026034
+    A001026
+    A001034
+ AND GC2824
+    A001026035
+    A001026
+    A001035
+ AND GC2826
+    A001026036
+    A001026
+    A001036
+ AND GC2828
+    A001026037
+    A001026
+    A001037
+ AND GC2830
+    A001026038
+    A001026
+    A001038
+ AND GC2832
+    A001027028
+    A001027
+    A001028
+ AND GC2834
+    A001027029
+    A001027
+    A001029
+ AND GC2836
+    A001027030
+    A001027
+    A001030
+ AND GC2838
+    A001027031
+    A001027
+    A001031
+ AND GC2840
+    A001027032
+    A001027
+    A001032
+ AND GC2842
+    A001027033
+    A001027
+    A001033
+ AND GC2844
+    A001027034
+    A001027
+    A001034
+ AND GC2846
+    A001027035
+    A001027
+    A001035
+ AND GC2848
+    A001027036
+    A001027
+    A001036
+ AND GC2850
+    A001027037
+    A001027
+    A001037
+ AND GC2852
+    A001027038
+    A001027
+    A001038
+ AND GC2854
+    A001028029
+    A001028
+    A001029
+ AND GC2856
+    A001028030
+    A001028
+    A001030
+ AND GC2858
+    A001028031
+    A001028
+    A001031
+ AND GC2860
+    A001028032
+    A001028
+    A001032
+ AND GC2862
+    A001028033
+    A001028
+    A001033
+ AND GC2864
+    A001028034
+    A001028
+    A001034
+ AND GC2866
+    A001028035
+    A001028
+    A001035
+ AND GC2868
+    A001028036
+    A001028
+    A001036
+ AND GC2870
+    A001028037
+    A001028
+    A001037
+ AND GC2872
+    A001028038
+    A001028
+    A001038
+ AND GC2874
+    A001029030
+    A001029
+    A001030
+ AND GC2876
+    A001029031
+    A001029
+    A001031
+ AND GC2878
+    A001029032
+    A001029
+    A001032
+ AND GC2880
+    A001029033
+    A001029
+    A001033
+ AND GC2882
+    A001029034
+    A001029
+    A001034
+ AND GC2884
+    A001029035
+    A001029
+    A001035
+ AND GC2886
+    A001029036
+    A001029
+    A001036
+ AND GC2888
+    A001029037
+    A001029
+    A001037
+ AND GC2890
+    A001029038
+    A001029
+    A001038
+ AND GC2892
+    A001030031
+    A001030
+    A001031
+ AND GC2894
+    A001030032
+    A001030
+    A001032
+ AND GC2896
+    A001030033
+    A001030
+    A001033
+ AND GC2898
+    A001030034
+    A001030
+    A001034
+ AND GC2900
+    A001030035
+    A001030
+    A001035
+ AND GC2902
+    A001030036
+    A001030
+    A001036
+ AND GC2904
+    A001030037
+    A001030
+    A001037
+ AND GC2906
+    A001030038
+    A001030
+    A001038
+ AND GC2908
+    A001031032
+    A001031
+    A001032
+ AND GC2910
+    A001031033
+    A001031
+    A001033
+ AND GC2912
+    A001031034
+    A001031
+    A001034
+ AND GC2914
+    A001031035
+    A001031
+    A001035
+ AND GC2916
+    A001031036
+    A001031
+    A001036
+ AND GC2918
+    A001031037
+    A001031
+    A001037
+ AND GC2920
+    A001031038
+    A001031
+    A001038
+ AND GC2922
+    A001032033
+    A001032
+    A001033
+ AND GC2924
+    A001032034
+    A001032
+    A001034
+ AND GC2926
+    A001032035
+    A001032
+    A001035
+ AND GC2928
+    A001032036
+    A001032
+    A001036
+ AND GC2930
+    A001032037
+    A001032
+    A001037
+ AND GC2932
+    A001032038
+    A001032
+    A001038
+ AND GC2934
+    A001033034
+    A001033
+    A001034
+ AND GC2936
+    A001033035
+    A001033
+    A001035
+ AND GC2938
+    A001033036
+    A001033
+    A001036
+ AND GC2940
+    A001033037
+    A001033
+    A001037
+ AND GC2942
+    A001033038
+    A001033
+    A001038
+ AND GC2944
+    A001034035
+    A001034
+    A001035
+ AND GC2946
+    A001034036
+    A001034
+    A001036
+ AND GC2948
+    A001034037
+    A001034
+    A001037
+ AND GC2950
+    A001034038
+    A001034
+    A001038
+ AND GC2952
+    A001035036
+    A001035
+    A001036
+ AND GC2954
+    A001035037
+    A001035
+    A001037
+ AND GC2956
+    A001035038
+    A001035
+    A001038
+ AND GC2958
+    A001036037
+    A001036
+    A001037
+ AND GC2960
+    A001036038
+    A001036
+    A001038
+ AND GC2962
+    A001037038
+    A001037
+    A001038
+ AND GC2964
+    A002001002
+    A002001
+    A002002
+ AND GC2966
+    A002001003
+    A002001
+    A002003
+ AND GC2968
+    A002001004
+    A002001
+    A002004
+ AND GC2970
+    A002001005
+    A002001
+    A002005
+ AND GC2972
+    A002001006
+    A002001
+    A002006
+ AND GC2974
+    A002001007
+    A002001
+    A002007
+ AND GC2976
+    A002001008
+    A002001
+    A002008
+ AND GC2978
+    A002001009
+    A002001
+    A002009
+ AND GC2980
+    A002001010
+    A002001
+    A002010
+ AND GC2982
+    A002001011
+    A002001
+    A002011
+ AND GC2984
+    A002001012
+    A002001
+    A002012
+ AND GC2986
+    A002001013
+    A002001
+    A002013
+ AND GC2988
+    A002001014
+    A002001
+    A002014
+ AND GC2990
+    A002001015
+    A002001
+    A002015
+ AND GC2992
+    A002001016
+    A002001
+    A002016
+ AND GC2994
+    A002001017
+    A002001
+    A002017
+ AND GC2996
+    A002001018
+    A002001
+    A002018
+ AND GC2998
+    A002001019
+    A002001
+    A002019
+ AND GC3000
+    A002001020
+    A002001
+    A002020
+ AND GC3002
+    A002001021
+    A002001
+    A002021
+ AND GC3004
+    A002001022
+    A002001
+    A002022
+ AND GC3006
+    A002001023
+    A002001
+    A002023
+ AND GC3008
+    A002001024
+    A002001
+    A002024
+ AND GC3010
+    A002001025
+    A002001
+    A002025
+ AND GC3012
+    A002001026
+    A002001
+    A002026
+ AND GC3014
+    A002001027
+    A002001
+    A002027
+ AND GC3016
+    A002001028
+    A002001
+    A002028
+ AND GC3018
+    A002001029
+    A002001
+    A002029
+ AND GC3020
+    A002001030
+    A002001
+    A002030
+ AND GC3022
+    A002001031
+    A002001
+    A002031
+ AND GC3024
+    A002001032
+    A002001
+    A002032
+ AND GC3026
+    A002001033
+    A002001
+    A002033
+ AND GC3028
+    A002001034
+    A002001
+    A002034
+ AND GC3030
+    A002001035
+    A002001
+    A002035
+ AND GC3032
+    A002001036
+    A002001
+    A002036
+ AND GC3034
+    A002001037
+    A002001
+    A002037
+ AND GC3036
+    A002001038
+    A002001
+    A002038
+ AND GC3038
+    A002002003
+    A002002
+    A002003
+ AND GC3040
+    A002002004
+    A002002
+    A002004
+ AND GC3042
+    A002002005
+    A002002
+    A002005
+ AND GC3044
+    A002002006
+    A002002
+    A002006
+ AND GC3046
+    A002002007
+    A002002
+    A002007
+ AND GC3048
+    A002002008
+    A002002
+    A002008
+ AND GC3050
+    A002002009
+    A002002
+    A002009
+ AND GC3052
+    A002002010
+    A002002
+    A002010
+ AND GC3054
+    A002002011
+    A002002
+    A002011
+ AND GC3056
+    A002002012
+    A002002
+    A002012
+ AND GC3058
+    A002002013
+    A002002
+    A002013
+ AND GC3060
+    A002002014
+    A002002
+    A002014
+ AND GC3062
+    A002002015
+    A002002
+    A002015
+ AND GC3064
+    A002002016
+    A002002
+    A002016
+ AND GC3066
+    A002002017
+    A002002
+    A002017
+ AND GC3068
+    A002002018
+    A002002
+    A002018
+ AND GC3070
+    A002002019
+    A002002
+    A002019
+ AND GC3072
+    A002002020
+    A002002
+    A002020
+ AND GC3074
+    A002002021
+    A002002
+    A002021
+ AND GC3076
+    A002002022
+    A002002
+    A002022
+ AND GC3078
+    A002002023
+    A002002
+    A002023
+ AND GC3080
+    A002002024
+    A002002
+    A002024
+ AND GC3082
+    A002002025
+    A002002
+    A002025
+ AND GC3084
+    A002002026
+    A002002
+    A002026
+ AND GC3086
+    A002002027
+    A002002
+    A002027
+ AND GC3088
+    A002002028
+    A002002
+    A002028
+ AND GC3090
+    A002002029
+    A002002
+    A002029
+ AND GC3092
+    A002002030
+    A002002
+    A002030
+ AND GC3094
+    A002002031
+    A002002
+    A002031
+ AND GC3096
+    A002002032
+    A002002
+    A002032
+ AND GC3098
+    A002002033
+    A002002
+    A002033
+ AND GC3100
+    A002002034
+    A002002
+    A002034
+ AND GC3102
+    A002002035
+    A002002
+    A002035
+ AND GC3104
+    A002002036
+    A002002
+    A002036
+ AND GC3106
+    A002002037
+    A002002
+    A002037
+ AND GC3108
+    A002002038
+    A002002
+    A002038
+ AND GC3110
+    A002003004
+    A002003
+    A002004
+ AND GC3112
+    A002003005
+    A002003
+    A002005
+ AND GC3114
+    A002003006
+    A002003
+    A002006
+ AND GC3116
+    A002003007
+    A002003
+    A002007
+ AND GC3118
+    A002003008
+    A002003
+    A002008
+ AND GC3120
+    A002003009
+    A002003
+    A002009
+ AND GC3122
+    A002003010
+    A002003
+    A002010
+ AND GC3124
+    A002003011
+    A002003
+    A002011
+ AND GC3126
+    A002003012
+    A002003
+    A002012
+ AND GC3128
+    A002003013
+    A002003
+    A002013
+ AND GC3130
+    A002003014
+    A002003
+    A002014
+ AND GC3132
+    A002003015
+    A002003
+    A002015
+ AND GC3134
+    A002003016
+    A002003
+    A002016
+ AND GC3136
+    A002003017
+    A002003
+    A002017
+ AND GC3138
+    A002003018
+    A002003
+    A002018
+ AND GC3140
+    A002003019
+    A002003
+    A002019
+ AND GC3142
+    A002003020
+    A002003
+    A002020
+ AND GC3144
+    A002003021
+    A002003
+    A002021
+ AND GC3146
+    A002003022
+    A002003
+    A002022
+ AND GC3148
+    A002003023
+    A002003
+    A002023
+ AND GC3150
+    A002003024
+    A002003
+    A002024
+ AND GC3152
+    A002003025
+    A002003
+    A002025
+ AND GC3154
+    A002003026
+    A002003
+    A002026
+ AND GC3156
+    A002003027
+    A002003
+    A002027
+ AND GC3158
+    A002003028
+    A002003
+    A002028
+ AND GC3160
+    A002003029
+    A002003
+    A002029
+ AND GC3162
+    A002003030
+    A002003
+    A002030
+ AND GC3164
+    A002003031
+    A002003
+    A002031
+ AND GC3166
+    A002003032
+    A002003
+    A002032
+ AND GC3168
+    A002003033
+    A002003
+    A002033
+ AND GC3170
+    A002003034
+    A002003
+    A002034
+ AND GC3172
+    A002003035
+    A002003
+    A002035
+ AND GC3174
+    A002003036
+    A002003
+    A002036
+ AND GC3176
+    A002003037
+    A002003
+    A002037
+ AND GC3178
+    A002003038
+    A002003
+    A002038
+ AND GC3180
+    A002004005
+    A002004
+    A002005
+ AND GC3182
+    A002004006
+    A002004
+    A002006
+ AND GC3184
+    A002004007
+    A002004
+    A002007
+ AND GC3186
+    A002004008
+    A002004
+    A002008
+ AND GC3188
+    A002004009
+    A002004
+    A002009
+ AND GC3190
+    A002004010
+    A002004
+    A002010
+ AND GC3192
+    A002004011
+    A002004
+    A002011
+ AND GC3194
+    A002004012
+    A002004
+    A002012
+ AND GC3196
+    A002004013
+    A002004
+    A002013
+ AND GC3198
+    A002004014
+    A002004
+    A002014
+ AND GC3200
+    A002004015
+    A002004
+    A002015
+ AND GC3202
+    A002004016
+    A002004
+    A002016
+ AND GC3204
+    A002004017
+    A002004
+    A002017
+ AND GC3206
+    A002004018
+    A002004
+    A002018
+ AND GC3208
+    A002004019
+    A002004
+    A002019
+ AND GC3210
+    A002004020
+    A002004
+    A002020
+ AND GC3212
+    A002004021
+    A002004
+    A002021
+ AND GC3214
+    A002004022
+    A002004
+    A002022
+ AND GC3216
+    A002004023
+    A002004
+    A002023
+ AND GC3218
+    A002004024
+    A002004
+    A002024
+ AND GC3220
+    A002004025
+    A002004
+    A002025
+ AND GC3222
+    A002004026
+    A002004
+    A002026
+ AND GC3224
+    A002004027
+    A002004
+    A002027
+ AND GC3226
+    A002004028
+    A002004
+    A002028
+ AND GC3228
+    A002004029
+    A002004
+    A002029
+ AND GC3230
+    A002004030
+    A002004
+    A002030
+ AND GC3232
+    A002004031
+    A002004
+    A002031
+ AND GC3234
+    A002004032
+    A002004
+    A002032
+ AND GC3236
+    A002004033
+    A002004
+    A002033
+ AND GC3238
+    A002004034
+    A002004
+    A002034
+ AND GC3240
+    A002004035
+    A002004
+    A002035
+ AND GC3242
+    A002004036
+    A002004
+    A002036
+ AND GC3244
+    A002004037
+    A002004
+    A002037
+ AND GC3246
+    A002004038
+    A002004
+    A002038
+ AND GC3248
+    A002005006
+    A002005
+    A002006
+ AND GC3250
+    A002005007
+    A002005
+    A002007
+ AND GC3252
+    A002005008
+    A002005
+    A002008
+ AND GC3254
+    A002005009
+    A002005
+    A002009
+ AND GC3256
+    A002005010
+    A002005
+    A002010
+ AND GC3258
+    A002005011
+    A002005
+    A002011
+ AND GC3260
+    A002005012
+    A002005
+    A002012
+ AND GC3262
+    A002005013
+    A002005
+    A002013
+ AND GC3264
+    A002005014
+    A002005
+    A002014
+ AND GC3266
+    A002005015
+    A002005
+    A002015
+ AND GC3268
+    A002005016
+    A002005
+    A002016
+ AND GC3270
+    A002005017
+    A002005
+    A002017
+ AND GC3272
+    A002005018
+    A002005
+    A002018
+ AND GC3274
+    A002005019
+    A002005
+    A002019
+ AND GC3276
+    A002005020
+    A002005
+    A002020
+ AND GC3278
+    A002005021
+    A002005
+    A002021
+ AND GC3280
+    A002005022
+    A002005
+    A002022
+ AND GC3282
+    A002005023
+    A002005
+    A002023
+ AND GC3284
+    A002005024
+    A002005
+    A002024
+ AND GC3286
+    A002005025
+    A002005
+    A002025
+ AND GC3288
+    A002005026
+    A002005
+    A002026
+ AND GC3290
+    A002005027
+    A002005
+    A002027
+ AND GC3292
+    A002005028
+    A002005
+    A002028
+ AND GC3294
+    A002005029
+    A002005
+    A002029
+ AND GC3296
+    A002005030
+    A002005
+    A002030
+ AND GC3298
+    A002005031
+    A002005
+    A002031
+ AND GC3300
+    A002005032
+    A002005
+    A002032
+ AND GC3302
+    A002005033
+    A002005
+    A002033
+ AND GC3304
+    A002005034
+    A002005
+    A002034
+ AND GC3306
+    A002005035
+    A002005
+    A002035
+ AND GC3308
+    A002005036
+    A002005
+    A002036
+ AND GC3310
+    A002005037
+    A002005
+    A002037
+ AND GC3312
+    A002005038
+    A002005
+    A002038
+ AND GC3314
+    A002006007
+    A002006
+    A002007
+ AND GC3316
+    A002006008
+    A002006
+    A002008
+ AND GC3318
+    A002006009
+    A002006
+    A002009
+ AND GC3320
+    A002006010
+    A002006
+    A002010
+ AND GC3322
+    A002006011
+    A002006
+    A002011
+ AND GC3324
+    A002006012
+    A002006
+    A002012
+ AND GC3326
+    A002006013
+    A002006
+    A002013
+ AND GC3328
+    A002006014
+    A002006
+    A002014
+ AND GC3330
+    A002006015
+    A002006
+    A002015
+ AND GC3332
+    A002006016
+    A002006
+    A002016
+ AND GC3334
+    A002006017
+    A002006
+    A002017
+ AND GC3336
+    A002006018
+    A002006
+    A002018
+ AND GC3338
+    A002006019
+    A002006
+    A002019
+ AND GC3340
+    A002006020
+    A002006
+    A002020
+ AND GC3342
+    A002006021
+    A002006
+    A002021
+ AND GC3344
+    A002006022
+    A002006
+    A002022
+ AND GC3346
+    A002006023
+    A002006
+    A002023
+ AND GC3348
+    A002006024
+    A002006
+    A002024
+ AND GC3350
+    A002006025
+    A002006
+    A002025
+ AND GC3352
+    A002006026
+    A002006
+    A002026
+ AND GC3354
+    A002006027
+    A002006
+    A002027
+ AND GC3356
+    A002006028
+    A002006
+    A002028
+ AND GC3358
+    A002006029
+    A002006
+    A002029
+ AND GC3360
+    A002006030
+    A002006
+    A002030
+ AND GC3362
+    A002006031
+    A002006
+    A002031
+ AND GC3364
+    A002006032
+    A002006
+    A002032
+ AND GC3366
+    A002006033
+    A002006
+    A002033
+ AND GC3368
+    A002006034
+    A002006
+    A002034
+ AND GC3370
+    A002006035
+    A002006
+    A002035
+ AND GC3372
+    A002006036
+    A002006
+    A002036
+ AND GC3374
+    A002006037
+    A002006
+    A002037
+ AND GC3376
+    A002006038
+    A002006
+    A002038
+ AND GC3378
+    A002007008
+    A002007
+    A002008
+ AND GC3380
+    A002007009
+    A002007
+    A002009
+ AND GC3382
+    A002007010
+    A002007
+    A002010
+ AND GC3384
+    A002007011
+    A002007
+    A002011
+ AND GC3386
+    A002007012
+    A002007
+    A002012
+ AND GC3388
+    A002007013
+    A002007
+    A002013
+ AND GC3390
+    A002007014
+    A002007
+    A002014
+ AND GC3392
+    A002007015
+    A002007
+    A002015
+ AND GC3394
+    A002007016
+    A002007
+    A002016
+ AND GC3396
+    A002007017
+    A002007
+    A002017
+ AND GC3398
+    A002007018
+    A002007
+    A002018
+ AND GC3400
+    A002007019
+    A002007
+    A002019
+ AND GC3402
+    A002007020
+    A002007
+    A002020
+ AND GC3404
+    A002007021
+    A002007
+    A002021
+ AND GC3406
+    A002007022
+    A002007
+    A002022
+ AND GC3408
+    A002007023
+    A002007
+    A002023
+ AND GC3410
+    A002007024
+    A002007
+    A002024
+ AND GC3412
+    A002007025
+    A002007
+    A002025
+ AND GC3414
+    A002007026
+    A002007
+    A002026
+ AND GC3416
+    A002007027
+    A002007
+    A002027
+ AND GC3418
+    A002007028
+    A002007
+    A002028
+ AND GC3420
+    A002007029
+    A002007
+    A002029
+ AND GC3422
+    A002007030
+    A002007
+    A002030
+ AND GC3424
+    A002007031
+    A002007
+    A002031
+ AND GC3426
+    A002007032
+    A002007
+    A002032
+ AND GC3428
+    A002007033
+    A002007
+    A002033
+ AND GC3430
+    A002007034
+    A002007
+    A002034
+ AND GC3432
+    A002007035
+    A002007
+    A002035
+ AND GC3434
+    A002007036
+    A002007
+    A002036
+ AND GC3436
+    A002007037
+    A002007
+    A002037
+ AND GC3438
+    A002007038
+    A002007
+    A002038
+ AND GC3440
+    A002008009
+    A002008
+    A002009
+ AND GC3442
+    A002008010
+    A002008
+    A002010
+ AND GC3444
+    A002008011
+    A002008
+    A002011
+ AND GC3446
+    A002008012
+    A002008
+    A002012
+ AND GC3448
+    A002008013
+    A002008
+    A002013
+ AND GC3450
+    A002008014
+    A002008
+    A002014
+ AND GC3452
+    A002008015
+    A002008
+    A002015
+ AND GC3454
+    A002008016
+    A002008
+    A002016
+ AND GC3456
+    A002008017
+    A002008
+    A002017
+ AND GC3458
+    A002008018
+    A002008
+    A002018
+ AND GC3460
+    A002008019
+    A002008
+    A002019
+ AND GC3462
+    A002008020
+    A002008
+    A002020
+ AND GC3464
+    A002008021
+    A002008
+    A002021
+ AND GC3466
+    A002008022
+    A002008
+    A002022
+ AND GC3468
+    A002008023
+    A002008
+    A002023
+ AND GC3470
+    A002008024
+    A002008
+    A002024
+ AND GC3472
+    A002008025
+    A002008
+    A002025
+ AND GC3474
+    A002008026
+    A002008
+    A002026
+ AND GC3476
+    A002008027
+    A002008
+    A002027
+ AND GC3478
+    A002008028
+    A002008
+    A002028
+ AND GC3480
+    A002008029
+    A002008
+    A002029
+ AND GC3482
+    A002008030
+    A002008
+    A002030
+ AND GC3484
+    A002008031
+    A002008
+    A002031
+ AND GC3486
+    A002008032
+    A002008
+    A002032
+ AND GC3488
+    A002008033
+    A002008
+    A002033
+ AND GC3490
+    A002008034
+    A002008
+    A002034
+ AND GC3492
+    A002008035
+    A002008
+    A002035
+ AND GC3494
+    A002008036
+    A002008
+    A002036
+ AND GC3496
+    A002008037
+    A002008
+    A002037
+ AND GC3498
+    A002008038
+    A002008
+    A002038
+ AND GC3500
+    A002009010
+    A002009
+    A002010
+ AND GC3502
+    A002009011
+    A002009
+    A002011
+ AND GC3504
+    A002009012
+    A002009
+    A002012
+ AND GC3506
+    A002009013
+    A002009
+    A002013
+ AND GC3508
+    A002009014
+    A002009
+    A002014
+ AND GC3510
+    A002009015
+    A002009
+    A002015
+ AND GC3512
+    A002009016
+    A002009
+    A002016
+ AND GC3514
+    A002009017
+    A002009
+    A002017
+ AND GC3516
+    A002009018
+    A002009
+    A002018
+ AND GC3518
+    A002009019
+    A002009
+    A002019
+ AND GC3520
+    A002009020
+    A002009
+    A002020
+ AND GC3522
+    A002009021
+    A002009
+    A002021
+ AND GC3524
+    A002009022
+    A002009
+    A002022
+ AND GC3526
+    A002009023
+    A002009
+    A002023
+ AND GC3528
+    A002009024
+    A002009
+    A002024
+ AND GC3530
+    A002009025
+    A002009
+    A002025
+ AND GC3532
+    A002009026
+    A002009
+    A002026
+ AND GC3534
+    A002009027
+    A002009
+    A002027
+ AND GC3536
+    A002009028
+    A002009
+    A002028
+ AND GC3538
+    A002009029
+    A002009
+    A002029
+ AND GC3540
+    A002009030
+    A002009
+    A002030
+ AND GC3542
+    A002009031
+    A002009
+    A002031
+ AND GC3544
+    A002009032
+    A002009
+    A002032
+ AND GC3546
+    A002009033
+    A002009
+    A002033
+ AND GC3548
+    A002009034
+    A002009
+    A002034
+ AND GC3550
+    A002009035
+    A002009
+    A002035
+ AND GC3552
+    A002009036
+    A002009
+    A002036
+ AND GC3554
+    A002009037
+    A002009
+    A002037
+ AND GC3556
+    A002009038
+    A002009
+    A002038
+ AND GC3558
+    A002010011
+    A002010
+    A002011
+ AND GC3560
+    A002010012
+    A002010
+    A002012
+ AND GC3562
+    A002010013
+    A002010
+    A002013
+ AND GC3564
+    A002010014
+    A002010
+    A002014
+ AND GC3566
+    A002010015
+    A002010
+    A002015
+ AND GC3568
+    A002010016
+    A002010
+    A002016
+ AND GC3570
+    A002010017
+    A002010
+    A002017
+ AND GC3572
+    A002010018
+    A002010
+    A002018
+ AND GC3574
+    A002010019
+    A002010
+    A002019
+ AND GC3576
+    A002010020
+    A002010
+    A002020
+ AND GC3578
+    A002010021
+    A002010
+    A002021
+ AND GC3580
+    A002010022
+    A002010
+    A002022
+ AND GC3582
+    A002010023
+    A002010
+    A002023
+ AND GC3584
+    A002010024
+    A002010
+    A002024
+ AND GC3586
+    A002010025
+    A002010
+    A002025
+ AND GC3588
+    A002010026
+    A002010
+    A002026
+ AND GC3590
+    A002010027
+    A002010
+    A002027
+ AND GC3592
+    A002010028
+    A002010
+    A002028
+ AND GC3594
+    A002010029
+    A002010
+    A002029
+ AND GC3596
+    A002010030
+    A002010
+    A002030
+ AND GC3598
+    A002010031
+    A002010
+    A002031
+ AND GC3600
+    A002010032
+    A002010
+    A002032
+ AND GC3602
+    A002010033
+    A002010
+    A002033
+ AND GC3604
+    A002010034
+    A002010
+    A002034
+ AND GC3606
+    A002010035
+    A002010
+    A002035
+ AND GC3608
+    A002010036
+    A002010
+    A002036
+ AND GC3610
+    A002010037
+    A002010
+    A002037
+ AND GC3612
+    A002010038
+    A002010
+    A002038
+ AND GC3614
+    A002011012
+    A002011
+    A002012
+ AND GC3616
+    A002011013
+    A002011
+    A002013
+ AND GC3618
+    A002011014
+    A002011
+    A002014
+ AND GC3620
+    A002011015
+    A002011
+    A002015
+ AND GC3622
+    A002011016
+    A002011
+    A002016
+ AND GC3624
+    A002011017
+    A002011
+    A002017
+ AND GC3626
+    A002011018
+    A002011
+    A002018
+ AND GC3628
+    A002011019
+    A002011
+    A002019
+ AND GC3630
+    A002011020
+    A002011
+    A002020
+ AND GC3632
+    A002011021
+    A002011
+    A002021
+ AND GC3634
+    A002011022
+    A002011
+    A002022
+ AND GC3636
+    A002011023
+    A002011
+    A002023
+ AND GC3638
+    A002011024
+    A002011
+    A002024
+ AND GC3640
+    A002011025
+    A002011
+    A002025
+ AND GC3642
+    A002011026
+    A002011
+    A002026
+ AND GC3644
+    A002011027
+    A002011
+    A002027
+ AND GC3646
+    A002011028
+    A002011
+    A002028
+ AND GC3648
+    A002011029
+    A002011
+    A002029
+ AND GC3650
+    A002011030
+    A002011
+    A002030
+ AND GC3652
+    A002011031
+    A002011
+    A002031
+ AND GC3654
+    A002011032
+    A002011
+    A002032
+ AND GC3656
+    A002011033
+    A002011
+    A002033
+ AND GC3658
+    A002011034
+    A002011
+    A002034
+ AND GC3660
+    A002011035
+    A002011
+    A002035
+ AND GC3662
+    A002011036
+    A002011
+    A002036
+ AND GC3664
+    A002011037
+    A002011
+    A002037
+ AND GC3666
+    A002011038
+    A002011
+    A002038
+ AND GC3668
+    A002012013
+    A002012
+    A002013
+ AND GC3670
+    A002012014
+    A002012
+    A002014
+ AND GC3672
+    A002012015
+    A002012
+    A002015
+ AND GC3674
+    A002012016
+    A002012
+    A002016
+ AND GC3676
+    A002012017
+    A002012
+    A002017
+ AND GC3678
+    A002012018
+    A002012
+    A002018
+ AND GC3680
+    A002012019
+    A002012
+    A002019
+ AND GC3682
+    A002012020
+    A002012
+    A002020
+ AND GC3684
+    A002012021
+    A002012
+    A002021
+ AND GC3686
+    A002012022
+    A002012
+    A002022
+ AND GC3688
+    A002012023
+    A002012
+    A002023
+ AND GC3690
+    A002012024
+    A002012
+    A002024
+ AND GC3692
+    A002012025
+    A002012
+    A002025
+ AND GC3694
+    A002012026
+    A002012
+    A002026
+ AND GC3696
+    A002012027
+    A002012
+    A002027
+ AND GC3698
+    A002012028
+    A002012
+    A002028
+ AND GC3700
+    A002012029
+    A002012
+    A002029
+ AND GC3702
+    A002012030
+    A002012
+    A002030
+ AND GC3704
+    A002012031
+    A002012
+    A002031
+ AND GC3706
+    A002012032
+    A002012
+    A002032
+ AND GC3708
+    A002012033
+    A002012
+    A002033
+ AND GC3710
+    A002012034
+    A002012
+    A002034
+ AND GC3712
+    A002012035
+    A002012
+    A002035
+ AND GC3714
+    A002012036
+    A002012
+    A002036
+ AND GC3716
+    A002012037
+    A002012
+    A002037
+ AND GC3718
+    A002012038
+    A002012
+    A002038
+ AND GC3720
+    A002013014
+    A002013
+    A002014
+ AND GC3722
+    A002013015
+    A002013
+    A002015
+ AND GC3724
+    A002013016
+    A002013
+    A002016
+ AND GC3726
+    A002013017
+    A002013
+    A002017
+ AND GC3728
+    A002013018
+    A002013
+    A002018
+ AND GC3730
+    A002013019
+    A002013
+    A002019
+ AND GC3732
+    A002013020
+    A002013
+    A002020
+ AND GC3734
+    A002013021
+    A002013
+    A002021
+ AND GC3736
+    A002013022
+    A002013
+    A002022
+ AND GC3738
+    A002013023
+    A002013
+    A002023
+ AND GC3740
+    A002013024
+    A002013
+    A002024
+ AND GC3742
+    A002013025
+    A002013
+    A002025
+ AND GC3744
+    A002013026
+    A002013
+    A002026
+ AND GC3746
+    A002013027
+    A002013
+    A002027
+ AND GC3748
+    A002013028
+    A002013
+    A002028
+ AND GC3750
+    A002013029
+    A002013
+    A002029
+ AND GC3752
+    A002013030
+    A002013
+    A002030
+ AND GC3754
+    A002013031
+    A002013
+    A002031
+ AND GC3756
+    A002013032
+    A002013
+    A002032
+ AND GC3758
+    A002013033
+    A002013
+    A002033
+ AND GC3760
+    A002013034
+    A002013
+    A002034
+ AND GC3762
+    A002013035
+    A002013
+    A002035
+ AND GC3764
+    A002013036
+    A002013
+    A002036
+ AND GC3766
+    A002013037
+    A002013
+    A002037
+ AND GC3768
+    A002013038
+    A002013
+    A002038
+ AND GC3770
+    A002014015
+    A002014
+    A002015
+ AND GC3772
+    A002014016
+    A002014
+    A002016
+ AND GC3774
+    A002014017
+    A002014
+    A002017
+ AND GC3776
+    A002014018
+    A002014
+    A002018
+ AND GC3778
+    A002014019
+    A002014
+    A002019
+ AND GC3780
+    A002014020
+    A002014
+    A002020
+ AND GC3782
+    A002014021
+    A002014
+    A002021
+ AND GC3784
+    A002014022
+    A002014
+    A002022
+ AND GC3786
+    A002014023
+    A002014
+    A002023
+ AND GC3788
+    A002014024
+    A002014
+    A002024
+ AND GC3790
+    A002014025
+    A002014
+    A002025
+ AND GC3792
+    A002014026
+    A002014
+    A002026
+ AND GC3794
+    A002014027
+    A002014
+    A002027
+ AND GC3796
+    A002014028
+    A002014
+    A002028
+ AND GC3798
+    A002014029
+    A002014
+    A002029
+ AND GC3800
+    A002014030
+    A002014
+    A002030
+ AND GC3802
+    A002014031
+    A002014
+    A002031
+ AND GC3804
+    A002014032
+    A002014
+    A002032
+ AND GC3806
+    A002014033
+    A002014
+    A002033
+ AND GC3808
+    A002014034
+    A002014
+    A002034
+ AND GC3810
+    A002014035
+    A002014
+    A002035
+ AND GC3812
+    A002014036
+    A002014
+    A002036
+ AND GC3814
+    A002014037
+    A002014
+    A002037
+ AND GC3816
+    A002014038
+    A002014
+    A002038
+ AND GC3818
+    A002015016
+    A002015
+    A002016
+ AND GC3820
+    A002015017
+    A002015
+    A002017
+ AND GC3822
+    A002015018
+    A002015
+    A002018
+ AND GC3824
+    A002015019
+    A002015
+    A002019
+ AND GC3826
+    A002015020
+    A002015
+    A002020
+ AND GC3828
+    A002015021
+    A002015
+    A002021
+ AND GC3830
+    A002015022
+    A002015
+    A002022
+ AND GC3832
+    A002015023
+    A002015
+    A002023
+ AND GC3834
+    A002015024
+    A002015
+    A002024
+ AND GC3836
+    A002015025
+    A002015
+    A002025
+ AND GC3838
+    A002015026
+    A002015
+    A002026
+ AND GC3840
+    A002015027
+    A002015
+    A002027
+ AND GC3842
+    A002015028
+    A002015
+    A002028
+ AND GC3844
+    A002015029
+    A002015
+    A002029
+ AND GC3846
+    A002015030
+    A002015
+    A002030
+ AND GC3848
+    A002015031
+    A002015
+    A002031
+ AND GC3850
+    A002015032
+    A002015
+    A002032
+ AND GC3852
+    A002015033
+    A002015
+    A002033
+ AND GC3854
+    A002015034
+    A002015
+    A002034
+ AND GC3856
+    A002015035
+    A002015
+    A002035
+ AND GC3858
+    A002015036
+    A002015
+    A002036
+ AND GC3860
+    A002015037
+    A002015
+    A002037
+ AND GC3862
+    A002015038
+    A002015
+    A002038
+ AND GC3864
+    A002016017
+    A002016
+    A002017
+ AND GC3866
+    A002016018
+    A002016
+    A002018
+ AND GC3868
+    A002016019
+    A002016
+    A002019
+ AND GC3870
+    A002016020
+    A002016
+    A002020
+ AND GC3872
+    A002016021
+    A002016
+    A002021
+ AND GC3874
+    A002016022
+    A002016
+    A002022
+ AND GC3876
+    A002016023
+    A002016
+    A002023
+ AND GC3878
+    A002016024
+    A002016
+    A002024
+ AND GC3880
+    A002016025
+    A002016
+    A002025
+ AND GC3882
+    A002016026
+    A002016
+    A002026
+ AND GC3884
+    A002016027
+    A002016
+    A002027
+ AND GC3886
+    A002016028
+    A002016
+    A002028
+ AND GC3888
+    A002016029
+    A002016
+    A002029
+ AND GC3890
+    A002016030
+    A002016
+    A002030
+ AND GC3892
+    A002016031
+    A002016
+    A002031
+ AND GC3894
+    A002016032
+    A002016
+    A002032
+ AND GC3896
+    A002016033
+    A002016
+    A002033
+ AND GC3898
+    A002016034
+    A002016
+    A002034
+ AND GC3900
+    A002016035
+    A002016
+    A002035
+ AND GC3902
+    A002016036
+    A002016
+    A002036
+ AND GC3904
+    A002016037
+    A002016
+    A002037
+ AND GC3906
+    A002016038
+    A002016
+    A002038
+ AND GC3908
+    A002017018
+    A002017
+    A002018
+ AND GC3910
+    A002017019
+    A002017
+    A002019
+ AND GC3912
+    A002017020
+    A002017
+    A002020
+ AND GC3914
+    A002017021
+    A002017
+    A002021
+ AND GC3916
+    A002017022
+    A002017
+    A002022
+ AND GC3918
+    A002017023
+    A002017
+    A002023
+ AND GC3920
+    A002017024
+    A002017
+    A002024
+ AND GC3922
+    A002017025
+    A002017
+    A002025
+ AND GC3924
+    A002017026
+    A002017
+    A002026
+ AND GC3926
+    A002017027
+    A002017
+    A002027
+ AND GC3928
+    A002017028
+    A002017
+    A002028
+ AND GC3930
+    A002017029
+    A002017
+    A002029
+ AND GC3932
+    A002017030
+    A002017
+    A002030
+ AND GC3934
+    A002017031
+    A002017
+    A002031
+ AND GC3936
+    A002017032
+    A002017
+    A002032
+ AND GC3938
+    A002017033
+    A002017
+    A002033
+ AND GC3940
+    A002017034
+    A002017
+    A002034
+ AND GC3942
+    A002017035
+    A002017
+    A002035
+ AND GC3944
+    A002017036
+    A002017
+    A002036
+ AND GC3946
+    A002017037
+    A002017
+    A002037
+ AND GC3948
+    A002017038
+    A002017
+    A002038
+ AND GC3950
+    A002018019
+    A002018
+    A002019
+ AND GC3952
+    A002018020
+    A002018
+    A002020
+ AND GC3954
+    A002018021
+    A002018
+    A002021
+ AND GC3956
+    A002018022
+    A002018
+    A002022
+ AND GC3958
+    A002018023
+    A002018
+    A002023
+ AND GC3960
+    A002018024
+    A002018
+    A002024
+ AND GC3962
+    A002018025
+    A002018
+    A002025
+ AND GC3964
+    A002018026
+    A002018
+    A002026
+ AND GC3966
+    A002018027
+    A002018
+    A002027
+ AND GC3968
+    A002018028
+    A002018
+    A002028
+ AND GC3970
+    A002018029
+    A002018
+    A002029
+ AND GC3972
+    A002018030
+    A002018
+    A002030
+ AND GC3974
+    A002018031
+    A002018
+    A002031
+ AND GC3976
+    A002018032
+    A002018
+    A002032
+ AND GC3978
+    A002018033
+    A002018
+    A002033
+ AND GC3980
+    A002018034
+    A002018
+    A002034
+ AND GC3982
+    A002018035
+    A002018
+    A002035
+ AND GC3984
+    A002018036
+    A002018
+    A002036
+ AND GC3986
+    A002018037
+    A002018
+    A002037
+ AND GC3988
+    A002018038
+    A002018
+    A002038
+ AND GC3990
+    A002019020
+    A002019
+    A002020
+ AND GC3992
+    A002019021
+    A002019
+    A002021
+ AND GC3994
+    A002019022
+    A002019
+    A002022
+ AND GC3996
+    A002019023
+    A002019
+    A002023
+ AND GC3998
+    A002019024
+    A002019
+    A002024
+ AND GC4000
+    A002019025
+    A002019
+    A002025
+ AND GC4002
+    A002019026
+    A002019
+    A002026
+ AND GC4004
+    A002019027
+    A002019
+    A002027
+ AND GC4006
+    A002019028
+    A002019
+    A002028
+ AND GC4008
+    A002019029
+    A002019
+    A002029
+ AND GC4010
+    A002019030
+    A002019
+    A002030
+ AND GC4012
+    A002019031
+    A002019
+    A002031
+ AND GC4014
+    A002019032
+    A002019
+    A002032
+ AND GC4016
+    A002019033
+    A002019
+    A002033
+ AND GC4018
+    A002019034
+    A002019
+    A002034
+ AND GC4020
+    A002019035
+    A002019
+    A002035
+ AND GC4022
+    A002019036
+    A002019
+    A002036
+ AND GC4024
+    A002019037
+    A002019
+    A002037
+ AND GC4026
+    A002019038
+    A002019
+    A002038
+ AND GC4028
+    A002020021
+    A002020
+    A002021
+ AND GC4030
+    A002020022
+    A002020
+    A002022
+ AND GC4032
+    A002020023
+    A002020
+    A002023
+ AND GC4034
+    A002020024
+    A002020
+    A002024
+ AND GC4036
+    A002020025
+    A002020
+    A002025
+ AND GC4038
+    A002020026
+    A002020
+    A002026
+ AND GC4040
+    A002020027
+    A002020
+    A002027
+ AND GC4042
+    A002020028
+    A002020
+    A002028
+ AND GC4044
+    A002020029
+    A002020
+    A002029
+ AND GC4046
+    A002020030
+    A002020
+    A002030
+ AND GC4048
+    A002020031
+    A002020
+    A002031
+ AND GC4050
+    A002020032
+    A002020
+    A002032
+ AND GC4052
+    A002020033
+    A002020
+    A002033
+ AND GC4054
+    A002020034
+    A002020
+    A002034
+ AND GC4056
+    A002020035
+    A002020
+    A002035
+ AND GC4058
+    A002020036
+    A002020
+    A002036
+ AND GC4060
+    A002020037
+    A002020
+    A002037
+ AND GC4062
+    A002020038
+    A002020
+    A002038
+ AND GC4064
+    A002021022
+    A002021
+    A002022
+ AND GC4066
+    A002021023
+    A002021
+    A002023
+ AND GC4068
+    A002021024
+    A002021
+    A002024
+ AND GC4070
+    A002021025
+    A002021
+    A002025
+ AND GC4072
+    A002021026
+    A002021
+    A002026
+ AND GC4074
+    A002021027
+    A002021
+    A002027
+ AND GC4076
+    A002021028
+    A002021
+    A002028
+ AND GC4078
+    A002021029
+    A002021
+    A002029
+ AND GC4080
+    A002021030
+    A002021
+    A002030
+ AND GC4082
+    A002021031
+    A002021
+    A002031
+ AND GC4084
+    A002021032
+    A002021
+    A002032
+ AND GC4086
+    A002021033
+    A002021
+    A002033
+ AND GC4088
+    A002021034
+    A002021
+    A002034
+ AND GC4090
+    A002021035
+    A002021
+    A002035
+ AND GC4092
+    A002021036
+    A002021
+    A002036
+ AND GC4094
+    A002021037
+    A002021
+    A002037
+ AND GC4096
+    A002021038
+    A002021
+    A002038
+ AND GC4098
+    A002022023
+    A002022
+    A002023
+ AND GC4100
+    A002022024
+    A002022
+    A002024
+ AND GC4102
+    A002022025
+    A002022
+    A002025
+ AND GC4104
+    A002022026
+    A002022
+    A002026
+ AND GC4106
+    A002022027
+    A002022
+    A002027
+ AND GC4108
+    A002022028
+    A002022
+    A002028
+ AND GC4110
+    A002022029
+    A002022
+    A002029
+ AND GC4112
+    A002022030
+    A002022
+    A002030
+ AND GC4114
+    A002022031
+    A002022
+    A002031
+ AND GC4116
+    A002022032
+    A002022
+    A002032
+ AND GC4118
+    A002022033
+    A002022
+    A002033
+ AND GC4120
+    A002022034
+    A002022
+    A002034
+ AND GC4122
+    A002022035
+    A002022
+    A002035
+ AND GC4124
+    A002022036
+    A002022
+    A002036
+ AND GC4126
+    A002022037
+    A002022
+    A002037
+ AND GC4128
+    A002022038
+    A002022
+    A002038
+ AND GC4130
+    A002023024
+    A002023
+    A002024
+ AND GC4132
+    A002023025
+    A002023
+    A002025
+ AND GC4134
+    A002023026
+    A002023
+    A002026
+ AND GC4136
+    A002023027
+    A002023
+    A002027
+ AND GC4138
+    A002023028
+    A002023
+    A002028
+ AND GC4140
+    A002023029
+    A002023
+    A002029
+ AND GC4142
+    A002023030
+    A002023
+    A002030
+ AND GC4144
+    A002023031
+    A002023
+    A002031
+ AND GC4146
+    A002023032
+    A002023
+    A002032
+ AND GC4148
+    A002023033
+    A002023
+    A002033
+ AND GC4150
+    A002023034
+    A002023
+    A002034
+ AND GC4152
+    A002023035
+    A002023
+    A002035
+ AND GC4154
+    A002023036
+    A002023
+    A002036
+ AND GC4156
+    A002023037
+    A002023
+    A002037
+ AND GC4158
+    A002023038
+    A002023
+    A002038
+ AND GC4160
+    A002024025
+    A002024
+    A002025
+ AND GC4162
+    A002024026
+    A002024
+    A002026
+ AND GC4164
+    A002024027
+    A002024
+    A002027
+ AND GC4166
+    A002024028
+    A002024
+    A002028
+ AND GC4168
+    A002024029
+    A002024
+    A002029
+ AND GC4170
+    A002024030
+    A002024
+    A002030
+ AND GC4172
+    A002024031
+    A002024
+    A002031
+ AND GC4174
+    A002024032
+    A002024
+    A002032
+ AND GC4176
+    A002024033
+    A002024
+    A002033
+ AND GC4178
+    A002024034
+    A002024
+    A002034
+ AND GC4180
+    A002024035
+    A002024
+    A002035
+ AND GC4182
+    A002024036
+    A002024
+    A002036
+ AND GC4184
+    A002024037
+    A002024
+    A002037
+ AND GC4186
+    A002024038
+    A002024
+    A002038
+ AND GC4188
+    A002025026
+    A002025
+    A002026
+ AND GC4190
+    A002025027
+    A002025
+    A002027
+ AND GC4192
+    A002025028
+    A002025
+    A002028
+ AND GC4194
+    A002025029
+    A002025
+    A002029
+ AND GC4196
+    A002025030
+    A002025
+    A002030
+ AND GC4198
+    A002025031
+    A002025
+    A002031
+ AND GC4200
+    A002025032
+    A002025
+    A002032
+ AND GC4202
+    A002025033
+    A002025
+    A002033
+ AND GC4204
+    A002025034
+    A002025
+    A002034
+ AND GC4206
+    A002025035
+    A002025
+    A002035
+ AND GC4208
+    A002025036
+    A002025
+    A002036
+ AND GC4210
+    A002025037
+    A002025
+    A002037
+ AND GC4212
+    A002025038
+    A002025
+    A002038
+ AND GC4214
+    A002026027
+    A002026
+    A002027
+ AND GC4216
+    A002026028
+    A002026
+    A002028
+ AND GC4218
+    A002026029
+    A002026
+    A002029
+ AND GC4220
+    A002026030
+    A002026
+    A002030
+ AND GC4222
+    A002026031
+    A002026
+    A002031
+ AND GC4224
+    A002026032
+    A002026
+    A002032
+ AND GC4226
+    A002026033
+    A002026
+    A002033
+ AND GC4228
+    A002026034
+    A002026
+    A002034
+ AND GC4230
+    A002026035
+    A002026
+    A002035
+ AND GC4232
+    A002026036
+    A002026
+    A002036
+ AND GC4234
+    A002026037
+    A002026
+    A002037
+ AND GC4236
+    A002026038
+    A002026
+    A002038
+ AND GC4238
+    A002027028
+    A002027
+    A002028
+ AND GC4240
+    A002027029
+    A002027
+    A002029
+ AND GC4242
+    A002027030
+    A002027
+    A002030
+ AND GC4244
+    A002027031
+    A002027
+    A002031
+ AND GC4246
+    A002027032
+    A002027
+    A002032
+ AND GC4248
+    A002027033
+    A002027
+    A002033
+ AND GC4250
+    A002027034
+    A002027
+    A002034
+ AND GC4252
+    A002027035
+    A002027
+    A002035
+ AND GC4254
+    A002027036
+    A002027
+    A002036
+ AND GC4256
+    A002027037
+    A002027
+    A002037
+ AND GC4258
+    A002027038
+    A002027
+    A002038
+ AND GC4260
+    A002028029
+    A002028
+    A002029
+ AND GC4262
+    A002028030
+    A002028
+    A002030
+ AND GC4264
+    A002028031
+    A002028
+    A002031
+ AND GC4266
+    A002028032
+    A002028
+    A002032
+ AND GC4268
+    A002028033
+    A002028
+    A002033
+ AND GC4270
+    A002028034
+    A002028
+    A002034
+ AND GC4272
+    A002028035
+    A002028
+    A002035
+ AND GC4274
+    A002028036
+    A002028
+    A002036
+ AND GC4276
+    A002028037
+    A002028
+    A002037
+ AND GC4278
+    A002028038
+    A002028
+    A002038
+ AND GC4280
+    A002029030
+    A002029
+    A002030
+ AND GC4282
+    A002029031
+    A002029
+    A002031
+ AND GC4284
+    A002029032
+    A002029
+    A002032
+ AND GC4286
+    A002029033
+    A002029
+    A002033
+ AND GC4288
+    A002029034
+    A002029
+    A002034
+ AND GC4290
+    A002029035
+    A002029
+    A002035
+ AND GC4292
+    A002029036
+    A002029
+    A002036
+ AND GC4294
+    A002029037
+    A002029
+    A002037
+ AND GC4296
+    A002029038
+    A002029
+    A002038
+ AND GC4298
+    A002030031
+    A002030
+    A002031
+ AND GC4300
+    A002030032
+    A002030
+    A002032
+ AND GC4302
+    A002030033
+    A002030
+    A002033
+ AND GC4304
+    A002030034
+    A002030
+    A002034
+ AND GC4306
+    A002030035
+    A002030
+    A002035
+ AND GC4308
+    A002030036
+    A002030
+    A002036
+ AND GC4310
+    A002030037
+    A002030
+    A002037
+ AND GC4312
+    A002030038
+    A002030
+    A002038
+ AND GC4314
+    A002031032
+    A002031
+    A002032
+ AND GC4316
+    A002031033
+    A002031
+    A002033
+ AND GC4318
+    A002031034
+    A002031
+    A002034
+ AND GC4320
+    A002031035
+    A002031
+    A002035
+ AND GC4322
+    A002031036
+    A002031
+    A002036
+ AND GC4324
+    A002031037
+    A002031
+    A002037
+ AND GC4326
+    A002031038
+    A002031
+    A002038
+ AND GC4328
+    A002032033
+    A002032
+    A002033
+ AND GC4330
+    A002032034
+    A002032
+    A002034
+ AND GC4332
+    A002032035
+    A002032
+    A002035
+ AND GC4334
+    A002032036
+    A002032
+    A002036
+ AND GC4336
+    A002032037
+    A002032
+    A002037
+ AND GC4338
+    A002032038
+    A002032
+    A002038
+ AND GC4340
+    A002033034
+    A002033
+    A002034
+ AND GC4342
+    A002033035
+    A002033
+    A002035
+ AND GC4344
+    A002033036
+    A002033
+    A002036
+ AND GC4346
+    A002033037
+    A002033
+    A002037
+ AND GC4348
+    A002033038
+    A002033
+    A002038
+ AND GC4350
+    A002034035
+    A002034
+    A002035
+ AND GC4352
+    A002034036
+    A002034
+    A002036
+ AND GC4354
+    A002034037
+    A002034
+    A002037
+ AND GC4356
+    A002034038
+    A002034
+    A002038
+ AND GC4358
+    A002035036
+    A002035
+    A002036
+ AND GC4360
+    A002035037
+    A002035
+    A002037
+ AND GC4362
+    A002035038
+    A002035
+    A002038
+ AND GC4364
+    A002036037
+    A002036
+    A002037
+ AND GC4366
+    A002036038
+    A002036
+    A002038
+ AND GC4368
+    A002037038
+    A002037
+    A002038
+ AND GC4370
+    A003001002
+    A003001
+    A003002
+ AND GC4372
+    A003001003
+    A003001
+    A003003
+ AND GC4374
+    A003001004
+    A003001
+    A003004
+ AND GC4376
+    A003001005
+    A003001
+    A003005
+ AND GC4378
+    A003001006
+    A003001
+    A003006
+ AND GC4380
+    A003001007
+    A003001
+    A003007
+ AND GC4382
+    A003001008
+    A003001
+    A003008
+ AND GC4384
+    A003001009
+    A003001
+    A003009
+ AND GC4386
+    A003001010
+    A003001
+    A003010
+ AND GC4388
+    A003001011
+    A003001
+    A003011
+ AND GC4390
+    A003001012
+    A003001
+    A003012
+ AND GC4392
+    A003001013
+    A003001
+    A003013
+ AND GC4394
+    A003001014
+    A003001
+    A003014
+ AND GC4396
+    A003001015
+    A003001
+    A003015
+ AND GC4398
+    A003001016
+    A003001
+    A003016
+ AND GC4400
+    A003001017
+    A003001
+    A003017
+ AND GC4402
+    A003001018
+    A003001
+    A003018
+ AND GC4404
+    A003001019
+    A003001
+    A003019
+ AND GC4406
+    A003001020
+    A003001
+    A003020
+ AND GC4408
+    A003001021
+    A003001
+    A003021
+ AND GC4410
+    A003001022
+    A003001
+    A003022
+ AND GC4412
+    A003001023
+    A003001
+    A003023
+ AND GC4414
+    A003001024
+    A003001
+    A003024
+ AND GC4416
+    A003001025
+    A003001
+    A003025
+ AND GC4418
+    A003001026
+    A003001
+    A003026
+ AND GC4420
+    A003001027
+    A003001
+    A003027
+ AND GC4422
+    A003001028
+    A003001
+    A003028
+ AND GC4424
+    A003001029
+    A003001
+    A003029
+ AND GC4426
+    A003001030
+    A003001
+    A003030
+ AND GC4428
+    A003001031
+    A003001
+    A003031
+ AND GC4430
+    A003001032
+    A003001
+    A003032
+ AND GC4432
+    A003001033
+    A003001
+    A003033
+ AND GC4434
+    A003001034
+    A003001
+    A003034
+ AND GC4436
+    A003001035
+    A003001
+    A003035
+ AND GC4438
+    A003001036
+    A003001
+    A003036
+ AND GC4440
+    A003001037
+    A003001
+    A003037
+ AND GC4442
+    A003001038
+    A003001
+    A003038
+ AND GC4444
+    A003002003
+    A003002
+    A003003
+ AND GC4446
+    A003002004
+    A003002
+    A003004
+ AND GC4448
+    A003002005
+    A003002
+    A003005
+ AND GC4450
+    A003002006
+    A003002
+    A003006
+ AND GC4452
+    A003002007
+    A003002
+    A003007
+ AND GC4454
+    A003002008
+    A003002
+    A003008
+ AND GC4456
+    A003002009
+    A003002
+    A003009
+ AND GC4458
+    A003002010
+    A003002
+    A003010
+ AND GC4460
+    A003002011
+    A003002
+    A003011
+ AND GC4462
+    A003002012
+    A003002
+    A003012
+ AND GC4464
+    A003002013
+    A003002
+    A003013
+ AND GC4466
+    A003002014
+    A003002
+    A003014
+ AND GC4468
+    A003002015
+    A003002
+    A003015
+ AND GC4470
+    A003002016
+    A003002
+    A003016
+ AND GC4472
+    A003002017
+    A003002
+    A003017
+ AND GC4474
+    A003002018
+    A003002
+    A003018
+ AND GC4476
+    A003002019
+    A003002
+    A003019
+ AND GC4478
+    A003002020
+    A003002
+    A003020
+ AND GC4480
+    A003002021
+    A003002
+    A003021
+ AND GC4482
+    A003002022
+    A003002
+    A003022
+ AND GC4484
+    A003002023
+    A003002
+    A003023
+ AND GC4486
+    A003002024
+    A003002
+    A003024
+ AND GC4488
+    A003002025
+    A003002
+    A003025
+ AND GC4490
+    A003002026
+    A003002
+    A003026
+ AND GC4492
+    A003002027
+    A003002
+    A003027
+ AND GC4494
+    A003002028
+    A003002
+    A003028
+ AND GC4496
+    A003002029
+    A003002
+    A003029
+ AND GC4498
+    A003002030
+    A003002
+    A003030
+ AND GC4500
+    A003002031
+    A003002
+    A003031
+ AND GC4502
+    A003002032
+    A003002
+    A003032
+ AND GC4504
+    A003002033
+    A003002
+    A003033
+ AND GC4506
+    A003002034
+    A003002
+    A003034
+ AND GC4508
+    A003002035
+    A003002
+    A003035
+ AND GC4510
+    A003002036
+    A003002
+    A003036
+ AND GC4512
+    A003002037
+    A003002
+    A003037
+ AND GC4514
+    A003002038
+    A003002
+    A003038
+ AND GC4516
+    A003003004
+    A003003
+    A003004
+ AND GC4518
+    A003003005
+    A003003
+    A003005
+ AND GC4520
+    A003003006
+    A003003
+    A003006
+ AND GC4522
+    A003003007
+    A003003
+    A003007
+ AND GC4524
+    A003003008
+    A003003
+    A003008
+ AND GC4526
+    A003003009
+    A003003
+    A003009
+ AND GC4528
+    A003003010
+    A003003
+    A003010
+ AND GC4530
+    A003003011
+    A003003
+    A003011
+ AND GC4532
+    A003003012
+    A003003
+    A003012
+ AND GC4534
+    A003003013
+    A003003
+    A003013
+ AND GC4536
+    A003003014
+    A003003
+    A003014
+ AND GC4538
+    A003003015
+    A003003
+    A003015
+ AND GC4540
+    A003003016
+    A003003
+    A003016
+ AND GC4542
+    A003003017
+    A003003
+    A003017
+ AND GC4544
+    A003003018
+    A003003
+    A003018
+ AND GC4546
+    A003003019
+    A003003
+    A003019
+ AND GC4548
+    A003003020
+    A003003
+    A003020
+ AND GC4550
+    A003003021
+    A003003
+    A003021
+ AND GC4552
+    A003003022
+    A003003
+    A003022
+ AND GC4554
+    A003003023
+    A003003
+    A003023
+ AND GC4556
+    A003003024
+    A003003
+    A003024
+ AND GC4558
+    A003003025
+    A003003
+    A003025
+ AND GC4560
+    A003003026
+    A003003
+    A003026
+ AND GC4562
+    A003003027
+    A003003
+    A003027
+ AND GC4564
+    A003003028
+    A003003
+    A003028
+ AND GC4566
+    A003003029
+    A003003
+    A003029
+ AND GC4568
+    A003003030
+    A003003
+    A003030
+ AND GC4570
+    A003003031
+    A003003
+    A003031
+ AND GC4572
+    A003003032
+    A003003
+    A003032
+ AND GC4574
+    A003003033
+    A003003
+    A003033
+ AND GC4576
+    A003003034
+    A003003
+    A003034
+ AND GC4578
+    A003003035
+    A003003
+    A003035
+ AND GC4580
+    A003003036
+    A003003
+    A003036
+ AND GC4582
+    A003003037
+    A003003
+    A003037
+ AND GC4584
+    A003003038
+    A003003
+    A003038
+ AND GC4586
+    A003004005
+    A003004
+    A003005
+ AND GC4588
+    A003004006
+    A003004
+    A003006
+ AND GC4590
+    A003004007
+    A003004
+    A003007
+ AND GC4592
+    A003004008
+    A003004
+    A003008
+ AND GC4594
+    A003004009
+    A003004
+    A003009
+ AND GC4596
+    A003004010
+    A003004
+    A003010
+ AND GC4598
+    A003004011
+    A003004
+    A003011
+ AND GC4600
+    A003004012
+    A003004
+    A003012
+ AND GC4602
+    A003004013
+    A003004
+    A003013
+ AND GC4604
+    A003004014
+    A003004
+    A003014
+ AND GC4606
+    A003004015
+    A003004
+    A003015
+ AND GC4608
+    A003004016
+    A003004
+    A003016
+ AND GC4610
+    A003004017
+    A003004
+    A003017
+ AND GC4612
+    A003004018
+    A003004
+    A003018
+ AND GC4614
+    A003004019
+    A003004
+    A003019
+ AND GC4616
+    A003004020
+    A003004
+    A003020
+ AND GC4618
+    A003004021
+    A003004
+    A003021
+ AND GC4620
+    A003004022
+    A003004
+    A003022
+ AND GC4622
+    A003004023
+    A003004
+    A003023
+ AND GC4624
+    A003004024
+    A003004
+    A003024
+ AND GC4626
+    A003004025
+    A003004
+    A003025
+ AND GC4628
+    A003004026
+    A003004
+    A003026
+ AND GC4630
+    A003004027
+    A003004
+    A003027
+ AND GC4632
+    A003004028
+    A003004
+    A003028
+ AND GC4634
+    A003004029
+    A003004
+    A003029
+ AND GC4636
+    A003004030
+    A003004
+    A003030
+ AND GC4638
+    A003004031
+    A003004
+    A003031
+ AND GC4640
+    A003004032
+    A003004
+    A003032
+ AND GC4642
+    A003004033
+    A003004
+    A003033
+ AND GC4644
+    A003004034
+    A003004
+    A003034
+ AND GC4646
+    A003004035
+    A003004
+    A003035
+ AND GC4648
+    A003004036
+    A003004
+    A003036
+ AND GC4650
+    A003004037
+    A003004
+    A003037
+ AND GC4652
+    A003004038
+    A003004
+    A003038
+ AND GC4654
+    A003005006
+    A003005
+    A003006
+ AND GC4656
+    A003005007
+    A003005
+    A003007
+ AND GC4658
+    A003005008
+    A003005
+    A003008
+ AND GC4660
+    A003005009
+    A003005
+    A003009
+ AND GC4662
+    A003005010
+    A003005
+    A003010
+ AND GC4664
+    A003005011
+    A003005
+    A003011
+ AND GC4666
+    A003005012
+    A003005
+    A003012
+ AND GC4668
+    A003005013
+    A003005
+    A003013
+ AND GC4670
+    A003005014
+    A003005
+    A003014
+ AND GC4672
+    A003005015
+    A003005
+    A003015
+ AND GC4674
+    A003005016
+    A003005
+    A003016
+ AND GC4676
+    A003005017
+    A003005
+    A003017
+ AND GC4678
+    A003005018
+    A003005
+    A003018
+ AND GC4680
+    A003005019
+    A003005
+    A003019
+ AND GC4682
+    A003005020
+    A003005
+    A003020
+ AND GC4684
+    A003005021
+    A003005
+    A003021
+ AND GC4686
+    A003005022
+    A003005
+    A003022
+ AND GC4688
+    A003005023
+    A003005
+    A003023
+ AND GC4690
+    A003005024
+    A003005
+    A003024
+ AND GC4692
+    A003005025
+    A003005
+    A003025
+ AND GC4694
+    A003005026
+    A003005
+    A003026
+ AND GC4696
+    A003005027
+    A003005
+    A003027
+ AND GC4698
+    A003005028
+    A003005
+    A003028
+ AND GC4700
+    A003005029
+    A003005
+    A003029
+ AND GC4702
+    A003005030
+    A003005
+    A003030
+ AND GC4704
+    A003005031
+    A003005
+    A003031
+ AND GC4706
+    A003005032
+    A003005
+    A003032
+ AND GC4708
+    A003005033
+    A003005
+    A003033
+ AND GC4710
+    A003005034
+    A003005
+    A003034
+ AND GC4712
+    A003005035
+    A003005
+    A003035
+ AND GC4714
+    A003005036
+    A003005
+    A003036
+ AND GC4716
+    A003005037
+    A003005
+    A003037
+ AND GC4718
+    A003005038
+    A003005
+    A003038
+ AND GC4720
+    A003006007
+    A003006
+    A003007
+ AND GC4722
+    A003006008
+    A003006
+    A003008
+ AND GC4724
+    A003006009
+    A003006
+    A003009
+ AND GC4726
+    A003006010
+    A003006
+    A003010
+ AND GC4728
+    A003006011
+    A003006
+    A003011
+ AND GC4730
+    A003006012
+    A003006
+    A003012
+ AND GC4732
+    A003006013
+    A003006
+    A003013
+ AND GC4734
+    A003006014
+    A003006
+    A003014
+ AND GC4736
+    A003006015
+    A003006
+    A003015
+ AND GC4738
+    A003006016
+    A003006
+    A003016
+ AND GC4740
+    A003006017
+    A003006
+    A003017
+ AND GC4742
+    A003006018
+    A003006
+    A003018
+ AND GC4744
+    A003006019
+    A003006
+    A003019
+ AND GC4746
+    A003006020
+    A003006
+    A003020
+ AND GC4748
+    A003006021
+    A003006
+    A003021
+ AND GC4750
+    A003006022
+    A003006
+    A003022
+ AND GC4752
+    A003006023
+    A003006
+    A003023
+ AND GC4754
+    A003006024
+    A003006
+    A003024
+ AND GC4756
+    A003006025
+    A003006
+    A003025
+ AND GC4758
+    A003006026
+    A003006
+    A003026
+ AND GC4760
+    A003006027
+    A003006
+    A003027
+ AND GC4762
+    A003006028
+    A003006
+    A003028
+ AND GC4764
+    A003006029
+    A003006
+    A003029
+ AND GC4766
+    A003006030
+    A003006
+    A003030
+ AND GC4768
+    A003006031
+    A003006
+    A003031
+ AND GC4770
+    A003006032
+    A003006
+    A003032
+ AND GC4772
+    A003006033
+    A003006
+    A003033
+ AND GC4774
+    A003006034
+    A003006
+    A003034
+ AND GC4776
+    A003006035
+    A003006
+    A003035
+ AND GC4778
+    A003006036
+    A003006
+    A003036
+ AND GC4780
+    A003006037
+    A003006
+    A003037
+ AND GC4782
+    A003006038
+    A003006
+    A003038
+ AND GC4784
+    A003007008
+    A003007
+    A003008
+ AND GC4786
+    A003007009
+    A003007
+    A003009
+ AND GC4788
+    A003007010
+    A003007
+    A003010
+ AND GC4790
+    A003007011
+    A003007
+    A003011
+ AND GC4792
+    A003007012
+    A003007
+    A003012
+ AND GC4794
+    A003007013
+    A003007
+    A003013
+ AND GC4796
+    A003007014
+    A003007
+    A003014
+ AND GC4798
+    A003007015
+    A003007
+    A003015
+ AND GC4800
+    A003007016
+    A003007
+    A003016
+ AND GC4802
+    A003007017
+    A003007
+    A003017
+ AND GC4804
+    A003007018
+    A003007
+    A003018
+ AND GC4806
+    A003007019
+    A003007
+    A003019
+ AND GC4808
+    A003007020
+    A003007
+    A003020
+ AND GC4810
+    A003007021
+    A003007
+    A003021
+ AND GC4812
+    A003007022
+    A003007
+    A003022
+ AND GC4814
+    A003007023
+    A003007
+    A003023
+ AND GC4816
+    A003007024
+    A003007
+    A003024
+ AND GC4818
+    A003007025
+    A003007
+    A003025
+ AND GC4820
+    A003007026
+    A003007
+    A003026
+ AND GC4822
+    A003007027
+    A003007
+    A003027
+ AND GC4824
+    A003007028
+    A003007
+    A003028
+ AND GC4826
+    A003007029
+    A003007
+    A003029
+ AND GC4828
+    A003007030
+    A003007
+    A003030
+ AND GC4830
+    A003007031
+    A003007
+    A003031
+ AND GC4832
+    A003007032
+    A003007
+    A003032
+ AND GC4834
+    A003007033
+    A003007
+    A003033
+ AND GC4836
+    A003007034
+    A003007
+    A003034
+ AND GC4838
+    A003007035
+    A003007
+    A003035
+ AND GC4840
+    A003007036
+    A003007
+    A003036
+ AND GC4842
+    A003007037
+    A003007
+    A003037
+ AND GC4844
+    A003007038
+    A003007
+    A003038
+ AND GC4846
+    A003008009
+    A003008
+    A003009
+ AND GC4848
+    A003008010
+    A003008
+    A003010
+ AND GC4850
+    A003008011
+    A003008
+    A003011
+ AND GC4852
+    A003008012
+    A003008
+    A003012
+ AND GC4854
+    A003008013
+    A003008
+    A003013
+ AND GC4856
+    A003008014
+    A003008
+    A003014
+ AND GC4858
+    A003008015
+    A003008
+    A003015
+ AND GC4860
+    A003008016
+    A003008
+    A003016
+ AND GC4862
+    A003008017
+    A003008
+    A003017
+ AND GC4864
+    A003008018
+    A003008
+    A003018
+ AND GC4866
+    A003008019
+    A003008
+    A003019
+ AND GC4868
+    A003008020
+    A003008
+    A003020
+ AND GC4870
+    A003008021
+    A003008
+    A003021
+ AND GC4872
+    A003008022
+    A003008
+    A003022
+ AND GC4874
+    A003008023
+    A003008
+    A003023
+ AND GC4876
+    A003008024
+    A003008
+    A003024
+ AND GC4878
+    A003008025
+    A003008
+    A003025
+ AND GC4880
+    A003008026
+    A003008
+    A003026
+ AND GC4882
+    A003008027
+    A003008
+    A003027
+ AND GC4884
+    A003008028
+    A003008
+    A003028
+ AND GC4886
+    A003008029
+    A003008
+    A003029
+ AND GC4888
+    A003008030
+    A003008
+    A003030
+ AND GC4890
+    A003008031
+    A003008
+    A003031
+ AND GC4892
+    A003008032
+    A003008
+    A003032
+ AND GC4894
+    A003008033
+    A003008
+    A003033
+ AND GC4896
+    A003008034
+    A003008
+    A003034
+ AND GC4898
+    A003008035
+    A003008
+    A003035
+ AND GC4900
+    A003008036
+    A003008
+    A003036
+ AND GC4902
+    A003008037
+    A003008
+    A003037
+ AND GC4904
+    A003008038
+    A003008
+    A003038
+ AND GC4906
+    A003009010
+    A003009
+    A003010
+ AND GC4908
+    A003009011
+    A003009
+    A003011
+ AND GC4910
+    A003009012
+    A003009
+    A003012
+ AND GC4912
+    A003009013
+    A003009
+    A003013
+ AND GC4914
+    A003009014
+    A003009
+    A003014
+ AND GC4916
+    A003009015
+    A003009
+    A003015
+ AND GC4918
+    A003009016
+    A003009
+    A003016
+ AND GC4920
+    A003009017
+    A003009
+    A003017
+ AND GC4922
+    A003009018
+    A003009
+    A003018
+ AND GC4924
+    A003009019
+    A003009
+    A003019
+ AND GC4926
+    A003009020
+    A003009
+    A003020
+ AND GC4928
+    A003009021
+    A003009
+    A003021
+ AND GC4930
+    A003009022
+    A003009
+    A003022
+ AND GC4932
+    A003009023
+    A003009
+    A003023
+ AND GC4934
+    A003009024
+    A003009
+    A003024
+ AND GC4936
+    A003009025
+    A003009
+    A003025
+ AND GC4938
+    A003009026
+    A003009
+    A003026
+ AND GC4940
+    A003009027
+    A003009
+    A003027
+ AND GC4942
+    A003009028
+    A003009
+    A003028
+ AND GC4944
+    A003009029
+    A003009
+    A003029
+ AND GC4946
+    A003009030
+    A003009
+    A003030
+ AND GC4948
+    A003009031
+    A003009
+    A003031
+ AND GC4950
+    A003009032
+    A003009
+    A003032
+ AND GC4952
+    A003009033
+    A003009
+    A003033
+ AND GC4954
+    A003009034
+    A003009
+    A003034
+ AND GC4956
+    A003009035
+    A003009
+    A003035
+ AND GC4958
+    A003009036
+    A003009
+    A003036
+ AND GC4960
+    A003009037
+    A003009
+    A003037
+ AND GC4962
+    A003009038
+    A003009
+    A003038
+ AND GC4964
+    A003010011
+    A003010
+    A003011
+ AND GC4966
+    A003010012
+    A003010
+    A003012
+ AND GC4968
+    A003010013
+    A003010
+    A003013
+ AND GC4970
+    A003010014
+    A003010
+    A003014
+ AND GC4972
+    A003010015
+    A003010
+    A003015
+ AND GC4974
+    A003010016
+    A003010
+    A003016
+ AND GC4976
+    A003010017
+    A003010
+    A003017
+ AND GC4978
+    A003010018
+    A003010
+    A003018
+ AND GC4980
+    A003010019
+    A003010
+    A003019
+ AND GC4982
+    A003010020
+    A003010
+    A003020
+ AND GC4984
+    A003010021
+    A003010
+    A003021
+ AND GC4986
+    A003010022
+    A003010
+    A003022
+ AND GC4988
+    A003010023
+    A003010
+    A003023
+ AND GC4990
+    A003010024
+    A003010
+    A003024
+ AND GC4992
+    A003010025
+    A003010
+    A003025
+ AND GC4994
+    A003010026
+    A003010
+    A003026
+ AND GC4996
+    A003010027
+    A003010
+    A003027
+ AND GC4998
+    A003010028
+    A003010
+    A003028
+ AND GC5000
+    A003010029
+    A003010
+    A003029
+ AND GC5002
+    A003010030
+    A003010
+    A003030
+ AND GC5004
+    A003010031
+    A003010
+    A003031
+ AND GC5006
+    A003010032
+    A003010
+    A003032
+ AND GC5008
+    A003010033
+    A003010
+    A003033
+ AND GC5010
+    A003010034
+    A003010
+    A003034
+ AND GC5012
+    A003010035
+    A003010
+    A003035
+ AND GC5014
+    A003010036
+    A003010
+    A003036
+ AND GC5016
+    A003010037
+    A003010
+    A003037
+ AND GC5018
+    A003010038
+    A003010
+    A003038
+ AND GC5020
+    A003011012
+    A003011
+    A003012
+ AND GC5022
+    A003011013
+    A003011
+    A003013
+ AND GC5024
+    A003011014
+    A003011
+    A003014
+ AND GC5026
+    A003011015
+    A003011
+    A003015
+ AND GC5028
+    A003011016
+    A003011
+    A003016
+ AND GC5030
+    A003011017
+    A003011
+    A003017
+ AND GC5032
+    A003011018
+    A003011
+    A003018
+ AND GC5034
+    A003011019
+    A003011
+    A003019
+ AND GC5036
+    A003011020
+    A003011
+    A003020
+ AND GC5038
+    A003011021
+    A003011
+    A003021
+ AND GC5040
+    A003011022
+    A003011
+    A003022
+ AND GC5042
+    A003011023
+    A003011
+    A003023
+ AND GC5044
+    A003011024
+    A003011
+    A003024
+ AND GC5046
+    A003011025
+    A003011
+    A003025
+ AND GC5048
+    A003011026
+    A003011
+    A003026
+ AND GC5050
+    A003011027
+    A003011
+    A003027
+ AND GC5052
+    A003011028
+    A003011
+    A003028
+ AND GC5054
+    A003011029
+    A003011
+    A003029
+ AND GC5056
+    A003011030
+    A003011
+    A003030
+ AND GC5058
+    A003011031
+    A003011
+    A003031
+ AND GC5060
+    A003011032
+    A003011
+    A003032
+ AND GC5062
+    A003011033
+    A003011
+    A003033
+ AND GC5064
+    A003011034
+    A003011
+    A003034
+ AND GC5066
+    A003011035
+    A003011
+    A003035
+ AND GC5068
+    A003011036
+    A003011
+    A003036
+ AND GC5070
+    A003011037
+    A003011
+    A003037
+ AND GC5072
+    A003011038
+    A003011
+    A003038
+ AND GC5074
+    A003012013
+    A003012
+    A003013
+ AND GC5076
+    A003012014
+    A003012
+    A003014
+ AND GC5078
+    A003012015
+    A003012
+    A003015
+ AND GC5080
+    A003012016
+    A003012
+    A003016
+ AND GC5082
+    A003012017
+    A003012
+    A003017
+ AND GC5084
+    A003012018
+    A003012
+    A003018
+ AND GC5086
+    A003012019
+    A003012
+    A003019
+ AND GC5088
+    A003012020
+    A003012
+    A003020
+ AND GC5090
+    A003012021
+    A003012
+    A003021
+ AND GC5092
+    A003012022
+    A003012
+    A003022
+ AND GC5094
+    A003012023
+    A003012
+    A003023
+ AND GC5096
+    A003012024
+    A003012
+    A003024
+ AND GC5098
+    A003012025
+    A003012
+    A003025
+ AND GC5100
+    A003012026
+    A003012
+    A003026
+ AND GC5102
+    A003012027
+    A003012
+    A003027
+ AND GC5104
+    A003012028
+    A003012
+    A003028
+ AND GC5106
+    A003012029
+    A003012
+    A003029
+ AND GC5108
+    A003012030
+    A003012
+    A003030
+ AND GC5110
+    A003012031
+    A003012
+    A003031
+ AND GC5112
+    A003012032
+    A003012
+    A003032
+ AND GC5114
+    A003012033
+    A003012
+    A003033
+ AND GC5116
+    A003012034
+    A003012
+    A003034
+ AND GC5118
+    A003012035
+    A003012
+    A003035
+ AND GC5120
+    A003012036
+    A003012
+    A003036
+ AND GC5122
+    A003012037
+    A003012
+    A003037
+ AND GC5124
+    A003012038
+    A003012
+    A003038
+ AND GC5126
+    A003013014
+    A003013
+    A003014
+ AND GC5128
+    A003013015
+    A003013
+    A003015
+ AND GC5130
+    A003013016
+    A003013
+    A003016
+ AND GC5132
+    A003013017
+    A003013
+    A003017
+ AND GC5134
+    A003013018
+    A003013
+    A003018
+ AND GC5136
+    A003013019
+    A003013
+    A003019
+ AND GC5138
+    A003013020
+    A003013
+    A003020
+ AND GC5140
+    A003013021
+    A003013
+    A003021
+ AND GC5142
+    A003013022
+    A003013
+    A003022
+ AND GC5144
+    A003013023
+    A003013
+    A003023
+ AND GC5146
+    A003013024
+    A003013
+    A003024
+ AND GC5148
+    A003013025
+    A003013
+    A003025
+ AND GC5150
+    A003013026
+    A003013
+    A003026
+ AND GC5152
+    A003013027
+    A003013
+    A003027
+ AND GC5154
+    A003013028
+    A003013
+    A003028
+ AND GC5156
+    A003013029
+    A003013
+    A003029
+ AND GC5158
+    A003013030
+    A003013
+    A003030
+ AND GC5160
+    A003013031
+    A003013
+    A003031
+ AND GC5162
+    A003013032
+    A003013
+    A003032
+ AND GC5164
+    A003013033
+    A003013
+    A003033
+ AND GC5166
+    A003013034
+    A003013
+    A003034
+ AND GC5168
+    A003013035
+    A003013
+    A003035
+ AND GC5170
+    A003013036
+    A003013
+    A003036
+ AND GC5172
+    A003013037
+    A003013
+    A003037
+ AND GC5174
+    A003013038
+    A003013
+    A003038
+ AND GC5176
+    A003014015
+    A003014
+    A003015
+ AND GC5178
+    A003014016
+    A003014
+    A003016
+ AND GC5180
+    A003014017
+    A003014
+    A003017
+ AND GC5182
+    A003014018
+    A003014
+    A003018
+ AND GC5184
+    A003014019
+    A003014
+    A003019
+ AND GC5186
+    A003014020
+    A003014
+    A003020
+ AND GC5188
+    A003014021
+    A003014
+    A003021
+ AND GC5190
+    A003014022
+    A003014
+    A003022
+ AND GC5192
+    A003014023
+    A003014
+    A003023
+ AND GC5194
+    A003014024
+    A003014
+    A003024
+ AND GC5196
+    A003014025
+    A003014
+    A003025
+ AND GC5198
+    A003014026
+    A003014
+    A003026
+ AND GC5200
+    A003014027
+    A003014
+    A003027
+ AND GC5202
+    A003014028
+    A003014
+    A003028
+ AND GC5204
+    A003014029
+    A003014
+    A003029
+ AND GC5206
+    A003014030
+    A003014
+    A003030
+ AND GC5208
+    A003014031
+    A003014
+    A003031
+ AND GC5210
+    A003014032
+    A003014
+    A003032
+ AND GC5212
+    A003014033
+    A003014
+    A003033
+ AND GC5214
+    A003014034
+    A003014
+    A003034
+ AND GC5216
+    A003014035
+    A003014
+    A003035
+ AND GC5218
+    A003014036
+    A003014
+    A003036
+ AND GC5220
+    A003014037
+    A003014
+    A003037
+ AND GC5222
+    A003014038
+    A003014
+    A003038
+ AND GC5224
+    A003015016
+    A003015
+    A003016
+ AND GC5226
+    A003015017
+    A003015
+    A003017
+ AND GC5228
+    A003015018
+    A003015
+    A003018
+ AND GC5230
+    A003015019
+    A003015
+    A003019
+ AND GC5232
+    A003015020
+    A003015
+    A003020
+ AND GC5234
+    A003015021
+    A003015
+    A003021
+ AND GC5236
+    A003015022
+    A003015
+    A003022
+ AND GC5238
+    A003015023
+    A003015
+    A003023
+ AND GC5240
+    A003015024
+    A003015
+    A003024
+ AND GC5242
+    A003015025
+    A003015
+    A003025
+ AND GC5244
+    A003015026
+    A003015
+    A003026
+ AND GC5246
+    A003015027
+    A003015
+    A003027
+ AND GC5248
+    A003015028
+    A003015
+    A003028
+ AND GC5250
+    A003015029
+    A003015
+    A003029
+ AND GC5252
+    A003015030
+    A003015
+    A003030
+ AND GC5254
+    A003015031
+    A003015
+    A003031
+ AND GC5256
+    A003015032
+    A003015
+    A003032
+ AND GC5258
+    A003015033
+    A003015
+    A003033
+ AND GC5260
+    A003015034
+    A003015
+    A003034
+ AND GC5262
+    A003015035
+    A003015
+    A003035
+ AND GC5264
+    A003015036
+    A003015
+    A003036
+ AND GC5266
+    A003015037
+    A003015
+    A003037
+ AND GC5268
+    A003015038
+    A003015
+    A003038
+ AND GC5270
+    A003016017
+    A003016
+    A003017
+ AND GC5272
+    A003016018
+    A003016
+    A003018
+ AND GC5274
+    A003016019
+    A003016
+    A003019
+ AND GC5276
+    A003016020
+    A003016
+    A003020
+ AND GC5278
+    A003016021
+    A003016
+    A003021
+ AND GC5280
+    A003016022
+    A003016
+    A003022
+ AND GC5282
+    A003016023
+    A003016
+    A003023
+ AND GC5284
+    A003016024
+    A003016
+    A003024
+ AND GC5286
+    A003016025
+    A003016
+    A003025
+ AND GC5288
+    A003016026
+    A003016
+    A003026
+ AND GC5290
+    A003016027
+    A003016
+    A003027
+ AND GC5292
+    A003016028
+    A003016
+    A003028
+ AND GC5294
+    A003016029
+    A003016
+    A003029
+ AND GC5296
+    A003016030
+    A003016
+    A003030
+ AND GC5298
+    A003016031
+    A003016
+    A003031
+ AND GC5300
+    A003016032
+    A003016
+    A003032
+ AND GC5302
+    A003016033
+    A003016
+    A003033
+ AND GC5304
+    A003016034
+    A003016
+    A003034
+ AND GC5306
+    A003016035
+    A003016
+    A003035
+ AND GC5308
+    A003016036
+    A003016
+    A003036
+ AND GC5310
+    A003016037
+    A003016
+    A003037
+ AND GC5312
+    A003016038
+    A003016
+    A003038
+ AND GC5314
+    A003017018
+    A003017
+    A003018
+ AND GC5316
+    A003017019
+    A003017
+    A003019
+ AND GC5318
+    A003017020
+    A003017
+    A003020
+ AND GC5320
+    A003017021
+    A003017
+    A003021
+ AND GC5322
+    A003017022
+    A003017
+    A003022
+ AND GC5324
+    A003017023
+    A003017
+    A003023
+ AND GC5326
+    A003017024
+    A003017
+    A003024
+ AND GC5328
+    A003017025
+    A003017
+    A003025
+ AND GC5330
+    A003017026
+    A003017
+    A003026
+ AND GC5332
+    A003017027
+    A003017
+    A003027
+ AND GC5334
+    A003017028
+    A003017
+    A003028
+ AND GC5336
+    A003017029
+    A003017
+    A003029
+ AND GC5338
+    A003017030
+    A003017
+    A003030
+ AND GC5340
+    A003017031
+    A003017
+    A003031
+ AND GC5342
+    A003017032
+    A003017
+    A003032
+ AND GC5344
+    A003017033
+    A003017
+    A003033
+ AND GC5346
+    A003017034
+    A003017
+    A003034
+ AND GC5348
+    A003017035
+    A003017
+    A003035
+ AND GC5350
+    A003017036
+    A003017
+    A003036
+ AND GC5352
+    A003017037
+    A003017
+    A003037
+ AND GC5354
+    A003017038
+    A003017
+    A003038
+ AND GC5356
+    A003018019
+    A003018
+    A003019
+ AND GC5358
+    A003018020
+    A003018
+    A003020
+ AND GC5360
+    A003018021
+    A003018
+    A003021
+ AND GC5362
+    A003018022
+    A003018
+    A003022
+ AND GC5364
+    A003018023
+    A003018
+    A003023
+ AND GC5366
+    A003018024
+    A003018
+    A003024
+ AND GC5368
+    A003018025
+    A003018
+    A003025
+ AND GC5370
+    A003018026
+    A003018
+    A003026
+ AND GC5372
+    A003018027
+    A003018
+    A003027
+ AND GC5374
+    A003018028
+    A003018
+    A003028
+ AND GC5376
+    A003018029
+    A003018
+    A003029
+ AND GC5378
+    A003018030
+    A003018
+    A003030
+ AND GC5380
+    A003018031
+    A003018
+    A003031
+ AND GC5382
+    A003018032
+    A003018
+    A003032
+ AND GC5384
+    A003018033
+    A003018
+    A003033
+ AND GC5386
+    A003018034
+    A003018
+    A003034
+ AND GC5388
+    A003018035
+    A003018
+    A003035
+ AND GC5390
+    A003018036
+    A003018
+    A003036
+ AND GC5392
+    A003018037
+    A003018
+    A003037
+ AND GC5394
+    A003018038
+    A003018
+    A003038
+ AND GC5396
+    A003019020
+    A003019
+    A003020
+ AND GC5398
+    A003019021
+    A003019
+    A003021
+ AND GC5400
+    A003019022
+    A003019
+    A003022
+ AND GC5402
+    A003019023
+    A003019
+    A003023
+ AND GC5404
+    A003019024
+    A003019
+    A003024
+ AND GC5406
+    A003019025
+    A003019
+    A003025
+ AND GC5408
+    A003019026
+    A003019
+    A003026
+ AND GC5410
+    A003019027
+    A003019
+    A003027
+ AND GC5412
+    A003019028
+    A003019
+    A003028
+ AND GC5414
+    A003019029
+    A003019
+    A003029
+ AND GC5416
+    A003019030
+    A003019
+    A003030
+ AND GC5418
+    A003019031
+    A003019
+    A003031
+ AND GC5420
+    A003019032
+    A003019
+    A003032
+ AND GC5422
+    A003019033
+    A003019
+    A003033
+ AND GC5424
+    A003019034
+    A003019
+    A003034
+ AND GC5426
+    A003019035
+    A003019
+    A003035
+ AND GC5428
+    A003019036
+    A003019
+    A003036
+ AND GC5430
+    A003019037
+    A003019
+    A003037
+ AND GC5432
+    A003019038
+    A003019
+    A003038
+ AND GC5434
+    A003020021
+    A003020
+    A003021
+ AND GC5436
+    A003020022
+    A003020
+    A003022
+ AND GC5438
+    A003020023
+    A003020
+    A003023
+ AND GC5440
+    A003020024
+    A003020
+    A003024
+ AND GC5442
+    A003020025
+    A003020
+    A003025
+ AND GC5444
+    A003020026
+    A003020
+    A003026
+ AND GC5446
+    A003020027
+    A003020
+    A003027
+ AND GC5448
+    A003020028
+    A003020
+    A003028
+ AND GC5450
+    A003020029
+    A003020
+    A003029
+ AND GC5452
+    A003020030
+    A003020
+    A003030
+ AND GC5454
+    A003020031
+    A003020
+    A003031
+ AND GC5456
+    A003020032
+    A003020
+    A003032
+ AND GC5458
+    A003020033
+    A003020
+    A003033
+ AND GC5460
+    A003020034
+    A003020
+    A003034
+ AND GC5462
+    A003020035
+    A003020
+    A003035
+ AND GC5464
+    A003020036
+    A003020
+    A003036
+ AND GC5466
+    A003020037
+    A003020
+    A003037
+ AND GC5468
+    A003020038
+    A003020
+    A003038
+ AND GC5470
+    A003021022
+    A003021
+    A003022
+ AND GC5472
+    A003021023
+    A003021
+    A003023
+ AND GC5474
+    A003021024
+    A003021
+    A003024
+ AND GC5476
+    A003021025
+    A003021
+    A003025
+ AND GC5478
+    A003021026
+    A003021
+    A003026
+ AND GC5480
+    A003021027
+    A003021
+    A003027
+ AND GC5482
+    A003021028
+    A003021
+    A003028
+ AND GC5484
+    A003021029
+    A003021
+    A003029
+ AND GC5486
+    A003021030
+    A003021
+    A003030
+ AND GC5488
+    A003021031
+    A003021
+    A003031
+ AND GC5490
+    A003021032
+    A003021
+    A003032
+ AND GC5492
+    A003021033
+    A003021
+    A003033
+ AND GC5494
+    A003021034
+    A003021
+    A003034
+ AND GC5496
+    A003021035
+    A003021
+    A003035
+ AND GC5498
+    A003021036
+    A003021
+    A003036
+ AND GC5500
+    A003021037
+    A003021
+    A003037
+ AND GC5502
+    A003021038
+    A003021
+    A003038
+ AND GC5504
+    A003022023
+    A003022
+    A003023
+ AND GC5506
+    A003022024
+    A003022
+    A003024
+ AND GC5508
+    A003022025
+    A003022
+    A003025
+ AND GC5510
+    A003022026
+    A003022
+    A003026
+ AND GC5512
+    A003022027
+    A003022
+    A003027
+ AND GC5514
+    A003022028
+    A003022
+    A003028
+ AND GC5516
+    A003022029
+    A003022
+    A003029
+ AND GC5518
+    A003022030
+    A003022
+    A003030
+ AND GC5520
+    A003022031
+    A003022
+    A003031
+ AND GC5522
+    A003022032
+    A003022
+    A003032
+ AND GC5524
+    A003022033
+    A003022
+    A003033
+ AND GC5526
+    A003022034
+    A003022
+    A003034
+ AND GC5528
+    A003022035
+    A003022
+    A003035
+ AND GC5530
+    A003022036
+    A003022
+    A003036
+ AND GC5532
+    A003022037
+    A003022
+    A003037
+ AND GC5534
+    A003022038
+    A003022
+    A003038
+ AND GC5536
+    A003023024
+    A003023
+    A003024
+ AND GC5538
+    A003023025
+    A003023
+    A003025
+ AND GC5540
+    A003023026
+    A003023
+    A003026
+ AND GC5542
+    A003023027
+    A003023
+    A003027
+ AND GC5544
+    A003023028
+    A003023
+    A003028
+ AND GC5546
+    A003023029
+    A003023
+    A003029
+ AND GC5548
+    A003023030
+    A003023
+    A003030
+ AND GC5550
+    A003023031
+    A003023
+    A003031
+ AND GC5552
+    A003023032
+    A003023
+    A003032
+ AND GC5554
+    A003023033
+    A003023
+    A003033
+ AND GC5556
+    A003023034
+    A003023
+    A003034
+ AND GC5558
+    A003023035
+    A003023
+    A003035
+ AND GC5560
+    A003023036
+    A003023
+    A003036
+ AND GC5562
+    A003023037
+    A003023
+    A003037
+ AND GC5564
+    A003023038
+    A003023
+    A003038
+ AND GC5566
+    A003024025
+    A003024
+    A003025
+ AND GC5568
+    A003024026
+    A003024
+    A003026
+ AND GC5570
+    A003024027
+    A003024
+    A003027
+ AND GC5572
+    A003024028
+    A003024
+    A003028
+ AND GC5574
+    A003024029
+    A003024
+    A003029
+ AND GC5576
+    A003024030
+    A003024
+    A003030
+ AND GC5578
+    A003024031
+    A003024
+    A003031
+ AND GC5580
+    A003024032
+    A003024
+    A003032
+ AND GC5582
+    A003024033
+    A003024
+    A003033
+ AND GC5584
+    A003024034
+    A003024
+    A003034
+ AND GC5586
+    A003024035
+    A003024
+    A003035
+ AND GC5588
+    A003024036
+    A003024
+    A003036
+ AND GC5590
+    A003024037
+    A003024
+    A003037
+ AND GC5592
+    A003024038
+    A003024
+    A003038
+ AND GC5594
+    A003025026
+    A003025
+    A003026
+ AND GC5596
+    A003025027
+    A003025
+    A003027
+ AND GC5598
+    A003025028
+    A003025
+    A003028
+ AND GC5600
+    A003025029
+    A003025
+    A003029
+ AND GC5602
+    A003025030
+    A003025
+    A003030
+ AND GC5604
+    A003025031
+    A003025
+    A003031
+ AND GC5606
+    A003025032
+    A003025
+    A003032
+ AND GC5608
+    A003025033
+    A003025
+    A003033
+ AND GC5610
+    A003025034
+    A003025
+    A003034
+ AND GC5612
+    A003025035
+    A003025
+    A003035
+ AND GC5614
+    A003025036
+    A003025
+    A003036
+ AND GC5616
+    A003025037
+    A003025
+    A003037
+ AND GC5618
+    A003025038
+    A003025
+    A003038
+ AND GC5620
+    A003026027
+    A003026
+    A003027
+ AND GC5622
+    A003026028
+    A003026
+    A003028
+ AND GC5624
+    A003026029
+    A003026
+    A003029
+ AND GC5626
+    A003026030
+    A003026
+    A003030
+ AND GC5628
+    A003026031
+    A003026
+    A003031
+ AND GC5630
+    A003026032
+    A003026
+    A003032
+ AND GC5632
+    A003026033
+    A003026
+    A003033
+ AND GC5634
+    A003026034
+    A003026
+    A003034
+ AND GC5636
+    A003026035
+    A003026
+    A003035
+ AND GC5638
+    A003026036
+    A003026
+    A003036
+ AND GC5640
+    A003026037
+    A003026
+    A003037
+ AND GC5642
+    A003026038
+    A003026
+    A003038
+ AND GC5644
+    A003027028
+    A003027
+    A003028
+ AND GC5646
+    A003027029
+    A003027
+    A003029
+ AND GC5648
+    A003027030
+    A003027
+    A003030
+ AND GC5650
+    A003027031
+    A003027
+    A003031
+ AND GC5652
+    A003027032
+    A003027
+    A003032
+ AND GC5654
+    A003027033
+    A003027
+    A003033
+ AND GC5656
+    A003027034
+    A003027
+    A003034
+ AND GC5658
+    A003027035
+    A003027
+    A003035
+ AND GC5660
+    A003027036
+    A003027
+    A003036
+ AND GC5662
+    A003027037
+    A003027
+    A003037
+ AND GC5664
+    A003027038
+    A003027
+    A003038
+ AND GC5666
+    A003028029
+    A003028
+    A003029
+ AND GC5668
+    A003028030
+    A003028
+    A003030
+ AND GC5670
+    A003028031
+    A003028
+    A003031
+ AND GC5672
+    A003028032
+    A003028
+    A003032
+ AND GC5674
+    A003028033
+    A003028
+    A003033
+ AND GC5676
+    A003028034
+    A003028
+    A003034
+ AND GC5678
+    A003028035
+    A003028
+    A003035
+ AND GC5680
+    A003028036
+    A003028
+    A003036
+ AND GC5682
+    A003028037
+    A003028
+    A003037
+ AND GC5684
+    A003028038
+    A003028
+    A003038
+ AND GC5686
+    A003029030
+    A003029
+    A003030
+ AND GC5688
+    A003029031
+    A003029
+    A003031
+ AND GC5690
+    A003029032
+    A003029
+    A003032
+ AND GC5692
+    A003029033
+    A003029
+    A003033
+ AND GC5694
+    A003029034
+    A003029
+    A003034
+ AND GC5696
+    A003029035
+    A003029
+    A003035
+ AND GC5698
+    A003029036
+    A003029
+    A003036
+ AND GC5700
+    A003029037
+    A003029
+    A003037
+ AND GC5702
+    A003029038
+    A003029
+    A003038
+ AND GC5704
+    A003030031
+    A003030
+    A003031
+ AND GC5706
+    A003030032
+    A003030
+    A003032
+ AND GC5708
+    A003030033
+    A003030
+    A003033
+ AND GC5710
+    A003030034
+    A003030
+    A003034
+ AND GC5712
+    A003030035
+    A003030
+    A003035
+ AND GC5714
+    A003030036
+    A003030
+    A003036
+ AND GC5716
+    A003030037
+    A003030
+    A003037
+ AND GC5718
+    A003030038
+    A003030
+    A003038
+ AND GC5720
+    A003031032
+    A003031
+    A003032
+ AND GC5722
+    A003031033
+    A003031
+    A003033
+ AND GC5724
+    A003031034
+    A003031
+    A003034
+ AND GC5726
+    A003031035
+    A003031
+    A003035
+ AND GC5728
+    A003031036
+    A003031
+    A003036
+ AND GC5730
+    A003031037
+    A003031
+    A003037
+ AND GC5732
+    A003031038
+    A003031
+    A003038
+ AND GC5734
+    A003032033
+    A003032
+    A003033
+ AND GC5736
+    A003032034
+    A003032
+    A003034
+ AND GC5738
+    A003032035
+    A003032
+    A003035
+ AND GC5740
+    A003032036
+    A003032
+    A003036
+ AND GC5742
+    A003032037
+    A003032
+    A003037
+ AND GC5744
+    A003032038
+    A003032
+    A003038
+ AND GC5746
+    A003033034
+    A003033
+    A003034
+ AND GC5748
+    A003033035
+    A003033
+    A003035
+ AND GC5750
+    A003033036
+    A003033
+    A003036
+ AND GC5752
+    A003033037
+    A003033
+    A003037
+ AND GC5754
+    A003033038
+    A003033
+    A003038
+ AND GC5756
+    A003034035
+    A003034
+    A003035
+ AND GC5758
+    A003034036
+    A003034
+    A003036
+ AND GC5760
+    A003034037
+    A003034
+    A003037
+ AND GC5762
+    A003034038
+    A003034
+    A003038
+ AND GC5764
+    A003035036
+    A003035
+    A003036
+ AND GC5766
+    A003035037
+    A003035
+    A003037
+ AND GC5768
+    A003035038
+    A003035
+    A003038
+ AND GC5770
+    A003036037
+    A003036
+    A003037
+ AND GC5772
+    A003036038
+    A003036
+    A003038
+ AND GC5774
+    A003037038
+    A003037
+    A003038
+ENDATA

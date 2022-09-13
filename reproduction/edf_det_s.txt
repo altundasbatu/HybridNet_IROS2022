@@ -1,0 +1,1239 @@
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0001_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0003_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0006_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0007_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0008_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0012_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0013_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0014_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0017_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0019_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0020_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0023_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0023_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0026_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0026_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0028_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0030_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0031_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0033_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0036_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0037_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0041_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0041_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0043_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0044_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0047_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0048_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0050_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0051_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0052_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0052_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0053_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0055_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0057_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0059_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0060_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0061_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0062_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark
+/home/baltundas3/HybridNet_IROS2022/benchmark
+Baseline: earlist deadline first
+data/small_test_set
+Evaluation on 1/200
+data/small_test_set/problem_0001.txt
+Feasible solution found, min makespan: 124.000000
+Time: -0.0785 s
+Num feasible: 1
+Evaluation on 2/200
+data/small_test_set/problem_0002.txt
+Time: -1.8120 s
+Num feasible: 1
+Evaluation on 3/200
+data/small_test_set/problem_0003.txt
+Feasible solution found, min makespan: 134.000000
+Time: -0.0626 s
+Num feasible: 2
+Evaluation on 4/200
+data/small_test_set/problem_0004.txt
+Time: -2.5953 s
+Num feasible: 2
+Evaluation on 5/200
+data/small_test_set/problem_0005.txt
+Feasible solution found, min makespan: 197.000000
+Time: -0.0863 s
+Num feasible: 3
+Evaluation on 6/200
+data/small_test_set/problem_0006.txt
+Feasible solution found, min makespan: 190.000000
+Time: -0.0800 s
+Num feasible: 4
+Evaluation on 7/200
+data/small_test_set/problem_0007.txt
+Feasible solution found, min makespan: 231.000000
+Time: -0.1699 s
+Num feasible: 5
+Evaluation on 8/200
+data/small_test_set/problem_0008.txt
+Feasible solution found, min makespan: 157.000000
+Time: -0.0962 s
+Num feasible: 6
+Evaluation on 9/200
+data/small_test_set/problem_0009.txt
+Feasible solution found, min makespan: 163.000000
+Time: -0.0984 s
+Num feasible: 7
+Evaluation on 10/200
+data/small_test_set/problem_0010.txt
+Infeasible after 2 insertions
+Time: -0.0460 s
+Num feasible: 7
+Evaluation on 11/200
+data/small_test_set/problem_0011.txt
+Infeasible after 2 insertions
+Time: -0.0507 s
+Num feasible: 7
+Evaluation on 12/200
+data/small_test_set/problem_0012.txt
+Feasible solution found, min makespan: 171.000000
+Time: -0.0836 s
+Num feasible: 8
+Evaluation on 13/200
+data/small_test_set/problem_0013.txt
+Feasible solution found, min makespan: 154.000000
+Time: -0.0778 s
+Num feasible: 9
+Evaluation on 14/200
+data/small_test_set/problem_0014.txt
+Feasible solution found, min makespan: 154.000000
+Time: -0.0594 s
+Num feasible: 10
+Evaluation on 15/200
+data/small_test_set/problem_0015.txt
+Infeasible after 2 insertions
+Time: -0.0815 s
+Num feasible: 10
+Evaluation on 16/200
+data/small_test_set/problem_0016.txt
+Infeasible after 2 insertions
+Time: -0.0612 s
+Num feasible: 10
+Evaluation on 17/200
+data/small_test_set/problem_0017.txt
+Feasible solution found, min makespan: 152.000000
+Time: -0.0806 s
+Num feasible: 11
+Evaluation on 18/200
+data/small_test_set/problem_0018.txt
+Feasible solution found, min makespan: 175.000000
+Time: -0.0859 s
+Num feasible: 12
+Evaluation on 19/200
+data/small_test_set/problem_0019.txt
+Feasible solution found, min makespan: 144.000000
+Time: -0.0597 s
+Num feasible: 13
+Evaluation on 20/200
+data/small_test_set/problem_0020.txt
+Feasible solution found, min makespan: 189.000000
+Time: -0.1032 s
+Num feasible: 14
+Evaluation on 21/200
+data/small_test_set/problem_0021.txt
+Time: -2.7156 s
+Num feasible: 14
+Evaluation on 22/200
+data/small_test_set/problem_0022.txt
+Infeasible after 2 insertions
+Time: -0.0921 s
+Num feasible: 14
+Evaluation on 23/200
+data/small_test_set/problem_0023.txt
+Feasible solution found, min makespan: 147.000000
+Time: -0.0557 s
+Num feasible: 15
+Evaluation on 24/200
+data/small_test_set/problem_0024.txt
+Feasible solution found, min makespan: 157.000000
+Time: -0.0667 s
+Num feasible: 16
+Evaluation on 25/200
+data/small_test_set/problem_0025.txt
+Feasible solution found, min makespan: 282.000000
+Time: -0.1316 s
+Num feasible: 17
+Evaluation on 26/200
+data/small_test_set/problem_0026.txt
+Feasible solution found, min makespan: 151.000000
+Time: -0.0553 s
+Num feasible: 18
+Evaluation on 27/200
+data/small_test_set/problem_0027.txt
+Time: -2.6192 s
+Num feasible: 18
+Evaluation on 28/200
+data/small_test_set/problem_0028.txt
+Feasible solution found, min makespan: 175.000000
+Time: -0.0596 s
+Num feasible: 19
+Evaluation on 29/200
+data/small_test_set/problem_0029.txt
+Feasible solution found, min makespan: 204.000000
+Time: -0.0889 s
+Num feasible: 20
+Evaluation on 30/200
+data/small_test_set/problem_0030.txt
+Feasible solution found, min makespan: 203.000000
+Time: -0.1066 s
+Num feasible: 21
+Evaluation on 31/200
+data/small_test_set/problem_0031.txt
+Feasible solution found, min makespan: 176.000000
+Time: -0.0786 s
+Num feasible: 22
+Evaluation on 32/200
+data/small_test_set/problem_0032.txt
+Time: -2.5284 s
+Num feasible: 22
+Evaluation on 33/200
+data/small_test_set/problem_0033.txt
+Feasible solution found, min makespan: 176.000000
+Time: -0.0899 s
+Num feasible: 23
+Evaluation on 34/200
+data/small_test_set/problem_0034.txt
+Feasible solution found, min makespan: 194.000000
+Time: -0.1355 s
+Num feasible: 24
+Evaluation on 35/200
+data/small_test_set/problem_0035.txt
+Time: -2.1381 s
+Num feasible: 24
+Evaluation on 36/200
+data/small_test_set/problem_0036.txt
+Feasible solution found, min makespan: 167.000000
+Time: -0.0638 s
+Num feasible: 25
+Evaluation on 37/200
+data/small_test_set/problem_0037.txt
+Feasible solution found, min makespan: 229.000000
+Time: -0.0901 s
+Num feasible: 26
+Evaluation on 38/200
+data/small_test_set/problem_0038.txt
+Time: -2.6576 s
+Num feasible: 26
+Evaluation on 39/200
+data/small_test_set/problem_0039.txt
+Infeasible after 2 insertions
+Time: -0.1058 s
+Num feasible: 26
+Evaluation on 40/200
+data/small_test_set/problem_0040.txt
+Time: -2.5875 s
+Num feasible: 26
+Evaluation on 41/200
+data/small_test_set/problem_0041.txt
+Feasible solution found, min makespan: 132.000000
+Time: -0.0756 s
+Num feasible: 27
+Evaluation on 42/200
+data/small_test_set/problem_0042.txt
+Infeasible after 2 insertions
+Time: -0.1162 s
+Num feasible: 27
+Evaluation on 43/200
+data/small_test_set/problem_0043.txt
+Feasible solution found, min makespan: 234.000000
+Time: -0.1119 s
+Num feasible: 28
+Evaluation on 44/200
+data/small_test_set/problem_0044.txt
+Feasible solution found, min makespan: 156.000000
+Time: -0.0645 s
+Num feasible: 29
+Evaluation on 45/200
+data/small_test_set/problem_0045.txt
+Time: -2.6414 s
+Num feasible: 29
+Evaluation on 46/200
+data/small_test_set/problem_0046.txt
+Feasible solution found, min makespan: 184.000000
+Time: -0.1239 s
+Num feasible: 30
+Evaluation on 47/200
+data/small_test_set/problem_0047.txt
+Feasible solution found, min makespan: 196.000000
+Time: -0.1127 s
+Num feasible: 31
+Evaluation on 48/200
+data/small_test_set/problem_0048.txt
+Feasible solution found, min makespan: 198.000000
+Time: -0.1147 s
+Num feasible: 32
+Evaluation on 49/200
+data/small_test_set/problem_0049.txt
+Feasible solution found, min makespan: 174.000000
+Time: -0.1719 s
+Num feasible: 33
+Evaluation on 50/200
+data/small_test_set/problem_0050.txt
+Feasible solution found, min makespan: 171.000000
+Time: -0.0686 s
+Num feasible: 34
+Evaluation on 51/200
+data/small_test_set/problem_0051.txt
+Feasible solution found, min makespan: 167.000000
+Time: -0.0888 s
+Num feasible: 35
+Evaluation on 52/200
+data/small_test_set/problem_0052.txt
+Feasible solution found, min makespan: 182.000000
+Time: -0.1009 s
+Num feasible: 36
+Evaluation on 53/200
+data/small_test_set/problem_0053.txt
+Feasible solution found, min makespan: 201.000000
+Time: -0.0860 s
+Num feasible: 37
+Evaluation on 54/200
+data/small_test_set/problem_0054.txt
+Feasible solution found, min makespan: 307.000000
+Time: -0.1289 s
+Num feasible: 38
+Evaluation on 55/200
+data/small_test_set/problem_0055.txt
+Feasible solution found, min makespan: 210.000000
+Time: -0.1098 s
+Num feasible: 39
+Evaluation on 56/200
+data/small_test_set/problem_0056.txt
+Infeasible after 2 insertions
+Time: -0.0923 s
+Num feasible: 39
+Evaluation on 57/200
+data/small_test_set/problem_0057.txt
+Feasible solution found, min makespan: 193.000000
+Time: -0.0903 s
+Num feasible: 40
+Evaluation on 58/200
+data/small_test_set/problem_0058.txt
+Infeasible after 4 insertions
+Time: -0.0521 s
+Num feasible: 40
+Evaluation on 59/200
+data/small_test_set/problem_0059.txt
+Feasible solution found, min makespan: 155.000000
+Time: -0.0782 s
+Num feasible: 41
+Evaluation on 60/200
+data/small_test_set/problem_0060.txt
+Feasible solution found, min makespan: 159.000000
+Time: -0.0607 s
+Num feasible: 42
+Evaluation on 61/200
+data/small_test_set/problem_0061.txt
+Feasible solution found, min makespan: 163.000000
+Time: -0.1049 s
+Num feasible: 43
+Evaluation on 62/200
+data/small_test_set/problem_0062.txt
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0064_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0065_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0066_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0067_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0068_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0069_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0069_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0070_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0072_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0075_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0076_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0077_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0078_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0080_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0083_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0086_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0087_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0088_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0089_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0090_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0091_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0092_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0093_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0095_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0096_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0097_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0098_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0099_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0100_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0101_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0101_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0102_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0104_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0105_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0106_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0107_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0110_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0111_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0113_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0114_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0115_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0117_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0123_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+Feasible solution found, min makespan: 207.000000
+Time: -0.1198 s
+Num feasible: 44
+Evaluation on 63/200
+data/small_test_set/problem_0063.txt
+Infeasible after 3 insertions
+Time: -0.0478 s
+Num feasible: 44
+Evaluation on 64/200
+data/small_test_set/problem_0064.txt
+Time: -1.8253 s
+Num feasible: 44
+Evaluation on 65/200
+data/small_test_set/problem_0065.txt
+Time: -1.6311 s
+Num feasible: 44
+Evaluation on 66/200
+data/small_test_set/problem_0066.txt
+Feasible solution found, min makespan: 225.000000
+Time: -0.0731 s
+Num feasible: 45
+Evaluation on 67/200
+data/small_test_set/problem_0067.txt
+Feasible solution found, min makespan: 154.000000
+Time: -0.1054 s
+Num feasible: 46
+Evaluation on 68/200
+data/small_test_set/problem_0068.txt
+Feasible solution found, min makespan: 202.000000
+Time: -0.1057 s
+Num feasible: 47
+Evaluation on 69/200
+data/small_test_set/problem_0069.txt
+Feasible solution found, min makespan: 127.000000
+Time: -0.0558 s
+Num feasible: 48
+Evaluation on 70/200
+data/small_test_set/problem_0070.txt
+Feasible solution found, min makespan: 161.000000
+Time: -0.0569 s
+Num feasible: 49
+Evaluation on 71/200
+data/small_test_set/problem_0071.txt
+Feasible solution found, min makespan: 182.000000
+Time: -0.1061 s
+Num feasible: 50
+Evaluation on 72/200
+data/small_test_set/problem_0072.txt
+Feasible solution found, min makespan: 229.000000
+Time: -0.0964 s
+Num feasible: 51
+Evaluation on 73/200
+data/small_test_set/problem_0073.txt
+Time: -2.0593 s
+Num feasible: 51
+Evaluation on 74/200
+data/small_test_set/problem_0074.txt
+Feasible solution found, min makespan: 186.000000
+Time: -0.0847 s
+Num feasible: 52
+Evaluation on 75/200
+data/small_test_set/problem_0075.txt
+Feasible solution found, min makespan: 230.000000
+Time: -0.0730 s
+Num feasible: 53
+Evaluation on 76/200
+data/small_test_set/problem_0076.txt
+Feasible solution found, min makespan: 132.000000
+Time: -0.0579 s
+Num feasible: 54
+Evaluation on 77/200
+data/small_test_set/problem_0077.txt
+Feasible solution found, min makespan: 202.000000
+Time: -0.0995 s
+Num feasible: 55
+Evaluation on 78/200
+data/small_test_set/problem_0078.txt
+Time: -1.9736 s
+Num feasible: 55
+Evaluation on 79/200
+data/small_test_set/problem_0079.txt
+Feasible solution found, min makespan: 186.000000
+Time: -0.1327 s
+Num feasible: 56
+Evaluation on 80/200
+data/small_test_set/problem_0080.txt
+Feasible solution found, min makespan: 162.000000
+Time: -0.1021 s
+Num feasible: 57
+Evaluation on 81/200
+data/small_test_set/problem_0081.txt
+Feasible solution found, min makespan: 172.000000
+Time: -0.1054 s
+Num feasible: 58
+Evaluation on 82/200
+data/small_test_set/problem_0082.txt
+Time: -1.6417 s
+Num feasible: 58
+Evaluation on 83/200
+data/small_test_set/problem_0083.txt
+Feasible solution found, min makespan: 165.000000
+Time: -0.0819 s
+Num feasible: 59
+Evaluation on 84/200
+data/small_test_set/problem_0084.txt
+Feasible solution found, min makespan: 199.000000
+Time: -0.0744 s
+Num feasible: 60
+Evaluation on 85/200
+data/small_test_set/problem_0085.txt
+Time: -2.4049 s
+Num feasible: 60
+Evaluation on 86/200
+data/small_test_set/problem_0086.txt
+Feasible solution found, min makespan: 237.000000
+Time: -0.1763 s
+Num feasible: 61
+Evaluation on 87/200
+data/small_test_set/problem_0087.txt
+Feasible solution found, min makespan: 181.000000
+Time: -0.0837 s
+Num feasible: 62
+Evaluation on 88/200
+data/small_test_set/problem_0088.txt
+Feasible solution found, min makespan: 199.000000
+Time: -0.1089 s
+Num feasible: 63
+Evaluation on 89/200
+data/small_test_set/problem_0089.txt
+Feasible solution found, min makespan: 267.000000
+Time: -0.1230 s
+Num feasible: 64
+Evaluation on 90/200
+data/small_test_set/problem_0090.txt
+Feasible solution found, min makespan: 151.000000
+Time: -0.0631 s
+Num feasible: 65
+Evaluation on 91/200
+data/small_test_set/problem_0091.txt
+Feasible solution found, min makespan: 220.000000
+Time: -0.1054 s
+Num feasible: 66
+Evaluation on 92/200
+data/small_test_set/problem_0092.txt
+Feasible solution found, min makespan: 161.000000
+Time: -0.0970 s
+Num feasible: 67
+Evaluation on 93/200
+data/small_test_set/problem_0093.txt
+Feasible solution found, min makespan: 184.000000
+Time: -0.1125 s
+Num feasible: 68
+Evaluation on 94/200
+data/small_test_set/problem_0094.txt
+Infeasible after 2 insertions
+Time: -0.1014 s
+Num feasible: 68
+Evaluation on 95/200
+data/small_test_set/problem_0095.txt
+Feasible solution found, min makespan: 179.000000
+Time: -0.0826 s
+Num feasible: 69
+Evaluation on 96/200
+data/small_test_set/problem_0096.txt
+Feasible solution found, min makespan: 201.000000
+Time: -0.0674 s
+Num feasible: 70
+Evaluation on 97/200
+data/small_test_set/problem_0097.txt
+Feasible solution found, min makespan: 187.000000
+Time: -0.0680 s
+Num feasible: 71
+Evaluation on 98/200
+data/small_test_set/problem_0098.txt
+Feasible solution found, min makespan: 160.000000
+Time: -0.0584 s
+Num feasible: 72
+Evaluation on 99/200
+data/small_test_set/problem_0099.txt
+Feasible solution found, min makespan: 154.000000
+Time: -0.0762 s
+Num feasible: 73
+Evaluation on 100/200
+data/small_test_set/problem_0100.txt
+Feasible solution found, min makespan: 142.000000
+Time: -0.0574 s
+Num feasible: 74
+Evaluation on 101/200
+data/small_test_set/problem_0101.txt
+Feasible solution found, min makespan: 139.000000
+Time: -0.0565 s
+Num feasible: 75
+Evaluation on 102/200
+data/small_test_set/problem_0102.txt
+Feasible solution found, min makespan: 165.000000
+Time: -0.1013 s
+Num feasible: 76
+Evaluation on 103/200
+data/small_test_set/problem_0103.txt
+Feasible solution found, min makespan: 165.000000
+Time: -0.0931 s
+Num feasible: 77
+Evaluation on 104/200
+data/small_test_set/problem_0104.txt
+Feasible solution found, min makespan: 126.000000
+Time: -0.0594 s
+Num feasible: 78
+Evaluation on 105/200
+data/small_test_set/problem_0105.txt
+Feasible solution found, min makespan: 162.000000
+Time: -0.0617 s
+Num feasible: 79
+Evaluation on 106/200
+data/small_test_set/problem_0106.txt
+Feasible solution found, min makespan: 160.000000
+Time: -0.0665 s
+Num feasible: 80
+Evaluation on 107/200
+data/small_test_set/problem_0107.txt
+Feasible solution found, min makespan: 183.000000
+Time: -0.0998 s
+Num feasible: 81
+Evaluation on 108/200
+data/small_test_set/problem_0108.txt
+Feasible solution found, min makespan: 217.000000
+Time: -0.1010 s
+Num feasible: 82
+Evaluation on 109/200
+data/small_test_set/problem_0109.txt
+Time: -2.4889 s
+Num feasible: 82
+Evaluation on 110/200
+data/small_test_set/problem_0110.txt
+Feasible solution found, min makespan: 237.000000
+Time: -0.1077 s
+Num feasible: 83
+Evaluation on 111/200
+data/small_test_set/problem_0111.txt
+Feasible solution found, min makespan: 176.000000
+Time: -0.0885 s
+Num feasible: 84
+Evaluation on 112/200
+data/small_test_set/problem_0112.txt
+Feasible solution found, min makespan: 138.000000
+Time: -0.0620 s
+Num feasible: 85
+Evaluation on 113/200
+data/small_test_set/problem_0113.txt
+Feasible solution found, min makespan: 192.000000
+Time: -0.0869 s
+Num feasible: 86
+Evaluation on 114/200
+data/small_test_set/problem_0114.txt
+Feasible solution found, min makespan: 213.000000
+Time: -0.0789 s
+Num feasible: 87
+Evaluation on 115/200
+data/small_test_set/problem_0115.txt
+Feasible solution found, min makespan: 212.000000
+Time: -0.0925 s
+Num feasible: 88
+Evaluation on 116/200
+data/small_test_set/problem_0116.txt
+Feasible solution found, min makespan: 195.000000
+Time: -0.1074 s
+Num feasible: 89
+Evaluation on 117/200
+data/small_test_set/problem_0117.txt
+Feasible solution found, min makespan: 138.000000
+Time: -0.1126 s
+Num feasible: 90
+Evaluation on 118/200
+data/small_test_set/problem_0118.txt
+Time: -1.7296 s
+Num feasible: 90
+Evaluation on 119/200
+data/small_test_set/problem_0119.txt
+Feasible solution found, min makespan: 179.000000
+Time: -0.0879 s
+Num feasible: 91
+Evaluation on 120/200
+data/small_test_set/problem_0120.txt
+Time: -2.0868 s
+Num feasible: 91
+Evaluation on 121/200
+data/small_test_set/problem_0121.txt
+Infeasible after 3 insertions
+Time: -0.0556 s
+Num feasible: 91
+Evaluation on 122/200
+data/small_test_set/problem_0122.txt
+Time: -1.9510 s
+Num feasible: 91
+Evaluation on 123/200
+data/small_test_set/problem_0123.txt
+Feasible solution found, min makespan: 186.000000
+Time: -0.1275 s
+Num feasible: 92
+Evaluation on 124/200
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0127_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0130_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0131_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0132_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0133_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0134_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0135_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0138_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0142_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0143_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0144_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0145_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0146_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0147_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0150_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0151_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0153_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0155_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0157_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0160_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0161_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0161_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0162_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0163_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0164_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0168_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0169_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0170_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0172_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0173_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0174_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0175_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0176_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0176_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0177_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0177_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0179_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0180_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0181_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0184_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+data/small_test_set/problem_0124.txt
+Time: -2.2093 s
+Num feasible: 92
+Evaluation on 125/200
+data/small_test_set/problem_0125.txt
+Time: -2.1285 s
+Num feasible: 92
+Evaluation on 126/200
+data/small_test_set/problem_0126.txt
+Infeasible after 3 insertions
+Time: -0.0546 s
+Num feasible: 92
+Evaluation on 127/200
+data/small_test_set/problem_0127.txt
+Feasible solution found, min makespan: 221.000000
+Time: -0.0928 s
+Num feasible: 93
+Evaluation on 128/200
+data/small_test_set/problem_0128.txt
+Feasible solution found, min makespan: 115.000000
+Time: -0.1022 s
+Num feasible: 94
+Evaluation on 129/200
+data/small_test_set/problem_0129.txt
+Feasible solution found, min makespan: 188.000000
+Time: -0.1092 s
+Num feasible: 95
+Evaluation on 130/200
+data/small_test_set/problem_0130.txt
+Feasible solution found, min makespan: 271.000000
+Time: -0.0804 s
+Num feasible: 96
+Evaluation on 131/200
+data/small_test_set/problem_0131.txt
+Feasible solution found, min makespan: 177.000000
+Time: -0.1061 s
+Num feasible: 97
+Evaluation on 132/200
+data/small_test_set/problem_0132.txt
+Feasible solution found, min makespan: 156.000000
+Time: -0.1005 s
+Num feasible: 98
+Evaluation on 133/200
+data/small_test_set/problem_0133.txt
+Feasible solution found, min makespan: 149.000000
+Time: -0.0766 s
+Num feasible: 99
+Evaluation on 134/200
+data/small_test_set/problem_0134.txt
+Feasible solution found, min makespan: 174.000000
+Time: -0.0606 s
+Num feasible: 100
+Evaluation on 135/200
+data/small_test_set/problem_0135.txt
+Feasible solution found, min makespan: 228.000000
+Time: -0.0740 s
+Num feasible: 101
+Evaluation on 136/200
+data/small_test_set/problem_0136.txt
+Infeasible after 2 insertions
+Time: -0.0579 s
+Num feasible: 101
+Evaluation on 137/200
+data/small_test_set/problem_0137.txt
+Feasible solution found, min makespan: 189.000000
+Time: -0.1095 s
+Num feasible: 102
+Evaluation on 138/200
+data/small_test_set/problem_0138.txt
+Feasible solution found, min makespan: 142.000000
+Time: -0.0970 s
+Num feasible: 103
+Evaluation on 139/200
+data/small_test_set/problem_0139.txt
+Infeasible after 2 insertions
+Time: -0.0844 s
+Num feasible: 103
+Evaluation on 140/200
+data/small_test_set/problem_0140.txt
+Time: -1.8896 s
+Num feasible: 103
+Evaluation on 141/200
+data/small_test_set/problem_0141.txt
+Time: -2.2060 s
+Num feasible: 103
+Evaluation on 142/200
+data/small_test_set/problem_0142.txt
+Feasible solution found, min makespan: 189.000000
+Time: -0.1072 s
+Num feasible: 104
+Evaluation on 143/200
+data/small_test_set/problem_0143.txt
+Feasible solution found, min makespan: 132.000000
+Time: -0.0589 s
+Num feasible: 105
+Evaluation on 144/200
+data/small_test_set/problem_0144.txt
+Feasible solution found, min makespan: 164.000000
+Time: -0.0782 s
+Num feasible: 106
+Evaluation on 145/200
+data/small_test_set/problem_0145.txt
+Feasible solution found, min makespan: 174.000000
+Time: -0.0648 s
+Num feasible: 107
+Evaluation on 146/200
+data/small_test_set/problem_0146.txt
+Feasible solution found, min makespan: 150.000000
+Time: -0.0639 s
+Num feasible: 108
+Evaluation on 147/200
+data/small_test_set/problem_0147.txt
+Time: -2.4855 s
+Num feasible: 108
+Evaluation on 148/200
+data/small_test_set/problem_0148.txt
+Time: -1.9576 s
+Num feasible: 108
+Evaluation on 149/200
+data/small_test_set/problem_0149.txt
+Infeasible after 2 insertions
+Time: -0.0588 s
+Num feasible: 108
+Evaluation on 150/200
+data/small_test_set/problem_0150.txt
+Feasible solution found, min makespan: 237.000000
+Time: -0.0951 s
+Num feasible: 109
+Evaluation on 151/200
+data/small_test_set/problem_0151.txt
+Feasible solution found, min makespan: 142.000000
+Time: -0.0608 s
+Num feasible: 110
+Evaluation on 152/200
+data/small_test_set/problem_0152.txt
+Infeasible after 2 insertions
+Time: -0.0803 s
+Num feasible: 110
+Evaluation on 153/200
+data/small_test_set/problem_0153.txt
+Feasible solution found, min makespan: 196.000000
+Time: -0.1120 s
+Num feasible: 111
+Evaluation on 154/200
+data/small_test_set/problem_0154.txt
+Feasible solution found, min makespan: 175.000000
+Time: -0.1160 s
+Num feasible: 112
+Evaluation on 155/200
+data/small_test_set/problem_0155.txt
+Feasible solution found, min makespan: 190.000000
+Time: -0.0661 s
+Num feasible: 113
+Evaluation on 156/200
+data/small_test_set/problem_0156.txt
+Feasible solution found, min makespan: 152.000000
+Time: -0.1339 s
+Num feasible: 114
+Evaluation on 157/200
+data/small_test_set/problem_0157.txt
+Feasible solution found, min makespan: 276.000000
+Time: -0.0807 s
+Num feasible: 115
+Evaluation on 158/200
+data/small_test_set/problem_0158.txt
+Feasible solution found, min makespan: 148.000000
+Time: -0.1055 s
+Num feasible: 116
+Evaluation on 159/200
+data/small_test_set/problem_0159.txt
+Infeasible after 2 insertions
+Time: -0.0544 s
+Num feasible: 116
+Evaluation on 160/200
+data/small_test_set/problem_0160.txt
+Feasible solution found, min makespan: 169.000000
+Time: -0.0640 s
+Num feasible: 117
+Evaluation on 161/200
+data/small_test_set/problem_0161.txt
+Feasible solution found, min makespan: 126.000000
+Time: -0.0582 s
+Num feasible: 118
+Evaluation on 162/200
+data/small_test_set/problem_0162.txt
+Feasible solution found, min makespan: 209.000000
+Time: -0.0683 s
+Num feasible: 119
+Evaluation on 163/200
+data/small_test_set/problem_0163.txt
+Feasible solution found, min makespan: 124.000000
+Time: -0.0616 s
+Num feasible: 120
+Evaluation on 164/200
+data/small_test_set/problem_0164.txt
+Feasible solution found, min makespan: 132.000000
+Time: -0.0670 s
+Num feasible: 121
+Evaluation on 165/200
+data/small_test_set/problem_0165.txt
+Infeasible after 3 insertions
+Time: -0.0609 s
+Num feasible: 121
+Evaluation on 166/200
+data/small_test_set/problem_0166.txt
+Time: -2.4981 s
+Num feasible: 121
+Evaluation on 167/200
+data/small_test_set/problem_0167.txt
+Infeasible after 2 insertions
+Time: -0.1061 s
+Num feasible: 121
+Evaluation on 168/200
+data/small_test_set/problem_0168.txt
+Feasible solution found, min makespan: 189.000000
+Time: -0.0797 s
+Num feasible: 122
+Evaluation on 169/200
+data/small_test_set/problem_0169.txt
+Feasible solution found, min makespan: 156.000000
+Time: -0.1773 s
+Num feasible: 123
+Evaluation on 170/200
+data/small_test_set/problem_0170.txt
+Feasible solution found, min makespan: 128.000000
+Time: -0.0832 s
+Num feasible: 124
+Evaluation on 171/200
+data/small_test_set/problem_0171.txt
+Feasible solution found, min makespan: 148.000000
+Time: -0.0723 s
+Num feasible: 125
+Evaluation on 172/200
+data/small_test_set/problem_0172.txt
+Feasible solution found, min makespan: 142.000000
+Time: -0.0879 s
+Num feasible: 126
+Evaluation on 173/200
+data/small_test_set/problem_0173.txt
+Feasible solution found, min makespan: 191.000000
+Time: -0.1143 s
+Num feasible: 127
+Evaluation on 174/200
+data/small_test_set/problem_0174.txt
+Feasible solution found, min makespan: 154.000000
+Time: -0.0844 s
+Num feasible: 128
+Evaluation on 175/200
+data/small_test_set/problem_0175.txt
+Time: -2.1584 s
+Num feasible: 128
+Evaluation on 176/200
+data/small_test_set/problem_0176.txt
+Feasible solution found, min makespan: 140.000000
+Time: -0.0617 s
+Num feasible: 129
+Evaluation on 177/200
+data/small_test_set/problem_0177.txt
+Feasible solution found, min makespan: 135.000000
+Time: -0.0566 s
+Num feasible: 130
+Evaluation on 178/200
+data/small_test_set/problem_0178.txt
+Time: -2.6667 s
+Num feasible: 130
+Evaluation on 179/200
+data/small_test_set/problem_0179.txt
+Feasible solution found, min makespan: 247.000000
+Time: -0.1337 s
+Num feasible: 131
+Evaluation on 180/200
+data/small_test_set/problem_0180.txt
+Feasible solution found, min makespan: 162.000000
+Time: -0.0856 s
+Num feasible: 132
+Evaluation on 181/200
+data/small_test_set/problem_0181.txt
+Feasible solution found, min makespan: 159.000000
+Time: -0.1137 s
+Num feasible: 133
+Evaluation on 182/200
+data/small_test_set/problem_0182.txt
+Feasible solution found, min makespan: 238.000000
+Time: -0.1245 s
+Num feasible: 134
+Evaluation on 183/200
+data/small_test_set/problem_0183.txt
+Time: -1.7755 s
+Num feasible: 134
+Evaluation on 184/200
+data/small_test_set/problem_0184.txt
+Feasible solution found, min makespan: 146.000000
+Time: -0.0601 s
+Num feasible: 135
+Evaluation on 185/200
+data/small_test_set/problem_0185.txt
+Infeasible after 2 insertions
+Time: -0.0845 s
+Num feasible: 135
+Evaluation on 186/200
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0186_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0187_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0188_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0189_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0190_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0192_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0192_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:316: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0193_wait.txt"
+  np_wait = np.loadtxt(fname + '_wait.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0197_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+/home/baltundas3/HybridNet_IROS2022/benchmark/../env/mrc_problem.py:305: UserWarning: loadtxt: Empty input file: "data/small_test_set/problem_0200_ddl.txt"
+  np_ddl = np.loadtxt(fname + '_ddl.txt', dtype=int)
+data/small_test_set/problem_0186.txt
+Feasible solution found, min makespan: 179.000000
+Time: -0.0724 s
+Num feasible: 136
+Evaluation on 187/200
+data/small_test_set/problem_0187.txt
+Feasible solution found, min makespan: 191.000000
+Time: -0.0869 s
+Num feasible: 137
+Evaluation on 188/200
+data/small_test_set/problem_0188.txt
+Feasible solution found, min makespan: 163.000000
+Time: -0.0659 s
+Num feasible: 138
+Evaluation on 189/200
+data/small_test_set/problem_0189.txt
+Feasible solution found, min makespan: 131.000000
+Time: -0.0671 s
+Num feasible: 139
+Evaluation on 190/200
+data/small_test_set/problem_0190.txt
+Time: -1.8949 s
+Num feasible: 139
+Evaluation on 191/200
+data/small_test_set/problem_0191.txt
+Feasible solution found, min makespan: 136.000000
+Time: -0.1137 s
+Num feasible: 140
+Evaluation on 192/200
+data/small_test_set/problem_0192.txt
+Feasible solution found, min makespan: 114.000000
+Time: -0.0808 s
+Num feasible: 141
+Evaluation on 193/200
+data/small_test_set/problem_0193.txt
+Feasible solution found, min makespan: 173.000000
+Time: -0.0842 s
+Num feasible: 142
+Evaluation on 194/200
+data/small_test_set/problem_0194.txt
+Time: -3.0190 s
+Num feasible: 142
+Evaluation on 195/200
+data/small_test_set/problem_0195.txt
+Feasible solution found, min makespan: 188.000000
+Time: -0.1254 s
+Num feasible: 143
+Evaluation on 196/200
+data/small_test_set/problem_0196.txt
+Time: -1.8326 s
+Num feasible: 143
+Evaluation on 197/200
+data/small_test_set/problem_0197.txt
+Feasible solution found, min makespan: 167.000000
+Time: -0.0700 s
+Num feasible: 144
+Evaluation on 198/200
+data/small_test_set/problem_0198.txt
+Time: -1.9182 s
+Num feasible: 144
+Evaluation on 199/200
+data/small_test_set/problem_0199.txt
+Feasible solution found, min makespan: 172.000000
+Time: -0.0932 s
+Num feasible: 145
+Evaluation on 200/200
+data/small_test_set/problem_0200.txt
+Feasible solution found, min makespan: 145.000000
+Time: -0.0694 s
+Num feasible: 146
+Tasks: [1502] [2005]
+Feasible solution found: 146/200
+Average time per instance:  0.4367, stdev: 0.7997
+Feasible Makespan:  177.35616438356163 , stdev:  0.0
+Total Makespan:  239.311377245509 , stdev:  0.0
+Feasible Percentage: 73.0, stdev: 0.0%

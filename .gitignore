@@ -1,0 +1,7 @@
+.vscode**
+**__pycache__**
+
+tmp/
+!tmp/final_trained_models/**
+!tmp/**test_set**
+eval/
