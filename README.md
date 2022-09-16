@@ -1,5 +1,6 @@
-# HybridNet
+# HybridNet: Learning Coordination Policies over Heterogeneous Graphs for Human-Robot Teams via Recurrent Neural Schedule Propagation
 
+The [Conference Paper link](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/d/958/files/2022/08/IROS2022_HybridNET.pdf)
 Human Robot Team Scheduling Pipeline using Graph Attention Networks for embedding generation and RNN for sequential action schedule generation for Multi-Round Scheduling
 
 ## File Structure
@@ -54,11 +55,7 @@ python generate_problems.py --folder=data/large_training_set/problems --human=2 
 
 ## Training Models
 
-```bash
-# export OMP_NUM_THREADS=1
-```
-
-## HybridNet Model
+### HybridNet Model
 To train the HybridNet model, use the `trainer.py` file with the matching arguments
 
 - `--checkpoint`: folder to store the checkpoints of the training, stores every 10 epoch of training
@@ -76,7 +73,7 @@ To train the HybridNet model, use the `trainer.py` file with the matching argume
 - `--estimator`: Boolean flag. Include in run to enable estimator use. If not set, uses the actual human task duration (sampled if `--human-noise` is set)
 - `--estimator-noise`: Boolean flag. Include in run to enable noise within the estimator. If not set, the estimator will produce mean of task-agent duration for given instance.
 
-### Deterministic Model Training for HybridNet
+#### Deterministic Model Training for HybridNet
 ```bash
 # Small Policy Gradient
 python trainer.py --checkpoint=data/small_training_set/checkpoints_hybridnet_pg --mode=pg --folder=data/small_training_set/problems --start-problem=1 --end-problem=2000 --epoch=12000 --weight-decay=5e-4 --entropy-coefficient=0.0 --infeasible-coefficient=2.0 --nn=hybridnet
@@ -88,7 +85,7 @@ python trainer.py --checkpoint=data/medium_training_set/checkpoints_hybridnet_pg
 python trainer.py --checkpoint=data/medium_training_set/checkpoints_hybridnet_pg --mode=gb --folder=data/small_training_set/problems --start-problem=1 --end-problem=2000 --epoch=12000 --weight-decay=5e-4 --entropy-coefficient=0.0 --infeasible-coefficient=2.0 --nn=hybridnet
 ```
 
-### Stochastic Model
+#### Stochastic Model
 
 ```bash
 # Small Policy Gradient
@@ -101,9 +98,9 @@ python trainer.py --checkpoint=data/medium_training_set/checkpoints_hybridnet_st
 python trainer.py --checkpoint=data/medium_training_set/checkpoints_hybridnet_stoc_pg --mode=gb --folder=data/small_training_set/problems --start-problem=1 --end-problem=2000 --epoch=12000 --weight-decay=5e-4 --entropy-coefficient=0.0 --infeasible-coefficient=2.0 --nn=hybridnet --human-noise --estimator --estimator-noise
 ```
 
-## HetGAT Model
+### HetGAT Model
 
-### Deterministic HetGAT Model Training for performance comparison
+#### Deterministic HetGAT Model Training for performance comparison
 
 ```bash
 # Small Policy Gradient
@@ -116,9 +113,9 @@ python trainer.py --checkpoint=data/medium_training_set/checkpoints_hetgat_pg --
 python trainer.py --checkpoint=data/medium_training_set/checkpoints_hetgat_pg --mode=gb --folder=data/small_training_set/problems --start-problem=1 --end-problem=2000 --epoch=12000 --weight-decay=5e-4 --entropy-coefficient=0.0 --infeasible-coefficient=2.0 --nn=hetgat
 ```
 
-## Evaluation
+### Evaluation
 
-### Evalutation of a Range of Trained Checkpoints
+#### Evalutation of a Range of Trained Checkpoints
 Used to select a trained model among the stored epochs that can perform the best.
 
 ```bash
@@ -139,9 +136,9 @@ python pg_eval.py --mode=best --nn=hybridnet --cp=data/small_training_set/checkp
 - `--repeat`: The number of repetitions for the test set to generate a performance distribution.
 
 
-## Deterministic Performance Evaluation
+### Deterministic Performance Evaluation
 
-### HybridNet Models Trained on Small Scale:
+#### HybridNet Models Trained on Small Scale:
 The following Codes generate the performance results for the Small Trained Models for Small, Medium and Large Data Scales:
 
 ```bash
@@ -173,7 +170,7 @@ python pg_eval.py --mode=best --nn=hybridnet --specific-cp=data/final_trained_mo
 python pg_eval.py --mode=best --nn=hybridnet --specific-cp=data/final_trained_models/checkpoint_hybridnet_small_gb.tar --data-folder=data/large_test_set --save-folder=data/final_trained_models/hybridnet_small_large_pg --estimator --batch-size=16 --repeat=10
 ```
 
-### HybridNet Models Trained on Medium Scale:
+#### HybridNet Models Trained on Medium Scale:
 
 The following Codes generate the performance results for the Medium Trained Models for Medium and Large Data Scales:
 
@@ -198,7 +195,7 @@ python pg_eval.py --mode=best --nn=hybridnet --specific-cp=data/final_trained_mo
 
 ```
 
-## HetGat Models Trained on Small Scale
+### HetGat Models Trained on Small Scale
 
 ```bash
 # Trained on Small, Test on Small Test Set PG 8
@@ -229,7 +226,7 @@ python pg_eval.py --mode=best --nn=hetgat --specific-cp=data/final_trained_model
 python pg_eval.py --mode=best --nn=hetgat --specific-cp=data/final_trained_models/checkpoint_hetgat_small_gb.tar --data-folder=data/large_test_set --save-folder=data/final_trained_models/hetgat_small_large_pg --batch-size=16 --repeat=10
 ```
 
-<!-- ## HetGat Models Trained on Medium Scale
+### HetGat Models Trained on Medium Scale
 
 ```bash
 # Trained on Medium, Test on Medium Test Set PG 8
@@ -250,8 +247,7 @@ python pg_eval.py --mode=best --nn=hetgat --specific-cp=data/final_trained_model
 # Trained on Medium, Test on Large Test GB 16
 python pg_eval.py --mode=best --nn=hetgat --specific-cp=data/final_trained_models/checkpoint_hetgat_medium_gb.tar --data-folder=data/large_test_set --save-folder=data/final_trained_models/hetgat_medium_large_pg --batch-size=16 --repeat=10
 
-``` -->
-
+```
 
 
 For HetGAT Models, nn argument must be set to hetgat
@@ -259,11 +255,11 @@ For HetGAT Models, nn argument must be set to hetgat
 python pg_eval.py --mode=best --nn=hetgat --specific-cp=data/final_trained_models/checkpoint_hetgat_small_pg.tar --data-folder=tmp/small_test_set --save-folder=tmp/small_test_results --batch-size=8 --repeat=10
 ```
 
-## Stochastic Performance Evaluation
+### Stochastic Performance Evaluation
 HybridNet Only
 
 
-### Stochastic HybridNet Models Trained on Small Scale:
+#### Stochastic HybridNet Models Trained on Small Scale:
 The following Codes generate the performance results for the Small Trained Models for Small, Medium and Large Data Scales:
 
 ```bash
@@ -295,7 +291,7 @@ python pg_eval.py --mode=best --nn=hybridnet --specific-cp=data/final_trained_mo
 python pg_eval.py --mode=best --nn=hybridnet --specific-cp=data/final_trained_models/checkpoint_hybridnet_small_gb.tar --data-folder=data/large_test_set --save-folder=data/final_trained_models/hybridnet_stoc_small_large_pg --batch-size=16 --repeat=10 --human-noise --estimator --estimator-noise
 ```
 
-### Stochastic HybridNet Models Trained on Medium Scale:
+#### Stochastic HybridNet Models Trained on Medium Scale:
 
 The following Codes generate the performance results for the Medium Trained Models for Medium and Large Data Scales:
 
