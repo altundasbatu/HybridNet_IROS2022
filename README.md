@@ -1,7 +1,6 @@
 # HybridNet: Learning Coordination Policies over Heterogeneous Graphs for Human-Robot Teams via Recurrent Neural Schedule Propagation
 
-The [Conference Paper link](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/d/958/files/2022/08/IROS2022_HybridNET.pdf)
-Human Robot Team Scheduling Pipeline using Graph Attention Networks for embedding generation and RNN for sequential action schedule generation for Multi-Round Scheduling
+The [Conference Paper link](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/d/958/files/2022/08/IROS2022_HybridNET.pdf) for Human Robot Team Scheduling Pipeline using Graph Attention Networks for embedding generation and RNN for sequential action schedule generation for Multi-Round Scheduling
 
 ## File Structure
 - ./requirements.yaml -- conda environment requirements
